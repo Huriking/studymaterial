@@ -1,39 +1,31 @@
-[19:05:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:05:57] [ServerMain/INFO]: Loaded 1515 recipes
-[19:05:57] [ServerMain/INFO]: Loaded 1617 advancements
-[19:05:57] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[19:05:57] [Server thread/INFO]: Loading properties
-[19:05:57] [Server thread/INFO]: Default game type: SURVIVAL
-[19:05:57] [Server thread/INFO]: Generating keypair
-[19:05:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:05:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:05:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:05:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:05:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:05:57] [Server thread/INFO]: Preparing level "world"
-[19:05:57] [Server thread/INFO]: Loading 0 persistent chunks...
-[19:05:57] [Server thread/INFO]: Preparing spawn area: 100%
-[19:05:57] [Server thread/INFO]: Time elapsed: 13 ms
-[19:05:57] [Server thread/INFO]: Done (0.242s)! For help, type "help"
-[19:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:06:40] [Server thread/INFO]: Huriking[/127.97.98.69:65221] logged in with entity id 7 at (181.20394775381325, 112.0, 241.45408247450692)
-[19:06:40] [Server thread/INFO]: Huriking joined the game
-[19:09:12] [Server thread/INFO]: Huriking lost connection: Disconnected
-[19:09:12] [Server thread/INFO]: Huriking left the game
-[19:09:21] [Server thread/INFO]: Stopping the server
-[19:09:21] [Server thread/INFO]: Stopping server
-[19:09:21] [Server thread/INFO]: Saving players
-[19:09:21] [Server thread/INFO]: Saving worlds
-[19:09:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:09:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:09:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:09:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:16:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:16:03] [ServerMain/INFO]: Loaded 1515 recipes
+[19:16:03] [ServerMain/INFO]: Loaded 1617 advancements
+[19:16:03] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:16:03] [Server thread/INFO]: Loading properties
+[19:16:03] [Server thread/INFO]: Default game type: SURVIVAL
+[19:16:03] [Server thread/INFO]: Generating keypair
+[19:16:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:16:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:16:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:16:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:16:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:16:04] [Server thread/INFO]: Preparing level "world"
+[19:16:04] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:16:04] [Server thread/INFO]: Preparing spawn area: 100%
+[19:16:04] [Server thread/INFO]: Time elapsed: 46 ms
+[19:16:04] [Server thread/INFO]: Done (0.526s)! For help, type "help"
+[19:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:17:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:17:43] [Server thread/INFO]: blankslope[/127.0.0.1:54441] logged in with entity id 58 at (-178.82172660639438, 114.0, 4.453510104969596)
+[19:17:43] [Server thread/INFO]: blankslope joined the game
+[19:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[19:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
+[19:18:35] [Server thread/INFO]: blankslope lost connection: Disconnected
+[19:18:35] [Server thread/INFO]: blankslope left the game
