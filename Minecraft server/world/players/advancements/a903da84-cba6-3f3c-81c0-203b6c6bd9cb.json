@@ -38,6 +38,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2026-04-15 19:10:26 +0530",
+      "bread": "2026-04-16 21:03:58 +0530",
       "cooked_mutton": "2026-04-15 18:32:12 +0530",
       "carrot": "2026-04-15 17:53:10 +0530"
     },
@@ -748,6 +749,54 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2026-04-16 00:41:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-04-16 20:07:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/golden_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-04-16 20:07:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-04-16 20:07:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-04-16 20:09:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2026-04-16 21:03:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2026-04-16 21:03:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2026-04-16 21:03:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-04-16 21:02:01 +0530"
     },
     "done": true
   },

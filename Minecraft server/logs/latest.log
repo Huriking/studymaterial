@@ -1,31 +1,272 @@
-[19:16:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:16:03] [ServerMain/INFO]: Loaded 1515 recipes
-[19:16:03] [ServerMain/INFO]: Loaded 1617 advancements
-[19:16:03] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[19:16:03] [Server thread/INFO]: Loading properties
-[19:16:03] [Server thread/INFO]: Default game type: SURVIVAL
-[19:16:03] [Server thread/INFO]: Generating keypair
-[19:16:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:16:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:16:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:16:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:16:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:16:04] [Server thread/INFO]: Preparing level "world"
-[19:16:04] [Server thread/INFO]: Loading 0 persistent chunks...
-[19:16:04] [Server thread/INFO]: Preparing spawn area: 100%
-[19:16:04] [Server thread/INFO]: Time elapsed: 46 ms
-[19:16:04] [Server thread/INFO]: Done (0.526s)! For help, type "help"
-[19:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:16:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:17:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:17:43] [Server thread/INFO]: blankslope[/127.0.0.1:54441] logged in with entity id 58 at (-178.82172660639438, 114.0, 4.453510104969596)
-[19:17:43] [Server thread/INFO]: blankslope joined the game
-[19:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
-[19:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
-[19:18:35] [Server thread/INFO]: blankslope lost connection: Disconnected
-[19:18:35] [Server thread/INFO]: blankslope left the game
+[19:36:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:36:54] [ServerMain/INFO]: Loaded 1515 recipes
+[19:36:54] [ServerMain/INFO]: Loaded 1617 advancements
+[19:36:54] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:36:54] [Server thread/INFO]: Loading properties
+[19:36:54] [Server thread/INFO]: Default game type: SURVIVAL
+[19:36:54] [Server thread/INFO]: Generating keypair
+[19:36:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:36:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:36:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:36:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:36:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:36:54] [Server thread/INFO]: Preparing level "world"
+[19:36:55] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:36:55] [Server thread/INFO]: Preparing spawn area: 100%
+[19:36:55] [Server thread/INFO]: Time elapsed: 58 ms
+[19:36:55] [Server thread/INFO]: Done (0.306s)! For help, type "help"
+[19:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:36:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:36:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:36:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:36:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:37:12] [Server thread/INFO]: blankslope[/127.136.94.166:14156] logged in with entity id 60 at (-182.30211227166444, 113.0, 10.925895995870052)
+[19:37:12] [Server thread/INFO]: blankslope joined the game
+[19:37:38] [Server thread/INFO]: SamWise[/127.159.98.82:14160] logged in with entity id 224 at (-188.46275247802788, 95.0, 5.699999988079071)
+[19:37:38] [Server thread/INFO]: SamWise joined the game
+[19:37:42] [Server thread/INFO]: XFighter009[/127.99.221.180:14162] logged in with entity id 225 at (-177.8351515801646, 104.0, 82.47509505482451)
+[19:37:42] [Server thread/INFO]: XFighter009 joined the game
+[19:39:03] [Server thread/INFO]: [Not Secure] <XFighter009> yooo
+[19:39:17] [Server thread/INFO]: [Not Secure] <blankslope> change your house first
+[19:39:45] [Server thread/INFO]: [Not Secure] <blankslope> hello senpai
+[19:40:27] [Server thread/INFO]: [Not Secure] <SamWise> wear armor
+[19:40:44] [Server thread/INFO]: [Not Secure] <blankslope> yes sir
+[19:41:04] [Server thread/INFO]: Huriking[/127.97.98.69:14205] logged in with entity id 735 at (-178.6526191637839, 114.0, -0.47389858385082473)
+[19:41:04] [Server thread/INFO]: Huriking joined the game
+[19:41:47] [Server thread/INFO]: [Not Secure] <blankslope> cmd pe updates nhi aa rhe
+[19:42:34] [Server thread/INFO]: [Not Secure] <XFighter009> khana de na
+[19:42:36] [Server thread/INFO]: [Not Secure] <Huriking> mene host kiya hai na isliye
+[19:42:39] [Server thread/INFO]: [Not Secure] <XFighter009> jaosh
+[19:42:42] [Server thread/INFO]: [Not Secure] <XFighter009> joash
+[19:42:58] [Server thread/INFO]: [Not Secure] <blankslope> ok so mein close kr rha sb
+[19:43:01] [Server thread/INFO]: [Not Secure] <blankslope> cmd sb
+[19:43:07] [Server thread/INFO]: [Not Secure] <blankslope> chlega na
+[19:43:09] [Server thread/INFO]: [Not Secure] <Huriking> ha
+[19:43:14] [Server thread/INFO]: [Not Secure] <blankslope> ok cool
+[19:43:17] [Server thread/INFO]: [Not Secure] <blankslope> lessgooo
+[19:43:53] [Server thread/INFO]: [Not Secure] <blankslope> bol benzil
+[19:44:12] [Server thread/INFO]: [Not Secure] <XFighter009> khanaa
+[19:44:20] [Server thread/INFO]: [Not Secure] <blankslope> chahiye?
+[19:44:23] [Server thread/INFO]: [Not Secure] <XFighter009> yes
+[19:44:43] [Server thread/INFO]: [Not Secure] <blankslope> laata mein
+[19:47:49] [Server thread/INFO]: [Not Secure] <Huriking> guys discord?
+[19:47:50] [Server thread/INFO]: [Not Secure] <blankslope> help
+[19:47:55] [Server thread/INFO]: [Not Secure] <blankslope> dying
+[19:48:36] [Server thread/INFO]: blankslope froze to death
+[19:48:53] [Server thread/INFO]: [Not Secure] <blankslope> i died lost evrything
+[19:49:18] [Server thread/INFO]: [Not Secure] <blankslope> sleep pls
+[19:49:31] [Server thread/INFO]: [Not Secure] <Huriking> sleep
+[19:49:41] [Server thread/INFO]: [Not Secure] <XFighter009> froze?
+[19:49:44] [Server thread/INFO]: [Not Secure] <Huriking> offline jao ek sec jo soo nahi pa raha
+[19:49:56] [Server thread/INFO]: [Not Secure] <XFighter009> sameep
+[19:50:14] [Server thread/INFO]: shikamaru2o[/127.146.41.51:15153] logged in with entity id 3863 at (1.5, 126.0, 6.5)
+[19:50:14] [Server thread/INFO]: shikamaru2o joined the game
+[19:50:23] [Server thread/INFO]: [Not Secure] <Huriking> offline ja ek min
+[19:50:31] [Server thread/INFO]: [Not Secure] <XFighter009> joel and sameeo
+[19:50:34] [Server thread/INFO]: [Not Secure] <Huriking> day ko bulate hai tujhe
+[19:50:36] [Server thread/INFO]: [Not Secure] <XFighter009> ek sec offline jao
+[19:52:27] [Server thread/INFO]: shikamaru2o has made the advancement [Sweet Dreams]
+[19:52:31] [Server thread/INFO]: [Not Secure] <blankslope> chat wht y'all doing
+[19:52:35] [Server thread/INFO]: XFighter009 hit the ground too hard
+[19:52:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> niggas
+[19:53:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> joash mein tere baju mein soya hu
+[19:53:17] [Server thread/INFO]: [Not Secure] <blankslope> fuck nooooo
+[19:54:01] [Server thread/INFO]: SamWise lost connection: Disconnected
+[19:54:01] [Server thread/INFO]: SamWise left the game
+[19:54:14] [Server thread/INFO]: SamWise[/127.159.98.82:15363] logged in with entity id 4955 at (-226.7320711078051, 20.0, 29.899713719934827)
+[19:54:14] [Server thread/INFO]: SamWise joined the game
+[19:54:29] [Server thread/INFO]: blankslope was slain by shikamaru2o
+[19:55:19] [Server thread/INFO]: shikamaru2o was slain by blankslope
+[19:55:40] [Server thread/INFO]: [Not Secure] <blankslope> mhmm u wanna mess with me
+[19:56:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> sorry bro
+[19:56:48] [Server thread/INFO]: blankslope was shot by Skeleton
+[19:57:07] [Server thread/INFO]: [Not Secure] <blankslope> senpai i lost everything
+[19:57:57] [Server thread/INFO]: shikamaru2o has made the advancement [Getting an Upgrade]
+[19:58:56] [Server thread/INFO]: shikamaru2o has made the advancement [A Seedy Place]
+[20:00:01] [Server thread/INFO]: [Not Secure] <blankslope> fuck u
+[20:00:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> SORRY
+[20:03:07] [Server thread/INFO]: [Not Secure] <blankslope> senpai where you at
+[20:03:16] [Server thread/INFO]: [Not Secure] <Huriking> discord me aa na
+[20:04:46] [Server thread/INFO]: [Not Secure] <Huriking> sleep
+[20:04:49] [Server thread/INFO]: blankslope lost connection: Disconnected
+[20:04:49] [Server thread/INFO]: blankslope left the game
+[20:04:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> sleepingg
+[20:05:02] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:05:02] [Server thread/INFO]: SamWise left the game
+[20:05:10] [Server thread/INFO]: SamWise[/127.159.98.82:16415] logged in with entity id 8910 at (-215.68926414143718, 48.0, 41.324127997456415)
+[20:05:10] [Server thread/INFO]: SamWise joined the game
+[20:05:54] [Server thread/INFO]: shikamaru2o has made the advancement [Stone Age]
+[20:07:47] [Server thread/INFO]: blankslope[/127.136.94.166:16432] logged in with entity id 9747 at (-216.30000001192093, 44.0, 42.18414087540905)
+[20:07:47] [Server thread/INFO]: blankslope joined the game
+[20:08:08] [Server thread/INFO]: shikamaru2o has made the advancement [Monster Hunter]
+[20:08:41] [Server thread/INFO]: [Not Secure] <XFighter009> bucket hai?
+[20:09:04] [Server thread/INFO]: Huriking has made the advancement [A Seedy Place]
+[20:09:12] [Server thread/INFO]: [Not Secure] <XFighter009> hahah
+[20:10:17] [Server thread/INFO]: [Not Secure] <XFighter009> saleeee ruk mar mat\
+[20:10:38] [Server thread/INFO]: QuickySherw[/127.194.241.47:16458] logged in with entity id 10814 at (-65.9159708536497, 129.0, 41.06755559907652)
+[20:10:38] [Server thread/INFO]: QuickySherw joined the game
+[20:12:13] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[20:12:13] [Server thread/INFO]: XFighter009 left the game
+[20:12:57] [Server thread/INFO]: QuickySherw was speared by shikamaru2o
+[20:15:25] [Server thread/INFO]: QuickySherw has made the advancement [Sweet Dreams]
+[20:15:51] [Server thread/INFO]: [Not Secure] <QuickySherw> yeah
+[20:15:52] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:15:52] [Server thread/INFO]: SamWise left the game
+[20:15:54] [Server thread/INFO]: blankslope lost connection: Disconnected
+[20:15:54] [Server thread/INFO]: blankslope left the game
+[20:16:07] [Server thread/INFO]: SamWise[/127.159.98.82:17136] logged in with entity id 12714 at (187.30793631987453, 112.0, 243.86544628112455)
+[20:16:07] [Server thread/INFO]: SamWise joined the game
+[20:16:09] [Server thread/INFO]: blankslope[/127.136.94.166:17138] logged in with entity id 12725 at (-198.30000001192093, 8.0, 12.439525351398572)
+[20:16:09] [Server thread/INFO]: blankslope joined the game
+[20:24:01] [Server thread/INFO]: [Not Secure] <blankslope> im lost in the mine
+[20:24:20] [Server thread/INFO]: [Not Secure] <blankslope> only one
+[20:25:28] [Server thread/INFO]: [Not Secure] <blankslope> my saviour
+[20:27:12] [Server thread/INFO]: blankslope lost connection: Disconnected
+[20:27:12] [Server thread/INFO]: blankslope left the game
+[20:27:25] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:27:25] [Server thread/INFO]: SamWise left the game
+[20:27:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> sherwin disconnect
+[20:27:55] [Server thread/INFO]: QuickySherw lost connection: Disconnected
+[20:27:55] [Server thread/INFO]: QuickySherw left the game
+[20:28:00] [Server thread/INFO]: SamWise[/127.159.98.82:64629] logged in with entity id 16765 at (-191.69999998807907, 14.0, 19.835962951753338)
+[20:28:00] [Server thread/INFO]: SamWise joined the game
+[20:28:06] [Server thread/INFO]: QuickySherw[/127.194.241.47:64631] logged in with entity id 16795 at (-185.10605785852408, 101.0, 46.10928377650076)
+[20:28:06] [Server thread/INFO]: QuickySherw joined the game
+[20:28:07] [Server thread/INFO]: blankslope[/127.136.94.166:64633] logged in with entity id 16806 at (-235.03231881921832, 17.0, 42.30000001192093)
+[20:28:07] [Server thread/INFO]: blankslope joined the game
+[20:28:16] [Server thread/INFO]: Incorrect argument for command
+[20:28:16] [Server thread/INFO]: gamerule playersSleepingPercentage 1<--[HERE]
+[20:28:33] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:28:33] [Server thread/INFO]: SamWise left the game
+[20:29:16] [Server thread/INFO]: QuickySherw has made the advancement [Monster Hunter]
+[20:29:49] [Server thread/INFO]: Incorrect argument for command
+[20:29:49] [Server thread/INFO]: gamerule playersSleepingPercentage 1<--[HERE]
+[20:29:53] [Server thread/INFO]: QuickySherw was blown up by Creeper
+[20:30:30] [Server thread/INFO]: SamWise[/127.159.98.82:64673] logged in with entity id 17491 at (-206.15254180336646, 14.0, 12.590069597185208)
+[20:30:30] [Server thread/INFO]: SamWise joined the game
+[20:30:56] [Server thread/INFO]: [Not Secure] <blankslope> coal
+[20:31:08] [Server thread/INFO]: Incorrect argument for command
+[20:31:08] [Server thread/INFO]: gamerule playersSleepingPercentage 1<--[HERE]
+[20:33:47] [Server thread/INFO]: QuickySherw lost connection: Disconnected
+[20:33:47] [Server thread/INFO]: QuickySherw left the game
+[20:34:33] [Server thread/INFO]: Server version info:
+[20:34:33] [Server thread/INFO]: id = 26.1.2
+[20:34:33] [Server thread/INFO]: name = 26.1.2
+[20:34:33] [Server thread/INFO]: data = 4790
+[20:34:33] [Server thread/INFO]: series = main
+[20:34:33] [Server thread/INFO]: protocol = 775 (0x307)
+[20:34:33] [Server thread/INFO]: build_time = Thu Apr 09 15:41:03 IST 2026
+[20:34:33] [Server thread/INFO]: pack_resource = 84.0
+[20:34:33] [Server thread/INFO]: pack_data = 101.1
+[20:34:33] [Server thread/INFO]: stable = yes
+[20:35:29] [Server thread/INFO]: Incorrect argument for command
+[20:35:29] [Server thread/INFO]: gamerule playersSleepingPercentage<--[HERE]
+[20:36:07] [Server thread/INFO]: Incorrect argument for command
+[20:36:07] [Server thread/INFO]: gamerule playersSleepingPercentage<--[HERE]
+[20:36:47] [Server thread/INFO]: [Not Secure] <blankslope> food pls
+[20:37:07] [Server thread/INFO]: [Not Secure] <blankslope> low health
+[20:38:03] [Server thread/INFO]: Incorrect argument for command
+[20:38:03] [Server thread/INFO]: gamerule playersSleepingPercentage 5<--[HERE]
+[20:38:18] [Server thread/INFO]: [Not Secure] <blankslope> food
+[20:39:11] [Server thread/INFO]: blankslope lost connection: Disconnected
+[20:39:11] [Server thread/INFO]: blankslope left the game
+[20:39:23] [Server thread/INFO]: Incorrect argument for command
+[20:39:23] [Server thread/INFO]: ...me set day <--[HERE]
+[20:39:26] [Server thread/INFO]: Incorrect argument for command
+[20:39:26] [Server thread/INFO]: ...me set day <--[HERE]
+[20:39:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> dc please raat hai
+[20:39:31] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:39:58] [Server thread/INFO]: blankslope[/127.136.94.166:1707] logged in with entity id 20117 at (-168.75873595170503, -24.0, 56.293142013933675)
+[20:39:58] [Server thread/INFO]: blankslope joined the game
+[20:41:15] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:41:15] [Server thread/INFO]: SamWise left the game
+[20:41:31] [Server thread/INFO]: blankslope was slain by Cave Spider
+[20:41:48] [Server thread/INFO]: [Not Secure] <blankslope> fuuucccckcc
+[20:41:49] [Server thread/INFO]: SamWise[/127.159.98.82:1742] logged in with entity id 20639 at (-170.69999998807907, -24.640055553766977, 52.69999998807907)
+[20:41:49] [Server thread/INFO]: SamWise joined the game
+[20:42:04] [Server thread/INFO]: [Not Secure] <blankslope> retrieve?
+[20:42:25] [Server thread/INFO]: Incorrect argument for command
+[20:42:25] [Server thread/INFO]: gamerule playerSleepingPercentage 1<--[HERE]
+[20:42:32] [Server thread/INFO]: Incorrect argument for command
+[20:42:32] [Server thread/INFO]: gamerule <--[HERE]
+[20:44:25] [Server thread/INFO]: SamWise has made the advancement [Diamonds!]
+[20:47:18] [Server thread/INFO]: [Not Secure] <blankslope> where you at
+[20:47:40] [Server thread/INFO]: [Not Secure] <blankslope> u got my stuff?
+[20:48:40] [Server thread/INFO]: blankslope has made the advancement [Diamonds!]
+[20:49:08] [Server thread/INFO]: [Not Secure] <blankslope> ok
+[20:52:04] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:52:39] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:52:39] [Server thread/INFO]: SamWise left the game
+[20:53:33] [Server thread/INFO]: SamWise[/127.159.98.82:3004] logged in with entity id 24104 at (-128.55442989960082, -26.0, 52.16184963775658)
+[20:53:33] [Server thread/INFO]: SamWise joined the game
+[20:56:31] [Server thread/INFO]: [Not Secure] <blankslope> yes sir
+[20:58:14] [Server thread/INFO]: SamWise has made the advancement [Sneak 100]
+[20:59:36] [Server thread/INFO]: XFighter009[/127.99.221.180:3045] logged in with entity id 26007 at (-178.0831547996835, 114.5625, 4.730524652242988)
+[20:59:36] [Server thread/INFO]: XFighter009 joined the game
+[21:02:01] [Server thread/INFO]: XFighter009 has made the advancement [A Seedy Place]
+[21:02:06] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:02:15] [Server thread/INFO]: [Not Secure] <XFighter009> day kaise hua?
+[21:02:32] [Server thread/INFO]: [Not Secure] <Huriking> thank me
+[21:02:37] [Server thread/INFO]: [Not Secure] <XFighter009> hein
+[21:02:43] [Server thread/INFO]: [Not Secure] <XFighter009> creative?
+[21:07:16] [Server thread/INFO]: [Not Secure] <blankslope> happy happy happy
+[21:07:38] [Server thread/INFO]: [Not Secure] <XFighter009> yoo sam i am making a farm
+[21:07:55] [Server thread/INFO]: [Not Secure] <XFighter009> see board
+[21:09:05] [Server thread/INFO]: [Not Secure] <blankslope> kaise bnaya farm
+[21:09:23] [Server thread/INFO]: [Not Secure] <XFighter009> puchra seriously ki masti
+[21:09:29] [Server thread/INFO]: [Not Secure] <blankslope> sacchi
+[21:09:57] [Server thread/INFO]: [Not Secure] <XFighter009> phele water source fir hoe se plogue fir seeds dala
+[21:10:05] [Server thread/INFO]: [Not Secure] <Huriking> mere idhar aa
+[21:10:27] [Server thread/INFO]: [Not Secure] <blankslope> epstein islan
+[21:11:19] [Server thread/INFO]: [Not Secure] <XFighter009> saleee
+[21:11:27] [Server thread/INFO]: [Not Secure] <XFighter009> right click
+[21:11:37] [Server thread/INFO]: [Not Secure] <XFighter009> near water source
+[21:12:01] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:12:09] [Server thread/INFO]: [Not Secure] <XFighter009> heinnnn subhee kaise
+[21:12:32] [Server thread/INFO]: blankslope was speared by shikamaru2o
+[21:12:56] [Server thread/INFO]: SamWise lost connection: Disconnected
+[21:12:56] [Server thread/INFO]: SamWise left the game
+[21:13:35] [Server thread/INFO]: [Not Secure] <XFighter009> gime hoe
+[21:17:07] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-119, y=99, z=44} BlockPos{x=-119, y=97, z=43}
+[21:17:07] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-119, y=99, z=44} BlockPos{x=-119, y=97, z=43}
+[21:19:03] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[21:19:03] [Server thread/INFO]: XFighter009 left the game
+[21:20:02] [Server thread/INFO]: [Not Secure] <blankslope> coal
+[21:20:17] [Server thread/INFO]: [Not Secure] <blankslope> nhi hai
+[21:22:16] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:22:58] [Server thread/INFO]: [Not Secure] <blankslope> coal hai idhr aaja
+[21:24:54] [Server thread/INFO]: [Not Secure] <blankslope> wht
+[21:25:05] [Server thread/INFO]: [Not Secure] <blankslope> no
+[21:28:43] [Server thread/INFO]: shikamaru2o has made the advancement [Acquire Hardware]
+[21:30:53] [Server thread/INFO]: blankslope lost connection: Disconnected
+[21:30:53] [Server thread/INFO]: blankslope left the game
+[21:31:57] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:34:43] [Server thread/INFO]: joash[/127.136.94.166:32137] logged in with entity id 36963 at (0.5, 129.0, -2.5)
+[21:34:43] [Server thread/INFO]: joash joined the game
+[21:34:59] [Server thread/INFO]: [Not Secure] <Huriking> who?
+[21:35:10] [Server thread/INFO]: [Not Secure] <joash> joash
+[21:35:21] [Server thread/INFO]: [Not Secure] <Huriking> name maat change kar pura inventory chala jayega
+[21:35:28] [Server thread/INFO]: joash lost connection: Disconnected
+[21:35:28] [Server thread/INFO]: joash left the game
+[21:37:15] [Server thread/INFO]: blankslope[/127.136.94.166:32644] logged in with entity id 37853 at (-154.1364005952633, 103.0, 17.108732139748497)
+[21:37:15] [Server thread/INFO]: blankslope joined the game
+[21:37:53] [Server thread/INFO]: [Not Secure] <Huriking> tu host kar
+[21:37:57] [Server thread/INFO]: [Not Secure] <Huriking> me band kar raha hu
+[21:38:22] [Server thread/INFO]: [Not Secure] <Huriking> mujhe push karne de, phir vo studymaterial ka folder pe cmd open kar aur pull kar
+[21:38:54] [Server thread/INFO]: Huriking lost connection: Disconnected
+[21:38:54] [Server thread/INFO]: Huriking left the game
+[21:39:01] [Server thread/INFO]: Stopping the server
+[21:39:01] [Server thread/INFO]: Stopping server
+[21:39:01] [Server thread/INFO]: Saving players
+[21:39:02] [Server thread/INFO]: shikamaru2o lost connection: Server closed
+[21:39:02] [Server thread/INFO]: shikamaru2o left the game
+[21:39:02] [Server thread/INFO]: Saving worlds
+[21:39:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:39:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:39:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:39:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:39:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

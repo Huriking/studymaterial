@@ -1,27 +1,77 @@
 {
   "stats": {
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    },
     "minecraft:killed_by": {
-      "minecraft:player": 1
+      "minecraft:player": 2,
+      "minecraft:creeper": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 5401,
-      "minecraft:walk_one_cm": 24440,
-      "minecraft:leave_game": 1,
+      "minecraft:interact_with_crafting_table": 12,
+      "minecraft:time_since_rest": 4691,
+      "minecraft:walk_one_cm": 107548,
+      "minecraft:leave_game": 3,
       "minecraft:walk_under_water_one_cm": 2952,
-      "minecraft:damage_taken": 260,
-      "minecraft:play_time": 7626,
-      "minecraft:damage_dealt": 139,
-      "minecraft:jump": 88,
-      "minecraft:time_since_death": 5365,
-      "minecraft:sprint_one_cm": 7135,
-      "minecraft:fall_one_cm": 1643,
-      "minecraft:total_world_time": 7626,
-      "minecraft:fly_one_cm": 4473,
-      "minecraft:walk_on_water_one_cm": 4994,
-      "minecraft:crouch_one_cm": 687,
-      "minecraft:sneak_time": 227,
-      "minecraft:deaths": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 819,
+      "minecraft:play_time": 35177,
+      "minecraft:damage_dealt": 304,
+      "minecraft:jump": 279,
+      "minecraft:time_since_death": 4601,
+      "minecraft:sprint_one_cm": 78835,
+      "minecraft:open_chest": 5,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:fall_one_cm": 5824,
+      "minecraft:total_world_time": 35177,
+      "minecraft:fly_one_cm": 16235,
+      "minecraft:walk_on_water_one_cm": 5014,
+      "minecraft:crouch_one_cm": 2476,
+      "minecraft:sneak_time": 747,
+      "minecraft:deaths": 3,
       "minecraft:player_kills": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 121,
+      "minecraft:wooden_axe": 1,
+      "minecraft:oak_fence": 1,
+      "minecraft:wooden_sword": 1,
+      "minecraft:cherry_sapling": 1,
+      "minecraft:cherry_slab": 3,
+      "minecraft:crafting_table": 2,
+      "minecraft:cornflower": 1,
+      "minecraft:cherry_log": 25,
+      "minecraft:beef": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:wooden_sword": 1,
+      "minecraft:cherry_planks": 100,
+      "minecraft:chest": 1,
+      "minecraft:spruce_planks": 8,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 5,
+      "minecraft:cherry_log": 29,
+      "minecraft:cherry_leaves": 2,
+      "minecraft:cherry_slab": 2,
+      "minecraft:crafting_table": 2,
+      "minecraft:grass_block": 1,
+      "minecraft:oak_fence": 1
+    },
+    "minecraft:used": {
+      "minecraft:oak_fence": 1,
+      "minecraft:wooden_axe": 27,
+      "minecraft:crafting_table": 3,
+      "minecraft:chest": 1,
+      "minecraft:cherry_slab": 3,
+      "minecraft:wooden_sword": 16,
+      "minecraft:beef": 2,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:dirt": 8
     }
   },
   "DataVersion": 4790
