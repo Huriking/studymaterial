@@ -94,6 +94,7 @@
     "criteria": {
       "cooked_porkchop": "2026-04-15 11:15:02 +0530",
       "bread": "2026-04-15 11:23:15 +0530",
+      "cooked_mutton": "2026-04-17 21:32:32 +0530",
       "potato": "2026-04-17 10:52:18 +0530",
       "cooked_beef": "2026-04-17 19:23:22 +0530",
       "baked_potato": "2026-04-15 17:21:16 +0530"
@@ -797,7 +798,8 @@
       "minecraft:skeleton": "2026-04-17 15:28:04 +0530",
       "minecraft:spider": "2026-04-15 16:59:12 +0530",
       "minecraft:zombie": "2026-04-15 16:42:23 +0530",
-      "minecraft:creeper": "2026-04-17 19:29:25 +0530"
+      "minecraft:creeper": "2026-04-17 19:29:25 +0530",
+      "minecraft:zombie_villager": "2026-04-17 21:22:00 +0530"
     },
     "done": false
   },
@@ -2346,6 +2348,72 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2026-04-17 19:49:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2026-04-17 21:52:50 +0530"
     },
     "done": true
   },

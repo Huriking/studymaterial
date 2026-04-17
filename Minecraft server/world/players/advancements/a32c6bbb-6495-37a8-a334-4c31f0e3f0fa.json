@@ -545,6 +545,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2026-04-17 22:08:42 +0530",
       "minecraft:skeleton": "2026-04-17 00:02:32 +0530",
       "minecraft:enderman": "2026-04-17 12:28:02 +0530",
       "minecraft:witch": "2026-04-17 15:53:59 +0530",
@@ -2243,6 +2244,30 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2026-04-17 15:54:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-04-17 22:08:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-04-17 22:29:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-04-17 23:24:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-04-18 00:03:43 +0530"
     },
     "done": true
   },
