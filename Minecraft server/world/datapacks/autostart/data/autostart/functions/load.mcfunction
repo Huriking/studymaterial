@@ -1,0 +1,1 @@
+gamerule players_sleeping_percentage 1

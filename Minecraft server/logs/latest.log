@@ -1,850 +1,475 @@
-[00:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
-[00:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10061ms or 201 ticks behind
-[00:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15595ms or 311 ticks behind
-[00:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15636ms or 312 ticks behind
-[00:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11400ms or 228 ticks behind
-[00:02:27] [Server thread/INFO]: SamWise was blown up by Creeper
-[00:02:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> what happened
-[00:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[00:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7123ms or 142 ticks behind
-[00:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[00:03:55] [Server thread/WARN]: SamWise moved too quickly! 1.5315915544470613,-3.8315999820470807,9.177179606224854
-[00:03:56] [Server thread/WARN]: SamWise moved too quickly! 1.5097190312150985,-4.2173593554766455,9.009003478902343
-[00:03:56] [Server thread/WARN]: SamWise moved too quickly! 1.5152087327608683,-3.9868319865636863,9.047041090058201
-[00:04:08] [Server thread/WARN]: SamWise moved too quickly! 1.7281544615433688,-1.7967356006687112,9.776963081003657
-[00:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24078ms or 481 ticks behind
-[00:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14133ms or 282 ticks behind
-[00:04:57] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.149622273296814,-2.0,3.938482597749953
-[00:04:57] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.591219127843544,-2.0,4.138854423198552
-[00:04:57] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 10.033689747794199,-2.0,4.3386014277576805
-[00:04:57] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.151695794154477,-2.0,3.93831460221071
-[00:04:57] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.15195627766218,-2.0,3.9381283330632186
-[00:04:57] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.59530668109818,-2.0,4.137246213263211
-[00:05:06] [Server thread/INFO]: SamWise suffocated in a wall
-[00:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14570ms or 291 ticks behind
-[00:05:27] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[00:05:27] [Server thread/INFO]: shikamaru2o left the game
-[00:05:30] [Server thread/INFO]: [Not Secure] <blankslope> nooooo
-[00:05:39] [Server thread/INFO]: [Not Secure] <blankslope> thts my horse
-[00:06:01] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[00:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[00:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[00:08:24] [Server thread/INFO]: XFighter009 fell off a ladder
-[00:09:32] [Server thread/INFO]: [Not Secure] <SamWise> there ius god
-[00:10:47] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[00:10:47] [Server thread/INFO]: XFighter009 left the game
-[00:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[00:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
-[00:11:51] [Server thread/INFO]: SamWise has made the advancement [What a Deal!]
-[00:11:55] [Server thread/INFO]: XFighter009[/127.244.61.85:54569] logged in with entity id 52430 at (-139.4593577537414, 105.0, 14.395954135700604)
-[00:11:55] [Server thread/INFO]: XFighter009 joined the game
-[00:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[00:12:39] [Server thread/INFO]: [Not Secure] <XFighter009> stone
-[00:12:53] [Server thread/INFO]: [Not Secure] <XFighter009> stones dena
-[00:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[00:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[00:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5414ms or 108 ticks behind
-[00:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5871ms or 117 ticks behind
-[00:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[00:15:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5915ms or 118 ticks behind
-[00:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
-[00:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:16:28] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[00:16:46] [Server thread/INFO]: shikamaru2o[/127.146.41.51:57459] logged in with entity id 53893 at (834.2685216724337, 64.0, 470.12283714549636)
-[00:16:46] [Server thread/INFO]: shikamaru2o joined the game
-[00:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18241ms or 364 ticks behind
-[00:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27885ms or 557 ticks behind
-[00:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16950ms or 339 ticks behind
-[00:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
-[00:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4823ms or 96 ticks behind
-[00:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[00:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
-[00:20:10] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[00:20:10] [Server thread/INFO]: shikamaru2o left the game
-[00:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
-[00:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4250ms or 85 ticks behind
-[00:21:36] [Server thread/INFO]: [Not Secure] <blankslope> meine vo trader ka cattle le liya
-[00:21:42] [Server thread/INFO]: [Not Secure] <blankslope> usko murder krke
-[00:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
-[00:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
-[00:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
-[00:24:35] [Server thread/INFO]: XFighter009 was blown up by Creeper
-[00:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[00:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:26:28] [Server thread/INFO]: [Not Secure] <SamWise> joash im sorry
-[00:26:33] [Server thread/INFO]: [Not Secure] <SamWise> bruffles is lost
-[00:27:33] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[00:27:45] [Server thread/INFO]: [Not Secure] <blankslope> meko bhi ek dog
-[00:29:25] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[00:29:25] [Server thread/INFO]: XFighter009 left the game
-[00:36:52] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[00:38:23] [Server thread/INFO]: [Not Secure] <blankslope> you have oak?
-[00:42:55] [Server thread/INFO]: [Not Secure] <blankslope> help me chop oak
-[00:46:24] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[00:52:47] [Server thread/INFO]: [Not Secure] <SamWise> joash u have 1 iron?
-[00:52:52] [Server thread/INFO]: [Not Secure] <blankslope> no
-[00:55:44] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[01:03:04] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[01:05:09] [Server thread/INFO]: [Not Secure] <SamWise> joash
-[01:05:11] [Server thread/INFO]: [Not Secure] <SamWise> ye le
-[01:05:19] [Server thread/INFO]: [Not Secure] <SamWise> for bruffles
-[01:05:23] [Server thread/INFO]: [Not Secure] <blankslope> wht
-[01:05:37] [Server thread/INFO]: [Not Secure] <blankslope> i cant get down
-[01:05:49] [Server thread/INFO]: [Not Secure] <blankslope> pls builda ladder using dirt
-[01:05:52] [Server thread/INFO]: [Not Secure] <SamWise> jump o this dirt block
-[01:06:16] [Server thread/INFO]: [Not Secure] <blankslope> wht is it
-[01:06:25] [Server thread/INFO]: [Not Secure] <SamWise> armor
-[01:06:30] [Server thread/INFO]: [Not Secure] <SamWise> for bruffles
-[01:06:30] [Server thread/INFO]: [Not Secure] <blankslope> nice tnx
-[01:06:42] [Server thread/INFO]: [Not Secure] <SamWise> sit on him,
-[01:06:46] [Server thread/INFO]: [Not Secure] <SamWise> e and put it on
-[01:07:00] [Server thread/INFO]: [Not Secure] <blankslope> where the other two
-[01:07:05] [Server thread/INFO]: [Not Secure] <SamWise> idk
-[01:07:57] [Server thread/INFO]: [Not Secure] <blankslope> they looked good
-[01:08:15] [Server thread/INFO]: [Not Secure] <blankslope> food
-[01:10:01] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[01:15:24] [Server thread/INFO]: blankslope fell off a ladder
-[01:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[01:22:24] [Server thread/INFO]: [Not Secure] <blankslope> im lost
-[01:24:26] [Server thread/INFO]: [Not Secure] <SamWise> follow
-[01:26:50] [Server thread/INFO]: [Not Secure] <SamWise> foolow closely
-[01:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[01:27:24] [Server thread/INFO]: [Not Secure] <SamWise> swim up
-[01:27:52] [Server thread/INFO]: [Not Secure] <SamWise> come one ground its faster
-[01:29:52] [Server thread/INFO]: [Not Secure] <blankslope> whos tht
-[01:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[01:35:27] [Server thread/WARN]: SamWise moved too quickly! 2.1487502134734626,0.49520087700592796,9.783537407008765
-[01:35:34] [Server thread/WARN]: SamWise moved too quickly! 8.230663538384292,-2.130906499714527,5.872277483934283
-[01:35:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22245ms or 444 ticks behind
-[01:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19995ms or 399 ticks behind
-[01:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[01:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01:38:03] [Server thread/INFO]: SamWise lost connection: Disconnected
-[01:38:03] [Server thread/INFO]: SamWise left the game
-[01:38:15] [Server thread/INFO]: SamWise[/127.157.239.190:62606] logged in with entity id 71209 at (192.66299028672222, 112.0, 247.31112100856333)
-[01:38:16] [Server thread/INFO]: SamWise joined the game
-[01:38:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:38:40] [Server thread/INFO]: SamWise lost connection: Disconnected
-[01:38:40] [Server thread/INFO]: SamWise left the game
-[01:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6697ms or 133 ticks behind
-[01:39:13] [Server thread/INFO]: SamWise[/127.157.239.190:62629] logged in with entity id 71540 at (188.98706301109715, 112.0, 250.04591331776683)
-[01:39:13] [Server thread/INFO]: SamWise joined the game
-[01:39:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[01:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[01:40:03] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[01:40:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[01:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
-[01:46:49] [Server thread/INFO]: SamWise lost connection: Disconnected
-[01:46:49] [Server thread/INFO]: SamWise left the game
-[01:49:21] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[01:51:33] [Server thread/INFO]: blankslope lost connection: Disconnected
-[01:51:33] [Server thread/INFO]: blankslope left the game
-[01:52:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:52:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[01:52:48] [Server thread/INFO]: stopstop<--[HERE]
-[01:52:53] [Server thread/INFO]: CruiseDhruv[/127.195.88.119:61474] logged in with entity id 73976 at (8.5, 119.0, 2.5)
-[01:52:53] [Server thread/INFO]: CruiseDhruv joined the game
-[01:53:54] [Server thread/INFO]: SamWise[/127.157.239.190:61500] logged in with entity id 74404 at (193.91128915876953, 112.0, 248.9093772046814)
-[01:53:54] [Server thread/INFO]: SamWise joined the game
-[01:53:57] [Server thread/INFO]: [Not Secure] <CruiseDhruv> hahaha
-[01:59:11] [Server thread/WARN]: SamWise moved too quickly! -9.882174401734474,-1.6709083839322858,-2.024223206598876
-[01:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4892ms or 97 ticks behind
-[01:59:12] [Server thread/WARN]: CruiseDhruv moved too quickly! -7.616417651943522,4.004799122994072,-5.720453437873741
-[01:59:27] [Server thread/INFO]: blankslope[/127.0.0.1:61629] logged in with entity id 76242 at (-168.45597105474644, 109.0, -2.517474684385132)
-[01:59:27] [Server thread/INFO]: blankslope joined the game
-[01:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[01:59:31] [Server thread/WARN]: SamWise moved too quickly! -7.459455958313413,0.5,-6.849389304786829
-[01:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[02:00:00] [Server thread/INFO]: [Not Secure] <blankslope> whos tis
-[02:00:03] [Server thread/INFO]: [Not Secure] <CruiseDhruv> im his gf
-[02:00:09] [Server thread/INFO]: [Not Secure] <SamWise> he a friend
-[02:00:19] [Server thread/INFO]: [Not Secure] <SamWise> should we ban h him
-[02:00:30] [Server thread/INFO]: [Not Secure] <blankslope> idk
-[02:00:31] [Server thread/INFO]: [Not Secure] <CruiseDhruv> im just a girl
-[02:00:48] [Server thread/INFO]: [Not Secure] <CruiseDhruv> im nob
-[02:00:54] [Server thread/INFO]: [Not Secure] <blankslope> kb tak khel rha
-[02:01:04] [Server thread/INFO]: [Not Secure] <CruiseDhruv> its just one time
-[02:01:06] [Server thread/INFO]: [Not Secure] <SamWise> so rha hun
-[02:01:08] [Server thread/INFO]: [Not Secure] <SamWise> abhi
-[02:01:10] [Server thread/INFO]: [Not Secure] <CruiseDhruv> i dont wanna itrude
-[02:01:12] [Server thread/INFO]: [Not Secure] <CruiseDhruv> intrude
-[02:01:14] [Server thread/INFO]: CruiseDhruv has made the advancement [Sweet Dreams]
-[02:01:34] [Server thread/INFO]: CruiseDhruv has made the advancement [Stone Age]
-[02:01:43] [Server thread/INFO]: CruiseDhruv has made the advancement [Getting an Upgrade]
-[02:02:16] [Server thread/INFO]: [Not Secure] <blankslope> no robbing
-[02:02:28] [Server thread/INFO]: [Not Secure] <CruiseDhruv> isnt this sameep's
-[02:02:33] [Server thread/INFO]: [Not Secure] <CruiseDhruv> he's my kurkure
-[02:02:39] [Server thread/INFO]: [Not Secure] <CruiseDhruv> jo tera hai wo mera hai
-[02:03:05] [Server thread/INFO]: [Not Secure] <blankslope> only the one on the left is sameeps
-[02:03:18] [Server thread/INFO]: [Not Secure] <CruiseDhruv> oh
-[02:03:23] [Server thread/INFO]: [Not Secure] <CruiseDhruv> sorry luv
-[02:03:33] [Server thread/INFO]: shikamaru2o[/127.146.41.51:61663] logged in with entity id 76781 at (798.9608771900914, 77.0, 897.2933683778754)
-[02:03:33] [Server thread/INFO]: shikamaru2o joined the game
-[02:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[02:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
-[02:04:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu kon dhruv
-[02:04:36] [Server thread/INFO]: [Not Secure] <CruiseDhruv> sameep's partner
-[02:04:45] [Server thread/INFO]: [Not Secure] <CruiseDhruv> his femboy
-[02:04:48] [Server thread/INFO]: [Not Secure] <SamWise> he joined the server jo for a bit
-[02:04:57] [Server thread/INFO]: [Not Secure] <SamWise> im showing hium around thodasa
-[02:05:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> okkk
-[02:05:14] [Server thread/INFO]: [Not Secure] <CruiseDhruv> he's showing me how to beat the end dragon
-[02:05:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice to meet you
-[02:05:25] [Server thread/INFO]: [Not Secure] <CruiseDhruv> nice to meet you too luv
-[02:06:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[02:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16102ms or 322 ticks behind
-[02:06:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya karra hai joash?
-[02:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4245ms or 84 ticks behind
-[02:07:00] [Server thread/INFO]: [Not Secure] <blankslope> kn
-[02:07:07] [Server thread/INFO]: [Not Secure] <blankslope> kidr hai aaun?
-[02:07:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa aja diamonds lete
-[02:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5770ms or 115 ticks behind
-[02:07:31] [Server thread/INFO]: [Not Secure] <blankslope> mrna nhi hai saale
-[02:07:41] [Server thread/INFO]: [Not Secure] <blankslope> ruk aata phir bhi
-[02:07:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> hmm ok then wait ill get u iron armour\
-[02:07:52] [Server thread/INFO]: [Not Secure] <blankslope> horse parking hai?
-[02:08:12] [Server thread/INFO]: [Not Secure] <SamWise> its called a stable
-[02:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[02:08:23] [Server thread/INFO]: [Not Secure] <blankslope> acha
-[02:08:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> i think he meant a bed
-[02:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[02:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6768ms or 135 ticks behind
-[02:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[02:10:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 8.350765263802117,2.0,6.150395748972258
-[02:10:39] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.50319809509379,0.0,8.088649358258067
-[02:10:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> ive set a bed and lots of food
-[02:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20036ms or 400 ticks behind
-[02:11:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> will go inside in a few moments
-[02:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6040ms or 120 ticks behind
-[02:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10070ms or 201 ticks behind
-[02:11:42] [Server thread/INFO]: [Not Secure] <blankslope> otw
-[02:12:04] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[02:12:04] [Server thread/INFO]: shikamaru2o left the game
-[02:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12190ms or 243 ticks behind
-[02:12:24] [Server thread/INFO]: shikamaru2o[/127.146.41.51:62554] logged in with entity id 81134 at (779.9589717801475, 88.79673560066871, 898.4256806320151)
-[02:12:24] [Server thread/INFO]: shikamaru2o joined the game
-[02:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[02:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25589ms or 511 ticks behind
-[02:13:37] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.928299052942975,-1.0,8.720483366157623
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.169904268511232,-1.0,9.150309702543836
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.4117764627485485,-1.0,9.580611130062834
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.653794427356047,-1.0,10.011171957370493
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.895891982595003,-1.0,10.441874416979203
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.144129420103923,-1.0,10.869099733441658
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.406108276839518,-1.0,11.287751455159082
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.687907558024108,-1.0,11.692691193964038
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.98643357463402,-1.0,12.085333583060219
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.2945524141689475,0.0,12.470872606823491
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.607908935629325,0.0,12.852533192664623
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.924125231753237,0.0,13.232076151154274
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 8.247197083614992,0.0,13.605829282233458
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 8.578754699135061,0.0,13.972011223040681
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 8.915364716441331,0.0,14.333657053091542
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 9.254733345443356,0.0,14.692826166381792
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 9.59560817660622,0.0,15.050642992163603
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 9.93730539424439,0.0,15.40772146888014
-[02:13:45] [Server thread/WARN]: CruiseDhruv moved too quickly! -10.170702453402214,1.0,-0.15656281367906932
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 10.279451634950192,0.0,15.764396806960121
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.029574216568562,-1.0,8.647982384309103
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.029708077560485,-1.0,8.647862202203441
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.029781165670556,-1.0,8.647796582766091
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.029821071783317,-1.0,8.647760754549154
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.029842860523445,-1.0,8.64774119234039
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.0298547571768495,-1.0,8.647730511373197
-[02:13:45] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.029861252750379,-1.0,8.647724679564476
-[02:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17787ms or 355 ticks behind
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.114760971174064,1.274141550064087,7.904264276734352
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.332206018358875,1.4644002728298489,8.238661946123898
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.544230811576995,1.5724538232433076,8.560380405999808
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.751369880887637,1.5999463031835859,8.870522733093708
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.954646132379025,1.5484889325235542,9.169637570417308
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.155015626885984,1.4196607067693776,9.45816484223326
-[02:13:48] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.353036486984593,1.2150090415471908,9.736772892764407
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.549129539090359,1.0,10.006147040774863
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.88775540754591,1.0,10.408431124533877
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 8.232826339094686,1.0,10.7852318617837
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.059302784896886,1.0,8.024201086548146
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.061338411248357,1.0,8.01444767612179
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.313737209876763,1.0,8.355659169795672
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.6153753787880305,1.0,8.695308394351969
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.943898246996582,1.0,9.03410461987096
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.899121599000296,1.0,8.013654487309395
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.062950007853601,1.0,8.351730682579841
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.316228738330665,1.0,8.689668034008946
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.618347350087106,1.0,9.027529576691904
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.947132540119583,1.0,9.36534972779475
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.290477683581912,1.0,9.70314727909215
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.062950007853601,1.0,8.013102473755907
-[02:13:49] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.152400329477359,1.0,8.013098795154065
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.457381680278445,0.0,-0.27170327412784445
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.93779597103071,0.0,-0.24977319515392082
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -11.396576944296612,0.0,-0.12936613240458428
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -11.819748761156006,0.0,0.07970308132019
-[02:13:54] [Server thread/WARN]: shikamaru2o moved too quickly! -7.979363215687044,-5.592604597635059,3.1758760443450456
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -12.199373073732545,0.0,0.36204022953063486
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -12.527578310739614,1.0,0.7052358697848149
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -12.79879935997235,1.0,1.0972966367027084
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.021453675891394,1.0,1.5230213823775784
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.209235684288387,1.0,1.9698871830466942
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.375155434486942,1.0,2.4291471771632587
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.519502400947317,1.0,2.8977804571288743
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.648638370767344,2.0,3.372349796350022
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.766024440508886,2.0,3.8509243900816728
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.870092933610977,2.0,4.333047427111637
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -13.960501804406363,2.0,4.818169426683767
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -14.038210571361674,2.0,5.305659238223939
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.037518375907894,0.0,0.29480526715326505
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.093793071867367,1.0,0.7854793011741776
-[02:13:54] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.014686680930936,0.0,0.29744579049076947
-[02:13:54] [Server thread/WARN]: shikamaru2o moved too quickly! -7.958117760131017,-5.378738706694122,3.066193944198517
-[02:13:57] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.629796540525149,1.0,9.908328519047245
-[02:13:57] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.916758746021742,1.0,10.306342288888231
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.2247339311953738,1.0,10.689384925093805
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.5459059448461403,1.0,11.062663072733358
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.8768454228732026,1.0,11.428183432164701
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.215641449764689,1.0,11.787001681313313
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.560382796313775,1.0,12.14049954385132
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.910008475688642,1.0,12.489414226194071
-[02:13:58] [Server thread/WARN]: shikamaru2o moved too quickly! -9.76672550577291,1.252203340253729,-3.19051463344681
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7343963594473735,1.0,9.827433357203859
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.10111413862046,1.0,10.158260012902474
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7487025463084365,1.0,9.81176098972594
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7521259395343804,1.0,9.807947590682375
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7539951124529125,1.0,9.80586547456278
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7550156809849113,1.0,9.80472863902935
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.755572911468107,1.0,9.804107926756046
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7558771593472784,1.0,9.803769017815512
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756043278708603,1.0,9.803583973512445
-[02:13:58] [Server thread/WARN]: shikamaru2o moved too quickly! -9.466914486244718,1.2491870787446828,-3.042934435971347
-[02:13:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7561339798904783,1.0,9.803482939311152
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7561835027414645,1.0,9.803427774630904
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756210542221311,1.0,9.803397654712057
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.13672103109991,1.0,10.11886028339768
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756233366682409,1.0,9.803372230002537
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756237767936227,1.0,9.803367327341334
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756240171020977,1.0,9.803364650488106
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756241483105555,1.0,9.803363188926028
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.756242199503731,1.0,9.80336239091298
-[02:13:59] [Server thread/WARN]: shikamaru2o moved too quickly! -9.466914486244718,1.2491870787446828,-3.042934435971347
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.1367699732605843,1.0,10.118805765562115
-[02:13:59] [Server thread/WARN]: SamWise moved too quickly! 0.9022988576918891,0.0,10.10930661304791
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.517297960587257,1.0,10.434248902310856
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 3.8978260645230876,1.0,10.749691909165904
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.211913819323172,1.0,11.065134845098896
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.384673618045781,1.0,11.38057774230856
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.651760277827293,1.0,11.6960206183752
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.97034940972901,1.0,12.011463482897852
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.3170588946746875,1.0,12.326906341117365
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7377780163914167,1.0,9.803361435326792
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7461611455069033,1.0,9.803361433447776
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7507383345355265,1.0,9.803361432421752
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7562064373105386,1.0,9.799702518358913
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.7797192963059842,1.0,9.766962400492275
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.802168191567489,1.0,9.72958153433558
-[02:13:59] [Server thread/WARN]: shikamaru2o moved too quickly! -9.466914486244718,1.2491870787446828,-3.042934435971347
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.817124067057989,1.0,9.702674404289496
-[02:13:59] [Server thread/WARN]: SamWise moved too quickly! 0.9226768356257793,0.0,9.993408308099465
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.831321334686777,1.0,9.67079159323157
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.840078510922467,1.0,9.650001336895002
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.8450203603759974,1.0,9.638091525038703
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.847718610491029,1.0,9.631588767009816
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.8491918552249444,1.0,9.628038260713652
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.8499962469430784,1.0,9.626099684050814
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.8504354448722324,1.0,9.625041221069864
-[02:13:59] [Server thread/WARN]: shikamaru2o moved too quickly! -9.466914486244718,1.2491870787446828,-3.042934435971347
-[02:13:59] [Server thread/WARN]: SamWise moved too quickly! 0.9330554810895819,0.0,9.995056307323537
-[02:13:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.850675246969331,1.0,9.624463300215211
-[02:14:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.850806178929588,1.0,9.62414775539196
-[02:14:00] [Server thread/WARN]: shikamaru2o moved too quickly! -9.466914486244718,1.2491870787446828,-3.042934435971347
-[02:14:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.850877667788268,1.0,9.62397546789839
-[02:14:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 2.850916700709604,1.0,9.623881398915955
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.554558259760256,-1.0,9.87484429982237
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.6300828497247721,-1.0,10.363311951106425
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.705608581633328,-1.0,10.85178745155406
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.7823038879784008,-1.0,11.340083225241528
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.864282239333761,-1.0,11.827487141563324
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.5690734643444557,-1.0,9.872304699501115
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.5763568344402756,-1.0,9.87087710020694
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.5843388878453197,-1.0,9.869178638954509
-[02:14:07] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.5892619107493147,-1.0,9.868115460005356
-[02:14:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 1.5919498815671886,-1.0,9.867534964231709
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.748311057361207,6.274141550064087,6.744130865169154
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.11777403906467,6.464400272829849,6.893247009219294
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.474300262613724,6.572453823243308,7.038477156025124
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.817377845632791,6.599946303183586,7.18313456998203
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.145952471169835,6.548488932523554,7.330118586036406
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.460334090091692,6.419660706769378,7.480217131373479
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.761713681623974,6.215009041547191,7.6332307638481325
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.050871461226052,6.0,7.7892517639024845
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.505205542096064,6.0,6.809215831330562
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.433058139438003,6.0,6.859498040456856
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.443407514286719,6.274141550064087,7.079352589124369
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.2991020147169365,6.190258722765762,6.831186138952603
-[02:14:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.288420635489956,6.108053550413459,6.821629995237117
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3085730620348386,0.0,10.333717515273747
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.22576542245235487,0.0,10.82055233918311
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.13827134262692198,1.0,11.306755654274298
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.0482184661317433,1.0,11.792614165510713
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.04323151350752141,1.0,12.27828441382053
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.13544431155196435,1.0,12.76385187056053
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.22807360849401448,1.0,13.249363203096891
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.3209303138605719,1.0,13.734843891814421
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.41391118424144224,1.0,14.220307849005053
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.5069598487278881,1.0,14.705762670780814
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.600045528800365,1.0,15.191212504619557
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.6890875702487165,1.0,15.677400533491891
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.7660500482938915,1.0,16.165472397097574
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3135833278597602,0.0,10.334970283719827
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3178139149906656,0.0,10.335610380436378
-[02:14:21] [Server thread/WARN]: SamWise moved too quickly! -5.204308058695091,1.1661092609382138,-8.755642243230415
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.25514025209679403,0.0,10.825844171778954
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.32138502183852324,0.0,10.336150696401205
-[02:14:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.322073640397889,0.0,10.336254885835274
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.32244962617494366,0.0,10.336311773272882
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3244069748208176,0.0,10.336549732404592
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3260743178308303,0.0,10.336747152951261
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3269846872199196,0.0,10.336854944582228
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.2716689574577913,0.0,10.828042661460245
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3277531447080264,0.0,10.336945933236962
-[02:14:22] [Server thread/WARN]: shikamaru2o moved too quickly! 0.6097435848529358,1.875,-10.010668151193613
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.32790132680133866,0.0,10.336963478630878
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33031427912715117,0.0,10.33722047263791
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.2791485516509056,0.0,10.828855182078428
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33235109111262773,0.0,10.337437405425362
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.2822974631095576,0.0,10.829190560181473
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.23245828187884854,1.0,11.320966554815072
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3330753854468185,0.0,10.33751454714968
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3331393154757052,0.0,10.337521356084153
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3331742212754989,0.0,10.33752507376289
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3331932798444086,0.0,10.337527103615685
-[02:14:22] [Server thread/WARN]: SamWise moved too quickly! -5.077799712235617,0.7677039730696684,-8.595059820803545
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332036858241736,0.0,10.337528211915355
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332093674898715,0.0,10.337528817047087
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321246967966545,0.0,10.337529147449118
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.333214163475418,0.0,10.337529327848529
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332150882880569,0.0,10.337529426346691
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321559323587735,0.0,10.337529480126705
-[02:14:22] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321586893737276,0.0,10.337529509490537
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321601947045565,0.0,10.337529525523223
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321610166149185,0.0,10.33752953427711
-[02:14:23] [Server thread/WARN]: CruiseDhruv moved too quickly! 0.744629241847008,0.17675927506423506,-10.183330912274547
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332161465377794,0.0,10.337529539056732
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.28363483885175356,0.0,10.82933299878141
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332161844185748,0.0,10.33752954309125
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332161917231815,0.0,10.33752954386921
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321619571142946,0.0,10.337529544293943
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321619788910084,0.0,10.337529544525864
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.28363491824086395,0.0,10.829333007236755
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321619972718963,0.0,10.337529544721747
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.28363492108258015,0.0,10.829333007539617
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332162002752739,0.0,10.337529544780068
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620038088895,0.0,10.337529544791323
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.28363492209325614,0.0,10.829333007647165
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332162004701331,0.0,10.33752954480076
-[02:14:23] [Server thread/WARN]: SamWise moved too quickly! -5.085162238138082,0.0,-8.643620358784208
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620048729983,0.0,10.337529544802692
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.283634922257761,0.0,10.829333007664673
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.23405364403333806,1.0,11.321136470527222
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050458023,0.0,10.33752954480451
-[02:14:23] [Server thread/WARN]: shikamaru2o moved too quickly! 0.5718589783226662,1.875,-9.834037346873401
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050617184,0.0,10.337529544804624
-[02:14:23] [Server thread/WARN]: CruiseDhruv moved too quickly! 0.696783964427965,0.018571334211241464,-9.993945685284642
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.2836349222868648,0.0,10.829333007667742
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332162005074224,0.0,10.337529544804738
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.3332162005076498,0.0,10.337529544804852
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050776346,0.0,10.337529544804852
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050787715,0.0,10.337529544804852
-[02:14:23] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050787715,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: SamWise moved too quickly! -5.1078815986463155,0.0,-8.662280241370354
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: shikamaru2o moved too quickly! 0.7613136160375689,1.875,-9.808042080567247
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.283634922289707,0.0,10.829333007668083
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: CruiseDhruv moved too quickly! 0.6979313870812973,-0.5946728636851439,-9.982599284504909
-[02:14:24] [Server thread/WARN]: SamWise moved too quickly! -5.067789201933152,0.0,-8.627154046573072
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: SamWise moved too quickly! -5.129082688406612,0.0,-8.676582651711865
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:24] [Server thread/WARN]: CruiseDhruv moved too quickly! 0.7121111431590634,-0.29035603622759965,-9.971773485683247
-[02:14:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.33321620050799083,0.0,10.337529544804852
-[02:14:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.812657605600748,1.0,10.185550765769335
-[02:14:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.9019684876594738,1.0,10.671711711514376
-[02:14:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.8126577166814286,1.0,10.185550807870754
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5529346475792636,1.0,9.362167828839802
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.7098633120868953,1.0,9.830891281099753
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.8667769163592993,1.0,10.299620106503994
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.551781091591806,1.0,9.362551888057624
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5511745330742315,1.0,9.362753277533557
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5508433520852805,1.0,9.362863236200155
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550662527244185,1.0,9.362923273639126
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.705247923887555,1.0,9.832425110221607
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550509890078729,1.0,9.362973952209927
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5504804569675343,1.0,9.36298372458748
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550464386486965,1.0,9.36298906030629
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550455612003475,1.0,9.362991973609041
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550450821134973,1.0,9.362993564272529
-[02:14:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5504482053205493,1.0,9.36299443277494
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5504467770856536,1.0,9.362994906977292
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550445997269321,1.0,9.362995165891789
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5504455714894902,1.0,9.362995307259098
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.7049125102769267,1.0,9.832536474202698
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550445212081968,1.0,9.362995426589578
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5504451427771073,1.0,9.362995449600135
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5504451049367844,1.0,9.362995462163894
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.550445084275907,1.0,9.362995469023758
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.558747995698468,1.0,9.360082440176939
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.577401090867397,1.0,9.352670288483978
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.5960672266279516,1.0,9.344567409535784
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.6073141501592545,1.0,9.339607705777894
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.613454971120518,1.0,9.336899707211614
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.6168078597548856,1.0,9.335421139822643
-[02:14:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.6274248318394484,1.0,9.329876241486431
-[02:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47275ms or 945 ticks behind
-[02:14:57] [Server thread/INFO]: CruiseDhruv has made the advancement [Sneak 100]
-[02:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11289ms or 225 ticks behind
-[02:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
-[02:15:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> look at how much food in furnaces
-[02:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[02:16:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> isme iron hai thoda tere liye
-[02:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
-[02:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9839ms or 196 ticks behind
-[02:16:53] [Server thread/INFO]: [Not Secure] <blankslope> ek hi hai
-[02:17:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> furnace
-[02:17:16] [Server thread/INFO]: [Not Secure] <blankslope> ohh nice
-[02:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8887ms or 177 ticks behind
-[02:17:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> lets get u full iron
-[02:17:27] [Server thread/INFO]: [Not Secure] <blankslope> but aayakaise itna door
-[02:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
-[02:17:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> ghumte ghumte hi
-[02:17:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> every kid has to leave their home after lal
-[02:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
-[02:17:53] [Server thread/INFO]: CruiseDhruv was slain by Warden
-[02:17:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> all
-[02:18:11] [Server thread/INFO]: [Not Secure] <blankslope> coo
-[02:18:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> armour bana le joash
-[02:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[02:18:19] [Server thread/INFO]: [Not Secure] <blankslope> ha dede
-[02:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
-[02:18:47] [Server thread/INFO]: [Not Secure] <blankslope> return jaake server bandh kr rha
-[02:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11260ms or 225 ticks behind
-[02:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7470ms or 149 ticks behind
-[02:19:26] [Server thread/INFO]: [Not Secure] <blankslope> tnx
-[02:19:28] [Server thread/INFO]: [Not Secure] <blankslope> bye
-[02:19:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike good night
-[02:19:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> byyee
-[02:19:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6726ms or 134 ticks behind
-[02:19:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.737162807407685,1.9215999984741217,1.3202336583798342
-[02:19:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> let me know before u switch off
-[02:20:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.0712553397961528,-1.0,-10.07514992690517
-[02:20:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.2879922785650706,-1.0,-10.504302498938955
-[02:20:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.4475759437443685,-1.0,-10.959207498706633
-[02:20:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -0.8971859254231731,-1.0,-10.158117492021802
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.2413647182502245,0.0,-10.085854598681976
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.37742621343466,0.0,-10.560842312357977
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.452081554823735,0.0,-11.044595883515512
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.4744256815131394,1.0,-11.532378844512095
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.464693732294336,1.0,-12.022044629517382
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.0656681548440474,0.0,-10.105077321195154
-[02:20:12] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.0561057611771503,0.0,-10.105638621287653
-[02:20:16] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.9649121708935127,-1.0,-9.56551697901773
-[02:20:16] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.115504484002031,-1.0,-10.036305740340936
-[02:20:16] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -3.2696517402139307,-1.0,-10.50592889523773
-[02:20:16] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -2.9767669245480874,-1.0,-9.561528815482461
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.513300225089097,1.0,-8.6104938948273
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.643854417045759,1.0,-9.086841283622107
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.7752596863838335,1.0,-9.56313373792193
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.907129644025986,1.0,-10.039396197983933
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.039253321511751,1.0,-10.515642281190253
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.171515530048168,1.0,-10.991879422632337
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.3038533765470675,1.0,-11.468111681870596
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.4362325213782015,1.0,-11.944341275425245
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.568634215101383,1.0,-12.420569413516432
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.701048220521102,1.0,-12.89679675692446
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.833468948127916,1.0,-13.373023666435529
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.965893346049256,1.0,-13.849250339038804
-[02:20:20] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.0983197479625915,1.0,-14.325476882290332
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.513615826726323,1.0,-8.61112580294298
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.513616424148495,1.0,-8.6111257643812
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.646044843856316,1.0,-9.08735217739013
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.513616928442275,1.0,-8.611125731830498
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.515873113797738,1.0,-8.610485634721385
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.526079177240717,1.0,-8.60733426288516
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.535535631664743,1.0,-8.604271407899773
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.545663860686545,1.0,-8.60076598719661
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.5572079781123875,1.0,-8.596450623263763
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.745982778933012,1.0,-9.052841414039335
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.58119802651197,1.0,-8.586481896920532
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.593628775891261,1.0,-8.580718550678966
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.81597646934938,1.0,-9.021743218559095
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.6099858943331355,1.0,-8.57274261836767
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.613507523894214,1.0,-8.571005584778618
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.61543033385783,1.0,-8.570057164328887
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.616480188219953,1.0,-8.569539326703193
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.852345266354973,1.0,-9.003896583712503
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617366387224024,1.0,-8.56910221160922
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617537273480707,1.0,-8.56901792245776
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617630577387672,1.0,-8.568971900575661
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.854123768081195,1.0,-9.003019342883363
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617709336720736,1.0,-8.568933052762532
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.854245530015191,1.0,-9.002959284161761
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.6177328161436435,1.0,-8.568921471605222
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617737343693989,1.0,-8.568919238404078
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617739815736854,1.0,-8.568918019076023
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617741165472353,1.0,-8.568917353322945
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617741902428065,1.0,-8.568916989821673
-[02:20:21] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.617742304805915,1.0,-8.56891679134992
-[02:20:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.9198589653349245,0.0,-9.098251027538481
-[02:20:24] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.0265989792382015,0.0,-9.573192092179738
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.599502901585083,1.0,-6.4396385587185705
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.613897785656832,1.0,-6.7939497606062105
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.553307567857246,2.0,-7.201120135430074
-[02:20:30] [Server thread/WARN]: SamWise moved too quickly! -9.716978094348235,1.0,-2.2959728489235225
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.428734470242034,2.0,-7.6283486275272026
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.238304800719732,2.0,-8.04969839922785
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.997064319192191,3.0,-8.457288982307432
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.714578336460818,4.0,-8.846052899671008
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.404420669067292,5.0,-9.219714905502428
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.077063150464085,5.0,-9.583084578449984
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.739902547334793,6.0,-9.940425079979264
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.397389459432588,6.0,-10.294473653531782
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.052365879179661,6.0,-10.647134391211125
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.709773431804763,7.0,-11.002719397492115
-[02:20:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.405964528360073
-[02:20:31] [Server thread/WARN]: SamWise moved too quickly! -9.775343348111647,1.0,-2.4976425598762475
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.644818148761601,3.0,-7.818646035413622
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.460377175769793,4.0,-8.234263106954018
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.241217119701275,4.0,-8.651790268311743
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.003100442071002,4.0,-9.070360338830938
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.764768166528427,5.0,-9.489499837818471
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.8117561131741695,2.0,-7.419093402217754
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.423948745279176
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.819929710884594,2.0,-7.427726308852698
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.429788858803477
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.819929710884594,2.0,-7.430915011207389
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.654860569067409,3.0,-7.864938975706764
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.431865614619369
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.819929710884594,2.0,-7.4320489200146085
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.654860569067409,3.0,-7.866691998794636
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.432203651055829
-[02:20:31] [Server thread/WARN]: CruiseDhruv moved too quickly! -8.697874899623002,3.0,4.090756834240704
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.819929710884594,2.0,-7.432233487930375
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.432249778865639
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.819929710884594,2.0,-7.432258673717456
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.432263530307068
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.819929710884594,2.0,-7.4322661820052645
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.654860569067409,3.0,-7.867027885846028
-[02:20:31] [Server thread/WARN]: CruiseDhruv moved too quickly! -8.671526479663981,3.0,4.075087659730045
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.4322684203465315
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.657485825089225,3.0,-7.866754304458482
-[02:20:31] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.4318407808939355
-[02:20:32] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.818381268641929,2.0,-7.431189869481159
-[02:20:32] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.430271051696536
-[02:20:32] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.815827934353365,2.0,-7.428903768440364
-[02:20:32] [Server thread/WARN]: CruiseDhruv moved too quickly! -8.676083679986618,3.0,4.078632408544003
-[02:20:32] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.764768166528427,2.0,-7.424574748147052
-[02:20:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.347535923767168,5.0,-7.870551000510204
-[02:20:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.771094470327739,5.0,-8.118277100895625
-[02:20:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.199678591162922,6.0,-8.360420851633535
-[02:20:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.627559329148255,6.0,-8.605649266792511
-[02:20:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.034243744989396,5.921599998474122,-8.882406896377802
-[02:20:33] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.161933300530677,5.766367993957516,-9.05254587455397
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.161933300530677,5.535840625044557,-9.228708269080471
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.161933300530677,5.231523797587016,-9.411128925820094
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.161933300530677,5.0,-9.59945960305879
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.161933300530677,5.0,-9.994443764829725
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.161933300530677,5.0,-10.433708382750865
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.952723949897518,4.0,-8.075071711670375
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.963107788397281,4.0,-8.088272427202696
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.968777364876701,4.0,-8.095480018720423
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.971872953994023,4.0,-8.099415364146239
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.973563145848402,4.0,-8.101564062998364
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.974485990708104,4.0,-8.102737252707811
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.974989864059978,4.0,-8.103377814363625
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.016548910125948,4.0,-8.595475413548911
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975415191685158,4.0,-8.103918522791218
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.017206466661435,4.0,-8.596311348812264
-[02:20:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975541988684938,4.0,-8.10407971666234
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975566439022316,4.0,-8.10411079976791
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975579788908078,4.0,-8.1041277711455
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975587077946557,4.0,-8.104137037518854
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975591057762017,4.0,-8.104142096959208
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.017478355627418,4.0,-8.596656994490104
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975594417188461,4.0,-8.104146367714407
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.017483549300891,4.0,-8.596663597077963
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975595418687476,4.0,-8.104147640895235
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.97559561180708,4.0,-8.104147886403439
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.017485396181371,4.0,-8.596665944971278
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.975595774822466,4.0,-8.104148093640788
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.976174560178606,4.0,-8.104098147824061
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.977647685257921,4.0,-8.103966424917985
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.978452011644606,4.0,-8.103894504203026
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.978891173902809,4.0,-8.103855235488027
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.024316197550263,4.0,-8.596059068372142
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.9804398424767555,4.0,-8.103709543219225
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.981732547648619,4.0,-8.103584185450018
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.030464979526869,4.0,-8.595469963667028
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.98342304360358,4.0,-8.10341713401533
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.983960678317658,4.0,-8.103363295086751
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.984254226905648,4.0,-8.103333899028371
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.034962798482809,4.0,-8.595021785923905
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.984502016004512,4.0,-8.103309085341266
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.984549797316959,4.0,-8.103304300503964
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 5.035419750357448,4.0,-8.594976026603263
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.961480930462415,4.0,-7.8800827555147634
-[02:20:35] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 4.948871083319716,4.0,-7.758205204231103
-[02:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39994ms or 799 ticks behind
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.289235012606355,0.0,-4.367989515158342
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.610196993421255,0.0,-4.739784126569816
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.91858715422967,0.0,-5.123428758946716
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.22011310051721,0.0,-5.5135435035222145
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.520235206590485,0.0,-5.905439568272072
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.822386742311437,0.0,-6.296155876025523
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.252800406431902,0.0,-4.404762775270342
-[02:20:44] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.253405412021266,0.0,-4.4044110707518485
-[02:20:55] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.61730714836068,-0.7684762024129839,-3.0853946656815197
-[02:20:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.702467493745019,4.464159374955443,-3.4863039604473443
-[02:20:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.154196944471494,4.464159374955443,-3.673502811714002
-[02:20:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.612500795290032,5.464159374955443,-3.850281002214956
-[02:20:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.074394268975766,5.464159374955443,-4.02136951127693
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.726063533508807,4.464159374955443,-3.4496096832232297
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.723473419877052,4.464159374955443,-3.457552976462239
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.712919069961572,4.464159374955443,-3.4815951526304616
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.691515567287695,4.464159374955443,-3.5202616179564075
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.671328233529039,4.464159374955443,-3.5526101716819767
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.658068318661037,4.464159374955443,-3.573000648197649
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.046485664522208,4.464159374955443,-3.876074685072126
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.646875410603172,4.464159374955443,-3.5902125783773045
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.644717075792755,4.464159374955443,-3.593531564637942
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.02547214983889,4.464159374955443,-3.9082612487922006
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.641180987212522,4.464159374955443,-3.5983701919055875
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.640097097766613,4.464159374955443,-3.5997792515162246
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.639505294060427,4.464159374955443,-3.6005485981529546
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.639558152674283,4.464159374955443,-3.600525838564522
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.016734107714,4.464159374955443,-3.9199794375984993
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.639977618005446,4.464159374955443,-3.600062840862279
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.640190888100676,4.464159374955443,-3.599816829086535
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.640307333586179,4.464159374955443,-3.5996825066413294
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.018267187973834,4.464159374955443,-3.918231860425408
-[02:20:59] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.640405627099142,4.464159374955443,-3.5995691228984015
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.634624719317685,4.464159374955443,-3.6061643488405934
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.620800104799741,4.464159374955443,-3.6206944916407338
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.81648054684041,4.464159374955443,-3.806135047830594
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.369252592205157,4.385759373429565,-3.3823103682339024
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.413495414300996,4.230527368912959,-3.4375931779254643
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.43540469544621,4.464159374955443,-3.7105536937688157
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.616836800627084,4.464159374955443,-4.055578616396588
-[02:21:00] [Server thread/WARN]: SamWise moved too quickly! 3.399999976158142,-0.41999998688697815,9.523661885440305
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.840878503043541,4.464159374955443,-4.430349342359023
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.090604630122073,4.464159374955443,-4.819715894672868
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.354354454694999,4.464159374955443,-5.2170517691001805
-[02:21:00] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.580590903013558,4.464159374955443,-3.835941902091463
-[02:21:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.5802576937219897,-8.584354139212522,-6.102535923371306
-[02:21:08] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.5153056480752412,-9.0,-6.336046093413756
-[02:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31384ms or 627 ticks behind
-[02:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
-[02:22:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
-[02:22:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6308ms or 126 ticks behind
-[02:22:52] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 0.7728125196819349,0.0,-10.35939242253346
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.8687365063028665,8.0,-3.790410923305444
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.319300425710836,8.0,-3.984920927002406
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.772097459737864,9.0,-4.178291951103006
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.22611377448851,9.0,-4.371041092271753
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.6807958165915835,9.0,-4.56345068532022
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.135841345871313,9.0,-4.7556748850735175
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.590850591939102,10.0,-4.948352666101471
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.043231845160278,11.0,-5.147181941951487
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.871711622822843,8.0,-3.79919787252544
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.866159373475568,8.0,-3.810638243393271
-[02:22:58] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.857675382358238,8.0,-3.826627994263788
-[02:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17246ms or 344 ticks behind
-[02:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11371ms or 227 ticks behind
-[02:23:51] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -9.8559116105193,0.0,-2.3921024153739836
-[02:23:51] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.251715558257743,0.0,-2.6847385977612817
-[02:23:51] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -10.631255402234792,0.0,-2.9983049775589734
-[02:24:01] [Server thread/INFO]: CruiseDhruv was skewered by a falling stalactite
-[02:24:03] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -1.8072272553959436,2.0,-10.130310523722926
-[02:24:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.406592326022107,4.0,-5.475354465980274
-[02:24:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.685964443672532,4.0,-5.883066300899259
-[02:24:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.965422337388034,4.0,-6.2907478685797855
-[02:24:13] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -7.406882034826168,4.0,-5.4752522383316204
-[02:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34776ms or 695 ticks behind
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.898621435620157,2.0,-8.495635088307779
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.059413254312091,1.9215999984741075,-8.956174107004642
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.152649980595072,1.766367993957516,-9.229399054718385
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.24293978703767,1.5358406250445569,-9.499804378601652
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.330491522901781,1.2315237975870161,-9.767657865355318
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.414864010705969,0.8548932993483618,-10.03334781588552
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.4957103901006406,0.40739540236495486,-10.297195048460537
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.572883771997937,0.0,-10.559445937321243
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.679143295654569,0.0,-11.019593248833303
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.773192746416157,0.0,-11.492332705872116
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.860575496602678,-0.07840000152587834,-11.971947475167099
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.911889658274134,-0.2336320060424839,-12.255967069916778
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -5.962188721268774,-0.4641593749554431,-12.536574808885518
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -6.011564044440888,-0.7684762024129839,-12.814077759004078
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.869400452396803,2.0,-8.510174753955766
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.901877224899664,2.0,-8.499361025203598
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.937332057996684,2.0,-8.48303191831593
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.964457710225872,2.0,-8.46881948465085
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.979740848861923,2.0,-8.460721632839125
-[02:24:30] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -4.988085443526444,2.0,-8.456300205236289
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.497642285319216,7.0,-3.2390028640701303
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.880006933340724,7.0,-3.549844052088986
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 7.250085212096337,8.0,-3.875576478812377
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.448908421536913,7.0,-3.2955887249871694
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.427642894979556,7.0,-3.3154920435788426
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.414634775502265,7.0,-3.327436512515135
-[02:24:34] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! 6.407070444493115,7.0,-3.334310501424852
-[02:24:39] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.673239521363058,-5.0,1.1050322168971434
-[02:24:39] [Server thread/WARN]: Bruffles (vehicle of blankslope) moved too quickly! -8.62379182297326,-5.0,1.0016525722759866
-[02:24:42] [Server thread/INFO]: blankslope hit the ground too hard
-[02:24:51] [Server thread/INFO]: CruiseDhruv was slain by SamWise
-[02:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26245ms or 524 ticks behind
-[02:25:16] [Server thread/INFO]: CruiseDhruv was skewered by a falling stalactite
-[02:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02:25:34] [Server thread/INFO]: [Not Secure] <blankslope> bandh kr rha
-[02:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5959ms or 119 ticks behind
-[02:25:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> wait
-[02:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02:26:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> aight gn
-[02:26:12] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[02:26:12] [Server thread/INFO]: shikamaru2o left the game
-[02:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7194ms or 143 ticks behind
-[02:26:26] [Server thread/INFO]: [Not Secure] <blankslope> gn
-[02:26:32] [Server thread/INFO]: [Not Secure] <blankslope> bandh kr rha
-[02:27:51] [Server thread/INFO]: CruiseDhruv was slain by SamWise
-[02:28:06] [Server thread/INFO]: CruiseDhruv has made the advancement [Diamonds!]
-[02:28:12] [Server thread/INFO]: [Not Secure] <blankslope> bandh kr rha sameep
-[02:28:18] [Server thread/INFO]: CruiseDhruv was slain by SamWise
-[02:28:21] [Server thread/INFO]: CruiseDhruv lost connection: Disconnected
-[02:28:21] [Server thread/INFO]: CruiseDhruv left the game
-[02:28:29] [Server thread/INFO]: blankslope lost connection: Disconnected
-[02:28:29] [Server thread/INFO]: blankslope left the game
-[02:28:40] [Server thread/INFO]: SamWise lost connection: Disconnected
-[02:28:40] [Server thread/INFO]: SamWise left the game
-[02:28:47] [Server thread/INFO]: Stopping the server
-[02:28:47] [Server thread/INFO]: Stopping server
-[02:28:47] [Server thread/INFO]: Saving players
-[02:28:47] [Server thread/INFO]: Saving worlds
-[02:28:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:28:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:28:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:13:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:13:03] [ServerMain/INFO]: Loaded 1515 recipes
+[15:13:03] [ServerMain/INFO]: Loaded 1617 advancements
+[15:13:03] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[15:13:03] [Server thread/INFO]: Loading properties
+[15:13:03] [Server thread/INFO]: Default game type: SURVIVAL
+[15:13:03] [Server thread/INFO]: Generating keypair
+[15:13:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:13:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:13:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:13:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:13:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:13:03] [Server thread/INFO]: Preparing level "world"
+[15:13:04] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:13:04] [Server thread/INFO]: Preparing spawn area: 100%
+[15:13:04] [Server thread/INFO]: Time elapsed: 14 ms
+[15:13:04] [Server thread/INFO]: Done (0.353s)! For help, type "help"
+[15:13:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:13:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:13:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:13:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:13:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:13:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:13:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:13:10] [Server thread/INFO]: Huriking[/127.0.0.1:57055] logged in with entity id 69 at (207.5, 92.0, 128.5)
+[15:13:10] [Server thread/INFO]: Huriking joined the game
+[15:13:13] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.UnknownHostException: api.minecraftservices.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
+	... 9 more
+[15:18:24] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.UnknownHostException: api.minecraftservices.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
+	... 9 more
+[15:28:24] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.UnknownHostException: api.minecraftservices.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
+	... 9 more
+[15:48:35] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.UnknownHostException: api.minecraftservices.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
+	... 9 more
+[16:28:46] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.net.UnknownHostException: api.minecraftservices.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+	at java.base/java.net.Socket.connect(Socket.java:659)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
+	... 9 more
+[16:31:12] [Server thread/INFO]: Huriking lost connection: Disconnected
+[16:31:12] [Server thread/INFO]: Huriking left the game
+[16:31:13] [Server thread/INFO]: Huriking[/127.17.58.31:65149] logged in with entity id 12199 at (178.93475380829352, 119.0, 256.1191358624295)
+[16:31:13] [Server thread/INFO]: Huriking joined the game
+[17:07:41] [Server thread/INFO]: shikamaru2o[/127.146.41.51:4244] logged in with entity id 17931 at (779.7287943166519, 87.875, 899.0995253517157)
+[17:07:41] [Server thread/INFO]: shikamaru2o joined the game
+[17:11:36] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[17:11:36] [Server thread/INFO]: shikamaru2o left the game
+[17:13:38] [Server thread/INFO]: Huriking fell from a high place
+[17:32:04] [Server thread/INFO]: Incorrect argument for command
+[17:32:04] [Server thread/INFO]: weather set clear<--[HERE]
+[17:32:14] [Server thread/INFO]: Set the weather to clear
+[17:34:21] [Server thread/INFO]: Huriking lost connection: Disconnected
+[17:34:21] [Server thread/INFO]: Huriking left the game
+[17:35:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:42:45] [Server thread/INFO]: SamWise[/127.157.239.190:57534] logged in with entity id 30351 at (7.728101725470618, 120.0, 112.80375232048702)
+[17:42:45] [Server thread/INFO]: SamWise joined the game
+[17:56:27] [Server thread/INFO]: XFighter009[/127.99.221.180:58725] logged in with entity id 32413 at (-196.6345797579932, 109.71875002384186, 50.32253621610105)
+[17:56:27] [Server thread/INFO]: XFighter009 joined the game
+[18:02:08] [Server thread/INFO]: Huriking[/127.17.58.31:59285] logged in with entity id 34248 at (905.5, 64.0, -972.5)
+[18:02:08] [Server thread/INFO]: Huriking joined the game
+[18:02:28] [Server thread/INFO]: [Not Secure] <Huriking> yay
+[18:02:36] [Server thread/INFO]: [Not Secure] <Huriking> sleep one person chal raha hai
+[18:02:59] [Server thread/INFO]: [Not Secure] <SamWise> bhing i need 3 cobble stone
+[18:03:07] [Server thread/INFO]: [Not Secure] <Huriking> take from my house
+[18:03:17] [Server thread/INFO]: [Not Secure] <XFighter009> he already took something
+[18:03:20] [Server thread/INFO]: [Not Secure] <XFighter009> heheh
+[18:03:23] [Server thread/INFO]: [Not Secure] <Huriking> MC
+[18:06:10] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[18:06:10] [Server thread/INFO]: XFighter009 left the game
+[18:06:36] [Server thread/INFO]: shikamaru2o[/127.146.41.51:59846] logged in with entity id 37584 at (697.848870719313, 9.0, 743.1740020000127)
+[18:06:36] [Server thread/INFO]: shikamaru2o joined the game
+[18:07:03] [Server thread/INFO]: XFighter009[/127.99.221.180:59850] logged in with entity id 38214 at (-130.40128180387154, 134.71875002384186, 117.49955584592263)
+[18:07:03] [Server thread/INFO]: XFighter009 joined the game
+[18:07:55] [Server thread/INFO]: XFighter009 suffocated in a wall
+[18:09:58] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[18:09:58] [Server thread/INFO]: XFighter009 left the game
+[18:10:05] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[18:10:05] [Server thread/INFO]: shikamaru2o left the game
+[18:10:23] [Server thread/INFO]: shikamaru2o[/127.146.41.51:59871] logged in with entity id 41442 at (750.2048616244332, 2.0, 742.8874956566057)
+[18:10:23] [Server thread/INFO]: shikamaru2o joined the game
+[18:12:55] [Server thread/INFO]: [Not Secure] <SamWise> someone sleep
+[18:16:39] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[18:16:39] [Server thread/INFO]: shikamaru2o left the game
+[18:16:52] [Server thread/INFO]: shikamaru2o[/127.146.41.51:60429] logged in with entity id 45646 at (783.1003313338686, 87.0, 897.8948855636515)
+[18:16:52] [Server thread/INFO]: shikamaru2o joined the game
+[18:23:33] [Server thread/INFO]: SamWise has made the advancement [Hot Stuff]
+[18:25:23] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[18:25:23] [Server thread/INFO]: shikamaru2o left the game
+[18:25:39] [Server thread/INFO]: shikamaru2o[/127.146.41.51:61425] logged in with entity id 53627 at (723.9598925027732, 30.40739540236494, 877.6885756793794)
+[18:25:39] [Server thread/INFO]: shikamaru2o joined the game
+[18:26:35] [Server thread/INFO]: [Not Secure] <Huriking> use blue ice sameep
+[18:27:06] [Server thread/INFO]: [Not Secure] <SamWise> i used 2 stack of cobble
+[18:27:09] [Server thread/INFO]: [Not Secure] <SamWise> sorry
+[18:27:13] [Server thread/INFO]: [Not Secure] <SamWise> will give back
+[18:27:15] [Server thread/INFO]: [Not Secure] <Huriking> and used my service for free
+[18:27:17] [Server thread/INFO]: [Not Secure] <SamWise> fuel is mine tho
+[18:27:36] [Server thread/INFO]: [Not Secure] <SamWise> its just cobble will give back
+[18:27:39] [Server thread/INFO]: [Not Secure] <Huriking> i need 3 gold ingots as payment
+[18:27:43] [Server thread/INFO]: [Not Secure] <SamWise> im connecting u to the town tho
+[18:27:53] [Server thread/INFO]: [Not Secure] <SamWise> labourer ke liye kuch chaay nashta
+[18:28:01] [Server thread/INFO]: [Not Secure] <SamWise> 2 steak perhaps
+[18:28:05] [Server thread/INFO]: [Not Secure] <SamWise> im hungry
+[18:28:22] [Server thread/INFO]: [Not Secure] <Huriking> itne jaldi grand projects maat start kar na
+[18:28:56] [Server thread/INFO]: [Not Secure] <Huriking> lavde lava bucket ko fuel bolega
+[18:28:58] [Server thread/INFO]: [Not Secure] <SamWise> da fak?
+[18:29:07] [Server thread/INFO]: [Not Secure] <SamWise> i thought hotay
+[18:29:15] [Server thread/INFO]: [Not Secure] <SamWise> i read on google ki hotauy
+[18:29:17] [Server thread/INFO]: [Not Secure] <SamWise> f
+[18:29:36] [Server thread/INFO]: [Not Secure] <Huriking> it starts 100 items worth fire inside furnance
+[18:29:41] [Server thread/INFO]: [Not Secure] <Huriking> you need to use it
+[18:30:03] [Server thread/INFO]: [Not Secure] <SamWise> but my stone isnt smelting
+[18:30:10] [Server thread/INFO]: [Not Secure] <SamWise> i mean our stone
+[18:30:21] [Server thread/INFO]: [Not Secure] <SamWise> but srsly dad thoda bhuk lagay
+[18:30:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> -14 MEIN DIAMOND AATA HAI?
+[18:30:26] [Server thread/INFO]: [Not Secure] <SamWise> remeber i gave you saddle
+[18:30:29] [Server thread/INFO]: [Not Secure] <Huriking> i think you mean "your stone, sahil"
+[18:30:33] [Server thread/INFO]: [Not Secure] <SamWise> 24 raw irons
+[18:30:38] [Server thread/INFO]: [Not Secure] <SamWise> bucket
+[18:31:02] [Server thread/INFO]: [Not Secure] <Huriking> i didnt ask for saddle and i passed it on to joash
+[18:31:18] [Server thread/INFO]: [Not Secure] <Huriking> off my base after smelting
+[18:31:26] [Server thread/INFO]: [Not Secure] <Huriking> aint public property
+[18:31:37] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[18:31:37] [Server thread/INFO]: shikamaru2o left the game
+[18:31:58] [Server thread/INFO]: shikamaru2o[/127.146.41.51:61579] logged in with entity id 55952 at (675.7070369381368, -17.0, 963.8833234344127)
+[18:31:58] [Server thread/INFO]: shikamaru2o joined the game
+[18:40:39] [Server thread/INFO]: [Not Secure] <Huriking> you got silktouch sameep
+[18:40:53] [Server thread/INFO]: SamWise lost connection: Disconnected
+[18:40:53] [Server thread/INFO]: SamWise left the game
+[18:42:02] [Server thread/INFO]: SamWise[/127.157.239.190:7017] logged in with entity id 63010 at (107.47026050978609, 110.5, 162.95492534606217)
+[18:42:02] [Server thread/INFO]: SamWise joined the game
+[18:43:30] [Server thread/INFO]: SamWise lost connection: Disconnected
+[18:43:30] [Server thread/INFO]: SamWise left the game
+[18:44:57] [Server thread/INFO]: SamWise[/127.157.239.190:7031] logged in with entity id 64950 at (108.19675299020199, 103.0, 184.63962615117381)
+[18:44:57] [Server thread/INFO]: SamWise joined the game
+[18:47:38] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[18:47:38] [Server thread/INFO]: shikamaru2o left the game
+[18:48:37] [Server thread/INFO]: shikamaru2o[/127.146.41.51:7572] logged in with entity id 67579 at (776.1690980582574, 54.41999998688698, 801.8664831961008)
+[18:48:37] [Server thread/INFO]: shikamaru2o joined the game
+[18:55:29] [Server thread/INFO]: [Not Secure] <SamWise> sleep
+[18:55:55] [Server thread/INFO]: Huriking has made the advancement [What a Deal!]
+[18:57:18] [Server thread/INFO]: [Not Secure] <Huriking> got emeralds?
+[18:57:28] [Server thread/INFO]: [Not Secure] <Huriking> have a wandering trader here
+[18:57:29] [Server thread/INFO]: [Not Secure] <SamWise> nope trade with fletcher
+[18:57:39] [Server thread/INFO]: [Not Secure] <Huriking> has blue ise
+[18:57:51] [Server thread/INFO]: [Not Secure] <SamWise> thats not fletcher
+[18:58:01] [Server thread/INFO]: [Not Secure] <SamWise> fletcher gives emeralds for sticks
+[19:00:20] [Server thread/INFO]: [Not Secure] <Huriking> sameep want a green beds
+[19:00:26] [Server thread/INFO]: [Not Secure] <Huriking> bed
+[19:00:37] [Server thread/INFO]: [Not Secure] <SamWise> i mean ok
+[19:03:47] [Server thread/INFO]: [Not Secure] <Huriking> we good?
+[19:03:54] [Server thread/INFO]: [Not Secure] <SamWise> idk
+[19:04:00] [Server thread/INFO]: [Not Secure] <SamWise> u askin about the dog na
+[19:04:02] [Server thread/INFO]: [Not Secure] <Huriking> green dye is rare
+[19:04:07] [Server thread/INFO]: [Not Secure] <SamWise> haan kya
+[19:04:10] [Server thread/INFO]: [Not Secure] <SamWise> ok
+[19:04:11] [Server thread/INFO]: [Not Secure] <Huriking> only cactus and wandering trader
+[19:04:26] [Server thread/INFO]: [Not Secure] <SamWise> kelp
+[19:04:37] [Server thread/INFO]: [Not Secure] <Huriking> light green i think
+[19:04:43] [Server thread/WARN]: shikamaru2o was kicked for floating too long!
+[19:04:43] [Server thread/INFO]: shikamaru2o lost connection: Flying is not enabled on this server
+[19:04:43] [Server thread/INFO]: shikamaru2o left the game
+[19:04:57] [Server thread/INFO]: [Not Secure] <SamWise> its not done
+[19:05:08] [Server thread/INFO]: [Not Secure] <SamWise> u have too glass panes on side as railings
+[19:05:10] [Server thread/INFO]: shikamaru2o[/127.146.41.51:38288] logged in with entity id 76690 at (796.6597048111188, -31.833890739061786, 723.3927442864396)
+[19:05:10] [Server thread/INFO]: shikamaru2o joined the game
+[19:05:27] [Server thread/INFO]: [Not Secure] <Huriking> i have 8 stacks of glass panes'
+[19:05:47] [Server thread/INFO]: [Not Secure] <Huriking> kidr ja raha hai ye vaise?
+[19:05:56] [Server thread/INFO]: [Not Secure] <Huriking> sameep sleep
+[19:06:03] [Server thread/INFO]: [Not Secure] <Huriking> on that new luxury bed
+[19:06:03] [Server thread/INFO]: [Not Secure] <SamWise> the pink town
+[19:06:25] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[19:06:25] [Server thread/INFO]: shikamaru2o left the game
+[19:06:30] [Server thread/INFO]: [Not Secure] <Huriking> me panes lagana start karu
+[19:06:39] [Server thread/INFO]: [Not Secure] <SamWise> basically to transport villagers there and user for trade
+[19:07:00] [Server thread/INFO]: [Not Secure] <SamWise> getting them from the village across yours
+[19:07:21] [Server thread/INFO]: [Not Secure] <SamWise> and quick travel to you and the village or savan biome
+[19:07:22] [Server thread/INFO]: shikamaru2o[/127.146.41.51:38573] logged in with entity id 77667 at (803.6382110477039, -40.0, 720.6507604376451)
+[19:07:22] [Server thread/INFO]: shikamaru2o joined the game
+[19:07:46] [Server thread/INFO]: [Not Secure] <Huriking> 6 and half stack panes hai
+[19:08:13] [Server thread/INFO]: [Not Secure] <Huriking> kaise lagau ek bar dikha
+[19:08:29] [Server thread/INFO]: [Not Secure] <SamWise> ya like that
+[19:08:29] [Server thread/INFO]: [Not Secure] <Huriking> correct?
+[19:08:33] [Server thread/INFO]: [Not Secure] <Huriking> ok
+[19:13:17] [Server thread/INFO]: [Not Secure] <Huriking> calculate kiya na left kab marna hai vo
+[19:13:25] [Server thread/INFO]: [Not Secure] <SamWise> yea
+[19:14:33] [Server thread/INFO]: [Not Secure] <SamWise> yoshaaaa
+[19:15:04] [Server thread/INFO]: [Not Secure] <SamWise> no torches btw it mets
+[19:15:28] [Server thread/INFO]: [Not Secure] <Huriking> cobblestone ko smelt karke stone ko cut kar raha hai ki silktoch direct stone ?
+[19:15:40] [Server thread/INFO]: [Not Secure] <SamWise> cobblestone leke
+[19:15:44] [Server thread/INFO]: [Not Secure] <Huriking> damn
+[19:15:50] [Server thread/INFO]: [Not Secure] <SamWise> silk touch only for ice
+[19:16:11] [Server thread/INFO]: [Not Secure] <SamWise> its very low repairing now for more ice
+[19:17:00] [Server thread/INFO]: [Not Secure] <Huriking> shika kya kar raha hai
+[19:17:07] [Server thread/INFO]: [Not Secure] <SamWise> diamonds mine kar rha
+[19:17:16] [Server thread/INFO]: [Not Secure] <SamWise> i think he gonna be covered
+[19:17:23] [Server thread/INFO]: [Not Secure] <SamWise> hope he doesnt die
+[19:17:42] [Server thread/INFO]: [Not Secure] <Huriking> i hope only his diamonds perish
+[19:18:18] [Server thread/INFO]: [Not Secure] <Huriking> sameep tu kya collect kar raha hai abb
+[19:18:27] [Server thread/INFO]: [Not Secure] <SamWise> ice
+[19:18:34] [Server thread/INFO]: [Not Secure] <Huriking> me stone glass ka dekhta hu
+[19:18:44] [Server thread/INFO]: [Not Secure] <SamWise> stone hai enough kardiya mai
+[19:19:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> skeleton spawner mila
+[19:19:05] [Server thread/INFO]: [Not Secure] <SamWise> tere base ke paas ek station hai
+[19:19:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> book of breach kya hota hai
+[19:19:17] [Server thread/INFO]: [Not Secure] <SamWise> accha lagra vo bohto idk y
+[19:19:31] [Server thread/INFO]: [Not Secure] <SamWise> armor pierce where ar u tho
+[19:19:33] [Server thread/INFO]: [Not Secure] <Huriking> breach is for that new weapon
+[19:19:50] [Server thread/INFO]: [Not Secure] <SamWise> for axe and mace
+[19:20:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
+[19:23:53] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[19:23:53] [Server thread/INFO]: shikamaru2o left the game
+[19:24:09] [Server thread/INFO]: shikamaru2o[/127.146.41.51:40029] logged in with entity id 85650 at (781.1969373978509, 87.0, 897.2097027949251)
+[19:24:09] [Server thread/INFO]: shikamaru2o joined the game
+[19:26:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> what are u 2 going
+[19:26:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> doing
+[19:27:04] [Server thread/INFO]: [Not Secure] <Huriking> collecting the sunken treasure that i ss and forgot to collect
+[19:27:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice
+[19:32:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> a legendary 6 veil diamond wtfff
+[19:40:22] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[19:40:22] [Server thread/INFO]: shikamaru2o left the game
+[19:41:13] [Server thread/INFO]: [Not Secure] <Huriking> half slabs na>
+[19:41:23] [Server thread/INFO]: [Not Secure] <SamWise> ?
+[19:41:35] [Server thread/INFO]: [Not Secure] <Huriking> stone ka cut half slabs me karu na
+[19:41:42] [Server thread/INFO]: [Not Secure] <SamWise> ya
+[19:44:11] [Server thread/INFO]: [Not Secure] <SamWise> kya timing pe aaye dono
+[19:44:35] [Server thread/INFO]: [Not Secure] <Huriking> aur 4 stack hai
+[19:44:52] [Server thread/INFO]: [Not Secure] <Huriking> bruh
+[19:45:44] [Server thread/INFO]: [Not Secure] <SamWise> not necessary
+[19:45:49] [Server thread/INFO]: [Not Secure] <SamWise> let it be a tunnel
+[19:45:50] [Server thread/INFO]: [Not Secure] <Huriking> aesthetic
+[19:46:03] [Server thread/INFO]: [Not Secure] <SamWise> waise stone is also not necessart
+[19:46:08] [Server thread/INFO]: [Not Secure] <SamWise> aesthetic only
+[19:46:31] [Server thread/INFO]: [Not Secure] <Huriking> tu ice kar
+[19:46:42] [Server thread/INFO]: [Not Secure] <Huriking> hai mere pe stone
+[19:47:13] [Server thread/INFO]: [Not Secure] <Huriking> tunnel height
+[19:47:15] [Server thread/INFO]: [Not Secure] <Huriking> ?
+[19:47:28] [Server thread/INFO]: [Not Secure] <SamWise> 3 by 3
+[19:47:48] [Server thread/INFO]: [Not Secure] <Huriking> tu mine kar pehele as i got copper tools
+[19:49:07] [Server thread/INFO]: shikamaru2o[/127.146.41.51:41709] logged in with entity id 100878 at (781.4034109180114, -4.0, 955.7841722110803)
+[19:49:07] [Server thread/INFO]: shikamaru2o joined the game
+[19:49:52] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[19:49:52] [Server thread/INFO]: shikamaru2o left the game
+[19:49:58] [Server thread/INFO]: shikamaru2o[/127.146.41.51:41722] logged in with entity id 101441 at (779.3000000119209, -10.0, 977.3000000119209)
+[19:49:58] [Server thread/INFO]: shikamaru2o joined the game
+[19:53:12] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved wrongly! 1.5708816006359427
+[19:53:12] [Server thread/WARN]: Cherry Boat (vehicle of SamWise) moved wrongly! 0.40738961933581663
+[19:53:12] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved wrongly! 1.5687936971255851
+[19:53:12] [Server thread/WARN]: Cherry Boat (vehicle of SamWise) moved wrongly! 0.4324656127362232
+[19:53:12] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved wrongly! 1.2690643050357835
+[19:53:12] [Server thread/WARN]: Cherry Boat (vehicle of SamWise) moved wrongly! 0.45693452692103165
+[19:53:12] [Server thread/WARN]: Cherry Boat (vehicle of SamWise) moved wrongly! 0.5151099297245878
+[19:53:12] [Server thread/WARN]: Cherry Boat (vehicle of SamWise) moved wrongly! 0.4792885089172785
+[19:58:18] [Server thread/INFO]: [Not Secure] <Huriking> tu 2 columns le
+[19:59:29] [Server thread/INFO]: Huriking lost connection: Disconnected
+[19:59:29] [Server thread/INFO]: Huriking left the game
+[20:00:12] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[20:00:12] [Server thread/INFO]: shikamaru2o left the game
+[20:00:18] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:00:18] [Server thread/INFO]: SamWise left the game
+[20:00:23] [Server thread/INFO]: shikamaru2o[/127.146.41.51:42819] logged in with entity id 107373 at (725.0449252813494, -4.0, 930.0240221068448)
+[20:00:23] [Server thread/INFO]: shikamaru2o joined the game
+[20:00:53] [Server thread/INFO]: SamWise[/127.157.239.190:42824] logged in with entity id 107969 at (12.673376266162967, 111.0, 14.249186397432783)
+[20:00:53] [Server thread/INFO]: SamWise joined the game
+[20:01:03] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:01:03] [Server thread/INFO]: SamWise left the game
+[20:02:38] [Server thread/INFO]: SamWise[/127.157.239.190:42841] logged in with entity id 108642 at (12.673376266162967, 111.0, 14.249186397432783)
+[20:02:38] [Server thread/INFO]: SamWise joined the game
+[20:07:10] [Server thread/INFO]: Huriking[/127.17.58.31:43372] logged in with entity id 111227 at (-32.35038718143799, 110.0, 13.779131024549786)
+[20:07:10] [Server thread/INFO]: Huriking joined the game
+[20:09:36] [Server thread/INFO]: [Not Secure] <SamWise> slabs wahan pe
+[20:15:21] [Server thread/INFO]: [Not Secure] <Huriking> help
+[20:15:26] [Server thread/INFO]: [Not Secure] <Huriking> skeletons
+[20:19:27] [Server thread/INFO]: shikamaru2o has made the advancement [Cover Me with Diamonds]
+[20:19:28] [Server thread/INFO]: [Not Secure] <SamWise> finally
+[20:19:31] [Server thread/INFO]: [Not Secure] <Huriking> mc
+[20:19:34] [Server thread/INFO]: [Not Secure] <SamWise> sheesh
+[20:22:28] [Server thread/INFO]: [Not Secure] <SamWise> thats it
+[20:22:32] [Server thread/INFO]: [Not Secure] <SamWise> done
+[20:22:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> im coming homee guysss
+[20:23:24] [Server thread/INFO]: [Not Secure] <Huriking> ye nether me banate toh easy hota na
+[20:23:41] [Server thread/INFO]: [Not Secure] <SamWise> jarurat nahi fortress and bastian are very close
+[20:23:54] [Server thread/INFO]: [Not Secure] <SamWise> few chunks away
+[20:24:15] [Server thread/INFO]: [Not Secure] <SamWise> mext up im making a blaze farm
+[20:24:26] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[20:24:26] [Server thread/INFO]: shikamaru2o left the game
+[20:24:27] [Server thread/INFO]: [Not Secure] <SamWise> joel come to me have to show something cool
+[20:24:52] [Server thread/INFO]: [Not Secure] <SamWise> joel come to me have to show something cool, me and bhingarde built railways
+[20:25:08] [Server thread/INFO]: [Not Secure] <SamWise> i means iceways
+[20:25:25] [Server thread/INFO]: [Not Secure] <SamWise> kya sexy lagrha idhar se
+[20:25:40] [Server thread/INFO]: [Not Secure] <SamWise> aake dekh
+[20:25:44] [Server thread/INFO]: [Not Secure] <SamWise> wait joel left
+[20:33:50] [Server thread/INFO]: [Not Secure] <Huriking> bc glowstone
+[20:33:53] [Server thread/INFO]: [Not Secure] <Huriking> lantern
+[20:33:59] [Server thread/INFO]: [Not Secure] <Huriking> bade admi ho gaye
+[20:34:05] [Server thread/INFO]: [Not Secure] <SamWise> lmao
+[20:34:17] [Server thread/INFO]: [Not Secure] <Huriking> itne bookshelf kaise manage kiye?
+[20:34:36] [Server thread/INFO]: [Not Secure] <SamWise> leather and paper baby
+[20:35:00] [Server thread/INFO]: [Not Secure] <SamWise> and see here
+[20:35:13] [Server thread/INFO]: [Not Secure] <SamWise> i need blaze powder tho
+[20:35:21] [Server thread/INFO]: [Not Secure] <SamWise> then can brew potions
+[20:40:31] [Server thread/INFO]: Huriking lost connection: Disconnected
+[20:40:31] [Server thread/INFO]: Huriking left the game
+[20:44:27] [Server thread/INFO]: Stopping the server
+[20:44:27] [Server thread/INFO]: Stopping server
+[20:44:27] [Server thread/INFO]: Saving players
+[20:44:27] [Server thread/INFO]: SamWise lost connection: Server closed
+[20:44:27] [Server thread/INFO]: SamWise left the game
+[20:44:27] [Netty NIO IO #11/WARN]: A task raised an exception. Task: io.netty.channel.nio.AbstractNioChannel$1@7ba909c0
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.IoRegistration.isValid()" because "registration" is null
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.removeReadOp(AbstractNioChannel.java:268)
+	at io.netty.channel.nio.AbstractNioChannel.clearReadPending0(AbstractNioChannel.java:223)
+	at io.netty.channel.nio.AbstractNioChannel.access$000(AbstractNioChannel.java:53)
+	at io.netty.channel.nio.AbstractNioChannel$1.run(AbstractNioChannel.java:66)
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:148)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:141)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:535)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:201)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[20:44:28] [Server thread/INFO]: Saving worlds
+[20:44:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:44:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:44:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:44:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
