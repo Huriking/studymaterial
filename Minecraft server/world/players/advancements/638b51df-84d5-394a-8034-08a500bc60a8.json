@@ -9,27 +9,32 @@
     "criteria": {
       "minecraft:cold_ocean": "2026-04-18 17:08:01 +0530",
       "minecraft:snowy_slopes": "2026-04-14 22:51:10 +0530",
-      "minecraft:beach": "2026-04-18 17:07:50 +0530",
       "minecraft:forest": "2026-04-14 22:58:45 +0530",
       "minecraft:taiga": "2026-04-18 17:19:02 +0530",
+      "minecraft:deep_ocean": "2026-04-19 10:44:56 +0530",
+      "minecraft:deep_cold_ocean": "2026-04-18 17:08:43 +0530",
+      "minecraft:frozen_ocean": "2026-04-18 18:03:58 +0530",
+      "minecraft:frozen_river": "2026-04-15 11:28:09 +0530",
+      "minecraft:deep_frozen_ocean": "2026-04-18 18:19:42 +0530",
+      "minecraft:ocean": "2026-04-19 10:44:47 +0530",
+      "minecraft:cherry_grove": "2026-04-14 22:58:09 +0530",
+      "minecraft:birch_forest": "2026-04-17 18:31:31 +0530",
+      "minecraft:windswept_hills": "2026-04-18 17:29:13 +0530",
+      "minecraft:snowy_beach": "2026-04-18 18:10:11 +0530",
+      "minecraft:beach": "2026-04-18 17:07:50 +0530",
       "minecraft:river": "2026-04-15 11:20:39 +0530",
+      "minecraft:lukewarm_ocean": "2026-04-19 10:45:24 +0530",
       "minecraft:snowy_plains": "2026-04-15 11:27:02 +0530",
       "minecraft:stony_shore": "2026-04-18 17:07:43 +0530",
       "minecraft:dripstone_caves": "2026-04-15 11:20:07 +0530",
       "minecraft:snowy_taiga": "2026-04-15 14:25:16 +0530",
-      "minecraft:deep_cold_ocean": "2026-04-18 17:08:43 +0530",
+      "minecraft:frozen_peaks": "2026-04-19 12:05:54 +0530",
       "minecraft:old_growth_birch_forest": "2026-04-17 20:34:28 +0530",
-      "minecraft:frozen_ocean": "2026-04-18 18:03:58 +0530",
-      "minecraft:frozen_river": "2026-04-15 11:28:09 +0530",
-      "minecraft:deep_frozen_ocean": "2026-04-18 18:19:42 +0530",
       "minecraft:deep_dark": "2026-04-17 19:18:26 +0530",
-      "minecraft:cherry_grove": "2026-04-14 22:58:09 +0530",
       "minecraft:grove": "2026-04-14 22:58:47 +0530",
       "minecraft:swamp": "2026-04-18 17:10:49 +0530",
       "minecraft:meadow": "2026-04-14 22:58:04 +0530",
-      "minecraft:birch_forest": "2026-04-17 18:31:31 +0530",
-      "minecraft:windswept_hills": "2026-04-18 17:29:13 +0530",
-      "minecraft:snowy_beach": "2026-04-18 18:10:11 +0530",
+      "minecraft:savanna": "2026-04-19 12:29:07 +0530",
       "minecraft:plains": "2026-04-14 22:57:57 +0530"
     },
     "done": false
@@ -2875,6 +2880,114 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2026-04-18 20:38:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-04-19 10:45:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-04-19 10:45:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-04-19 10:45:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-04-19 10:50:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_nautilus_armor": "2026-04-19 11:36:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_nautilus_armor": "2026-04-19 11:36:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-04-19 11:39:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-04-19 11:39:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-04-19 12:16:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2026-04-19 12:17:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-04-19 12:33:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-04-19 12:33:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-04-19 12:33:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-04-19 12:33:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-04-19 12:35:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-04-19 12:35:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-04-19 12:35:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-04-19 12:56:09 +0530"
     },
     "done": true
   },
