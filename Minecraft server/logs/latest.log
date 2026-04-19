@@ -1,239 +1,227 @@
-[17:38:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:38:33] [ServerMain/INFO]: Loaded 1515 recipes
-[17:38:33] [ServerMain/INFO]: Loaded 1617 advancements
-[17:38:33] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:38:33] [Server thread/INFO]: Loading properties
-[17:38:33] [Server thread/INFO]: Default game type: SURVIVAL
-[17:38:33] [Server thread/INFO]: Generating keypair
-[17:38:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:38:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:38:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:38:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:38:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:38:34] [Server thread/INFO]: Preparing level "world"
-[17:38:35] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:38:35] [Server thread/INFO]: Preparing spawn area: 100%
-[17:38:35] [Server thread/INFO]: Time elapsed: 104 ms
-[17:38:35] [Server thread/INFO]: Done (0.997s)! For help, type "help"
-[17:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:38:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:39:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:39:52] [Server thread/INFO]: SamWise[/127.157.239.190:54912] logged in with entity id 88 at (-175.50881167478673, 106.0, 8.474686383764446)
-[17:39:52] [Server thread/INFO]: SamWise joined the game
-[17:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[17:40:52] [Server thread/INFO]: Incorrect argument for command
-[17:40:52] [Server thread/INFO]: time setday<--[HERE]
-[17:40:57] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:41:23] [Server thread/INFO]: Incorrect argument for command
-[17:41:23] [Server thread/INFO]: weather sunny<--[HERE]
-[17:41:30] [Server thread/INFO]: Incorrect argument for command
-[17:41:30] [Server thread/INFO]: weather set sunny<--[HERE]
-[17:41:38] [Server thread/INFO]: Incorrect argument for command
-[17:41:38] [Server thread/INFO]: weather set clear<--[HERE]
-[17:41:58] [Server thread/INFO]: Set the weather to clear
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 8.031323271429528,-1.0,-6.509289449920683
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 8.333636666668667,-1.0,-6.787412600996624
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 8.636254428597567,-1.0,-7.065316157808375
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 8.939038374758411,-1.0,-7.343099816137953
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.241913057520378,-1.0,-7.62081800988866
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.544837282472372,-1.0,-7.898500459975152
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 9.847788557463218,-1.0,-8.176163394018715
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 10.150754601777066,-1.0,-8.453815672301602
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 10.453728710142173,-1.0,-8.731462132538482
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 10.756707221479815,-1.0,-9.009105416121876
-[17:50:11] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 11.059688136840691,-1.0,-9.286746965252265
-[17:50:40] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 10.231890157852376,0.0,-0.8751626809637116
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 10.626526495630742,0.0,-0.8960151362061524
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 11.021224239825528,0.0,-0.9124119900747623
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 11.41596476397649,0.0,-0.9246139859033882
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 11.810743439294242,0.0,-0.9330750071391307
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 12.205556137824374,0.0,-0.9381998270609806
-[17:50:47] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! 12.600399178256794,0.0,-0.9403494224977429
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.20168199445277,-1.0,-0.5139080183738969
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.93553230907844,-1.0,-0.5079021207371532
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.655373192252682,-1.0,-0.5015814434646444
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.36272046381464,-1.0,-0.49498004569849385
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.610734822763447,-1.0,-0.5231411311343415
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -20.306940290915236,-1.0,-0.5162893868190572
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.993209498273586,-1.0,-0.5092143834397476
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.67061754779968,-1.0,-0.5019402776168782
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.34014373810703,-1.0,-0.4938156931333211
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -19.002671986357086,-1.0,-0.4842601376411295
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -18.65897226597974,-1.0,-0.47320302341346476
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -18.309732165741366,-1.0,-0.46058556763497194
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -17.955618533489087,-1.0,-0.44568012044633676
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -17.59797707932364,-1.0,-0.42330665601451045
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -17.23851034447216,-1.0,-0.3895259071604755
-[17:50:50] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -16.877753288352665,-1.0,-0.3446203330725517
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -16.51765955798726,-1.0,-0.2855756107636047
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -16.158359906487703,-1.0,-0.2135179798671487
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -15.799768414557093,-1.0,-0.1298554364941893
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -15.441808459362733,-1.0,-0.035843631641238716
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -15.084411708658763,-1.0,0.06739764507529244
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -14.72751722374528,-1.0,0.1788697652240181
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -14.37107065948669,-1.0,0.29768215192392233
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -14.015023550888827,-1.0,0.42304058867157934
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -13.65933267686762,-1.0,0.5542367931527252
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -13.303959492858098,-1.0,0.6906391191669421
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -12.948869624815757,-1.0,0.8316842646036591
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -12.594032417965877,-1.0,0.9768698766147814
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -12.239420534379065,-1.0,1.1257479569072828
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -11.885009594088615,-1.0,1.2779189805828501
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -11.530676060454311,-1.0,1.4328251102402163
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -11.17636197513832,-1.0,1.5900712735572107
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -10.822065233833541,-1.0,1.7494042789994246
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -10.467732812516829,-1.0,1.910495389850027
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -10.113368571763885,-1.0,2.0731543791846434
-[17:50:51] [Server thread/WARN]: Horse (vehicle of SamWise) moved too quickly! -9.75897595443621,-1.0,2.2372116026233755
-[17:51:42] [Server thread/WARN]: SamWise moved too quickly! -2.224638649762369,0.0,10.155655939850107
-[17:54:08] [Server thread/WARN]: SamWise moved too quickly! -4.99000799459111,0.12129684053920187,-8.939204523067446
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.27189192494429903
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.30497842129364017
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.33111420541931125
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.35852600097922505
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.35584274524882176
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.35340113505858994
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.35117465398451486
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3482873569556659
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3457109504639675
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.343427608234407
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3365590626200685
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3298278877870189
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.32323133632226586
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3167667157609628
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.310431387487597
-[17:59:07] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3042227656588352
-[17:59:08] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.3378304125604359
-[17:59:08] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved wrongly! 0.36672138183971015
-[17:59:29] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:08:20] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:17:09] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:26:26] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:28:56] [Server thread/INFO]: shikamaru2o[/127.146.41.51:61075] logged in with entity id 12705 at (623.8527769019905, 70.0, 737.6778437512921)
-[18:28:56] [Server thread/INFO]: shikamaru2o joined the game
-[18:33:15] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:35:00] [Server thread/INFO]: XFighter009[/127.171.64.199:54300] logged in with entity id 15808 at (-137.6571576618957, 116.0, -68.67394804243668)
-[18:35:00] [Server thread/INFO]: XFighter009 joined the game
-[18:38:42] [Server thread/INFO]: [Not Secure] <SamWise> u have some glass
-[18:38:50] [Server thread/INFO]: [Not Secure] <SamWise> can i take pls
-[18:38:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> how much
-[18:39:05] [Server thread/INFO]: [Not Secure] <SamWise> around 6
-[18:39:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> go ahead
-[18:39:15] [Server thread/INFO]: [Not Secure] <SamWise> may need more
-[18:39:16] [Server thread/INFO]: [Not Secure] <XFighter009> yeah
-[18:39:35] [Server thread/INFO]: [Not Secure] <XFighter009> sameeeo tader hai
-[18:39:39] [Server thread/INFO]: [Not Secure] <XFighter009> upAR
-[18:39:47] [Server thread/INFO]: [Not Secure] <XFighter009> idr
-[18:40:10] [Server thread/INFO]: [Not Secure] <XFighter009> live sax
-[18:40:27] [Server thread/INFO]: [Not Secure] <SamWise> truk terko dikhata mai
-[18:41:31] [Server thread/INFO]: [Not Secure] <SamWise> ye dekho guys
-[18:41:52] [Server thread/INFO]: [Not Secure] <SamWise> come away and come back
-[18:42:02] [Server thread/INFO]: [Not Secure] <SamWise> come here
-[18:42:19] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:42:57] [Server thread/INFO]: SamWise lost connection: Disconnected
-[18:42:57] [Server thread/INFO]: SamWise left the game
-[18:43:42] [Server thread/INFO]: SamWise[/127.157.239.190:64087] logged in with entity id 17102 at (-180.78386958811515, 102.0, 33.75105113790269)
-[18:43:42] [Server thread/INFO]: SamWise joined the game
-[18:43:59] [Server thread/INFO]: [Not Secure] <XFighter009> itna baat karne wali chaiye
-[18:44:06] [Server thread/INFO]: [Not Secure] <SamWise> lmaoo
-[18:44:14] [Server thread/INFO]: [Not Secure] <XFighter009> khair
-[18:44:16] [Server thread/INFO]: [Not Secure] <SamWise> wait there might be a lil problemo
-[18:44:24] [Server thread/INFO]: [Not Secure] <XFighter009> wat
-[18:45:24] [Server thread/INFO]: Set the weather to clear
-[18:46:09] [Server thread/INFO]: XFighter009 has made the advancement [Not Today, Thank You]
-[18:50:21] [Server thread/INFO]: [Not Secure] <SamWise> give more bread
-[18:51:55] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:53:08] [Server thread/INFO]: [Not Secure] <SamWise> benzil horha
-[18:53:12] [Server thread/INFO]: [Not Secure] <SamWise> yayyyyyyy
-[18:53:16] [Server thread/INFO]: [Not Secure] <SamWise> new bebebebeebe
-[18:53:17] [Server thread/INFO]: [Not Secure] <XFighter009> bhai i messed up
-[18:53:21] [Server thread/INFO]: [Not Secure] <SamWise> sooo happpyyyy
-[18:53:40] [Server thread/INFO]: [Not Secure] <SamWise> joel where are u did u see the bridge
-[18:53:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> yess well done
-[18:53:51] [Server thread/INFO]: [Not Secure] <SamWise> hehehe
-[18:53:54] [Server thread/INFO]: [Not Secure] <XFighter009> i messed up with bhings farm
-[18:54:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> bro ek ko blacksmith bana
-[18:54:41] [Server thread/INFO]: [Not Secure] <SamWise> kyun?
-[18:54:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> enchanted weapons dega phir
-[18:54:52] [Server thread/INFO]: [Not Secure] <XFighter009> bhingf is going to kil me
-[18:54:58] [Server thread/INFO]: [Not Secure] <SamWise> librarian and fletcher are my priority
-[18:55:02] [Server thread/INFO]: [Not Secure] <SamWise> kya kiya tu
-[18:55:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> true that too
-[18:55:22] [Server thread/INFO]: [Not Secure] <XFighter009> farm pe pani dala
-[18:55:47] [Server thread/INFO]: [Not Secure] <SamWise> bas itni si baat
-[18:55:55] [Server thread/INFO]: [Not Secure] <SamWise> grab those wheat seeds and plant again
-[18:56:00] [Server thread/INFO]: [Not Secure] <XFighter009> kya cute hai bache
-[18:56:03] [Server thread/INFO]: [Not Secure] <SamWise> ikr
-[18:56:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> haina
-[18:56:32] [Server thread/INFO]: [Not Secure] <XFighter009> brooooo joel diamond?
-[18:56:39] [Server thread/INFO]: [Not Secure] <XFighter009> full kapda
-[18:56:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> yesssirrr
-[18:57:00] [Server thread/INFO]: [Not Secure] <XFighter009> bnsdk sameep seed sow karta
-[18:57:53] [Server thread/INFO]: [Not Secure] <XFighter009> bhing ke bucket chuatra
-[18:57:56] [Server thread/INFO]: [Not Secure] <XFighter009> churaya
-[18:57:58] [Server thread/INFO]: [Not Secure] <XFighter009> hehe
-[18:58:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> lol
-[18:59:02] [Server thread/INFO]: [Not Secure] <SamWise> any extra diamonds for us?
-[18:59:05] [Server thread/INFO]: [Not Secure] <SamWise> uwu
-[18:59:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> not for free
-[18:59:26] [Server thread/INFO]: [Not Secure] <SamWise> how many di u have
-[18:59:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> till this block
-[18:59:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> 40
-[18:59:54] [Server thread/INFO]: [Not Secure] <SamWise> damn
-[19:00:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> till this block bruh
-[19:00:33] [Server thread/INFO]: [Not Secure] <XFighter009> hoe nhi
-[19:00:47] [Server thread/INFO]: [Not Secure] <XFighter009> abyee ye lodu ender
-[19:00:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> creeper tha benzil tere piche
-[19:02:23] [Server thread/INFO]: [Not Secure] <XFighter009> dooo bachaaa
-[19:02:31] [Server thread/INFO]: [Not Secure] <SamWise> nai ek hi hai
-[19:02:42] [Server thread/INFO]: [Not Secure] <SamWise> wait whaaa
-[19:02:45] [Server thread/INFO]: [Not Secure] <SamWise> noo wayy
-[19:02:48] [Server thread/INFO]: [Not Secure] <XFighter009> dooo haiii
-[19:02:49] [Server thread/INFO]: [Not Secure] <SamWise> we have twinns
-[19:03:00] [Server thread/INFO]: [Not Secure] <SamWise> benzil inko bread khilana hotay
-[19:03:00] [Server thread/INFO]: [Not Secure] <XFighter009> do bache mete kheer
-[19:03:08] [Server thread/INFO]: [Not Secure] <XFighter009> usse jyda bawasir
-[19:03:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> yoooo
-[19:04:16] [Server thread/INFO]: [Not Secure] <XFighter009> kaise du bread
-[19:04:19] [Server thread/INFO]: [Not Secure] <SamWise> mai just realize kiya
-[19:04:29] [Server thread/INFO]: [Not Secure] <SamWise> joel ka skin ladki hai
-[19:04:33] [Server thread/INFO]: [Not Secure] <SamWise> hey gorgeius
-[19:04:36] [Server thread/INFO]: [Not Secure] <XFighter009> tf 3 bache
-[19:04:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> hey baby
-[19:04:46] [Server thread/INFO]: [Not Secure] <SamWise> wtfff
-[19:04:52] [Server thread/INFO]: [Not Secure] <SamWise> bhai sahab rukiye
-[19:04:59] [Server thread/INFO]: [Not Secure] <XFighter009> bihari genes
-[19:05:00] [Server thread/INFO]: [Not Secure] <SamWise> bohot tej energy hai lagtay
-[19:05:02] [Server thread/INFO]: [Not Secure] <SamWise> lmaoooo
-[19:05:29] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
-[19:06:31] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
-[19:06:41] [Server thread/INFO]: [Not Secure] <SamWise> peeche se
-[19:07:02] [Server thread/INFO]: [Not Secure] <SamWise> open trap door drop food and run
-[19:07:03] [Server thread/INFO]: [Not Secure] <XFighter009> wowoww
-[19:07:06] [Server thread/INFO]: [Not Secure] <SamWise> meat dont work
-[19:07:13] [Server thread/INFO]: [Not Secure] <SamWise> bread and vegetable
-[19:07:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> its like were gods
-[19:07:17] [Server thread/INFO]: [Not Secure] <XFighter009> his meat will work
-[19:07:23] [Server thread/INFO]: [Not Secure] <XFighter009> for
-[19:07:26] [Server thread/INFO]: [Not Secure] <XFighter009> real
-[19:07:27] [Server thread/INFO]: [Not Secure] <SamWise> 4 bread or 12 carrot/potato/....
-[19:07:56] [Server thread/INFO]: [Not Secure] <SamWise> but abhi nahe hoga aur bacche
-[19:08:13] [Server thread/INFO]: [Not Secure] <XFighter009> vaise lavahai?
-[19:08:24] [Server thread/INFO]: [Not Secure] <SamWise> no
-[19:08:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> ive put melon seeds here
-[19:10:17] [Server thread/INFO]: SamWise lost connection: Disconnected
-[19:10:17] [Server thread/INFO]: SamWise left the game
-[19:11:06] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved too quickly! -10.165454603276316,0.0,0.1969140891532195
-[19:11:06] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved too quickly! 10.597951663142332,0.0,-0.2903751771042504
+[00:00:47] [Server thread/INFO]: XFighter009 was shot by Skeleton
+[00:00:56] [Server thread/INFO]: [Not Secure] <XFighter009> lavdeeeeee day karna
+[00:01:03] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:01:11] [Server thread/INFO]: [Not Secure] <blankslope> kr diya
+[00:01:15] [Server thread/INFO]: [Not Secure] <blankslope> thuderstorm hai
+[00:01:29] [Server thread/INFO]: [Not Secure] <SamWise> type
+[00:01:36] [Server thread/INFO]: [Not Secure] <SamWise> type /weather clear
+[00:01:49] [Server thread/INFO]: Set the weather to clear
+[00:02:11] [Server thread/INFO]: [Not Secure] <XFighter009> bachaaaa
+[00:03:22] [Server thread/INFO]: [Not Secure] <blankslope> torch smone
+[00:04:55] [Server thread/INFO]: SamWise lost connection: Disconnected
+[00:04:56] [Server thread/INFO]: SamWise left the game
+[00:07:04] [Server thread/INFO]: [Not Secure] <XFighter009> gateband
+[00:07:25] [Server thread/INFO]: [Not Secure] <blankslope> ye dirt nikaalke
+[00:07:31] [Server thread/INFO]: [Not Secure] <XFighter009> lavcde
+[00:07:36] [Server thread/INFO]: [Not Secure] <XFighter009> ruknq
+[00:08:40] [Server thread/INFO]: [Not Secure] <XFighter009> ye todke fence gate sab mere gharpe rhakde
+[00:08:59] [Server thread/INFO]: [Not Secure] <XFighter009> band kara
+[00:09:01] [Server thread/INFO]: [Not Secure] <XFighter009> mr
+[00:09:05] [Server thread/INFO]: [Not Secure] <XFighter009> byuee
+[00:09:09] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[00:09:09] [Server thread/INFO]: XFighter009 left the game
+[00:10:31] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:15:28] [Server thread/INFO]: SamWise[/127.157.239.190:62992] logged in with entity id 14944 at (-187.97829420140323, 103.0, 24.298885106726008)
+[00:15:28] [Server thread/INFO]: SamWise joined the game
+[00:19:48] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:28:51] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:29:00] [Server thread/INFO]: [Not Secure] <blankslope> sameep torch
+[00:37:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:45:58] [Server thread/INFO]: shikamaru2o[/127.146.41.51:49269] logged in with entity id 19699 at (-135.66319920639646, 98.0, 53.85597495525175)
+[00:45:58] [Server thread/INFO]: shikamaru2o joined the game
+[00:47:01] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:47:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> how much are u gonna clear
+[00:47:28] [Server thread/INFO]: [Not Secure] <blankslope> tismuch
+[00:47:38] [Server thread/INFO]: [Not Secure] <blankslope> till where im standing
+[00:48:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> bohot bada project hai kya
+[00:48:20] [Server thread/INFO]: [Not Secure] <blankslope> ha
+[00:48:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> planned hai pura?
+[00:48:46] [Server thread/INFO]: [Not Secure] <blankslope> socha hai
+[00:51:39] [Server thread/INFO]: [Not Secure] <blankslope> can you help me with shovels axe and pickaxe
+[00:51:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> ok
+[00:52:37] [Server thread/INFO]: SamWise lost connection: Disconnected
+[00:52:37] [Server thread/INFO]: SamWise left the game
+[00:52:40] [Server thread/INFO]: SamWise[/127.157.239.190:59987] logged in with entity id 20749 at (-189.1206755078377, 103.0, 27.922875037316505)
+[00:52:40] [Server thread/INFO]: SamWise joined the game
+[00:52:45] [Server thread/INFO]: [Not Secure] <blankslope> whose cat is this
+[00:52:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> take
+[00:56:23] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:59:32] [Server thread/INFO]: Set the weather to clear
+[01:02:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> i hear zombies
+[01:02:57] [Server thread/INFO]: [Not Secure] <blankslope> wht does tht mean
+[01:02:58] [Server thread/INFO]: [Not Secure] <SamWise> dint
+[01:03:00] [Server thread/INFO]: [Not Secure] <SamWise> stop
+[01:03:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> shit my bad
+[01:03:06] [Server thread/INFO]: [Not Secure] <SamWise> let it be
+[01:04:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> do u hear zombies too
+[01:04:15] [Server thread/INFO]: [Not Secure] <blankslope> no
+[01:05:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> come here
+[01:05:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> stand here
+[01:05:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> theres too much noise
+[01:05:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> idhai hi
+[01:05:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> aara awaz
+[01:05:50] [Server thread/INFO]: [Not Secure] <blankslope> ha
+[01:06:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> where lmao
+[01:06:22] [Server thread/INFO]: [Not Secure] <blankslope> vaha hamesha hota hia
+[01:06:26] [Server thread/INFO]: Set the weather to clear
+[01:06:28] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:07:34] [Server thread/INFO]: [Not Secure] <SamWise> sarak
+[01:07:36] [Server thread/INFO]: [Not Secure] <blankslope> where they going
+[01:07:47] [Server thread/INFO]: [Not Secure] <SamWise> running away
+[01:09:23] [Server thread/INFO]: [Not Secure] <blankslope> give it to sameep
+[01:13:39] [Server thread/WARN]: shikamaru2o moved too quickly! -9.913572143309025,2.0,-0.7240126681742254
+[01:14:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> joash why is your horse here
+[01:15:08] [Server thread/INFO]: [Not Secure] <blankslope> where
+[01:15:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> here
+[01:15:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> in the bridge
+[01:15:51] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:16:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> hes stuck
+[01:16:44] [Server thread/INFO]: [Not Secure] <blankslope> thts not mine
+[01:16:49] [Server thread/INFO]: [Not Secure] <blankslope> thts sameeps
+[01:16:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh
+[01:17:32] [Server thread/INFO]: [Not Secure] <blankslope> u got a lead on u?
+[01:17:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> nicee
+[01:21:34] [Server thread/INFO]: [Not Secure] <SamWise> can u make it night for 5 secs ish
+[01:22:11] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[01:22:12] [Server thread/INFO]: [Not Secure] <SamWise> wait
+[01:22:18] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:22:23] [Server thread/INFO]: [Not Secure] <SamWise> perfect
+[01:22:26] [Server thread/INFO]: [Not Secure] <SamWise> mwahh
+[01:23:00] [Server thread/INFO]: [Not Secure] <SamWise> sarak ek min
+[01:23:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh u got silk touch
+[01:23:14] [Server thread/INFO]: [Not Secure] <blankslope> whts happening in here
+[01:23:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> we are gonna start trading
+[01:23:38] [Server thread/INFO]: [Not Secure] <SamWise> joash just let it be i dont have energy to expalin
+[01:23:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> basically we give emeralds in exchange for stuff
+[01:24:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> with more trades they start giving more op loot
+[01:24:21] [Server thread/INFO]: [Not Secure] <blankslope> aaah ok
+[01:24:25] [Server thread/INFO]: [Not Secure] <SamWise> i really wanted mending but thak gaya mai
+[01:24:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> man
+[01:24:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> kal karle na
+[01:24:53] [Server thread/INFO]: [Not Secure] <SamWise> ek min
+[01:25:20] [Server thread/INFO]: Set the weather to clear
+[01:31:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep tujhe trail chamber nhi mila na
+[01:31:12] [Server thread/INFO]: [Not Secure] <SamWise> nahi mila
+[01:31:32] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:32:07] [Server thread/INFO]: [Not Secure] <SamWise> yayyy more babies
+[01:32:26] [Server thread/INFO]: [Not Secure] <SamWise> should we name the villagers
+[01:32:31] [Server thread/INFO]: [Not Secure] <SamWise> NIGGA 1
+[01:32:34] [Server thread/INFO]: [Not Secure] <SamWise> NIGGA 2
+[01:32:37] [Server thread/INFO]: [Not Secure] <SamWise> NIGGA 3
+[01:32:41] [Server thread/INFO]: [Not Secure] <SamWise> NIGGA 4
+[01:32:58] [Server thread/INFO]: [Not Secure] <blankslope> give em badges
+[01:33:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> im off to find a trail chamber for a mace
+[01:33:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> apne version mein haina sameep
+[01:34:04] [Server thread/INFO]: [Not Secure] <SamWise> ya'
+[01:34:08] [Server thread/INFO]: [Not Secure] <SamWise> do u have a map
+[01:34:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> no im gonna strip mine
+[01:34:34] [Server thread/INFO]: [Not Secure] <SamWise> bruh ok all the best
+[01:34:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> apne paas hai kya cartographer?
+[01:35:00] [Server thread/INFO]: [Not Secure] <SamWise> nahi but bana hai toh bol
+[01:35:06] [Server thread/INFO]: [Not Secure] <SamWise> kal tak ban jaega
+[01:35:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa bana na'
+[01:36:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> im trading with fletcher bana na plz
+[01:39:05] [Server thread/INFO]: shikamaru2o has made the advancement [What a Deal!]
+[01:40:09] [Server thread/INFO]: [Not Secure] <SamWise> kya bakwaas librarians hai
+[01:40:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> lmaoo
+[01:40:40] [Server thread/INFO]: [Not Secure] <SamWise> wanna watch se
+[01:40:43] [Server thread/INFO]: [Not Secure] <SamWise> sex
+[01:40:55] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:40:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> nahhh im good
+[01:40:58] [Server thread/INFO]: [Not Secure] <SamWise> make it day
+[01:41:07] [Server thread/INFO]: [Not Secure] <blankslope> otw
+[01:41:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> although id like a carto please baby
+[01:41:19] [Server thread/INFO]: [Not Secure] <SamWise> joash come here quick
+[01:41:34] [Server thread/INFO]: [Not Secure] <SamWise> o joashhh
+[01:41:43] [Server thread/INFO]: [Not Secure] <SamWise> cmere
+[01:41:50] [Server thread/INFO]: [Not Secure] <SamWise> dont fall
+[01:42:12] [Server thread/INFO]: [Not Secure] <SamWise> now here
+[01:42:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> yoooo golem spaswned
+[01:42:32] [Server thread/INFO]: [Not Secure] <SamWise> my g
+[01:42:37] [Server thread/INFO]: [Not Secure] <SamWise> joash he is a friend
+[01:42:40] [Server thread/INFO]: [Not Secure] <SamWise> dont kill him
+[01:42:44] [Server thread/INFO]: [Not Secure] <blankslope> ok
+[01:42:46] [Server thread/INFO]: [Not Secure] <SamWise> he will kill zombies
+[01:42:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> attack him galti se he will kill you
+[01:42:52] [Server thread/INFO]: [Not Secure] <blankslope> ohhhh nice
+[01:43:06] [Server thread/INFO]: [Not Secure] <SamWise> joash stay here near glass
+[01:43:43] [Server thread/INFO]: [Not Secure] <SamWise> who took all the bread>?
+[01:44:00] [Server thread/INFO]: [Not Secure] <SamWise> farmer doing good job out here anyways
+[01:45:13] [Server thread/INFO]: [Not Secure] <SamWise> where is the farmer
+[01:45:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> dk lolol
+[01:45:50] [Server thread/INFO]: [Not Secure] <SamWise> no more babies?
+[01:46:26] [Server thread/INFO]: [Not Secure] <blankslope> ok time to sleep
+[01:46:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> divorce lere shayad
+[01:47:04] [Server thread/INFO]: [Not Secure] <SamWise> nahi nahi karenge dekhna
+[01:47:43] [Server thread/INFO]: [Not Secure] <SamWise> consent leray
+[01:47:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> ohh
+[01:48:04] [Server thread/INFO]: [Not Secure] <SamWise> bhai kuch bhi bolo bebe to cutie hai
+[01:48:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
+[01:49:44] [Server thread/INFO]: [Not Secure] <SamWise> shikamaru!!!1
+[01:50:01] [Server thread/INFO]: [Not Secure] <SamWise> joash come quickk
+[01:50:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> waht\
+[01:50:25] [Server thread/INFO]: [Not Secure] <SamWise> make it day
+[01:50:35] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:50:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> so do they make babies everyday?
+[01:51:01] [Server thread/INFO]: [Not Secure] <SamWise> yayyyy
+[01:51:19] [Server thread/INFO]: [Not Secure] <SamWise> cutie patootie
+[01:51:33] [Server thread/INFO]: [Not Secure] <SamWise> kaisa laga joash
+[01:51:47] [Server thread/INFO]: [Not Secure] <blankslope> hes got a better life than me
+[01:51:57] [Server thread/INFO]: [Not Secure] <blankslope> sex life
+[01:52:01] [Server thread/INFO]: [Not Secure] <SamWise> joash bura mat maan
+[01:52:07] [Server thread/INFO]: [Not Secure] <SamWise> par tu ye kya banaray
+[01:52:11] [Server thread/INFO]: [Not Secure] <blankslope> fuck you
+[01:52:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> lol
+[01:52:22] [Server thread/INFO]: [Not Secure] <blankslope> my house
+[01:52:28] [Server thread/INFO]: [Not Secure] <SamWise> like its been a while and tere ghar mein koi changes nahi dikh raahe hai
+[01:52:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> let him cook
+[01:52:31] [Server thread/INFO]: [Not Secure] <SamWise> isliye'
+[01:52:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> look here
+[01:52:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> he was clearing here
+[01:52:57] [Server thread/INFO]: [Not Secure] <SamWise> aur ek chiz bolun joash
+[01:53:04] [Server thread/INFO]: [Not Secure] <SamWise> in logon mein incest chaltay
+[01:53:07] [Server thread/INFO]: [Not Secure] <blankslope> wht
+[01:53:12] [Server thread/INFO]: [Not Secure] <blankslope> mtlb
+[01:53:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> incest hi toh hora hai
+[01:53:36] [Server thread/INFO]: [Not Secure] <SamWise> yrr isko sabh samjhana padta
+[01:53:46] [Server thread/INFO]: [Not Secure] <SamWise> joash can u keep it running all night long
+[01:53:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> u dk what incest means?
+[01:54:10] [Server thread/INFO]: [Not Secure] <blankslope> no
+[01:54:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> having sexual relationships with lets say like sister or cousin or mom etc
+[01:54:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> blood relation
+[01:54:51] [Server thread/INFO]: [Not Secure] <blankslope> tf
+[01:55:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> toh tu notice kar yeh villagers bhi toh wohi kar rahe hai
+[01:55:58] [Server thread/INFO]: [Not Secure] <SamWise> can the server run all night i wann be afk
+[01:56:48] [Server thread/INFO]: [Not Secure] <blankslope> ill push
+[01:56:54] [Server thread/INFO]: [Not Secure] <blankslope> tu host kr
+[01:57:14] [Server thread/INFO]: [Not Secure] <SamWise> anvil toota toh naya banana padega
+[01:57:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep i got lots of music discs from my journey
+[01:57:20] [Server thread/INFO]: [Not Secure] <SamWise> whats ur level btw
+[01:57:23] [Server thread/INFO]: [Not Secure] <SamWise> joel
+[01:57:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> 28
+[01:57:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> u?
+[01:57:47] [Server thread/INFO]: SamWise lost connection: Disconnected
+[01:57:47] [Server thread/INFO]: SamWise left the game
+[01:57:47] [Server thread/WARN]: handleDisconnection() called twice
+[01:57:49] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:57:49] [Server thread/INFO]: shikamaru2o left the game
+[01:57:49] [Netty NIO IO #6/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source)
+[01:59:59] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[02:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:03:20] [Server thread/INFO]: blankslope lost connection: Disconnected
+[02:03:20] [Server thread/INFO]: blankslope left the game
+[02:04:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:04:52] [Server thread/INFO]: Stopping the server
+[02:04:52] [Server thread/INFO]: Stopping server
+[02:04:52] [Server thread/INFO]: Saving players
+[02:04:52] [Server thread/INFO]: Saving worlds
+[02:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

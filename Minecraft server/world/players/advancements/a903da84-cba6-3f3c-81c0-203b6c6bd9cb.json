@@ -553,7 +553,8 @@
     "criteria": {
       "minecraft:skeleton": "2026-04-19 18:46:13 +0530",
       "minecraft:spider": "2026-04-17 16:33:29 +0530",
-      "minecraft:zombie": "2026-04-15 19:27:33 +0530"
+      "minecraft:zombie": "2026-04-15 19:27:33 +0530",
+      "minecraft:drowned": "2026-04-19 23:44:02 +0530"
     },
     "done": false
   },
