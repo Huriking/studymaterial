@@ -1,252 +1,96 @@
-[10:41:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[10:41:38] [ServerMain/INFO]: Loaded 1515 recipes
-[10:41:38] [ServerMain/INFO]: Loaded 1617 advancements
-[10:41:38] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[10:41:38] [Server thread/INFO]: Loading properties
-[10:41:38] [Server thread/INFO]: Default game type: SURVIVAL
-[10:41:38] [Server thread/INFO]: Generating keypair
-[10:41:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:41:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:41:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:41:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:41:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:41:39] [Server thread/INFO]: Preparing level "world"
-[10:41:39] [Server thread/INFO]: Loading 0 persistent chunks...
-[10:41:39] [Server thread/INFO]: Preparing spawn area: 100%
-[10:41:39] [Server thread/INFO]: Time elapsed: 43 ms
-[10:41:39] [Server thread/INFO]: Done (0.394s)! For help, type "help"
-[10:41:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:41:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10:41:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10:41:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:41:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:41:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:41:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10:42:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:44:12] [Server thread/INFO]: Huriking[/127.249.206.14:2389] logged in with entity id 11 at (-478.4287459082274, 70.0, -282.77069643418105)
-[10:44:12] [Server thread/INFO]: Huriking joined the game
-[10:48:28] [Server thread/INFO]: Huriking was impaled by Drowned
-[10:49:35] [Server thread/INFO]: Huriking was impaled by Drowned
-[10:50:57] [Server thread/INFO]: Huriking has made the advancement [Not Today, Thank You]
-[10:52:11] [Server thread/INFO]: Huriking lost connection: Disconnected
-[10:52:11] [Server thread/INFO]: Huriking left the game
-[10:53:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:13:17] [Server thread/INFO]: SamWise[/127.157.239.190:22184] logged in with entity id 3649 at (-170.3954858804323, 109.0, -1.0849899491364645)
-[11:13:17] [Server thread/INFO]: SamWise joined the game
-[11:15:03] [Server thread/INFO]: SamWise lost connection: Disconnected
-[11:15:03] [Server thread/INFO]: SamWise left the game
-[11:16:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:17:17] [Server thread/INFO]: SamWise[/127.157.239.190:22696] logged in with entity id 4049 at (-113.79868867288965, 109.0, 11.290876231484875)
-[11:17:17] [Server thread/INFO]: SamWise joined the game
-[11:25:00] [Server thread/INFO]: SamWise lost connection: Disconnected
-[11:25:00] [Server thread/INFO]: SamWise left the game
-[11:26:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:28:50] [Server thread/INFO]: SamWise[/127.157.239.190:23718] logged in with entity id 4946 at (-106.17543600287992, 111.0, 14.068183399788747)
-[11:28:50] [Server thread/INFO]: SamWise joined the game
-[11:28:58] [Server thread/INFO]: SamWise lost connection: Disconnected
-[11:28:58] [Server thread/INFO]: SamWise left the game
-[11:29:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:34:49] [Server thread/INFO]: Huriking[/127.249.206.14:64082] logged in with entity id 5185 at (-720.5712343699505, 63.0, -645.8804477020562)
-[11:34:49] [Server thread/INFO]: Huriking joined the game
-[11:43:32] [Server thread/INFO]: Huriking lost connection: Disconnected
-[11:43:32] [Server thread/INFO]: Huriking left the game
-[11:44:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:44:33] [Server thread/INFO]: Huriking[/127.249.206.14:64125] logged in with entity id 6975 at (-811.8891183415226, 62.864637047241075, -617.7438437787221)
-[11:44:33] [Server thread/INFO]: Huriking joined the game
-[11:45:39] [Server thread/INFO]: SamWise[/127.157.239.190:64130] logged in with entity id 7285 at (-106.17543600287992, 111.0, 14.068183399788747)
-[11:45:39] [Server thread/INFO]: SamWise joined the game
-[11:48:29] [Server thread/INFO]: SamWise lost connection: Disconnected
-[11:48:29] [Server thread/INFO]: SamWise left the game
-[11:48:50] [Server thread/INFO]: SamWise[/127.157.239.190:64141] logged in with entity id 8434 at (-108.17706434955996, 111.0, 5.537644375865996)
-[11:48:50] [Server thread/INFO]: SamWise joined the game
-[11:50:53] [Server thread/INFO]: SamWise lost connection: Disconnected
-[11:50:53] [Server thread/INFO]: SamWise left the game
-[12:02:05] [Server thread/INFO]: SamWise[/127.157.239.190:64181] logged in with entity id 11945 at (-105.40789837455965, 111.5, 11.367960148207771)
-[12:02:05] [Server thread/INFO]: SamWise joined the game
-[12:07:00] [Server thread/INFO]: [Not Secure] <Huriking> ye sword aur axe besides nether portal tere hai
-[12:07:13] [Server thread/INFO]: [Not Secure] <SamWise> WHICH PORTAL ARE YOU AT?
-[12:07:25] [Server thread/INFO]: [Not Secure] <Huriking> come to my loc
-[12:07:35] [Server thread/INFO]: [Not Secure] <SamWise> no then wo vala is joel
-[12:09:09] [Server thread/INFO]: [Not Secure] <Huriking> found ocean monument
-[12:12:27] [Server thread/INFO]: [Not Secure] <Huriking> could you give me one redstone dust
-[12:13:07] [Server thread/INFO]: [Not Secure] <SamWise> sexy station na
-[12:13:18] [Server thread/INFO]: [Not Secure] <Huriking> one redstone dust, ya nice one
-[12:13:37] [Server thread/INFO]: [Not Secure] <Huriking> hai kya ek hi chahiye
-[12:14:09] [Server thread/INFO]: [Not Secure] <SamWise> ruk detau
-[12:14:19] [Server thread/INFO]: [Not Secure] <Huriking> mil gaya chod
-[12:14:26] [Server thread/INFO]: [Not Secure] <SamWise> wtf
-[12:14:29] [Server thread/INFO]: [Not Secure] <SamWise> uk my stash
-[12:14:35] [Server thread/INFO]: [Not Secure] <Huriking> nah
-[12:14:44] [Server thread/INFO]: [Not Secure] <Huriking> joel se ek liya
-[12:14:58] [Server thread/INFO]: [Not Secure] <Huriking> aur chupata kya hai stash
-[12:15:02] [Server thread/INFO]: [Not Secure] <SamWise> what are u aking
-[12:15:05] [Server thread/INFO]: [Not Secure] <Huriking> trust nahi hampe
-[12:15:06] [Server thread/INFO]: [Not Secure] <SamWise> any farm?
-[12:15:17] [Server thread/INFO]: [Not Secure] <Huriking> nah compass
-[12:17:06] [Server thread/INFO]: Huriking has made the advancement [Country Lode, Take Me Home]
-[12:18:38] [Server thread/INFO]: Huriking lost connection: Disconnected
-[12:18:38] [Server thread/INFO]: Huriking left the game
-[12:20:31] [Server thread/INFO]: Huriking[/127.249.206.14:64344] logged in with entity id 17948 at (-173.86891152820584, 104.5, 15.726667308583242)
-[12:20:31] [Server thread/INFO]: Huriking joined the game
-[12:21:31] [Server thread/INFO]: [Not Secure] <Huriking> added coal
-[12:22:07] [Server thread/INFO]: [Not Secure] <Huriking> why no fence gate
-[12:22:22] [Server thread/INFO]: [Not Secure] <SamWise> here
-[12:22:31] [Server thread/INFO]: [Not Secure] <SamWise> com here
-[12:22:40] [Server thread/INFO]: [Not Secure] <Huriking> thx
-[12:23:11] [Server thread/INFO]: [Not Secure] <SamWise> see agar bridge nahi hota toh kitna kasht tha terko yaaha aane ko
-[12:23:20] [Server thread/INFO]: [Not Secure] <Huriking> yess
-[12:23:47] [Server thread/INFO]: [Not Secure] <SamWise> i need one leash will return back later can you give
-[12:23:59] [Server thread/INFO]: [Not Secure] <Huriking> wait
-[12:24:17] [Server thread/INFO]: [Not Secure] <SamWise> im getting two villaggers who i traded with over here
-[12:24:24] [Server thread/INFO]: [Not Secure] <Huriking> i think it's in the item frame chest
-[12:24:28] [Server thread/INFO]: [Not Secure] <Huriking> take
-[12:25:18] [Server thread/INFO]: [Not Secure] <SamWise> u have carrots?
-[12:25:27] [Server thread/INFO]: [Not Secure] <Huriking> take from farm
-[12:25:31] [Server thread/INFO]: [Not Secure] <Huriking> top most
-[12:25:34] [Server thread/INFO]: [Not Secure] <Huriking> layer
-[12:27:55] [Server thread/INFO]: Set the weather to clear
-[12:37:06] [Server thread/INFO]: [Not Secure] <Huriking> got my first diamond from a shipwreak
-[12:37:17] [Server thread/INFO]: Huriking lost connection: Disconnected
-[12:37:17] [Server thread/INFO]: Huriking left the game
-[12:37:38] [Server thread/INFO]: [Not Secure] <SamWise> wtf i see something crazy'
-[12:37:55] [Server thread/INFO]: [Not Secure] [Server] what?
-[12:40:31] [Server thread/INFO]: Huriking[/127.249.206.14:11022] logged in with entity id 29177 at (-1332.8878807516444, 64.0, -155.74662328611646)
-[12:40:31] [Server thread/INFO]: Huriking joined the game
-[12:52:11] [Server thread/INFO]: [Not Secure] <SamWise> are you home
-[12:52:20] [Server thread/INFO]: [Not Secure] <Huriking> yes'
-[12:56:09] [Server thread/INFO]: Huriking has made the advancement [Best Friends Forever]
-[12:56:38] [Server thread/INFO]: [Not Secure] <Huriking> honestly this is a shit horse
-[12:56:53] [Server thread/INFO]: [Not Secure] <Huriking> i am killing it
-[13:01:48] [Server thread/INFO]: [Not Secure] <SamWise> thanks
-[13:01:54] [Server thread/INFO]: Huriking lost connection: Disconnected
-[13:01:54] [Server thread/INFO]: Huriking left the game
-[13:06:10] [Server thread/INFO]: SamWise lost connection: Disconnected
-[13:06:10] [Server thread/INFO]: SamWise left the game
-[13:07:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:07:25] [Server thread/INFO]: gRUDE[/127.114.233.156:11129] logged in with entity id 41599 at (4.5, 127.0, -2.5)
-[13:07:25] [Server thread/INFO]: gRUDE joined the game
-[13:08:21] [Server thread/INFO]: SamWise[/127.157.239.190:11136] logged in with entity id 42058 at (-114.39592545353229, 109.0, 8.721492669431267)
-[13:08:21] [Server thread/INFO]: SamWise joined the game
-[13:11:32] [Server thread/INFO]: gRUDE was impaled on a stalagmite
-[13:11:44] [Server thread/INFO]: gRUDE lost connection: Disconnected
-[13:11:44] [Server thread/INFO]: gRUDE left the game
-[13:24:32] [Server thread/INFO]: SamWise lost connection: Disconnected
-[13:24:32] [Server thread/INFO]: SamWise left the game
-[13:25:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:30:52] [Server thread/INFO]: SamWise[/127.157.239.190:11185] logged in with entity id 47875 at (566.5, 69.0, 743.5)
-[13:30:52] [Server thread/INFO]: SamWise joined the game
-[13:42:28] [Server thread/INFO]: SamWise lost connection: Disconnected
-[13:42:28] [Server thread/INFO]: SamWise left the game
-[13:43:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:02:38] [Server thread/INFO]: SamWise[/127.157.239.190:11262] logged in with entity id 51069 at (381.158907252578, 63.0, 766.7067087175756)
-[14:02:38] [Server thread/INFO]: SamWise joined the game
-[14:13:38] [Server thread/INFO]: SamWise lost connection: Disconnected
-[14:13:38] [Server thread/INFO]: SamWise left the game
-[14:14:02] [Server thread/INFO]: SamWise[/127.157.239.190:11285] logged in with entity id 53774 at (170.36804605617866, 72.0, 388.57493250872716)
-[14:14:02] [Server thread/INFO]: SamWise joined the game
-[14:23:17] [Server thread/INFO]: XFighter009[/127.171.64.199:11306] logged in with entity id 55803 at (-135.36537238426848, 113.0, -12.237114553001303)
-[14:23:17] [Server thread/INFO]: XFighter009 joined the game
-[14:23:34] [Server thread/INFO]: [Not Secure] <SamWise> yo wassup
-[14:23:44] [Server thread/INFO]: [Not Secure] <XFighter009> hehe
-[14:23:57] [Server thread/INFO]: [Not Secure] <SamWise> humne sahil ke ghar tak bridge banaya
-[14:24:05] [Server thread/WARN]: XFighter009 moved wrongly!
-[14:24:16] [Server thread/INFO]: [Not Secure] <XFighter009> TF WERE
-[14:24:34] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
-[14:25:17] [Server thread/INFO]: [Not Secure] <XFighter009> inka honeymoon kya
-[14:25:28] [Server thread/INFO]: [Not Secure] <SamWise> yes
-[14:25:39] [Server thread/INFO]: [Not Secure] <SamWise> inko itna ddor se laaya mai pooch mat
-[14:25:42] [Server thread/INFO]: [Not Secure] <SamWise> bohot kasht
-[14:25:51] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
-[14:25:54] [Server thread/INFO]: [Not Secure] <XFighter009> vahi bc aspas nhi dikhe ye log
-[14:26:06] [Server thread/INFO]: [Not Secure] <SamWise> agar bed churaliye to mar jaate hai
-[14:26:22] [Server thread/INFO]: [Not Secure] <SamWise> abbe mat jaa na andar
-[14:26:36] [Server thread/INFO]: [Not Secure] <XFighter009> sry
-[14:27:01] [Server thread/INFO]: [Not Secure] <SamWise> thakurli is more developed
-[14:27:05] [Server thread/INFO]: [Not Secure] <SamWise> thi is thakurli
-[14:27:19] [Server thread/INFO]: [Not Secure] <SamWise> asctuall wait
-[14:27:24] [Server thread/INFO]: [Not Secure] <SamWise> let me ride
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 10.44704115753704,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 12.202088617934375,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 13.960888033062961,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 15.723363451203614,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 17.489441352366203,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 19.259048777988173,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 21.03211422495154,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 22.808567620199295,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 24.58834120483038,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 26.37136765869904,0.0,0.0
-[14:27:39] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! 28.157581011786444,0.0,0.0
-[14:28:03] [Server thread/INFO]: [Not Secure] <XFighter009> tf the pixels didnt even render
-[14:29:01] [Server thread/INFO]: [Not Secure] <SamWise> lets go
-[14:29:34] [Server thread/INFO]: [Not Secure] <SamWise> keep the boat
-[14:29:43] [Server thread/INFO]: [Not Secure] <SamWise> what do u think
-[14:29:47] [Server thread/INFO]: [Not Secure] <SamWise> national highway
-[14:29:55] [Server thread/INFO]: [Not Secure] <XFighter009> FRFR damn good
-[14:30:22] [Server thread/INFO]: [Not Secure] <SamWise> benzil tereliye ek kaam hai karega
-[14:30:28] [Server thread/INFO]: [Not Secure] <XFighter009> waht
-[14:30:36] [Server thread/INFO]: [Not Secure] <SamWise> i need sheep wool
-[14:30:41] [Server thread/INFO]: [Not Secure] <SamWise> lots
-[14:30:46] [Server thread/INFO]: [Not Secure] <XFighter009> ihave upar shyd
-[14:30:47] [Server thread/INFO]: [Not Secure] <SamWise> multliple stacks of 64
-[14:30:51] [Server thread/INFO]: [Not Secure] <XFighter009> wowo
-[14:31:04] [Server thread/INFO]: [Not Secure] <SamWise> u dont need to kill ur sheeps
-[14:31:25] [Server thread/INFO]: [Not Secure] <SamWise> here
-[14:31:44] [Server thread/INFO]: [Not Secure] <SamWise> here
-[14:31:52] [Server thread/INFO]: [Not Secure] <XFighter009> ahhhhhh
-[14:31:52] [Server thread/INFO]: [Not Secure] <SamWise> right click on sheep with this
-[14:32:03] [Server thread/INFO]: [Not Secure] <XFighter009> got it
-[14:32:05] [Server thread/INFO]: [Not Secure] <SamWise> keep feeding them and keep collecting them for me
-[14:32:16] [Server thread/INFO]: [Not Secure] <SamWise> in return i will gove diamonds
-[14:32:20] [Server thread/INFO]: [Not Secure] <SamWise> that is when i fend them
-[14:32:33] [Server thread/INFO]: [Not Secure] <SamWise> in the ancient city
-[14:33:21] [Server thread/INFO]: [Not Secure] <SamWise> ok
-[14:33:30] [Server thread/INFO]: [Not Secure] <SamWise> ?
-[14:33:37] [Server thread/INFO]: [Not Secure] <SamWise> ye le advance
-[14:33:41] [Server thread/INFO]: [Not Secure] <SamWise> very important haan
-[14:33:48] [Server thread/INFO]: [Not Secure] <SamWise> i need all the wool u can farm
-[14:33:55] [Server thread/INFO]: XFighter009 has made the advancement [Diamonds!]
-[14:34:04] [Server thread/INFO]: [Not Secure] <XFighter009> lesgooo
-[14:34:08] [Server thread/INFO]: [Not Secure] <SamWise> ek aur dun u could make a sword?
-[14:34:15] [Server thread/INFO]: [Not Secure] <XFighter009> ha me karta hu
-[14:36:40] [Server thread/WARN]: XFighter009 moved too quickly! -1.5694314879669093,-2.796735600668711,9.677263443751013
-[14:36:45] [Server thread/WARN]: XFighter009 moved too quickly! -9.890676490861125,-1.0,1.9156124960933063
-[14:42:00] [Server thread/INFO]: [Not Secure] <SamWise> dekh baccha banaya
-[14:42:07] [Server thread/INFO]: [Not Secure] <SamWise> aarma se andar mat git
-[14:42:14] [Server thread/INFO]: [Not Secure] <SamWise> cutuew
-[14:42:19] [Server thread/INFO]: [Not Secure] <SamWise> cutie
-[14:42:20] [Server thread/INFO]: [Not Secure] <XFighter009> wowowoowoowooww4
-[14:42:27] [Server thread/INFO]: [Not Secure] <XFighter009> taklyaaa
-[14:42:40] [Server thread/INFO]: [Not Secure] <XFighter009> cheery tree bhi mast jagahahai
-[14:42:42] [Server thread/INFO]: [Not Secure] <SamWise> yahan pe inkeliye accha sa ghar banaenge trades karne ko
-[14:42:50] [Server thread/INFO]: [Not Secure] <XFighter009> yess
-[14:43:53] [Server thread/INFO]: [Not Secure] <SamWise> chal im goin afk bye bye'
-[14:48:56] [Server thread/INFO]: Villager Villager['Villager'/57567, l='ServerLevel[world]', x=-184.70, y=102.56, z=35.64] died, message: 'Villager was slain by Zombie'
-[14:49:14] [Server thread/INFO]: Villager Villager['Villager'/57564, l='ServerLevel[world]', x=-189.59, y=102.56, z=35.42] died, message: 'Villager was slain by Zombie'
-[14:49:24] [Server thread/INFO]: Villager Villager['Villager'/60316, l='ServerLevel[world]', x=-189.71, y=102.56, z=34.57] died, message: 'Villager was slain by Zombie'
-[14:49:36] [Server thread/INFO]: Villager Villager['Villager'/59650, l='ServerLevel[world]', x=-188.39, y=102.00, z=32.67] died, message: 'Villager was slain by Zombie'
-[14:49:36] [Server thread/INFO]: Villager Villager['Villager'/57565, l='ServerLevel[world]', x=-189.43, y=102.56, z=35.55] died, message: 'Villager was slain by Zombie Villager'
-[14:50:36] [Server thread/INFO]: [Not Secure] <SamWise> meko nahi khelna ye game
-[14:50:52] [Server thread/INFO]: [Not Secure] <SamWise> benzilllll
-[14:50:58] [Server thread/INFO]: [Not Secure] <SamWise> mera baccha mar gaya
-[14:51:08] [Server thread/INFO]: [Not Secure] <XFighter009> tf howwwww
-[14:51:19] [Server thread/INFO]: [Not Secure] <SamWise> merko rona aaray
-[14:51:28] [Server thread/INFO]: [Not Secure] <SamWise> mai paap kiya hun
-[14:51:30] [Server thread/INFO]: [Not Secure] <SamWise> ghor paap
-[14:52:14] [Server thread/INFO]: [Not Secure] [Server] kutta ki horse mara
-[14:53:00] [Server thread/INFO]: SamWise lost connection: Disconnected
-[14:53:00] [Server thread/INFO]: SamWise left the game
-[15:03:25] [Server thread/INFO]: XFighter009 was slain by Zombie
-[15:09:07] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[15:09:07] [Server thread/INFO]: XFighter009 left the game
-[15:10:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:36:44] [Server thread/INFO]: Stopping the server
-[15:36:44] [Server thread/INFO]: Stopping server
-[15:36:44] [Server thread/INFO]: Saving players
-[15:36:44] [Server thread/INFO]: Saving worlds
-[15:36:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:03:50] [ServerMain/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Win32Exception
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:42)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48)
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:100)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Win32Exception
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:377)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 14 more
+[16:03:50] [ServerMain/WARN]: Failed retrieving info for group graphics
+java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Win32Exception
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:87)
+	at net.minecraft.SystemReport.lambda$putHardware$1(SystemReport.java:101)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:101)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Win32Exception
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:377)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 12 more
+[16:03:50] [ServerMain/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Psapi$PERFORMANCE_INFORMATION
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:37)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60)
+	at net.minecraft.SystemReport.lambda$putHardware$2(SystemReport.java:102)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:102)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Psapi$PERFORMANCE_INFORMATION
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:377)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 14 more
+[16:03:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:04:01] [ServerMain/INFO]: Loaded 1515 recipes
+[16:04:01] [ServerMain/INFO]: Loaded 1617 advancements
+[16:04:01] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[16:04:01] [Server thread/INFO]: Loading properties
+[16:04:01] [Server thread/INFO]: Default game type: SURVIVAL
+[16:04:01] [Server thread/INFO]: Generating keypair
+[16:04:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:04:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:04:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:04:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:04:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:04:01] [Server thread/INFO]: Preparing level "world"
+[16:04:02] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:04:02] [Server thread/INFO]: Preparing spawn area: 100%
+[16:04:02] [Server thread/INFO]: Time elapsed: 16 ms
+[16:04:02] [Server thread/INFO]: Done (0.899s)! For help, type "help"
+[16:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:04:49] [Server thread/INFO]: XFighter009[/127.171.64.199:51316] logged in with entity id 112 at (-146.71451329241364, 112.0, -7.765037022578351)
+[16:04:49] [Server thread/INFO]: XFighter009 joined the game
+[16:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[16:20:43] [Server thread/INFO]: XFighter009 was doomed to fall by Zombie
+[16:27:52] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[16:27:52] [Server thread/INFO]: XFighter009 left the game
+[16:27:52] [Server thread/WARN]: handleDisconnection() called twice
+[16:28:44] [Server thread/INFO]: XFighter009[/127.171.64.199:51488] logged in with entity id 3880 at (-228.30000001192093, 75.73584067272827, 82.06978877330754)
+[16:28:44] [Server thread/INFO]: XFighter009 joined the game
+[16:32:32] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[16:32:32] [Server thread/INFO]: XFighter009 left the game
