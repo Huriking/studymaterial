@@ -1,178 +1,404 @@
-[14:18:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[14:18:41] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.net.UnknownHostException: api.minecraftservices.com
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
-	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
-	... 9 more
-[14:18:42] [ServerMain/INFO]: Loaded 1515 recipes
-[14:18:42] [ServerMain/INFO]: Loaded 1617 advancements
-[14:18:42] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[14:18:42] [Server thread/INFO]: Loading properties
-[14:18:42] [Server thread/INFO]: Default game type: SURVIVAL
-[14:18:42] [Server thread/INFO]: Generating keypair
-[14:18:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:18:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:18:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:18:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:18:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:18:42] [Server thread/INFO]: Preparing level "world"
-[14:18:43] [Server thread/INFO]: Loading 0 persistent chunks...
-[14:18:43] [Server thread/INFO]: Preparing spawn area: 100%
-[14:18:43] [Server thread/INFO]: Time elapsed: 35 ms
-[14:18:43] [Server thread/INFO]: Done (0.381s)! For help, type "help"
-[14:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:19:10] [Server thread/INFO]: SamWise[/127.0.0.1:63641] logged in with entity id 85 at (-191.3659995227557, 92.0, 1.008669852960966)
-[14:19:10] [Server thread/INFO]: SamWise joined the game
-[14:23:41] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.net.UnknownHostException: api.minecraftservices.com
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
-	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
-	... 9 more
-[14:33:41] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.net.UnknownHostException: api.minecraftservices.com
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
-	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
-	... 9 more
-[14:41:43] [Server thread/INFO]: Named entity Donkey['stuffy'/12, l='ServerLevel[world]', x=-181.32, y=107.00, z=18.68] died: stuffy burned to death
-[14:53:41] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
-com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114)
-	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.net.UnknownHostException: api.minecraftservices.com
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
-	at java.base/java.net.Socket.connect(Socket.java:659)
-	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
-	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1008)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:493)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307)
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82)
-	... 9 more
-[15:15:09] [Server thread/INFO]: SamWise lost connection: Disconnected
-[15:15:09] [Server thread/INFO]: SamWise left the game
-[15:15:46] [Server thread/INFO]: SamWise[/127.0.0.1:63756] logged in with entity id 5305 at (-190.20225723823575, 93.0, 3.0623012824947775)
-[15:15:46] [Server thread/INFO]: SamWise joined the game
-[15:26:26] [Server thread/INFO]: SamWise lost connection: Disconnected
-[15:26:26] [Server thread/INFO]: SamWise left the game
-[15:27:05] [Server thread/INFO]: SamWise[/127.0.0.1:63813] logged in with entity id 7083 at (-191.60423368687785, 103.0, 28.09948503173725)
-[15:27:05] [Server thread/INFO]: SamWise joined the game
-[19:00:13] [Server thread/INFO]: SamWise lost connection: Disconnected
-[19:00:13] [Server thread/INFO]: SamWise left the game
-[19:00:30] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[19:00:30] [Server thread/INFO]: close<--[HERE]
-[19:00:33] [Server thread/INFO]: Stopping the server
-[19:00:33] [Server thread/INFO]: Stopping server
-[19:00:33] [Server thread/INFO]: Saving players
-[19:00:33] [Server thread/INFO]: Saving worlds
-[19:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:00:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:26:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:26:40] [ServerMain/INFO]: Loaded 1515 recipes
+[19:26:40] [ServerMain/INFO]: Loaded 1617 advancements
+[19:26:40] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:26:40] [Server thread/INFO]: Loading properties
+[19:26:40] [Server thread/INFO]: Default game type: SURVIVAL
+[19:26:40] [Server thread/INFO]: Generating keypair
+[19:26:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:26:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:26:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:26:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:26:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:26:40] [Server thread/INFO]: Preparing level "world"
+[19:26:40] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:26:40] [Server thread/INFO]: Preparing spawn area: 100%
+[19:26:40] [Server thread/INFO]: Time elapsed: 13 ms
+[19:26:40] [Server thread/INFO]: Done (0.256s)! For help, type "help"
+[19:26:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:26:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:26:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:26:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:26:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:26:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:26:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:26:55] [Server thread/INFO]: Huriking[/127.23.111.7:17921] logged in with entity id 2 at (93.63930515661788, 111.51249995231629, 14.433137641109637)
+[19:26:55] [Server thread/INFO]: Huriking joined the game
+[19:28:41] [Server thread/INFO]: SamWise[/127.87.187.82:45537] logged in with entity id 1000 at (-190.04699949721058, 92.0, 2.1164525180594156)
+[19:28:41] [Server thread/INFO]: SamWise joined the game
+[19:46:16] [Server thread/INFO]: Named entity Horse['stacy'/6306, l='ServerLevel[world]', x=-35.50, y=142.69, z=252.09] died: stacy was impaled on a stalagmite
+[19:46:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! -10.302392190793483,0.0,-0.00332951669602366
+[19:46:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! -10.869953243421037,0.0,-0.00332951669602366
+[19:46:56] [Server thread/INFO]: [Not Secure] <Huriking> BRRROO
+[19:47:07] [Server thread/INFO]: [Not Secure] <Huriking> Why creeper on the boat
+[19:47:21] [Server thread/INFO]: [Not Secure] <Huriking> station damaged
+[19:48:33] [Server thread/INFO]: Huriking was slain by Enderman
+[20:01:39] [Server thread/INFO]: [Not Secure] <SamWise> make it day
+[20:01:48] [Server thread/INFO]: [Not Secure] <Huriking> sleep
+[20:02:10] [Server thread/INFO]: [Not Secure] <SamWise> bed not accesible
+[20:02:19] [Server thread/INFO]: Huriking lost connection: Disconnected
+[20:02:19] [Server thread/INFO]: Huriking left the game
+[20:02:25] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:03:15] [Server thread/INFO]: Huriking[/127.23.111.7:49408] logged in with entity id 12666 at (-1146.6216019244446, 67.0, 76.53460555598438)
+[20:03:15] [Server thread/INFO]: Huriking joined the game
+[20:28:10] [Server thread/INFO]: shikamaru2o[/127.146.41.51:51751] logged in with entity id 20767 at (-170.2550726644863, 109.0, -0.15461793128818396)
+[20:28:10] [Server thread/INFO]: shikamaru2o joined the game
+[20:30:02] [Server thread/INFO]: Maerusen[/127.67.214.111:51789] logged in with entity id 21211 at (9.5, 119.0, 1.5)
+[20:30:02] [Server thread/INFO]: Maerusen joined the game
+[20:30:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> hey baby
+[20:30:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> press T to speak
+[20:31:59] [Server thread/INFO]: Maerusen was slain by shikamaru2o
+[20:32:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> welcomeeee
+[20:33:28] [Server thread/INFO]: [Not Secure] <Maerusen> Hi
+[20:33:31] [Server thread/INFO]: [Not Secure] <Huriking> yo
+[20:33:34] [Server thread/INFO]: [Not Secure] <Maerusen> Got it
+[20:33:43] [Server thread/INFO]: Huriking lost connection: Disconnected
+[20:33:43] [Server thread/INFO]: Huriking left the game
+[20:34:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> press ctrl to sprint\
+[20:34:09] [Server thread/INFO]: [Not Secure] <Maerusen> yes sir
+[20:34:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> welcome
+[20:34:25] [Server thread/INFO]: [Not Secure] <Maerusen> enderman
+[20:35:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> escaped\
+[20:35:05] [Server thread/INFO]: Huriking[/127.23.111.7:52662] logged in with entity id 22667 at (-1045.699999988079, 20.0, -42.83111326435032)
+[20:35:05] [Server thread/INFO]: Huriking joined the game
+[20:35:36] [Server thread/INFO]: XFighter009[/127.99.221.180:52707] logged in with entity id 22918 at (-132.46225319534432, 106.0, 11.396183826529574)
+[20:35:36] [Server thread/INFO]: XFighter009 joined the game
+[20:36:03] [Server thread/INFO]: [Not Secure] <XFighter009> ashuuuuuuuu
+[20:36:28] [Server thread/INFO]: [Not Secure] <XFighter009> U THERE
+[20:36:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> idts
+[20:36:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> aaya
+[20:37:48] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[20:37:48] [Server thread/INFO]: shikamaru2o left the game
+[20:38:22] [Server thread/INFO]: [Not Secure] <XFighter009> ashu tu hai kya?
+[20:38:27] [Server thread/INFO]: [Not Secure] <XFighter009> fir kon ye
+[20:39:45] [Server thread/INFO]: [Not Secure] <Maerusen> Yaa sorry afk tha
+[20:40:40] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:40:40] [Server thread/INFO]: Maerusen left the game
+[20:40:44] [Server thread/INFO]: Maerusen[/127.67.214.111:53245] logged in with entity id 24346 at (-182.5875831982411, 101.0, 45.47555308487352)
+[20:40:44] [Server thread/INFO]: Maerusen joined the game
+[20:40:52] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:40:52] [Server thread/INFO]: Maerusen left the game
+[20:41:01] [Server thread/INFO]: [Not Secure] <Huriking> sleep
+[20:41:31] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:41:59] [Server thread/INFO]: Maerusen[/127.67.214.111:2609] logged in with entity id 24737 at (-185.1523655461618, 101.0, 45.558369078488646)
+[20:41:59] [Server thread/INFO]: Maerusen joined the game
+[20:43:18] [Server thread/INFO]: [Not Secure] <Huriking> rotten flesh tasty af
+[20:45:59] [Server thread/INFO]: [Not Secure] <XFighter009> OBsidien todene kya lgat hai
+[20:46:10] [Server thread/INFO]: [Not Secure] <Huriking> diamond pickaxe
+[20:47:00] [Server thread/INFO]: [Not Secure] <XFighter009> do diamound hai?
+[20:47:12] [Server thread/INFO]: [Not Secure] <Huriking> do hi hai
+[20:47:35] [Server thread/INFO]: [Not Secure] <Huriking> charity wheat iron taak kar sakte hai
+[20:47:41] [Server thread/INFO]: [Not Secure] <Huriking> diamond too difficult
+[20:47:44] [Server thread/INFO]: [Not Secure] <Huriking> earn them
+[20:48:30] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:48:30] [Server thread/INFO]: Maerusen left the game
+[20:48:30] [Server thread/INFO]: [Not Secure] <Huriking> dont take without permissio i would genuinely be mad
+[20:48:41] [Server thread/INFO]: [Not Secure] <XFighter009> ye ashu hau ?
+[20:48:47] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 0.43223871293822214
+[20:48:47] [Server thread/WARN]: Acacia Boat (vehicle of Huriking) moved wrongly! 0.8445801522077474
+[20:48:47] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 0.4467077743542873
+[20:48:47] [Server thread/WARN]: Acacia Boat (vehicle of Huriking) moved wrongly! 0.8118340047120256
+[20:48:47] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 0.46091752163600574
+[20:48:47] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 1.670838750171555
+[20:48:47] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 1.670838750171555
+[20:48:47] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 1.670838750171555
+[20:48:48] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 1.670838750171555
+[20:48:48] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 1.670838750171555
+[20:48:48] [Server thread/WARN]: Oak Boat (vehicle of XFighter009) moved wrongly! 1.670838750171555
+[20:48:59] [Server thread/INFO]: Maerusen[/127.67.214.111:3159] logged in with entity id 28996 at (-79.44931013142572, 104.0, 94.28942562664066)
+[20:48:59] [Server thread/INFO]: Maerusen joined the game
+[20:49:11] [Server thread/INFO]: [Not Secure] <Huriking> ha
+[20:49:26] [Server thread/INFO]: [Not Secure] <Maerusen> where do i find wood
+[20:49:32] [Server thread/INFO]: [Not Secure] <XFighter009> sheepo kill
+[20:49:36] [Server thread/INFO]: [Not Secure] <Maerusen> ok
+[20:49:40] [Server thread/INFO]: [Not Secure] <Huriking> any visible tree is wood
+[20:49:49] [Server thread/INFO]: [Not Secure] <Maerusen> there is no visible tree
+[20:49:52] [Server thread/INFO]: [Not Secure] <Huriking> break with holding right click
+[20:49:55] [Server thread/INFO]: [Not Secure] <Maerusen> deforestation pro amx
+[20:49:56] [Server thread/INFO]: [Not Secure] <Huriking> sakura trees hai na
+[20:50:15] [Server thread/INFO]: XFighter009 tried to swim in lava
+[20:50:24] [Server thread/INFO]: [Not Secure] <XFighter009> yaaaaarrrrr
+[20:50:25] [Server thread/INFO]: [Not Secure] <Huriking> diamond galvaye?
+[20:50:27] [Server thread/INFO]: [Not Secure] <XFighter009> sahiillll
+[20:50:35] [Server thread/INFO]: [Not Secure] <XFighter009> save my homeee
+[20:51:24] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:51:24] [Server thread/INFO]: Maerusen left the game
+[20:51:54] [Server thread/INFO]: Huriking has made the advancement [Hot Stuff]
+[20:52:09] [Server thread/INFO]: Maerusen[/127.67.214.111:3412] logged in with entity id 30366 at (-123.18794773274867, 103.0, 80.48965713062323)
+[20:52:09] [Server thread/INFO]: Maerusen joined the game
+[20:52:12] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:52:12] [Server thread/INFO]: Maerusen left the game
+[20:52:19] [Server thread/INFO]: [Not Secure] <XFighter009> cry aara
+[20:52:41] [Server thread/INFO]: Huriking burned to death
+[20:52:43] [Server thread/INFO]: XFighter009 burned to death
+[20:53:15] [Server thread/INFO]: [Not Secure] <Huriking> mera saman le le
+[20:53:17] [Server thread/INFO]: Maerusen[/127.67.214.111:3681] logged in with entity id 30761 at (-123.18794773274867, 103.0, 80.48965713062323)
+[20:53:17] [Server thread/INFO]: Maerusen joined the game
+[20:53:24] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:53:24] [Server thread/INFO]: Maerusen left the game
+[20:53:52] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[20:53:52] [Server thread/INFO]: XFighter009 left the game
+[20:53:56] [Server thread/INFO]: Maerusen[/127.67.214.111:3687] logged in with entity id 31252 at (-123.18794773274867, 103.0, 80.48965713062323)
+[20:53:56] [Server thread/INFO]: Maerusen joined the game
+[20:53:59] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:53:59] [Server thread/INFO]: Maerusen left the game
+[20:54:55] [Server thread/INFO]: Maerusen[/127.67.214.111:3705] logged in with entity id 32235 at (-123.18794773274867, 103.0, 80.48965713062323)
+[20:54:55] [Server thread/INFO]: Maerusen joined the game
+[20:54:57] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[20:54:57] [Server thread/INFO]: Maerusen left the game
+[20:55:03] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[20:55:03] [Server thread/INFO]: /time set day<--[HERE]
+[20:55:08] [Server thread/INFO]: Time marker ResourceKey[minecraft:clock_time_marker / minecraft:dat] does not exist for clock minecraft:overworld
+[20:55:13] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:55:48] [Server thread/INFO]: Maerusen[/127.67.214.111:3720] logged in with entity id 32595 at (-123.18794773274867, 103.0, 80.48965713062323)
+[20:55:48] [Server thread/INFO]: Maerusen joined the game
+[20:56:24] [Server thread/INFO]: Maerusen was slain by Zombie
+[21:03:06] [Server thread/INFO]: [Not Secure] <Maerusen> bed banau ki chest?
+[21:03:14] [Server thread/INFO]: [Not Secure] <Huriking> pehele bed
+[21:03:19] [Server thread/INFO]: [Not Secure] <Huriking> phir chest
+[21:03:20] [Server thread/INFO]: [Not Secure] <Maerusen> ok
+[21:03:42] [Server thread/INFO]: [Not Secure] <Maerusen> me spawn point pe hi settle hora
+[21:03:47] [Server thread/INFO]: [Not Secure] <Maerusen> lotta trees here
+[21:05:28] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[21:05:28] [Server thread/INFO]: Maerusen left the game
+[21:05:31] [Server thread/INFO]: [Not Secure] <Huriking> good
+[21:08:01] [Server thread/INFO]: Maerusen[/127.67.214.111:4369] logged in with entity id 35305 at (-19.767489538242593, 128.0, -9.085929655296145)
+[21:08:01] [Server thread/INFO]: Maerusen joined the game
+[21:10:26] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[21:10:26] [Server thread/INFO]: Maerusen left the game
+[21:11:02] [Server thread/INFO]: Maerusen[/127.67.214.111:4427] logged in with entity id 36072 at (-21.519417719637868, 128.0, -7.3238229933551295)
+[21:11:02] [Server thread/INFO]: Maerusen joined the game
+[21:14:23] [Server thread/INFO]: [Not Secure] <Maerusen> yo
+[21:14:36] [Server thread/INFO]: [Not Secure] <Huriking> hi
+[21:14:38] [Server thread/INFO]: [Not Secure] <Maerusen> can i slay some sheep from this farm?
+[21:14:51] [Server thread/INFO]: [Not Secure] <Huriking> do as you wish, they are joash's
+[21:15:38] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[21:15:38] [Server thread/INFO]: Maerusen left the game
+[21:16:33] [Server thread/INFO]: Maerusen[/127.67.214.111:4498] logged in with entity id 37593 at (-132.52699893480798, 102.0, 30.019121023655934)
+[21:16:33] [Server thread/INFO]: Maerusen joined the game
+[21:17:16] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[21:17:28] [Server thread/INFO]: [Not Secure] <Maerusen> im stuck in the sheep pen
+[21:17:37] [Server thread/INFO]: [Not Secure] <Maerusen> should i remove the fence?
+[21:17:48] [Server thread/INFO]: [Not Secure] <Maerusen> im afraid theyll run away
+[21:17:56] [Server thread/INFO]: [Not Secure] <SamWise> come climb on that white thing
+[21:18:02] [Server thread/INFO]: [Not Secure] <SamWise> gosh thi boy
+[21:18:09] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[21:18:21] [Server thread/INFO]: [Not Secure] <Maerusen> samwise u beauty
+[21:18:21] [Server thread/INFO]: Huriking lost connection: Disconnected
+[21:18:21] [Server thread/INFO]: Huriking left the game
+[21:18:28] [Server thread/INFO]: [Not Secure] <Maerusen> came from nowhere
+[21:18:34] [Server thread/INFO]: [Not Secure] <Maerusen> went to nowhere
+[21:18:40] [Server thread/INFO]: [Not Secure] <SamWise> now i go back to my slumber
+[21:18:42] [Server thread/INFO]: [Not Secure] <Maerusen> thank you
+[21:18:43] [Server thread/INFO]: [Not Secure] <SamWise> see my house
+[21:18:48] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[21:18:56] [Server thread/INFO]: [Not Secure] <SamWise> make ur bed wel stay together
+[21:19:16] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[21:19:30] [Server thread/INFO]: [Not Secure] <SamWise> come here listen to this banger
+[21:19:44] [Server thread/INFO]: [Not Secure] <SamWise> see i have vinyl reord
+[21:19:59] [Server thread/INFO]: [Not Secure] <SamWise> make ur bed on this
+[21:21:06] [Server thread/INFO]: Huriking[/127.23.111.7:4557] logged in with entity id 38576 at (-160.3375636303031, 103.5, 21.909356220345245)
+[21:21:06] [Server thread/INFO]: Huriking joined the game
+[21:21:08] [Server thread/INFO]: [Not Secure] <SamWise> thats workstation are come up to bedroom
+[21:21:28] [Server thread/INFO]: [Not Secure] <SamWise> what do u think
+[21:21:30] [Server thread/INFO]: [Not Secure] <Maerusen> i thougth u ran away wth my bed :)
+[21:21:39] [Server thread/INFO]: [Not Secure] <Maerusen> thx, this is nice
+[21:21:39] [Server thread/INFO]: [Not Secure] <SamWise> come see something cool
+[21:21:52] [Server thread/INFO]: [Not Secure] <SamWise> automatic doors
+[21:22:15] [Server thread/INFO]: [Not Secure] <Maerusen> wow man
+[21:22:20] [Server thread/INFO]: [Not Secure] <Huriking> naye logo ko basic contraptions dikhage show off karta hai
+[21:22:26] [Server thread/INFO]: [Not Secure] <SamWise> ok now very carefully climb onthis ladder see how i cling to wall
+[21:22:34] [Server thread/INFO]: [Not Secure] <SamWise> here
+[21:22:55] [Server thread/INFO]: [Not Secure] <SamWise> automatic sugar cane farm
+[21:23:26] [Server thread/INFO]: [Not Secure] <SamWise> ok bye im afking
+[21:23:34] [Server thread/WARN]: Huriking moved too quickly! -8.054183240559155,-5.0,3.7354661967250316
+[21:23:36] [Server thread/INFO]: Huriking lost connection: Timed out
+[21:23:36] [Server thread/INFO]: Huriking left the game
+[21:23:45] [Server thread/INFO]: Huriking[/127.23.111.7:4596] logged in with entity id 39176 at (-457.0992825611257, 97.0, 33.891940897730144)
+[21:23:45] [Server thread/INFO]: Huriking joined the game
+[21:25:14] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[21:25:14] [Server thread/INFO]: Maerusen left the game
+[21:25:42] [Server thread/INFO]: shikamaru2o[/127.146.41.51:4640] logged in with entity id 40449 at (-174.44739177578154, 105.0, 20.423763562822526)
+[21:25:42] [Server thread/INFO]: shikamaru2o joined the game
+[21:26:09] [Server thread/INFO]: [Not Secure] <SamWise> shikamru save ominous pition for raid na
+[21:26:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> im using it if u dont summon a cartographer now
+[21:26:44] [Server thread/INFO]: [Not Secure] <SamWise> i did make one for u stupid
+[21:26:54] [Server thread/INFO]: [Not Secure] <SamWise> make it day
+[21:26:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> bolne ka na bhaiii
+[21:27:12] [Server thread/INFO]: [Not Secure] <SamWise> dont use ominous potion in trial chamber i mean
+[21:27:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> i want to
+[21:27:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> you both are coming with me too bruh
+[21:27:56] [Server thread/INFO]: [Not Secure] <SamWise> how to make trial chamber map guy
+[21:28:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> keep trading
+[21:28:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> bohot levels baad hi aayega\
+[21:28:31] [Server thread/INFO]: [Not Secure] <SamWise> google pe dekha kya
+[21:28:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> ha
+[21:28:46] [Server thread/INFO]: [Not Secure] <SamWise> in that case i will make another sugar can farm for paper
+[21:28:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> i thought of using chunkbase but i felt that was cheating so i didnt
+[21:29:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> haaa bana
+[21:29:36] [Server thread/INFO]: [Not Secure] <SamWise> go out
+[21:29:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> waise raid se aur ominous potions milega hi
+[21:29:42] [Server thread/INFO]: [Not Secure] <SamWise> just remeber ti place block again
+[21:29:53] [Server thread/INFO]: [Not Secure] <SamWise> oii
+[21:30:02] [Server thread/INFO]: [Not Secure] <SamWise> i broke my pick
+[21:30:35] [Server thread/INFO]: [Not Secure] <SamWise> listen up you guys got bones i need em for other sugar can farm
+[21:30:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> yea how much
+[21:30:54] [Server thread/INFO]: [Not Secure] <SamWise> as much as possiblet
+[21:31:10] [Server thread/INFO]: [Not Secure] <SamWise> trick is to put bone meal in dispenser
+[21:31:29] [Server thread/INFO]: [Not Secure] <SamWise> which constantly shoots to grow sugarcan and the piston breaks it
+[21:31:45] [Server thread/INFO]: [Not Secure] <SamWise> ok bye for now im afk here
+[21:37:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> hua farm?
+[21:37:57] [Server thread/INFO]: Huriking lost connection: Disconnected
+[21:37:57] [Server thread/INFO]: Huriking left the game
+[21:40:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> wtfff
+[21:57:36] [Server thread/INFO]: Maerusen[/127.67.214.111:5007] logged in with entity id 48203 at (-149.3095995325986, 102.0, 25.860707091560425)
+[21:57:36] [Server thread/INFO]: Maerusen joined the game
+[21:59:26] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[21:59:26] [Server thread/INFO]: Maerusen left the game
+[22:00:23] [Server thread/INFO]: Maerusen[/127.67.214.111:5022] logged in with entity id 48788 at (-159.30000001192093, 96.0, 79.66641005795444)
+[22:00:23] [Server thread/INFO]: Maerusen joined the game
+[22:00:25] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[22:00:25] [Server thread/INFO]: Maerusen left the game
+[22:01:33] [Server thread/INFO]: Huriking[/127.23.111.7:5038] logged in with entity id 49276 at (-1043.560138234636, 19.0, -42.39647992623658)
+[22:01:33] [Server thread/INFO]: Huriking joined the game
+[22:02:03] [Server thread/INFO]: Maerusen[/127.67.214.111:5046] logged in with entity id 49644 at (-159.30000001192093, 96.0, 79.66641005795444)
+[22:02:03] [Server thread/INFO]: Maerusen joined the game
+[22:02:09] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[22:02:09] [Server thread/INFO]: Maerusen left the game
+[22:03:31] [Server thread/INFO]: Maerusen[/127.67.214.111:5054] logged in with entity id 50279 at (-159.30000001192093, 96.0, 79.66641005795444)
+[22:03:31] [Server thread/INFO]: Maerusen joined the game
+[22:04:00] [Server thread/INFO]: Huriking lost connection: Disconnected
+[22:04:00] [Server thread/INFO]: Huriking left the game
+[22:04:25] [Server thread/INFO]: Maerusen has made the advancement [Stone Age]
+[22:05:11] [Server thread/INFO]: [Not Secure] <Maerusen> thank you
+[22:05:41] [Server thread/INFO]: [Not Secure] <Maerusen> shikamaru made it rain for me
+[22:05:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> i cant
+[22:06:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> im not hosting
+[22:06:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> ashu are u going clg tomorrow
+[22:07:20] [Server thread/INFO]: Maerusen has made the advancement [Getting an Upgrade]
+[22:07:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> wooden block need to be mined from axe not pickaxe
+[22:08:03] [Server thread/INFO]: [Not Secure] <Maerusen> ok
+[22:08:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> way faster
+[22:08:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> u going clg tomorrow?
+[22:08:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> ?
+[22:08:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> farm this
+[22:08:42] [Server thread/INFO]: [Not Secure] <Maerusen> wow
+[22:08:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> here
+[22:09:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> buddy
+[22:09:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> come here
+[22:09:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> its copper
+[22:09:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> arey bhai clg ka bolna
+[22:09:43] [Server thread/INFO]: [Not Secure] <Maerusen> clg ka?
+[22:09:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> jara kal?
+[22:09:58] [Server thread/INFO]: [Not Secure] <Maerusen> naa
+[22:10:02] [Server thread/INFO]: [Not Secure] <Maerusen> IA ka padhna hai
+[22:10:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> major project ka hua pura?
+[22:10:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> chayya ka msg dekha?
+[22:10:53] [Server thread/INFO]: [Not Secure] <Maerusen> Kya pata
+[22:11:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya kya pata
+[22:11:05] [Server thread/INFO]: [Not Secure] <Maerusen> shayad mere group se koi jarh hai
+[22:11:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> jana sabko hai
+[22:11:22] [Server thread/INFO]: [Not Secure] <Maerusen> me samjha nhi
+[22:11:25] [Server thread/INFO]: [Not Secure] <Maerusen> why?
+[22:11:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> pure grps ko bulayi hai
+[22:11:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> read msg properly
+[22:11:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> entire grps
+[22:12:59] [Server thread/INFO]: [Not Secure] <Maerusen> naa smita maam ne aisa nhi bola hai
+[22:13:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> ive sent you the msg
+[22:17:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> jana padega kal
+[22:19:33] [Server thread/INFO]: Huriking[/127.23.111.7:10858] logged in with entity id 52506 at (-1041.9463941593083, 18.0, -42.23492709482665)
+[22:19:33] [Server thread/INFO]: Huriking joined the game
+[22:20:54] [Server thread/INFO]: Maerusen was slain by Wolf
+[22:21:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> lol
+[22:22:07] [Server thread/INFO]: XFighter009[/127.99.221.180:10873] logged in with entity id 53521 at (12.900233114529097, 122.0, 10.699999988079071)
+[22:22:07] [Server thread/INFO]: XFighter009 joined the game
+[22:22:19] [Server thread/INFO]: [Not Secure] <Maerusen> oh shit there are chests in the walls
+[22:23:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> benzil padhai start kiya?
+[22:23:34] [Server thread/INFO]: [Not Secure] <XFighter009> naa bro
+[22:23:38] [Server thread/INFO]: [Not Secure] <XFighter009> u?
+[22:23:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> hell nah,i knew i could rely on you
+[22:23:59] [Server thread/INFO]: [Not Secure] <XFighter009> lmaoooo
+[22:24:56] [Server thread/INFO]: Maerusen has made the advancement [Sweet Dreams]
+[22:25:41] [Server thread/INFO]: [Not Secure] <XFighter009> ASHU
+[22:25:47] [Server thread/INFO]: [Not Secure] <XFighter009> sahil ka ghar gaya tu?
+[22:26:32] [Server thread/INFO]: [Not Secure] <XFighter009> press t to type
+[22:26:38] [Server thread/INFO]: [Not Secure] <Maerusen> tea
+[22:26:41] [Server thread/INFO]: [Not Secure] <XFighter009> bruh
+[22:26:56] [Server thread/INFO]: [Not Secure] <XFighter009> chal shail ke gha
+[22:27:08] [Server thread/INFO]: [Not Secure] <Maerusen> chal
+[22:27:14] [Server thread/INFO]: [Not Secure] <XFighter009> idr aa
+[22:27:25] [Server thread/INFO]: [Not Secure] <XFighter009> national highway hai idr
+[22:27:28] [Server thread/INFO]: [Not Secure] <Maerusen> voh room me kon hai
+[22:27:30] [Server thread/INFO]: [Not Secure] <XFighter009> piche
+[22:27:33] [Server thread/INFO]: [Not Secure] <XFighter009> dekhpo
+[22:27:47] [Server thread/INFO]: [Not Secure] <XFighter009> udr bache paida hore
+[22:27:59] [Server thread/INFO]: [Not Secure] <Maerusen> bapre where u
+[22:28:35] [Server thread/INFO]: [Not Secure] <XFighter009> see this how they re produce
+[22:28:54] [Server thread/INFO]: [Not Secure] <Maerusen> lol u giving them love
+[22:29:09] [Server thread/INFO]: [Not Secure] <XFighter009> dekh chota bacha
+[22:29:19] [Server thread/INFO]: [Not Secure] <Maerusen> dam bruv, but kiska hai
+[22:29:33] [Server thread/INFO]: [Not Secure] <XFighter009> do sheep ko wheat diya tho bacha hota
+[22:29:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> u do that every single day they give babies every sible day\
+[22:29:38] [Server thread/INFO]: [Not Secure] <XFighter009> they make love
+[22:30:20] [Server thread/INFO]: [Not Secure] <XFighter009> right clivk on boat
+[22:30:27] [Server thread/INFO]: [Not Secure] <Maerusen> ohk
+[22:30:38] [Server thread/INFO]: [Not Secure] <Maerusen> lol aquamagica
+[22:31:20] [Server thread/INFO]: [Not Secure] <XFighter009> that his farm
+[22:32:04] [Server thread/INFO]: [Not Secure] <XFighter009> idr se aa
+[22:32:47] [Server thread/INFO]: [Not Secure] <Maerusen> lol
+[22:32:54] [Server thread/INFO]: [Not Secure] <XFighter009> see hihs ghar
+[22:33:36] [Server thread/INFO]: [Not Secure] <XFighter009> view
+[22:33:45] [Server thread/INFO]: [Not Secure] <Maerusen> wow
+[22:34:28] [Server thread/INFO]: [Not Secure] <XFighter009> here bhing makes love
+[22:34:33] [Server thread/INFO]: [Not Secure] <Maerusen> respawn point set hpgaya
+[22:34:33] [Server thread/INFO]: [Not Secure] <Huriking> oh yeah
+[22:34:37] [Server thread/INFO]: [Not Secure] <Maerusen> shit
+[22:35:26] [Server thread/INFO]: [Not Secure] <XFighter009> kaisa hai ghar
+[22:35:33] [Server thread/INFO]: [Not Secure] <XFighter009> tu kdr gaya
+[22:35:43] [Server thread/INFO]: [Not Secure] <Maerusen> badhiya bhai
+[22:35:48] [Server thread/INFO]: [Not Secure] <XFighter009> soo jate
+[22:36:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> benzil can u come to me
+[22:36:11] [Server thread/INFO]: [Not Secure] <XFighter009> where u
+[22:36:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> i cant find way back home
+[22:36:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> neeche sameep ke ghar
+[22:36:25] [Server thread/INFO]: [Not Secure] <XFighter009> wait
+[22:36:31] [Server thread/INFO]: [Not Secure] <Huriking> server down in 2mins
+[22:36:57] [Server thread/INFO]: [Not Secure] <XFighter009> drive
+[22:37:58] [Server thread/INFO]: [Not Secure] <XFighter009> aya me shikamaru
+[22:38:44] [Server thread/INFO]: [Not Secure] <XFighter009> i have to strat from scratch
+[22:38:57] [Server thread/INFO]: [Not Secure] <Maerusen> i dont have anything
+[22:39:05] [Server thread/INFO]: [Not Secure] <Maerusen> only wood and cobblestone
+[22:39:21] [Server thread/INFO]: [Not Secure] <XFighter009> all that u need
+[22:39:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> fr
+[22:39:50] [Server thread/INFO]: [Not Secure] <Maerusen> farm me pool hai
+[22:39:54] [Server thread/INFO]: [Not Secure] <Huriking> takes time for scaling, first few days only stone then copper then iron then you become rich like shikamaru
+[22:39:59] [Server thread/INFO]: [Not Secure] <Huriking> i am still in copper
+[22:40:02] [Server thread/INFO]: [Not Secure] <XFighter009> take this
+[22:40:06] [Server thread/INFO]: [Not Secure] <Huriking> abhi koi aur host karo
+[22:40:11] [Server thread/INFO]: [Not Secure] <Maerusen> we just rode your horse huriking
+[22:40:15] [Server thread/INFO]: [Not Secure] <Huriking> me close kar raha hu
+[22:40:18] [Server thread/INFO]: [Not Secure] <Huriking> good
+[22:40:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
+[22:40:27] [Server thread/INFO]: [Not Secure] <Huriking> gave him his daily walk
+[22:40:29] [Server thread/INFO]: [Not Secure] <Huriking> thx
+[22:41:37] [Server thread/INFO]: [Not Secure] <Maerusen> goodbye
+[22:41:42] [Server thread/INFO]: [Not Secure] <Maerusen> ggodnight
+[22:41:52] [Server thread/INFO]: Maerusen lost connection: Disconnected
+[22:41:52] [Server thread/INFO]: Maerusen left the game
+[22:42:26] [Server thread/INFO]: Huriking lost connection: Disconnected
+[22:42:26] [Server thread/INFO]: Huriking left the game
+[22:42:29] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[22:42:29] [Server thread/INFO]: XFighter009 left the game
+[22:42:32] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[22:42:32] [Server thread/INFO]: shikamaru2o left the game
+[22:42:36] [Server thread/INFO]: Stopping the server
+[22:42:36] [Server thread/INFO]: Stopping server
+[22:42:36] [Server thread/INFO]: Saving players
+[22:42:36] [Server thread/INFO]: Saving worlds
+[22:42:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:42:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:42:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:42:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:42:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:42:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:42:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -21,6 +21,7 @@
       "minecraft:birch_forest": "2026-04-17 18:31:31 +0530",
       "minecraft:windswept_hills": "2026-04-18 17:29:13 +0530",
       "minecraft:snowy_beach": "2026-04-18 18:10:11 +0530",
+      "minecraft:savanna_plateau": "2026-04-20 20:03:23 +0530",
       "minecraft:beach": "2026-04-18 17:07:50 +0530",
       "minecraft:river": "2026-04-15 11:20:39 +0530",
       "minecraft:lukewarm_ocean": "2026-04-19 10:45:24 +0530",
@@ -110,10 +111,12 @@
       "cooked_porkchop": "2026-04-15 11:15:02 +0530",
       "bread": "2026-04-15 11:23:15 +0530",
       "cooked_chicken": "2026-04-18 18:36:10 +0530",
+      "rotten_flesh": "2026-04-20 20:35:31 +0530",
       "cooked_mutton": "2026-04-17 21:32:32 +0530",
       "potato": "2026-04-17 10:52:18 +0530",
       "cooked_beef": "2026-04-17 19:23:22 +0530",
-      "baked_potato": "2026-04-15 17:21:16 +0530"
+      "baked_potato": "2026-04-15 17:21:16 +0530",
+      "cooked_salmon": "2026-04-20 19:28:52 +0530"
     },
     "done": false
   },
@@ -812,6 +815,7 @@
     "criteria": {
       "minecraft:pillager": "2026-04-17 18:28:01 +0530",
       "minecraft:skeleton": "2026-04-17 15:28:04 +0530",
+      "minecraft:enderman": "2026-04-20 19:50:00 +0530",
       "minecraft:spider": "2026-04-15 16:59:12 +0530",
       "minecraft:zombie": "2026-04-15 16:42:23 +0530",
       "minecraft:creeper": "2026-04-17 19:29:25 +0530",
@@ -2988,6 +2992,84 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2026-04-19 12:56:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2026-04-20 20:22:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-04-20 20:40:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-04-20 20:40:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-04-20 20:41:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-04-20 20:51:54 +0530"
     },
     "done": true
   },
