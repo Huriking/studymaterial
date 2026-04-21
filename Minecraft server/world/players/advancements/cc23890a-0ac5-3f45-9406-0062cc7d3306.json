@@ -530,6 +530,7 @@
       "bread": "2026-04-15 11:09:52 +0530",
       "cooked_chicken": "2026-04-15 11:10:03 +0530",
       "cooked_mutton": "2026-04-15 11:41:17 +0530",
+      "salmon": "2026-04-21 02:42:44 +0530",
       "cooked_beef": "2026-04-16 20:32:10 +0530",
       "baked_potato": "2026-04-15 13:24:22 +0530",
       "beef": "2026-04-19 13:22:37 +0530",
@@ -3205,6 +3206,36 @@
   "minecraft:recipes/misc/map_cloning": {
     "criteria": {
       "has_filled_map": "2026-04-19 12:26:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-04-20 23:27:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-04-20 23:27:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-04-20 23:27:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:red": "2026-04-21 02:43:20 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-04-21 08:19:41 +0530"
     },
     "done": true
   },
