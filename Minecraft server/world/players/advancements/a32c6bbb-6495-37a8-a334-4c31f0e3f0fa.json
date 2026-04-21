@@ -1225,6 +1225,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2026-04-21 15:31:55 +0530",
       "minecraft:sheep": "2026-04-17 00:24:28 +0530"
     },
     "done": false
@@ -2493,6 +2494,54 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2026-04-20 01:39:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-04-21 11:29:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-04-21 11:32:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-04-21 11:32:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-04-21 11:32:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-04-21 11:32:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-04-21 11:47:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-04-21 12:14:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-04-21 15:19:38 +0530"
     },
     "done": true
   },
