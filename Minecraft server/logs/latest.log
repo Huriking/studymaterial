@@ -1,154 +1,43 @@
-[10:18:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[10:18:55] [ServerMain/INFO]: Loaded 1515 recipes
-[10:18:55] [ServerMain/INFO]: Loaded 1617 advancements
-[10:18:56] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[10:18:56] [Server thread/INFO]: Loading properties
-[10:18:56] [Server thread/INFO]: Default game type: SURVIVAL
-[10:18:56] [Server thread/INFO]: Generating keypair
-[10:18:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:18:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:18:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:18:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:18:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:18:57] [Server thread/INFO]: Preparing level "world"
-[10:18:59] [Server thread/INFO]: Loading 0 persistent chunks...
-[10:18:59] [Server thread/INFO]: Preparing spawn area: 100%
-[10:19:00] [Server thread/INFO]: Time elapsed: 123 ms
-[10:19:00] [Server thread/INFO]: Done (2.531s)! For help, type "help"
-[10:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10:19:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:19:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10:20:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:25:50] [Server thread/INFO]: SamWise[/127.87.187.82:43139] logged in with entity id 107 at (-188.13558474329525, 95.0, 5.260213967989759)
-[10:25:50] [Server thread/INFO]: SamWise joined the game
-[10:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[10:40:54] [Server thread/INFO]: shikamaru2o[/127.146.41.51:43338] logged in with entity id 2592 at (-202.06473241789425, 14.0, 12.300000011920929)
-[10:40:54] [Server thread/INFO]: shikamaru2o joined the game
-[10:43:12] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[10:43:12] [Server thread/INFO]: shikamaru2o left the game
-[10:59:41] [Server thread/INFO]: SamWise lost connection: Disconnected
-[10:59:41] [Server thread/INFO]: SamWise left the game
-[11:00:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:10:39] [Server thread/INFO]: shikamaru2o[/127.146.41.51:43680] logged in with entity id 5155 at (-180.46811469203476, 3.0, 29.740358920695677)
-[11:10:39] [Server thread/INFO]: shikamaru2o joined the game
-[11:10:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> kidhar hai
-[11:16:21] [Server thread/INFO]: SamWise[/127.87.187.82:43804] logged in with entity id 5910 at (-151.30000001192093, -4.0, 13.699999988079071)
-[11:16:21] [Server thread/INFO]: SamWise joined the game
-[11:29:23] [Server thread/INFO]: shikamaru2o has made the advancement [Enchanter]
-[11:47:58] [Server thread/INFO]: shikamaru2o has made the advancement [Ol' Betsy]
-[12:14:02] [Server thread/INFO]: shikamaru2o has made the advancement [Sneak 100]
-[12:14:55] [Server thread/INFO]: shikamaru2o was slain by Warden
-[12:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[12:19:48] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[12:19:48] [Server thread/INFO]: shikamaru2o left the game
-[12:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[12:48:07] [Server thread/INFO]: Huriking[/127.152.85.180:44550] logged in with entity id 19556 at (-1043.3073198488942, 19.0, -41.22192726040021)
-[12:48:07] [Server thread/INFO]: Huriking joined the game
-[12:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[12:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[12:52:20] [Server thread/INFO]: SamWise was burned to a crisp while fighting Blaze
-[12:52:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
-[12:54:38] [Server thread/INFO]: SamWise tried to swim in lava
-[12:54:44] [Server thread/INFO]: [Not Secure] <Huriking> kya kar raha hai
-[13:05:12] [Server thread/INFO]: [Not Secure] <SamWise> SLEEEEP
-[13:05:29] [Server thread/INFO]: [Not Secure] <Huriking> i also cant
-[13:05:33] [Server thread/INFO]: [Not Secure] <SamWise> BRUH
-[13:06:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
-[13:06:21] [Server thread/INFO]: [Not Secure] <Huriking> wait
-[13:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9059ms or 181 ticks behind
-[13:07:41] [Server thread/INFO]: [Not Secure] <SamWise> I FOUND A BLAZE SPAWNER
-[13:08:13] [Server thread/INFO]: [Not Secure] <SamWise> BUT I CANT FUKIN MAKE IT AN XP FARM
-[13:11:33] [Server thread/INFO]: [Not Secure] <SamWise> WRU
-[13:12:02] [Server thread/INFO]: [Not Secure] <Huriking> far
-[13:12:10] [Server thread/INFO]: [Not Secure] <Huriking> want me?
-[13:20:03] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[13:20:03] [Server thread/INFO]: h<--[HERE]
-[13:20:07] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[13:20:07] [Server thread/INFO]: here<--[HERE]
-[13:25:06] [Server thread/INFO]: SamWise has made the advancement [Local Brewery]
-[13:25:09] [Server thread/INFO]: Huriking lost connection: Disconnected
-[13:25:09] [Server thread/INFO]: Huriking left the game
-[13:35:57] [Server thread/INFO]: Huriking[/127.152.85.180:45069] logged in with entity id 33041 at (-1043.699999988079, 19.0, -41.534801202247806)
-[13:35:57] [Server thread/INFO]: Huriking joined the game
-[13:43:00] [Server thread/WARN]: Huriking moved too quickly! 8.527959712886656,-4.233632006042484,3.301262994143414
-[13:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[13:57:55] [Server thread/INFO]: Huriking was blown up by Creeper
-[14:05:27] [Server thread/INFO]: Huriking lost connection: Disconnected
-[14:05:27] [Server thread/INFO]: Huriking left the game
-[14:19:51] [Server thread/INFO]: SamWise lost connection: Disconnected
-[14:19:51] [Server thread/INFO]: SamWise left the game
-[14:20:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:22:57] [Server thread/INFO]: Huriking[/127.152.85.180:45397] logged in with entity id 45460 at (-1042.4260765564195, 18.0, -41.40047026237571)
-[14:22:57] [Server thread/INFO]: Huriking joined the game
-[14:30:14] [Server thread/INFO]: SamWise[/127.87.187.82:45468] logged in with entity id 46829 at (-190.30000001192093, 92.0, 4.460857086791555)
-[14:30:14] [Server thread/INFO]: SamWise joined the game
-[14:32:14] [Server thread/INFO]: SamWise lost connection: Disconnected
-[14:32:14] [Server thread/INFO]: SamWise left the game
-[14:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 91674ms or 1833 ticks behind
-[14:49:20] [Server thread/INFO]: Huriking lost connection: Timed out
-[14:49:20] [Server thread/INFO]: Huriking left the game
-[14:50:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:51:34] [Server thread/INFO]: XFighter009[/127.99.221.180:45947] logged in with entity id 50157 at (-158.60180844875515, 124.0, -11.61565294216108)
-[14:51:34] [Server thread/INFO]: XFighter009 joined the game
-[14:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[14:52:42] [Server thread/INFO]: Huriking[/127.152.85.180:45972] logged in with entity id 50511 at (-1093.3138076109335, -2.078400001525879, 39.493495819885936)
-[14:52:42] [Server thread/INFO]: Huriking joined the game
-[14:52:53] [Server thread/INFO]: [Not Secure] <XFighter009> Y SOO MUCH GOL EM
-[14:57:31] [Server thread/INFO]: Huriking lost connection: Disconnected
-[14:57:31] [Server thread/INFO]: Huriking left the game
-[14:58:59] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[14:58:59] [Server thread/INFO]: XFighter009 left the game
-[14:59:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:04:01] [Server thread/INFO]: Huriking[/127.152.85.180:46185] logged in with entity id 52128 at (-1077.0813246898363, 15.0, 13.382613795514157)
-[15:04:01] [Server thread/INFO]: Huriking joined the game
-[15:04:06] [Server thread/INFO]: [Not Secure] <Huriking> k
-[15:05:06] [Server thread/INFO]: shikamaru2o[/127.146.41.51:46213] logged in with entity id 52475 at (-132.82919221583714, 98.0, 52.46172718837046)
-[15:05:06] [Server thread/INFO]: shikamaru2o joined the game
-[15:14:35] [Server thread/INFO]: Huriking lost connection: Disconnected
-[15:14:35] [Server thread/INFO]: Huriking left the game
-[15:14:38] [Server thread/INFO]: Huriking[/127.152.85.180:46394] logged in with entity id 55756 at (-1105.319890954792, -8.0, 82.93211870195152)
-[15:14:38] [Server thread/INFO]: Huriking joined the game
-[15:25:35] [Server thread/INFO]: SamWise[/127.87.187.82:46493] logged in with entity id 60524 at (-190.30000001192093, 92.0, 4.460857086791555)
-[15:25:35] [Server thread/INFO]: SamWise joined the game
-[15:27:13] [Server thread/WARN]: shikamaru2o moved too quickly! -4.546079441510642,-1.0244240882136921,-8.890263632523357
-[15:30:25] [Server thread/INFO]: [Not Secure] <SamWise> i think ive made an iron farm
-[15:30:37] [Server thread/INFO]: [Not Secure] <Huriking> ya golems spawn too many
-[15:30:48] [Server thread/INFO]: [Not Secure] <SamWise> im seeing 10 rn
-[15:30:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> paper farms too
-[15:31:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> plz
-[15:31:07] [Server thread/INFO]: [Not Secure] <SamWise> after exams not noq
-[15:44:41] [Server thread/INFO]: Huriking has made the advancement [Take Aim]
-[15:45:08] [Server thread/INFO]: shikamaru2o was slain by Warden
-[15:48:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> sahil kya kar raha hai
-[15:58:17] [Server thread/INFO]: [Not Secure] <Huriking> mining
-[16:00:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> diamonds?
-[16:01:01] [Server thread/INFO]: [Not Secure] <Huriking> yes
-[16:02:14] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[16:02:14] [Server thread/INFO]: shikamaru2o left the game
-[16:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
-[16:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[16:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
-[16:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[16:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
-[16:07:53] [Server thread/INFO]: Huriking lost connection: Disconnected
-[16:07:53] [Server thread/INFO]: Huriking left the game
-[16:07:53] [Server thread/INFO]: SamWise lost connection: Disconnected
-[16:07:53] [Server thread/INFO]: SamWise left the game
-[16:08:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:26:11] [Server thread/INFO]: SamWise[/127.87.187.82:46983] logged in with entity id 75567 at (-190.30000001192093, 92.0, 4.699999988079071)
-[16:26:11] [Server thread/INFO]: SamWise joined the game
-[16:34:50] [Server thread/INFO]: Stopping the server
-[16:34:50] [Server thread/INFO]: Stopping server
-[16:34:50] [Server thread/INFO]: Saving players
-[16:34:50] [Server thread/INFO]: Saving worlds
-[16:34:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:34:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:34:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:34:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:26:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:26:03] [ServerMain/INFO]: Loaded 1515 recipes
+[17:26:03] [ServerMain/INFO]: Loaded 1617 advancements
+[17:26:03] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:26:03] [Server thread/INFO]: Loading properties
+[17:26:03] [Server thread/INFO]: Default game type: SURVIVAL
+[17:26:03] [Server thread/INFO]: Generating keypair
+[17:26:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:26:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:26:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:26:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:26:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:26:03] [Server thread/INFO]: Preparing level "world"
+[17:26:04] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:26:04] [Server thread/INFO]: Preparing spawn area: 100%
+[17:26:04] [Server thread/INFO]: Time elapsed: 177 ms
+[17:26:04] [Server thread/INFO]: Done (0.657s)! For help, type "help"
+[17:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:27:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:28:36] [Server thread/INFO]: Huriking[/127.152.85.180:3219] logged in with entity id 32 at (-996.846583948907, -29.0, 114.8283354895129)
+[17:28:36] [Server thread/INFO]: Huriking joined the game
+[18:08:36] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! 10.145438572404714,0.0,0.0
+[18:08:36] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! 10.875656570512348,0.0,0.0
+[18:08:36] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! 11.574550305750208,0.0,0.0
+[18:09:26] [Server thread/INFO]: Huriking lost connection: Disconnected
+[18:09:26] [Server thread/INFO]: Huriking left the game
+[18:09:35] [Server thread/INFO]: Stopping the server
+[18:09:35] [Server thread/INFO]: Stopping server
+[18:09:35] [Server thread/INFO]: Saving players
+[18:09:35] [Server thread/INFO]: Saving worlds
+[18:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
