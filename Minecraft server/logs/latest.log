@@ -1,43 +1,36 @@
-[17:26:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:26:03] [ServerMain/INFO]: Loaded 1515 recipes
-[17:26:03] [ServerMain/INFO]: Loaded 1617 advancements
-[17:26:03] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:26:03] [Server thread/INFO]: Loading properties
-[17:26:03] [Server thread/INFO]: Default game type: SURVIVAL
-[17:26:03] [Server thread/INFO]: Generating keypair
-[17:26:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:26:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:26:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:26:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:26:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:26:03] [Server thread/INFO]: Preparing level "world"
-[17:26:04] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:26:04] [Server thread/INFO]: Preparing spawn area: 100%
-[17:26:04] [Server thread/INFO]: Time elapsed: 177 ms
-[17:26:04] [Server thread/INFO]: Done (0.657s)! For help, type "help"
-[17:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:27:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:28:36] [Server thread/INFO]: Huriking[/127.152.85.180:3219] logged in with entity id 32 at (-996.846583948907, -29.0, 114.8283354895129)
-[17:28:36] [Server thread/INFO]: Huriking joined the game
-[18:08:36] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! 10.145438572404714,0.0,0.0
-[18:08:36] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! 10.875656570512348,0.0,0.0
-[18:08:36] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Huriking) moved too quickly! 11.574550305750208,0.0,0.0
-[18:09:26] [Server thread/INFO]: Huriking lost connection: Disconnected
-[18:09:26] [Server thread/INFO]: Huriking left the game
-[18:09:35] [Server thread/INFO]: Stopping the server
-[18:09:35] [Server thread/INFO]: Stopping server
-[18:09:35] [Server thread/INFO]: Saving players
-[18:09:35] [Server thread/INFO]: Saving worlds
-[18:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:09:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:09:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:25] [Server thread/INFO]: Villager Villager['Librarian'/13575, l='ServerLevel[world]', x=-193.59, y=103.00, z=24.50] died, message: 'Librarian was slain by Zombie'
+[00:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3598ms or 71 ticks behind
+[00:21:20] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[00:22:28] [Server thread/INFO]: Set SamWise's game mode to Creative Mode
+[00:23:16] [Server thread/INFO]: Unknown game mode: suvival
+[00:23:16] [Server thread/INFO]: ...de suvival SamWise<--[HERE]
+[00:23:39] [Server thread/INFO]: Set SamWise's game mode to Survival Mode
+[00:27:19] [Server thread/INFO]: SamWise has reached the goal [Zombie Doctor]
+[00:30:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:16:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[01:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[02:39:05] [Server thread/INFO]: Villager Villager['Librarian'/13578, l='ServerLevel[world]', x=-193.52, y=103.00, z=22.50] died, message: 'Librarian was slain by Zombie'
+[02:41:28] [Server thread/INFO]: Villager Villager['Librarian'/13553, l='ServerLevel[world]', x=-191.49, y=103.00, z=20.16] died, message: 'Librarian was slain by Zombie'
+[04:07:51] [Server thread/INFO]: Villager Villager['Librarian'/22758, l='ServerLevel[world]', x=-193.39, y=103.00, z=24.49] died, message: 'Librarian was slain by Zombie Villager'
+[05:02:20] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[05:02:20] [Server thread/INFO]: /gamemode creative SamWise<--[HERE]
+[05:02:38] [Server thread/INFO]: Set SamWise's game mode to Creative Mode
+[05:04:26] [Server thread/INFO]: Set SamWise's game mode to Survival Mode
+[05:10:35] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[05:18:56] [Server thread/INFO]: SamWise lost connection: Disconnected
+[05:18:56] [Server thread/INFO]: SamWise left the game
+[05:19:00] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[05:19:00] [Server thread/INFO]: /stop<--[HERE]
+[05:19:09] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[05:19:09] [Server thread/INFO]: close<--[HERE]
+[05:19:16] [Server thread/INFO]: Stopping the server
+[05:19:16] [Server thread/INFO]: Stopping server
+[05:19:16] [Server thread/INFO]: Saving players
+[05:19:16] [Server thread/INFO]: Saving worlds
+[05:19:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:19:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:19:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:19:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:19:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:19:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:19:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
