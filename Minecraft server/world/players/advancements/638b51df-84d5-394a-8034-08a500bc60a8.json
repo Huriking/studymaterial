@@ -3230,6 +3230,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-04-21 17:50:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-04-21 17:50:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-04-21 17:51:07 +0530"
@@ -3278,21 +3290,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor_dyed": {
-    "criteria": {
-      "has_leather_horse_armor": "2026-04-21 17:56:28 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_grate": {
     "criteria": {
       "has_copper_block": "2026-04-21 17:51:07 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-04-21 17:50:53 +0530"
     },
     "done": true
   },
@@ -3302,9 +3302,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/misc/leather_horse_armor_dyed": {
     "criteria": {
-      "has_iron_block": "2026-04-21 17:50:53 +0530"
+      "has_leather_horse_armor": "2026-04-21 17:56:28 +0530"
     },
     "done": true
   },
