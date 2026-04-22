@@ -46,6 +46,7 @@
       "cooked_mutton": "2026-04-15 18:32:12 +0530",
       "potato": "2026-04-16 23:28:16 +0530",
       "cooked_beef": "2026-04-16 23:57:53 +0530",
+      "melon_slice": "2026-04-22 22:51:01 +0530",
       "beetroot": "2026-04-16 23:35:10 +0530",
       "carrot": "2026-04-15 17:53:10 +0530"
     },
@@ -1900,6 +1901,24 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2026-04-19 18:52:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-04-22 22:37:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-04-22 22:37:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-04-22 22:37:35 +0530"
     },
     "done": true
   },

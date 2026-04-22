@@ -1,137 +1,15 @@
-[18:17:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[18:17:44] [ServerMain/INFO]: Loaded 1515 recipes
-[18:17:44] [ServerMain/INFO]: Loaded 1617 advancements
-[18:17:45] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[18:17:45] [Server thread/INFO]: Loading properties
-[18:17:45] [Server thread/INFO]: Default game type: SURVIVAL
-[18:17:45] [Server thread/INFO]: Generating keypair
-[18:17:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:17:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:17:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:17:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:17:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:17:45] [Server thread/INFO]: Preparing level "world"
-[18:17:45] [Server thread/INFO]: Loading 0 persistent chunks...
-[18:17:46] [Server thread/INFO]: Preparing spawn area: 100%
-[18:17:46] [Server thread/INFO]: Time elapsed: 91 ms
-[18:17:46] [Server thread/INFO]: Done (0.506s)! For help, type "help"
-[18:17:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:17:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:17:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:17:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:18:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:20:33] [Server thread/INFO]: Huriking[/127.27.141.171:62151] logged in with entity id 17 at (186.5152754575916, 118.0, 253.11673647768544)
-[18:20:33] [Server thread/INFO]: Huriking joined the game
-[18:40:34] [Server thread/INFO]: gRUDE[/127.114.233.156:37490] logged in with entity id 2560 at (-3.157927463995577, 127.0, -0.699999988079071)
-[18:40:34] [Server thread/INFO]: gRUDE joined the game
-[18:40:42] [Server thread/INFO]: [Not Secure] <Huriking> oooooo
-[18:40:53] [Server thread/INFO]: [Not Secure] <gRUDE> where youi
-[18:41:14] [Server thread/INFO]: [Not Secure] <Huriking> look at xp bar
-[18:41:20] [Server thread/INFO]: [Not Secure] <gRUDE> coming
-[18:42:32] [Server thread/INFO]: [Not Secure] <Huriking> hi
-[18:42:36] [Server thread/INFO]: [Not Secure] <Huriking> discord?
-[18:42:36] [Server thread/INFO]: [Not Secure] <gRUDE> hi
-[18:42:40] [Server thread/INFO]: [Not Secure] <gRUDE> yeah
-[18:42:54] [Server thread/INFO]: [Not Secure] <Huriking> my home
-[18:44:01] [Server thread/INFO]: gRUDE fell from a high place
-[18:46:30] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:46:33] [Server thread/INFO]: Set the weather to clear
-[18:46:54] [Server thread/INFO]: gRUDE has made the advancement [Monster Hunter]
-[18:48:51] [Server thread/INFO]: Maerusen[/127.247.166.64:3465] logged in with entity id 5024 at (-176.6149629162143, 114.5625, -2.8514422786411644)
-[18:48:51] [Server thread/INFO]: Maerusen joined the game
-[18:54:25] [Server thread/INFO]: gRUDE has made the advancement [A Seedy Place]
-[18:57:35] [Server thread/INFO]: gRUDE has made the advancement [The Parrots and the Bats]
-[19:05:31] [Server thread/INFO]: gRUDE hit the ground too hard
-[19:07:35] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[19:07:35] [Server thread/INFO]: Maerusen left the game
-[19:08:44] [Server thread/INFO]: Maerusen[/127.247.166.64:55816] logged in with entity id 11706 at (-148.9307163803992, 89.0, 52.38717048700185)
-[19:08:44] [Server thread/INFO]: Maerusen joined the game
-[19:14:23] [Server thread/INFO]: SamWise[/127.144.222.121:56351] logged in with entity id 13693 at (-190.30000001192093, 92.0, 4.390337746324163)
-[19:14:23] [Server thread/INFO]: SamWise joined the game
-[19:15:48] [Server thread/INFO]: gRUDE fell from a high place
-[19:17:51] [Server thread/INFO]: [Not Secure] <Huriking> SLEEP
-[19:26:36] [Server thread/INFO]: gRUDE lost connection: Disconnected
-[19:26:36] [Server thread/INFO]: gRUDE left the game
-[19:28:57] [Server thread/INFO]: Set the weather to clear
-[19:29:10] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[19:38:59] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[19:41:22] [Server thread/INFO]: [Not Secure] <SamWise> ashu tosh
-[19:41:27] [Server thread/INFO]: [Not Secure] <SamWise> u doing something?
-[19:41:37] [Server thread/INFO]: [Not Secure] <Maerusen> building a hideaway
-[19:46:28] [Server thread/INFO]: [Not Secure] <Maerusen> where the dam boat
-[19:47:08] [Server thread/INFO]: [Not Secure] <Maerusen> sameep u took the boat afternoon me
-[19:48:17] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[19:57:40] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[19:58:01] [Server thread/INFO]: [Not Secure] <Maerusen> sameep
-[19:58:06] [Server thread/INFO]: [Not Secure] <Maerusen> u there?
-[19:58:08] [Server thread/INFO]: [Not Secure] <SamWise> yea
-[19:58:10] [Server thread/INFO]: [Not Secure] <SamWise> yea
-[19:58:14] [Server thread/INFO]: [Not Secure] <SamWise> but im goin in a few
-[19:58:22] [Server thread/INFO]: [Not Secure] <Maerusen> any idea where i can get sand?
-[19:58:34] [Server thread/INFO]: [Not Secure] <SamWise> why do u want it]
-[19:58:38] [Server thread/INFO]: [Not Secure] <Huriking> near water
-[19:58:41] [Server thread/INFO]: [Not Secure] <Maerusen> i want glass
-[19:58:48] [Server thread/INFO]: [Not Secure] <SamWise> come i will provide
-[19:58:51] [Server thread/INFO]: [Not Secure] <SamWise> how much tho?
-[19:58:53] [Server thread/INFO]: [Not Secure] <Maerusen> is there water in our village?
-[19:59:04] [Server thread/INFO]: [Not Secure] <Maerusen> nah i want to make my own
-[20:01:03] [Server thread/INFO]: [Not Secure] <SamWise> oi
-[20:01:07] [Server thread/INFO]: [Not Secure] <Maerusen> yea?
-[20:01:10] [Server thread/INFO]: [Not Secure] <SamWise> givee me all ur dirt na
-[20:01:29] [Server thread/INFO]: [Not Secure] <Maerusen> imma put glass for this view
-[20:01:32] [Server thread/INFO]: [Not Secure] <SamWise> nice
-[20:01:36] [Server thread/INFO]: [Not Secure] <SamWise> dirt?
-[20:01:50] [Server thread/INFO]: [Not Secure] <SamWise> no wait
-[20:02:03] [Server thread/INFO]: [Not Secure] <SamWise> just click on the stack and drag it out ur inventory
-[20:02:08] [Server thread/INFO]: [Not Secure] <Maerusen> how do u know i got dirt
-[20:02:11] [Server thread/INFO]: [Not Secure] <Maerusen> ok
-[20:02:26] [Server thread/INFO]: [Not Secure] <SamWise> press e and do
-[20:02:31] [Server thread/INFO]: [Not Secure] <SamWise> thanks g
-[20:02:39] [Server thread/INFO]: [Not Secure] <SamWise> here
-[20:02:43] [Server thread/INFO]: [Not Secure] <SamWise> u must be hungry
-[20:03:12] [Server thread/INFO]: [Not Secure] <Maerusen> where do i fand sand
-[20:03:38] [Server thread/INFO]: [Not Secure] <SamWise> near lakes
-[20:03:46] [Server thread/INFO]: [Not Secure] <Maerusen> is there a lake near by?
-[20:04:43] [Server thread/INFO]: SamWise lost connection: Disconnected
-[20:04:43] [Server thread/INFO]: SamWise left the game
-[20:06:59] [Server thread/INFO]: SamWise[/127.144.222.121:62716] logged in with entity id 31935 at (-192.50444940229235, 92.0, 1.1071517089446647)
-[20:06:59] [Server thread/INFO]: SamWise joined the game
-[20:07:35] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[20:13:00] [Server thread/INFO]: [Not Secure] <Maerusen> teehee
-[20:20:02] [Server thread/INFO]: [Not Secure] <SamWise> wha
-[20:20:08] [Server thread/INFO]: [Not Secure] <Huriking> only 2
-[20:20:16] [Server thread/INFO]: [Not Secure] <SamWise> hmphhh
-[20:20:18] [Server thread/INFO]: [Not Secure] <SamWise> fine
-[20:20:33] [Server thread/INFO]: [Not Secure] <SamWise> out bread for them to breed
-[20:20:41] [Server thread/INFO]: [Not Secure] <SamWise> come here
-[20:21:27] [Server thread/INFO]: [Not Secure] <SamWise> here
-[20:21:39] [Server thread/INFO]: [Not Secure] <SamWise> bruh
-[20:21:42] [Server thread/INFO]: [Not Secure] <SamWise> ruk
-[20:21:50] [Server thread/INFO]: [Not Secure] <SamWise> dono ko bitha boat mein
-[20:21:58] [Server thread/INFO]: [Not Secure] <Huriking> dusra kidr
-[20:21:59] [Server thread/INFO]: [Not Secure] <SamWise> and leash se pull kar boat
-[20:22:16] [Server thread/INFO]: Villager Villager['Villager'/11692, l='ServerLevel[world]', x=-222.50, y=121.00, z=32.56] died, message: 'Villager froze to death'
-[20:22:21] [Server thread/INFO]: Maerusen was slain by Zombie
-[20:23:25] [Server thread/INFO]: [Not Secure] <SamWise> breed them by putting bread
-[20:23:28] [Server thread/INFO]: Maerusen was slain by Zombie
-[20:25:50] [Server thread/INFO]: [Not Secure] <SamWise> i will take iron later for 2 villager
-[20:26:09] [Server thread/INFO]: [Not Secure] <SamWise> from ur iron farm
-[20:26:24] [Server thread/INFO]: [Not Secure] <Maerusen> who u talkin to
-[20:26:32] [Server thread/INFO]: [Not Secure] <Huriking> me
-[20:26:39] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[20:27:03] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[20:27:03] [Server thread/INFO]: Maerusen left the game
-[20:29:08] [Server thread/INFO]: [Not Secure] <Huriking> could you keep a villager in boat
-[20:29:16] [Server thread/INFO]: [Not Secure] <Huriking> i would collect him late
-[20:29:36] [Server thread/INFO]: Huriking lost connection: Disconnected
-[20:29:36] [Server thread/INFO]: Huriking left the game
-[20:29:47] [Server thread/INFO]: Maerusen[/127.247.166.64:64448] logged in with entity id 39398 at (-133.5, 108.0, 100.5)
-[20:29:47] [Server thread/INFO]: Maerusen joined the game
-[20:31:51] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[20:31:51] [Server thread/INFO]: Maerusen left the game
-[20:49:59] [Server thread/INFO]: SamWise lost connection: Disconnected
-[20:49:59] [Server thread/INFO]: SamWise left the game
-[20:50:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:00:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> how can i repair this u know?
+[00:00:43] [Server thread/INFO]: [Not Secure] <SamWise> no
+[00:01:53] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[00:01:53] [Server thread/INFO]: XFighter009 left the game
+[00:02:45] [Server thread/INFO]: [Not Secure] <SamWise> i need like
+[00:03:00] [Server thread/INFO]: [Not Secure] <SamWise> 70 more ingots
+[00:03:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> alright im down ill get what i can for u
+[00:03:30] [Server thread/INFO]: [Not Secure] <SamWise> come to mine i will show u
+[00:03:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein iron leke aata hu
+[00:03:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> neche aa gaya mein
+[00:04:27] [Server thread/INFO]: [Not Secure] <SamWise> bruh where are u
+[00:04:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> in our cave'
+[00:04:50] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa toh
+[00:04:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
+[00:04:56] [Server thread/INFO]: [Not Secure] <SamWise> farm ke pass
