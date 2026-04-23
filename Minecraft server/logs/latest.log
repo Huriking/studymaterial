@@ -1,15 +1,28 @@
-[00:00:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> how can i repair this u know?
-[00:00:43] [Server thread/INFO]: [Not Secure] <SamWise> no
-[00:01:53] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[00:01:53] [Server thread/INFO]: XFighter009 left the game
-[00:02:45] [Server thread/INFO]: [Not Secure] <SamWise> i need like
-[00:03:00] [Server thread/INFO]: [Not Secure] <SamWise> 70 more ingots
-[00:03:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> alright im down ill get what i can for u
-[00:03:30] [Server thread/INFO]: [Not Secure] <SamWise> come to mine i will show u
-[00:03:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein iron leke aata hu
-[00:03:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> neche aa gaya mein
-[00:04:27] [Server thread/INFO]: [Not Secure] <SamWise> bruh where are u
-[00:04:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> in our cave'
-[00:04:50] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa toh
-[00:04:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
-[00:04:56] [Server thread/INFO]: [Not Secure] <SamWise> farm ke pass
+[11:16:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[11:16:04] [ServerMain/INFO]: Loaded 1515 recipes
+[11:16:04] [ServerMain/INFO]: Loaded 1617 advancements
+[11:16:05] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[11:16:05] [Server thread/INFO]: Loading properties
+[11:16:05] [Server thread/INFO]: Default game type: SURVIVAL
+[11:16:05] [Server thread/INFO]: Generating keypair
+[11:16:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:16:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:16:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:16:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:16:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:16:05] [Server thread/INFO]: Preparing level "world"
+[11:16:05] [Server thread/INFO]: Loading 0 persistent chunks...
+[11:16:05] [Server thread/INFO]: Time elapsed: 13 ms
+[11:16:05] [Server thread/INFO]: Done (0.169s)! For help, type "help"
+[11:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:17:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:17:06] [Server thread/INFO]: SamWise[/127.0.0.1:51283] logged in with entity id 80 at (-179.96365754624372, 102.11425927506424, 34.99969001811965)
+[11:17:06] [Server thread/INFO]: SamWise joined the game
+[11:36:58] [Server thread/INFO]: SamWise lost connection: Disconnected
+[11:36:58] [Server thread/INFO]: SamWise left the game
