@@ -1,0 +1,86 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:player": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 16,
+      "minecraft:spruce_wood": 18,
+      "minecraft:wooden_axe": 1,
+      "minecraft:spruce_planks": 40,
+      "minecraft:crafting_table": 1,
+      "minecraft:pink_dye": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 27,
+      "minecraft:dirt": 51,
+      "minecraft:spruce_sapling": 3,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:cobblestone": 23,
+      "minecraft:feather": 2,
+      "minecraft:wheat_seeds": 135,
+      "minecraft:chicken": 1,
+      "minecraft:wheat": 51,
+      "minecraft:spruce_boat": 1,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:pink_petals": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 4,
+      "minecraft:wheat": 3
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 19,
+      "minecraft:powder_snow": 6,
+      "minecraft:cherry_leaves": 5,
+      "minecraft:dirt": 26,
+      "minecraft:spruce_log": 28,
+      "minecraft:podzol": 1,
+      "minecraft:grass_block": 31,
+      "minecraft:wheat": 71,
+      "minecraft:pink_petals": 1,
+      "minecraft:spruce_leaves": 10,
+      "minecraft:stone": 23
+    },
+    "minecraft:broken": {
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:wooden_pickaxe": 1
+    },
+    "minecraft:killed": {
+      "minecraft:chicken": 1
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 20,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 4,
+      "minecraft:iron_pickaxe": 24
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 1347,
+      "minecraft:inspect_dropper": 2,
+      "minecraft:walk_one_cm": 232292,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 880,
+      "minecraft:boat_one_cm": 68025,
+      "minecraft:play_time": 59677,
+      "minecraft:damage_dealt": 345,
+      "minecraft:jump": 429,
+      "minecraft:time_since_death": 1298,
+      "minecraft:drop": 7,
+      "minecraft:sprint_one_cm": 69444,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 10403,
+      "minecraft:total_world_time": 59677,
+      "minecraft:fly_one_cm": 5975,
+      "minecraft:walk_on_water_one_cm": 312,
+      "minecraft:crouch_one_cm": 1258,
+      "minecraft:sneak_time": 171,
+      "minecraft:climb_one_cm": 2470,
+      "minecraft:deaths": 3
+    }
+  },
+  "DataVersion": 4790
+}

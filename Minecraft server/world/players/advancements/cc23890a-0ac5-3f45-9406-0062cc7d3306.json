@@ -14,12 +14,14 @@
       "minecraft:taiga": "2026-04-15 20:00:51 +0530",
       "minecraft:river": "2026-04-15 11:46:34 +0530",
       "minecraft:snowy_plains": "2026-04-15 20:16:48 +0530",
+      "minecraft:stony_shore": "2026-04-24 15:10:24 +0530",
       "minecraft:dripstone_caves": "2026-04-15 11:20:42 +0530",
       "minecraft:snowy_taiga": "2026-04-15 20:19:38 +0530",
       "minecraft:frozen_peaks": "2026-04-15 11:02:12 +0530",
       "minecraft:old_growth_birch_forest": "2026-04-15 20:01:01 +0530",
       "minecraft:frozen_ocean": "2026-04-19 17:51:08 +0530",
       "minecraft:frozen_river": "2026-04-15 20:18:17 +0530",
+      "minecraft:deep_frozen_ocean": "2026-04-24 15:12:16 +0530",
       "minecraft:deep_dark": "2026-04-16 19:51:51 +0530",
       "minecraft:cherry_grove": "2026-04-15 10:50:17 +0530",
       "minecraft:grove": "2026-04-15 12:39:25 +0530",
@@ -530,6 +532,7 @@
       "bread": "2026-04-15 11:09:52 +0530",
       "cooked_chicken": "2026-04-15 11:10:03 +0530",
       "cooked_mutton": "2026-04-15 11:41:17 +0530",
+      "glow_berries": "2026-04-24 13:26:10 +0530",
       "salmon": "2026-04-21 02:42:44 +0530",
       "cooked_beef": "2026-04-16 20:32:10 +0530",
       "baked_potato": "2026-04-15 13:24:22 +0530",
@@ -751,6 +754,7 @@
       "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
       "minecraft:zombie": "2026-04-15 11:21:19 +0530",
       "minecraft:creeper": "2026-04-17 11:06:07 +0530",
+      "minecraft:drowned": "2026-04-24 20:33:30 +0530",
       "minecraft:ghast": "2026-04-21 12:36:56 +0530",
       "minecraft:hoglin": "2026-04-21 12:36:28 +0530"
     },
@@ -2607,6 +2611,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2026-04-17 09:42:47 +0530",
+      "minecraft:chicken": "2026-04-24 21:18:37 +0530",
       "minecraft:wolf": "2026-04-18 00:21:59 +0530"
     },
     "done": false
@@ -3323,6 +3328,96 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2026-04-22 00:28:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-04-24 12:55:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2026-04-24 12:59:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-04-24 12:59:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2026-04-24 12:59:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-04-24 13:37:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-04-24 13:37:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-04-24 13:37:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-04-24 13:37:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2026-04-24 13:49:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2026-04-24 14:03:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2026-04-24 14:08:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2026-04-24 14:08:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2026-04-24 14:08:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2026-04-24 15:14:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2026-04-24 20:04:28 +0530"
     },
     "done": true
   },

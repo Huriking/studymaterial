@@ -1,28 +1,238 @@
-[11:16:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[11:16:04] [ServerMain/INFO]: Loaded 1515 recipes
-[11:16:04] [ServerMain/INFO]: Loaded 1617 advancements
-[11:16:05] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[11:16:05] [Server thread/INFO]: Loading properties
-[11:16:05] [Server thread/INFO]: Default game type: SURVIVAL
-[11:16:05] [Server thread/INFO]: Generating keypair
-[11:16:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:16:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:16:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:16:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:16:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:16:05] [Server thread/INFO]: Preparing level "world"
-[11:16:05] [Server thread/INFO]: Loading 0 persistent chunks...
-[11:16:05] [Server thread/INFO]: Time elapsed: 13 ms
-[11:16:05] [Server thread/INFO]: Done (0.169s)! For help, type "help"
-[11:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[11:17:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:17:06] [Server thread/INFO]: SamWise[/127.0.0.1:51283] logged in with entity id 80 at (-179.96365754624372, 102.11425927506424, 34.99969001811965)
-[11:17:06] [Server thread/INFO]: SamWise joined the game
-[11:36:58] [Server thread/INFO]: SamWise lost connection: Disconnected
-[11:36:58] [Server thread/INFO]: SamWise left the game
+[19:33:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:33:43] [ServerMain/INFO]: Loaded 1515 recipes
+[19:33:43] [ServerMain/INFO]: Loaded 1617 advancements
+[19:33:43] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:33:43] [Server thread/INFO]: Loading properties
+[19:33:43] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:43] [Server thread/INFO]: Generating keypair
+[19:33:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:33:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:33:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:33:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:33:43] [Server thread/INFO]: Preparing level "world"
+[19:33:44] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:33:44] [Server thread/INFO]: Preparing spawn area: 100%
+[19:33:44] [Server thread/INFO]: Time elapsed: 69 ms
+[19:33:44] [Server thread/INFO]: Done (0.461s)! For help, type "help"
+[19:33:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:33:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:33:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:34:10] [Server thread/INFO]: Huriking (638b51df-84d5-394a-8034-08a500bc60a8) lost connection: Timed out
+[19:34:16] [Server thread/INFO]: shikamaru2o (a32c6bbb-6495-37a8-a334-4c31f0e3f0fa) lost connection: Timed out
+[19:34:17] [Server thread/INFO]: blankslope (a71ebc17-d22a-3588-8fcd-87448cbf0afc) lost connection: Timed out
+[19:34:39] [Server thread/INFO]: /127.25.229.96:49408 lost connection: Timed out
+[19:34:42] [Server thread/INFO]: blankslope (a71ebc17-d22a-3588-8fcd-87448cbf0afc) lost connection: Internal Exception: java.net.SocketException: Connection reset
+[19:34:42] [Server thread/INFO]: shikamaru2o (a32c6bbb-6495-37a8-a334-4c31f0e3f0fa) lost connection: Internal Exception: java.net.SocketException: Connection reset
+[19:34:42] [Server thread/INFO]: Huriking (/127.25.229.96:49415) lost connection: Internal Exception: java.net.SocketException: Connection reset
+[19:34:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:38:02] [Server thread/INFO]: /127.25.229.96:49546 lost connection: Timed out
+[19:38:41] [Server thread/INFO]: Huriking[/127.25.229.96:49573] logged in with entity id 343 at (-99.18316917436877, 111.0, 14.93404330918758)
+[19:38:41] [Server thread/INFO]: Huriking joined the game
+[19:38:47] [Server thread/INFO]: blankslope[/127.161.12.114:49579] logged in with entity id 531 at (-141.29477793562575, 102.0, 15.331842834456957)
+[19:38:47] [Server thread/INFO]: blankslope joined the game
+[19:39:26] [Server thread/INFO]: SamWise[/127.76.50.101:64145] logged in with entity id 615 at (-190.30000001192093, 92.0, 4.300000011920929)
+[19:39:26] [Server thread/INFO]: SamWise joined the game
+[19:39:35] [Server thread/INFO]: blankslope lost connection: Disconnected
+[19:39:35] [Server thread/INFO]: blankslope left the game
+[19:40:45] [Server thread/INFO]: [Not Secure] <SamWise> yo huriking
+[19:40:53] [Server thread/INFO]: [Not Secure] <SamWise> paper farm looking real good now
+[19:41:13] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[19:41:34] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[19:42:30] [Server thread/INFO]: shikamaru2o[/127.146.41.51:64173] logged in with entity id 1049 at (-161.23614614760416, 102.0, 29.066607870254693)
+[19:42:30] [Server thread/INFO]: shikamaru2o joined the game
+[19:43:01] [Server thread/INFO]: [Not Secure] <Huriking> nice
+[19:43:12] [Server thread/INFO]: [Not Secure] <Huriking> me mera khudka khotha kola
+[19:43:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> what
+[19:43:37] [Server thread/INFO]: [Not Secure] <Huriking> breeding center
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 10.642710130079799,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 11.645560010371113,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 12.636772382114678,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 13.61625353968872,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 14.583922374830244,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 15.539702664328608,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 16.48352678283087,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 17.415335582107566,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 18.335074486441208,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 19.242697218667352,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 20.138161886561655,0.0,0.0
+[19:43:42] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 21.021430920752557,0.0,0.0
+[19:43:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh
+[19:44:12] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[19:44:45] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[19:49:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> i need one more chicken
+[19:49:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep chicken eggs hai?
+[19:49:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> sahil?
+[19:49:44] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[19:50:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[19:50:48] [Server thread/INFO]: <--[HERE]
+[19:51:00] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[19:51:34] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[19:51:39] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[19:52:02] [Server thread/WARN]: Spruce Boat (vehicle of Huriking) moved wrongly! 0.2564112596896848
+[19:54:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> chicken eggs hai?
+[19:55:49] [Server thread/INFO]: Time marker ResourceKey[minecraft:clock_time_marker / minecraft:nght] does not exist for clock minecraft:overworld
+[19:55:51] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[19:57:33] [Server thread/INFO]: [Not Secure] <SamWise> paper farm looking good
+[19:57:41] [Server thread/INFO]: [Not Secure] <Huriking> bhai ye villagers kisi aur hi beds ko attached hai
+[19:57:42] [Server thread/INFO]: [Not Secure] <SamWise> aaround a stack in 10 mins
+[19:57:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> niceeee
+[19:58:12] [Server thread/INFO]: [Not Secure] <Huriking> mene sabke beds nikalke dekhe still nahi soo rahe
+[19:58:13] [Server thread/INFO]: [Not Secure] <SamWise> its soo cool
+[19:58:31] [Server thread/INFO]: [Not Secure] <SamWise> huriking working on gear
+[19:58:38] [Server thread/INFO]: [Not Secure] <SamWise> joel made xp farm for levels
+[19:58:49] [Server thread/INFO]: [Not Secure] <SamWise> i made sugar cane for ttrades for emmeralds
+[19:58:52] [Server thread/INFO]: [Not Secure] <SamWise> good community
+[19:58:55] [Server thread/INFO]: [Not Secure] <Huriking> 5 stacks of iron
+[19:58:59] [Server thread/INFO]: [Not Secure] <Huriking> till now
+[19:59:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> fr
+[19:59:02] [Server thread/INFO]: [Not Secure] <SamWise> all have specific assets
+[19:59:14] [Server thread/INFO]: Huriking lost connection: Timed out
+[19:59:14] [Server thread/INFO]: Huriking left the game
+[19:59:24] [Server thread/INFO]: Huriking[/127.25.229.96:64335] logged in with entity id 6826 at (156.6775741218644, 103.0, 189.30648332738716)
+[19:59:24] [Server thread/INFO]: Huriking joined the game
+[19:59:38] [Server thread/INFO]: [Not Secure] <SamWise> hen there is joash and benzil...
+[19:59:41] [Server thread/INFO]: [Not Secure] <Huriking> 5 stack of iron
+[19:59:44] [Server thread/INFO]: [Not Secure] <Huriking> till now
+[19:59:50] [Server thread/INFO]: [Not Secure] <SamWise> crazyyy
+[20:00:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> chicken exp farm ho gaya
+[20:00:06] [Server thread/INFO]: [Not Secure] <Huriking> and its still half as efficient as it could get
+[20:00:13] [Server thread/INFO]: [Not Secure] <SamWise> chicken se xp thodi miltay
+[20:01:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> breeding ka exp
+[20:01:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> keep breeding and then they run out of blocks to live
+[20:01:46] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[20:01:46] [Server thread/INFO]: shikamaru2o left the game
+[20:02:07] [Server thread/INFO]: shikamaru2o[/127.146.41.51:64356] logged in with entity id 7970 at (-161.20765538931448, 102.0, 35.01829741318868)
+[20:02:07] [Server thread/INFO]: shikamaru2o joined the game
+[20:02:58] [Server thread/INFO]: [Not Secure] <SamWise> how to increase mobs in xp farm?
+[20:04:54] [Server thread/INFO]: [Not Secure] <SamWise> do chicken give xp?
+[20:04:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> breeding
+[20:05:06] [Server thread/INFO]: [Not Secure] <Huriking> even furnance gives xp
+[20:05:17] [Server thread/INFO]: [Not Secure] <SamWise> ik
+[20:05:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> this is exp plus free food
+[20:05:24] [Server thread/INFO]: [Not Secure] <SamWise> btu killing mobs gives more
+[20:05:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> i made this because we were having overload of wheat seeds
+[20:06:20] [Server thread/INFO]: [Not Secure] <SamWise> try this joel
+[20:06:29] [Server thread/INFO]: [Not Secure] <SamWise> here
+[20:06:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> i dont want to
+[20:06:45] [Server thread/INFO]: [Not Secure] <SamWise> try its ok
+[20:06:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:06:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> why
+[20:07:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> i had a bucket of milk
+[20:07:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh i already recovered
+[20:07:53] [Server thread/INFO]: [Not Secure] <SamWise> come see
+[20:08:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> yooooo
+[20:08:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> man im so impressed
+[20:08:24] [Server thread/INFO]: [Not Secure] <SamWise> see this
+[20:08:38] [Server thread/INFO]: [Not Secure] <SamWise> i can extend i f i want to
+[20:08:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> niceee
+[20:17:15] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:26:51] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:31:44] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[20:32:07] [Server thread/INFO]: [Not Secure] <SamWise> makeit day please
+[20:32:13] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:35:33] [Server thread/INFO]: [Not Secure] <Huriking> hi
+[20:35:36] [Server thread/INFO]: [Not Secure] <SamWise> hi
+[20:35:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> hi
+[20:36:08] [Server thread/INFO]: [Not Secure] <SamWise> bruh
+[20:36:15] [Server thread/INFO]: [Not Secure] <Huriking> easy acces
+[20:36:23] [Server thread/INFO]: [Not Secure] <SamWise> i still have mine right
+[20:36:27] [Server thread/INFO]: [Not Secure] <Huriking> ya
+[20:37:58] [Server thread/INFO]: [Not Secure] <SamWise> yall got any ink
+[20:38:07] [Server thread/INFO]: [Not Secure] <Huriking> ghar aa irl
+[20:38:15] [Server thread/INFO]: [Not Secure] <SamWise> not glow ink
+[20:38:17] [Server thread/INFO]: [Not Secure] <SamWise> black ink
+[20:41:57] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:43:55] [Server thread/INFO]: [Not Secure] <SamWise> huriking come here
+[20:45:08] [Server thread/INFO]: [Not Secure] <Huriking> bata
+[20:45:09] [Server thread/INFO]: [Not Secure] <SamWise> there wa a villager stuckin hole here somewhere
+[20:45:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> ringa ringa roses
+[20:45:32] [Server thread/INFO]: [Not Secure] <Huriking> here
+[20:45:43] [Server thread/INFO]: [Not Secure] <SamWise> yeaa see
+[20:45:46] [Server thread/INFO]: [Not Secure] <SamWise> let him have it
+[20:45:49] [Server thread/INFO]: [Not Secure] <SamWise> oo lonely
+[20:45:51] [Server thread/INFO]: [Not Secure] <SamWise> no sex
+[20:45:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> he wont eat bread
+[20:45:59] [Server thread/INFO]: [Not Secure] <SamWise> noo u drop it pres q
+[20:46:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> still no
+[20:46:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh liya
+[20:46:36] [Server thread/INFO]: [Not Secure] <Huriking> taking some rails and power rails
+[20:46:44] [Server thread/INFO]: [Not Secure] <SamWise> i have rails
+[20:46:47] [Server thread/INFO]: [Not Secure] <SamWise> no power rail
+[20:46:57] [Server thread/INFO]: [Not Secure] <Huriking> bana luna
+[20:47:01] [Server thread/INFO]: [Not Secure] <SamWise> wait
+[20:47:09] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[20:47:09] [Server thread/INFO]: shikamaru2o left the game
+[20:47:11] [Server thread/INFO]: [Not Secure] <SamWise> u took my ride
+[20:47:14] [Server thread/INFO]: shikamaru2o[/127.146.41.51:26915] logged in with entity id 25024 at (116.22113519912709, 120.0, 254.08196597836002)
+[20:47:14] [Server thread/INFO]: shikamaru2o joined the game
+[20:48:01] [Server thread/INFO]: [Not Secure] <SamWise> huriking
+[20:48:07] [Server thread/INFO]: [Not Secure] <SamWise> i also have some
+[20:48:22] [Server thread/INFO]: [Not Secure] <Huriking> more rails?
+[20:48:26] [Server thread/INFO]: [Not Secure] <SamWise> thats all i have
+[20:48:33] [Server thread/INFO]: [Not Secure] <SamWise> rest used in farm
+[20:48:36] [Server thread/INFO]: [Not Secure] <Huriking> k
+[20:48:41] [Server thread/INFO]: [Not Secure] <SamWise> u want normal rails get from mineshaft
+[20:49:12] [Server thread/WARN]: Spruce Boat (vehicle of Huriking) moved wrongly! 1.7345818146935699
+[20:49:13] [Server thread/WARN]: Spruce Boat (vehicle of Huriking) moved wrongly! 1.7391503664751724
+[20:49:13] [Server thread/WARN]: Spruce Boat (vehicle of Huriking) moved wrongly! 0.632693829552295
+[20:50:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> going afk
+[20:50:59] [Server thread/INFO]: [Not Secure] <SamWise> u can die stay somewhere safe
+[20:56:47] [Server thread/INFO]: [Not Secure] <SamWise> huriking u stole my boat
+[20:57:28] [Server thread/INFO]: [Not Secure] <Huriking> wanna go weeeeee on train
+[20:57:31] [Server thread/INFO]: [Not Secure] <Huriking> ?
+[20:57:39] [Server thread/INFO]: [Not Secure] <SamWise> wait later
+[21:00:36] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[21:00:46] [Server thread/INFO]: [Not Secure] <SamWise> day
+[21:00:59] [Server thread/INFO]: [Not Secure] <SamWise> day pls
+[21:01:21] [Server thread/INFO]: [Not Secure] <SamWise> yo hello
+[21:01:39] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:03:54] [Server thread/INFO]: Villager Villager['Villager'/24979, l='ServerLevel[world]', x=176.48, y=107.00, z=137.20] died, message: 'Villager was slain by Huriking'
+[21:05:00] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[21:05:20] [Server thread/INFO]: blankslope[/127.161.12.114:26984] logged in with entity id 31932 at (-145.5826715654827, 102.0, 15.125264555266348)
+[21:05:20] [Server thread/INFO]: blankslope joined the game
+[21:06:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[21:07:05] [Server thread/INFO]: [Not Secure] <SamWise> se boat
+[21:07:29] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[21:07:29] [Server thread/INFO]: d/time set night<--[HERE]
+[21:07:32] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[21:07:34] [Server thread/INFO]: [Not Secure] <SamWise> se boat pls
+[21:09:27] [Server thread/INFO]: [Not Secure] <blankslope> kill him pls
+[21:09:42] [Server thread/INFO]: [Not Secure] <SamWise> thank u my saviour
+[21:14:24] [Server thread/INFO]: Set the weather to clear
+[21:17:58] [Server thread/INFO]: [Not Secure] <blankslope> how to give food
+[21:18:01] [Server thread/INFO]: [Not Secure] <SamWise> ye nai pagle
+[21:18:08] [Server thread/INFO]: [Not Secure] <SamWise> give the green seed to me
+[21:18:39] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:21:39] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[21:22:06] [Server thread/INFO]: Villager Villager['Villager'/24985, l='ServerLevel[world]', x=115.70, y=110.00, z=274.70] died, message: 'Villager was slain by Zombie'
+[21:22:40] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:22:57] [Server thread/INFO]: [Not Secure] <SamWise> give me wome wheat
+[21:23:00] [Server thread/INFO]: [Not Secure] <SamWise> i want some bread
+[21:23:04] [Server thread/INFO]: [Not Secure] <SamWise> about 12 bread
+[21:24:32] [Server thread/INFO]: Huriking lost connection: Disconnected
+[21:24:32] [Server thread/INFO]: Huriking left the game
+[21:24:59] [Server thread/INFO]: [Not Secure] <blankslope> what can i do with snow
+[21:35:06] [Server thread/INFO]: [Not Secure] <blankslope> copper pickaxe kaun liya
+[21:35:09] [Server thread/INFO]: [Not Secure] <blankslope> chor
+[21:35:29] [Server thread/INFO]: [Not Secure] <SamWise> ye ke ro mat
+[21:39:30] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[21:39:32] [Server thread/INFO]: Stopping the server
+[21:39:32] [Server thread/INFO]: Stopping server
+[21:39:32] [Server thread/INFO]: Saving players
+[21:39:32] [Server thread/INFO]: SamWise lost connection: Server closed
+[21:39:32] [Server thread/INFO]: SamWise left the game
+[21:39:32] [Server thread/INFO]: blankslope lost connection: Server closed
+[21:39:32] [Server thread/INFO]: blankslope left the game
+[21:39:32] [Server thread/INFO]: Saving worlds
+[21:39:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:39:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:39:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
