@@ -535,6 +535,7 @@
       "cooked_beef": "2026-04-16 20:32:10 +0530",
       "baked_potato": "2026-04-15 13:24:22 +0530",
       "beef": "2026-04-19 13:22:37 +0530",
+      "beetroot": "2026-04-25 10:19:59 +0530",
       "beetroot_soup": "2026-04-15 20:18:05 +0530",
       "apple": "2026-04-15 10:58:45 +0530",
       "cooked_chicken": "2026-04-15 11:10:03 +0530",
@@ -752,11 +753,13 @@
       "minecraft:blaze": "2026-04-18 12:27:45 +0530",
       "minecraft:cave_spider": "2026-04-16 20:39:34 +0530",
       "minecraft:skeleton": "2026-04-15 11:34:31 +0530",
+      "minecraft:silverfish": "2026-04-25 11:39:18 +0530",
       "minecraft:spider": "2026-04-15 17:51:14 +0530",
       "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
       "minecraft:zombie": "2026-04-15 11:21:19 +0530",
       "minecraft:creeper": "2026-04-17 11:06:07 +0530",
       "minecraft:drowned": "2026-04-24 20:33:30 +0530",
+      "minecraft:zombie_villager": "2026-04-25 10:49:24 +0530",
       "minecraft:ghast": "2026-04-21 12:36:56 +0530",
       "minecraft:hoglin": "2026-04-21 12:36:28 +0530"
     },
@@ -3421,6 +3424,66 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2026-04-24 20:04:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-04-25 11:22:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-04-25 11:22:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-04-25 11:22:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-04-25 11:54:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-04-25 11:54:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-04-25 11:54:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-04-25 11:54:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-04-25 11:54:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-04-25 11:54:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-04-25 12:42:33 +0530"
     },
     "done": true
   },
