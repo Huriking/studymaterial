@@ -1,347 +1,110 @@
-[15:24:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[15:24:45] [ServerMain/INFO]: Loaded 1515 recipes
-[15:24:45] [ServerMain/INFO]: Loaded 1617 advancements
-[15:24:45] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[15:24:45] [Server thread/INFO]: Loading properties
-[15:24:45] [Server thread/INFO]: Default game type: SURVIVAL
-[15:24:45] [Server thread/INFO]: Generating keypair
-[15:24:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:24:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:24:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:24:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:24:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:24:46] [Server thread/INFO]: Preparing level "world"
-[15:24:46] [Server thread/INFO]: Loading 0 persistent chunks...
-[15:24:46] [Server thread/INFO]: Preparing spawn area: 100%
-[15:24:46] [Server thread/INFO]: Time elapsed: 43 ms
-[15:24:46] [Server thread/INFO]: Done (0.716s)! For help, type "help"
-[15:24:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:24:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:24:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:24:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:25:46] [Server thread/INFO]: blankslope[/127.0.0.1:51280] logged in with entity id 226 at (-100.84260346314274, 117.0, -18.126041724919897)
-[15:25:46] [Server thread/INFO]: blankslope joined the game
-[15:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
-[15:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12118ms or 242 ticks behind
-[15:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3986ms or 79 ticks behind
-[15:29:20] [Server thread/INFO]: shikamaru2o[/127.146.41.51:61572] logged in with entity id 1156 at (-139.34824014206646, 98.0, 50.71116734133691)
-[15:29:20] [Server thread/INFO]: shikamaru2o joined the game
-[15:29:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[15:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7145ms or 142 ticks behind
-[15:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[15:30:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[15:30:48] [Server thread/INFO]: \set time day<--[HERE]
-[15:30:56] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[15:30:56] [Server thread/INFO]: set time day<--[HERE]
-[15:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8780ms or 175 ticks behind
-[15:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8759ms or 175 ticks behind
-[15:31:35] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[15:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13322ms or 266 ticks behind
-[15:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
-[15:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[15:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
-[15:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
-[15:45:35] [Server thread/WARN]: shikamaru2o moved too quickly! -9.568060104443546,3.0,0.2249789978179848
-[15:46:10] [Server thread/INFO]: [Not Secure] <blankslope> how to make granite wall
-[15:47:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> idk
-[15:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[15:47:26] [Server thread/INFO]: SamWise[/127.172.125.221:61434] logged in with entity id 7049 at (-171.82393422318071, 109.0, -0.49830109310951753)
-[15:47:26] [Server thread/INFO]: SamWise joined the game
-[15:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4311ms or 86 ticks behind
-[15:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[15:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[15:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[15:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[15:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
-[15:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
-[15:50:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
-[15:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4436ms or 88 ticks behind
-[15:51:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[15:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[15:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
-[15:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
-[15:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[15:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
-[15:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[15:56:11] [Server thread/INFO]: [Not Secure] <SamWise> make it da
-[15:56:16] [Server thread/INFO]: [Not Secure] <SamWise> make it day
-[15:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[15:56:23] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[15:56:26] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[15:56:26] [Server thread/INFO]: <--[HERE]
-[15:56:30] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[15:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
-[15:57:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep thoda gold hai gold leggings le liye?
-[15:58:10] [Server thread/INFO]: [Not Secure] <SamWise> why gold tho
-[15:58:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> nether
-[15:58:20] [Server thread/INFO]: [Not Secure] <SamWise> helmet bana na
-[15:58:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> goldddd denaaa
-[15:58:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> gold chahiye
-[15:58:52] [Server thread/INFO]: [Not Secure] <SamWise> mere paas bhi kam hai
-[15:59:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein laata hai nether se
-[15:59:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> diamods bhi chalega na actually
-[15:59:29] [Server thread/INFO]: [Not Secure] <SamWise> ek kaam kar
-[15:59:31] [Server thread/INFO]: [Not Secure] <SamWise> ye le
-[15:59:53] [Server thread/INFO]: [Not Secure] <blankslope> can someone accompany me to mine iron
-[15:59:55] [Server thread/INFO]: [Not Secure] <blankslope> pls
-[16:00:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> thnx
-[16:00:14] [Server thread/INFO]: [Not Secure] <SamWise> btw dont u know
-[16:00:18] [Server thread/INFO]: [Not Secure] <blankslope> i want iron nuggets
-[16:00:23] [Server thread/INFO]: [Not Secure] <SamWise> u can easily get diaomond armour now
-[16:00:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> how
-[16:00:32] [Server thread/INFO]: [Not Secure] <SamWise> i got a cured villager
-[16:00:34] [Server thread/INFO]: [Not Secure] <SamWise> armourer
-[16:00:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> wow
-[16:00:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> where
-[16:00:48] [Server thread/INFO]: [Not Secure] <SamWise> he sells me chestplate for 7 emeralds
-[16:00:55] [Server thread/INFO]: [Not Secure] <SamWise> and the rest of the set for one each
-[16:01:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> wow
-[16:01:06] [Server thread/INFO]: [Not Secure] <SamWise> it wont for u coz i cured him
-[16:01:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> achaa
-[16:01:13] [Server thread/INFO]: [Not Secure] <blankslope> iron nuggets mine krne aa na
-[16:01:18] [Server thread/INFO]: [Not Secure] <SamWise> bhing working on makint it so that everyone in server get the discount
-[16:01:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> sahil ke farm se lena
-[16:01:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> niceee
-[16:01:36] [Server thread/INFO]: [Not Secure] <SamWise> legit u could die
-[16:01:46] [Server thread/INFO]: [Not Secure] <SamWise> and have diamond armour and wepaon in less than a minute
-[16:01:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> damnnnn
-[16:02:00] [Server thread/INFO]: [Not Secure] <SamWise> oh and i got like 3 stacks of emeralds
-[16:02:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> from where all this
-[16:02:19] [Server thread/INFO]: [Not Secure] <SamWise> they trade one emrald for one iron ingot
-[16:02:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> yoooooo
-[16:02:25] [Server thread/INFO]: [Not Secure] <SamWise> with bhings farm
-[16:02:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> its ggs
-[16:02:32] [Server thread/INFO]: [Not Secure] <SamWise> and my paper farm
-[16:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[16:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
-[16:03:15] [Server thread/INFO]: [Not Secure] <SamWise> so if u need any emerald to buy a book lmk
-[16:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
-[16:03:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> yess
-[16:03:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> can u plant the cartographer again
-[16:03:31] [Server thread/INFO]: [Not Secure] <SamWise> oh btw
-[16:03:39] [Server thread/INFO]: [Not Secure] <SamWise> the armourer gives enchanted stuff
-[16:03:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[16:03:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> i saw
-[16:03:45] [Server thread/INFO]: [Not Secure] <SamWise> helmet has aqua affintiy
-[16:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6110ms or 122 ticks behind
-[16:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7468ms or 149 ticks behind
-[16:04:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9613ms or 192 ticks behind
-[16:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
-[16:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5764ms or 115 ticks behind
-[16:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
-[16:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
-[16:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16:06:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4276ms or 85 ticks behind
-[16:06:45] [Server thread/INFO]: XFighter009[/127.99.221.180:53721] logged in with entity id 14233 at (-91.41850019060838, 114.0, 41.921419123350596)
-[16:06:45] [Server thread/INFO]: XFighter009 joined the game
-[16:06:57] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[16:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12751ms or 255 ticks behind
-[16:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
-[16:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
-[16:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
-[16:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3832ms or 76 ticks behind
-[16:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
-[16:13:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep can u give me some diamonds for pickaxe
-[16:14:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> yoo
-[16:14:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameeppppp
-[16:15:00] [Server thread/INFO]: [Not Secure] <SamWise> bol
-[16:15:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> diamonds de sakta hai pickaxe ke liye
-[16:15:38] [Server thread/INFO]: [Not Secure] <SamWise> tera waala toota kya
-[16:15:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> almost
-[16:15:42] [Server thread/INFO]: [Not Secure] <SamWise> whats ur level
-[16:15:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> 4
-[16:15:48] [Server thread/INFO]: [Not Secure] <SamWise> great
-[16:16:39] [Server thread/INFO]: [Not Secure] <SamWise> use it wisely
-[16:16:44] [Server thread/INFO]: [Not Secure] <SamWise> and uk what
-[16:16:52] [Server thread/INFO]: [Not Secure] <SamWise> i have 30 of these
-[16:16:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> u just wait what i mine with it
-[16:17:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> youll be suprised
-[16:17:56] [Server thread/INFO]: [Not Secure] <SamWise> tcome here
-[16:18:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks
-[16:18:13] [Server thread/INFO]: [Not Secure] <SamWise> i have less so use wisely
-[16:18:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike
-[16:18:33] [Server thread/INFO]: [Not Secure] <SamWise> benzil come here
-[16:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[16:18:46] [Server thread/INFO]: [Not Secure] <XFighter009> lavde kuta piche
-[16:18:49] [Server thread/INFO]: [Not Secure] <XFighter009> laga mera
-[16:18:55] [Server thread/INFO]: [Not Secure] <SamWise> come
-[16:18:58] [Server thread/INFO]: [Not Secure] <SamWise> maarne ka nai
-[16:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:19:14] [Server thread/INFO]: [Not Secure] <SamWise> benzil
-[16:19:18] [Server thread/INFO]: [Not Secure] <XFighter009> yes
-[16:19:20] [Server thread/INFO]: [Not Secure] <SamWise> thank you for this amazing farm
-[16:19:23] [Server thread/INFO]: [Not Secure] <SamWise> here
-[16:19:28] [Server thread/INFO]: [Not Secure] <XFighter009> wheat?
-[16:19:30] [Server thread/INFO]: XFighter009 has made the advancement [Cover Me with Diamonds]
-[16:19:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> niceeeeee
-[16:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[16:19:47] [Server thread/INFO]: [Not Secure] <XFighter009> yiepeepeppepepee4
-[16:19:49] [Server thread/INFO]: [Not Secure] <XFighter009> thankskssk
-[16:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[16:20:24] [Server thread/INFO]: [Not Secure] <XFighter009> wheres the iron farm
-[16:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6642ms or 132 ticks behind
-[16:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5545ms or 110 ticks behind
-[16:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6125ms or 122 ticks behind
-[16:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4908ms or 98 ticks behind
-[16:22:00] [Server thread/INFO]: shikamaru2o has made the advancement [Hidden in the Depths]
-[16:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6359ms or 127 ticks behind
-[16:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
-[16:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6374ms or 127 ticks behind
-[16:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5967ms or 119 ticks behind
-[16:23:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> well sameep
-[16:23:17] [Server thread/INFO]: [Not Secure] <SamWise> is that
-[16:23:20] [Server thread/INFO]: [Not Secure] <SamWise> debis
-[16:23:23] [Server thread/INFO]: [Not Secure] <SamWise> debris
-[16:23:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> uh huh
-[16:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[16:23:27] [Server thread/INFO]: [Not Secure] <SamWise> damn
-[16:23:31] [Server thread/INFO]: [Not Secure] <SamWise> how many onnly one?
-[16:23:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> 2
-[16:23:38] [Server thread/INFO]: [Not Secure] <SamWise> damn
-[16:23:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> ikr
-[16:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5074ms or 101 ticks behind
-[16:23:48] [Server thread/INFO]: [Not Secure] <SamWise> i wanna get one for my sword will go later
-[16:24:02] [Server thread/INFO]: [Not Secure] <SamWise> ive named my sword enma
-[16:24:09] [Server thread/INFO]: [Not Secure] <SamWise> but i havent mastered haki
-[16:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[16:24:12] [Server thread/INFO]: [Not Secure] <SamWise> black enma
-[16:24:15] [Server thread/INFO]: [Not Secure] <SamWise> need
-[16:24:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice
-[16:24:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein toh pura armour chahiye netherite
-[16:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6742ms or 134 ticks behind
-[16:24:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> muujhe
-[16:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[16:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
-[16:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[16:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7200ms or 144 ticks behind
-[16:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7664ms or 153 ticks behind
-[16:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7027ms or 140 ticks behind
-[16:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10816ms or 216 ticks behind
-[16:27:36] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[16:27:36] [Server thread/INFO]: XFighter009 left the game
-[16:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
-[16:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7618ms or 152 ticks behind
-[16:28:13] [Server thread/INFO]: [Not Secure] <blankslope> he ws roaming
-[16:28:21] [Server thread/INFO]: [Not Secure] <blankslope> your horse
-[16:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[16:29:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[16:32:42] [Server thread/INFO]: SamWise lost connection: Disconnected
-[16:32:42] [Server thread/INFO]: SamWise left the game
-[16:37:50] [Server thread/INFO]: [Not Secure] <blankslope> how to make glass
-[16:38:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> smelt sand in furnace
-[16:38:15] [Server thread/INFO]: [Not Secure] <blankslope> where do i get sand from
-[16:38:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> sand biome
-[16:38:37] [Server thread/INFO]: [Not Secure] <blankslope> where is it
-[16:38:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> that means no where near us
-[16:38:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> explore
-[16:38:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> paani ke paas jaa
-[16:39:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> toh seashores pe sand rehta hai
-[16:39:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> shovel se lele
-[16:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[16:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[16:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[16:42:38] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[16:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
-[16:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8028ms or 160 ticks behind
-[16:43:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8643ms or 172 ticks behind
-[16:43:51] [Server thread/INFO]: [Not Secure] <blankslope> wheres everyone
-[16:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
-[16:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4003ms or 80 ticks behind
-[16:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8716ms or 174 ticks behind
-[16:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
-[16:45:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> busy with life
-[16:46:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> mera placement hua toh mujhe kya
-[16:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[16:46:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> dont wanna brag but placement hone ke baad padhne ka mann utar gaya
-[16:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
-[16:46:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> u feel me
-[16:47:01] [Server thread/INFO]: [Not Secure] <blankslope> do i have to go inside the water to take sand
-[16:47:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> nhi rey river banks mein dikha
-[16:47:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> just boat along and u will see sand eventually
-[16:49:35] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[16:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[16:50:49] [Server thread/INFO]: shikamaru2o tried to swim in lava
-[16:50:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> fahhh
-[16:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[16:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11334ms or 226 ticks behind
-[16:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
-[16:54:18] [Server thread/INFO]: [Not Secure] <blankslope> how much sand would i need to craft around 32 glass panes
-[16:54:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> just get a stack bro with a shovel getting sand is easy
-[16:55:03] [Server thread/INFO]: [Not Secure] <blankslope> 64 is enough?
-[16:55:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> get more 5 stacks
-[16:55:34] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[16:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[16:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
-[17:04:41] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
-[17:08:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[17:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
-[17:13:55] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-194, y=61, z=-322} BlockPos{x=-194, y=62, z=-322}
-[17:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
-[17:15:46] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5424ms or 108 ticks behind
-[17:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:17:21] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:18:52] [Server thread/INFO]: shikamaru2o was killed by [Intentional Game Design]
-[17:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[17:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6264ms or 125 ticks behind
-[17:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5622ms or 112 ticks behind
-[17:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5890ms or 117 ticks behind
-[17:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[17:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[17:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[17:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4652ms or 93 ticks behind
-[17:22:00] [Server thread/INFO]: shikamaru2o was slain by Piglin
-[17:22:03] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:22:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[17:22:29] [Server thread/INFO]: blankslope lost connection: Disconnected
-[17:22:29] [Server thread/INFO]: blankslope left the game
-[17:22:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
-[17:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[17:23:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
-[17:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[17:24:15] [Server thread/INFO]: blankslope[/127.0.0.1:56476] logged in with entity id 38877 at (-153.30000001192093, 133.0, -119.6784642483256)
-[17:24:15] [Server thread/INFO]: blankslope joined the game
-[17:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19591ms or 391 ticks behind
-[17:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29193ms or 583 ticks behind
-[17:26:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20836ms or 416 ticks behind
-[17:26:18] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[17:26:18] [Server thread/INFO]: shikamaru2o left the game
-[17:26:20] [Server thread/INFO]: shikamaru2o[/127.146.41.51:58170] logged in with entity id 39932 at (124.13568989197593, 13.0, -18.28405173327346)
-[17:26:20] [Server thread/INFO]: shikamaru2o joined the game
-[17:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17648ms or 352 ticks behind
-[17:26:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5433ms or 108 ticks behind
-[17:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
-[17:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6394ms or 127 ticks behind
-[17:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11589ms or 231 ticks behind
-[17:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
-[17:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8863ms or 177 ticks behind
-[17:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
-[17:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
-[17:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13108ms or 262 ticks behind
-[17:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11025ms or 220 ticks behind
-[17:30:37] [Server thread/INFO]: blankslope lost connection: Disconnected
-[17:30:37] [Server thread/INFO]: blankslope left the game
-[17:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7895ms or 157 ticks behind
-[18:12:09] [Server thread/INFO]: Stopping the server
-[18:12:09] [Server thread/INFO]: Stopping server
-[18:12:09] [Server thread/INFO]: Saving players
-[18:12:09] [Server thread/INFO]: shikamaru2o lost connection: Server closed
-[18:12:09] [Server thread/INFO]: shikamaru2o left the game
-[18:12:09] [Server thread/INFO]: Saving worlds
-[18:12:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:12:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:12:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:43:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:43:31] [ServerMain/INFO]: Loaded 1515 recipes
+[18:43:31] [ServerMain/INFO]: Loaded 1617 advancements
+[18:43:31] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[18:43:31] [Server thread/INFO]: Loading properties
+[18:43:31] [Server thread/INFO]: Default game type: SURVIVAL
+[18:43:31] [Server thread/INFO]: Generating keypair
+[18:43:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:43:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:43:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:43:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:43:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:43:31] [Server thread/INFO]: Preparing level "world"
+[18:43:32] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:43:32] [Server thread/INFO]: Preparing spawn area: 100%
+[18:43:32] [Server thread/INFO]: Time elapsed: 13 ms
+[18:43:32] [Server thread/INFO]: Done (0.491s)! For help, type "help"
+[18:43:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:43:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:43:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:43:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:43:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:43:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:43:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:44:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:44:45] [Server thread/INFO]: Huriking[/127.17.58.31:1965] logged in with entity id 7 at (537.3846616458719, 64.0, 2796.1011747377765)
+[18:44:45] [Server thread/INFO]: Huriking joined the game
+[18:44:56] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[18:45:42] [Server thread/INFO]: Set the weather to clear
+[18:55:32] [Server thread/INFO]: Huriking lost connection: Disconnected
+[18:55:32] [Server thread/INFO]: Huriking left the game
+[18:56:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:58:10] [Server thread/INFO]: Huriking[/127.17.58.31:3235] logged in with entity id 4103 at (530.5931629470692, 65.0, 2795.584202287376)
+[18:58:10] [Server thread/INFO]: Huriking joined the game
+[18:59:27] [Server thread/INFO]: Huriking has made the advancement [A Terrible Fortress]
+[19:11:39] [Server thread/INFO]: Copper[/127.225.153.78:4492] logged in with entity id 6709 at (-147.69999998807907, 118.0, -29.69999998807907)
+[19:11:39] [Server thread/INFO]: Copper joined the game
+[19:20:17] [Server thread/INFO]: SamWise[/127.172.125.221:5147] logged in with entity id 9600 at (-176.5, 114.5625, -3.5)
+[19:20:17] [Server thread/INFO]: SamWise joined the game
+[19:22:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-141, y=101, z=31} BlockPos{x=-140, y=100, z=31}
+[19:22:53] [Server thread/INFO]: Huriking has made the advancement [Into Fire]
+[19:25:29] [Server thread/INFO]: shikamaru2o[/127.146.41.51:5709] logged in with entity id 11895 at (124.15782001250585, 11.0, 18.905558286292752)
+[19:25:29] [Server thread/INFO]: shikamaru2o joined the game
+[19:26:35] [Server thread/INFO]: [Not Secure] <Huriking> how to disable blaze spawner
+[19:26:43] [Server thread/INFO]: [Not Secure] <SamWise> u need lot of light
+[19:26:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> torches simple
+[19:26:51] [Server thread/INFO]: [Not Secure] <SamWise> put as many torches as possible
+[19:27:08] [Server thread/INFO]: [Not Secure] <SamWise> it should be extreme bright
+[19:27:17] [Server thread/INFO]: [Not Secure] <SamWise> normal covering with torches dont work
+[19:27:27] [Server thread/INFO]: [Not Secure] <SamWise> bright ness should be above 11 something
+[19:31:47] [Server thread/INFO]: [Not Secure] <Copper> sameep kitne fps pe khel rha hai
+[19:31:53] [Server thread/INFO]: [Not Secure] <SamWise> 60
+[19:33:21] [Server thread/INFO]: Copper lost connection: Disconnected
+[19:33:21] [Server thread/INFO]: Copper left the game
+[19:34:45] [Server thread/INFO]: SamWise lost connection: Disconnected
+[19:34:45] [Server thread/INFO]: SamWise left the game
+[19:34:46] [Server thread/WARN]: Huriking moved too quickly! 10.050716122580265,1.0013359791121488,-0.5992028656277171
+[19:34:51] [Server thread/INFO]: SamWise[/127.172.125.221:6394] logged in with entity id 16792 at (-190.8454253482277, 103.0, 29.22314325043925)
+[19:34:51] [Server thread/INFO]: SamWise joined the game
+[19:37:27] [Server thread/INFO]: SamWise lost connection: Disconnected
+[19:37:27] [Server thread/INFO]: SamWise left the game
+[19:41:13] [Server thread/INFO]: Huriking lost connection: Disconnected
+[19:41:13] [Server thread/INFO]: Huriking left the game
+[19:41:46] [Server thread/INFO]: There are 1 of a max of 20 players online: shikamaru2o
+[19:42:08] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[19:42:08] [Server thread/INFO]: shikamaru2o left the game
+[19:42:23] [Server thread/INFO]: [Not Secure] [Server] server closes in 15mins
+[19:43:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:16:01] [Server thread/INFO]: shikamaru2o[/127.146.41.51:45548] logged in with entity id 19284 at (72.48605292608373, 10.0, 56.491748507475336)
+[20:16:01] [Server thread/INFO]: shikamaru2o joined the game
+[20:28:11] [Server thread/INFO]: Huriking[/127.17.58.31:46653] logged in with entity id 22269 at (533.3000000119209, 64.0, 2794.439969484767)
+[20:28:11] [Server thread/INFO]: Huriking joined the game
+[20:29:22] [Server thread/INFO]: SamWise[/127.172.125.221:46662] logged in with entity id 22807 at (-190.30000001192093, 92.0, 4.300000011920929)
+[20:29:22] [Server thread/INFO]: SamWise joined the game
+[20:31:49] [Server thread/INFO]: shikamaru2o has completed the challenge [It Spreads]
+[20:31:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> wtf
+[20:31:53] [Server thread/INFO]: [Not Secure] <SamWise> ayein
+[20:31:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> come here
+[20:32:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> am i infected
+[20:32:13] [Server thread/INFO]: [Not Secure] <SamWise> no come here
+[20:32:23] [Server thread/INFO]: [Not Secure] <SamWise> see this
+[20:32:33] [Server thread/INFO]: [Not Secure] <SamWise> the lore is that sculk has tendency to spread
+[20:32:45] [Server thread/INFO]: [Not Secure] <SamWise> this thing here takes up xp orbs
+[20:32:51] [Server thread/INFO]: [Not Secure] <SamWise> and spreads the sculk
+[20:32:59] [Server thread/INFO]: [Not Secure] <SamWise> here
+[20:33:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> ohjhhh the thing in my houseee
+[20:33:06] [Server thread/INFO]: [Not Secure] <SamWise> this sculk catalyst in ur house
+[20:33:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruh
+[20:33:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> aw shit
+[20:33:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> creeper in sheep farm
+[20:33:44] [Server thread/INFO]: [Not Secure] <SamWise> arrows?
+[20:33:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
+[20:35:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> someone is going to be very mad
+[20:42:58] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:42:58] [Server thread/INFO]: SamWise left the game
+[20:46:26] [Server thread/INFO]: Huriking lost connection: Disconnected
+[20:46:26] [Server thread/INFO]: Huriking left the game
+[20:48:38] [Server thread/INFO]: Stopping the server
+[20:48:38] [Server thread/INFO]: Stopping server
+[20:48:38] [Server thread/INFO]: Saving players
+[20:48:38] [Server thread/INFO]: shikamaru2o lost connection: Server closed
+[20:48:38] [Server thread/INFO]: shikamaru2o left the game
+[20:48:38] [Server thread/INFO]: Saving worlds
+[20:48:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:48:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:48:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:48:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:48:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:48:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:48:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
