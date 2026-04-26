@@ -751,17 +751,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2026-04-18 12:27:45 +0530",
-      "minecraft:cave_spider": "2026-04-16 20:39:34 +0530",
+      "minecraft:pillager": "2026-04-26 15:02:58 +0530",
       "minecraft:skeleton": "2026-04-15 11:34:31 +0530",
+      "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
+      "minecraft:ghast": "2026-04-21 12:36:56 +0530",
+      "minecraft:hoglin": "2026-04-21 12:36:28 +0530",
+      "minecraft:cave_spider": "2026-04-16 20:39:34 +0530",
       "minecraft:silverfish": "2026-04-25 11:39:18 +0530",
       "minecraft:spider": "2026-04-15 17:51:14 +0530",
-      "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
       "minecraft:zombie": "2026-04-15 11:21:19 +0530",
       "minecraft:creeper": "2026-04-17 11:06:07 +0530",
       "minecraft:drowned": "2026-04-24 20:33:30 +0530",
-      "minecraft:zombie_villager": "2026-04-25 10:49:24 +0530",
-      "minecraft:ghast": "2026-04-21 12:36:56 +0530",
-      "minecraft:hoglin": "2026-04-21 12:36:28 +0530"
+      "minecraft:zombie_villager": "2026-04-25 10:49:24 +0530"
     },
     "done": false
   },
@@ -3485,6 +3486,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2026-04-25 12:42:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-04-26 15:02:58 +0530"
     },
     "done": true
   },
