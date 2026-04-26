@@ -3243,6 +3243,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:ragdoll": "2026-04-25 23:58:20 +0530",
       "minecraft:red": "2026-04-21 02:43:20 +0530"
     },
     "done": false
