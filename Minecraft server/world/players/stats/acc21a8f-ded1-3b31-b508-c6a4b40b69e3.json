@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:mined": {
+      "minecraft:pointed_dripstone": 1,
+      "minecraft:dirt": 1,
+      "minecraft:grass_block": 1,
+      "minecraft:white_carpet": 1
+    },
+    "minecraft:used": {
+      "minecraft:mutton": 2,
+      "minecraft:dirt": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 8,
+      "minecraft:pointed_dripstone": 1,
+      "minecraft:dirt": 1,
+      "minecraft:white_carpet": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 10762,
+      "minecraft:walk_one_cm": 94052,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 500,
+      "minecraft:damage_dealt": 216,
+      "minecraft:play_time": 22545,
+      "minecraft:jump": 90,
+      "minecraft:time_since_death": 10712,
+      "minecraft:sprint_one_cm": 19129,
+      "minecraft:open_chest": 7,
+      "minecraft:fall_one_cm": 3062,
+      "minecraft:total_world_time": 22545,
+      "minecraft:fly_one_cm": 599,
+      "minecraft:crouch_one_cm": 275,
+      "minecraft:sneak_time": 31,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4790
+}

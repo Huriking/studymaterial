@@ -1,0 +1,80 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:cherry_planks": 32,
+      "minecraft:chest": 1,
+      "minecraft:pink_wool": 3,
+      "minecraft:crafting_table": 1,
+      "minecraft:pink_bed": 1,
+      "minecraft:pink_dye": 3
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 46,
+      "minecraft:tall_grass": 1,
+      "minecraft:wall_torch": 1,
+      "minecraft:cherry_log": 19,
+      "minecraft:cherry_leaves": 39,
+      "minecraft:oak_leaves": 2,
+      "minecraft:bush": 3,
+      "minecraft:crafting_table": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 19,
+      "minecraft:pink_petals": 168,
+      "minecraft:stone": 56
+    },
+    "minecraft:picked_up": {
+      "minecraft:stick": 2,
+      "minecraft:cobblestone": 54,
+      "minecraft:white_wool": 2,
+      "minecraft:cherry_sapling": 2,
+      "minecraft:leather": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:torch": 1,
+      "minecraft:oak_sapling": 1,
+      "minecraft:cherry_log": 19,
+      "minecraft:beef": 3,
+      "minecraft:leaf_litter": 3,
+      "minecraft:oak_log": 19,
+      "minecraft:wheat_seeds": 5,
+      "minecraft:mutton": 5,
+      "minecraft:gray_wool": 1,
+      "minecraft:pink_petals": 460
+    },
+    "minecraft:used": {
+      "minecraft:pink_bed": 1,
+      "minecraft:wooden_axe": 43,
+      "minecraft:crafting_table": 2,
+      "minecraft:chest": 1,
+      "minecraft:wooden_pickaxe": 56,
+      "minecraft:oak_sapling": 1,
+      "minecraft:mutton": 5,
+      "minecraft:cherry_planks": 3,
+      "minecraft:oak_log": 8
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 3,
+      "minecraft:cow": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:time_since_rest": 45626,
+      "minecraft:walk_one_cm": 124244,
+      "minecraft:leave_game": 3,
+      "minecraft:mob_kills": 4,
+      "minecraft:damage_taken": 90,
+      "minecraft:play_time": 45626,
+      "minecraft:damage_dealt": 340,
+      "minecraft:jump": 329,
+      "minecraft:time_since_death": 45626,
+      "minecraft:sprint_one_cm": 90761,
+      "minecraft:open_chest": 2,
+      "minecraft:fall_one_cm": 6401,
+      "minecraft:total_world_time": 45626,
+      "minecraft:fly_one_cm": 21242
+    }
+  },
+  "DataVersion": 4790
+}

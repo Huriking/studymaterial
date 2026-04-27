@@ -1,27 +1,170 @@
-[00:01:49] [Server thread/INFO]: SamWise lost connection: Disconnected
-[00:01:49] [Server thread/INFO]: SamWise left the game
-[00:02:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:01:26] [Server thread/INFO]: shikamaru2o[/127.67.186.144:49250] logged in with entity id 66390 at (-132.82262149761542, 100.0, 43.641136811877516)
-[01:01:26] [Server thread/INFO]: shikamaru2o joined the game
-[01:11:12] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[01:11:12] [Server thread/INFO]: shikamaru2o left the game
-[01:11:56] [Server thread/INFO]: shikamaru2o[/127.67.186.144:65431] logged in with entity id 68990 at (-212.6655173943228, -35.0, -194.6846646153431)
-[01:11:56] [Server thread/INFO]: shikamaru2o joined the game
-[01:15:21] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[01:15:21] [Server thread/INFO]: shikamaru2o left the game
-[01:15:47] [Server thread/INFO]: shikamaru2o[/127.67.186.144:61421] logged in with entity id 69664 at (-212.93318074981048, -44.0, -220.96761173989273)
-[01:15:47] [Server thread/INFO]: shikamaru2o joined the game
-[01:33:53] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[01:33:53] [Server thread/INFO]: shikamaru2o left the game
-[01:34:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:43:38] [Server thread/INFO]: Stopping the server
-[01:43:38] [Server thread/INFO]: Stopping server
-[01:43:38] [Server thread/INFO]: Saving players
-[01:43:38] [Server thread/INFO]: Saving worlds
-[01:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:15] [Server thread/INFO]: C1orocks lost connection: Disconnected
+[00:01:15] [Server thread/INFO]: C1orocks left the game
+[00:48:35] [Server thread/INFO]: SamWise lost connection: Disconnected
+[00:48:35] [Server thread/INFO]: SamWise left the game
+[00:48:40] [Server thread/INFO]: SamWise[/127.2.133.97:53819] logged in with entity id 56753 at (-188.17819675768578, 103.0, 26.87381050631282)
+[00:48:40] [Server thread/INFO]: SamWise joined the game
+[00:50:44] [Server thread/INFO]: shikamaru2o[/127.158.179.126:62801] logged in with entity id 57273 at (-229.62270541055796, 30.0, -171.25720051579668)
+[00:50:44] [Server thread/INFO]: shikamaru2o joined the game
+[00:50:56] [Server thread/INFO]: [Not Secure] <SamWise> shikamaru clear the area near me
+[00:51:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> where are u
+[00:51:18] [Server thread/INFO]: [Not Secure] <SamWise> near my trading hall
+[00:51:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> ok
+[00:51:23] [Server thread/INFO]: [Not Secure] <SamWise> i saw a few creepers around
+[00:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:53:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6220ms or 124 ticks behind
+[00:54:22] [Server thread/INFO]: blankslope[/127.0.0.1:56291] logged in with entity id 58056 at (-161.12156887756288, 104.0, 16.76917259615518)
+[00:54:22] [Server thread/INFO]: blankslope joined the game
+[00:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[00:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4479ms or 89 ticks behind
+[00:55:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11479ms or 229 ticks behind
+[00:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5284ms or 105 ticks behind
+[00:56:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> wheres the creepers
+[00:59:51] [Server thread/INFO]: Villager Villager['Librarian'/56517, l='ServerLevel[world]', x=-191.47, y=103.00, z=29.54] died, message: 'Librarian was slain by SamWise using [S'Axe]'
+[01:00:55] [Server thread/INFO]: SamWise lost connection: Disconnected
+[01:00:55] [Server thread/INFO]: SamWise left the game
+[01:03:20] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:05:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7071ms or 141 ticks behind
+[01:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[01:12:56] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16939ms or 338 ticks behind
+[01:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9528ms or 190 ticks behind
+[01:22:47] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:25:53] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:25:53] [Server thread/INFO]: shikamaru2o left the game
+[01:26:25] [Server thread/INFO]: shikamaru2o[/127.158.179.126:55869] logged in with entity id 66405 at (-305.60918894659585, -21.0, -203.06022347793743)
+[01:26:25] [Server thread/INFO]: shikamaru2o joined the game
+[01:32:25] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:32:40] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:32:40] [Server thread/INFO]: shikamaru2o left the game
+[01:32:59] [Server thread/INFO]: shikamaru2o[/127.158.179.126:63886] logged in with entity id 67996 at (-292.6840862894463, -41.0, -134.70440430973008)
+[01:32:59] [Server thread/INFO]: shikamaru2o joined the game
+[01:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[01:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13645ms or 272 ticks behind
+[01:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
+[01:36:47] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:36:47] [Server thread/INFO]: shikamaru2o left the game
+[01:37:03] [Server thread/INFO]: shikamaru2o[/127.158.179.126:62980] logged in with entity id 69077 at (-302.07041413170305, -41.0, -123.30713905919363)
+[01:37:03] [Server thread/INFO]: shikamaru2o joined the game
+[01:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:40:10] [Server thread/INFO]: blankslope fell from a high place
+[01:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[01:40:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhhai
+[01:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:41:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[01:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[01:42:14] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
+[01:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[01:51:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> joash sand hai?
+[01:51:14] [Server thread/INFO]: [Not Secure] <blankslope> kitna?
+[01:51:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> 41
+[01:51:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> stack ki dede
+[01:52:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> im gonna blow up nehter now
+[01:52:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> wanna see?
+[01:52:23] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[01:52:44] [Server thread/INFO]: [Not Secure] <blankslope> door hai ky idhr se
+[01:52:47] [Server thread/INFO]: [Not Secure] <blankslope> ?
+[01:52:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> ha
+[01:52:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> decent amount durr
+[01:52:59] [Server thread/INFO]: [Not Secure] <blankslope> jaane de phir
+[01:53:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike
+[01:53:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> gunpowder kitna hai terepe?
+[01:53:48] [Server thread/INFO]: [Not Secure] <blankslope> nhi
+[01:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[01:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9451ms or 189 ticks behind
+[02:00:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[02:02:13] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[02:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[02:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6266ms or 125 ticks behind
+[02:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5960ms or 119 ticks behind
+[02:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6109ms or 122 ticks behind
+[02:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
+[02:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5758ms or 115 ticks behind
+[02:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[02:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
+[02:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7948ms or 158 ticks behind
+[02:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4231ms or 84 ticks behind
+[02:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[02:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[02:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
+[02:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6841ms or 136 ticks behind
+[02:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19882ms or 397 ticks behind
+[02:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5615ms or 112 ticks behind
+[02:08:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5178ms or 103 ticks behind
+[02:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[02:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9446ms or 188 ticks behind
+[02:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6614ms or 132 ticks behind
+[02:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[02:11:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9607ms or 192 ticks behind
+[02:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[02:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6674ms or 133 ticks behind
+[02:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8804ms or 176 ticks behind
+[02:13:08] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:13:08] [Server thread/INFO]: shikamaru2o left the game
+[02:13:27] [Server thread/INFO]: shikamaru2o[/127.158.179.126:60562] logged in with entity id 78070 at (152.30000001192093, 13.0, -84.33959896333364)
+[02:13:28] [Server thread/INFO]: shikamaru2o joined the game
+[02:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:13:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> joash let me know beforeu close
+[02:13:40] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[02:13:45] [Server thread/INFO]: [Not Secure] <blankslope> yes
+[02:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14767ms or 295 ticks behind
+[02:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[02:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9267ms or 185 ticks behind
+[02:15:28] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:15:28] [Server thread/INFO]: shikamaru2o left the game
+[02:15:47] [Server thread/INFO]: shikamaru2o[/127.158.179.126:50679] logged in with entity id 78695 at (149.30000001192093, 13.0, -97.87266194869309)
+[02:15:47] [Server thread/INFO]: shikamaru2o joined the game
+[02:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[02:16:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[02:16:47] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:16:47] [Server thread/INFO]: shikamaru2o left the game
+[02:17:11] [Server thread/INFO]: shikamaru2o[/127.158.179.126:56319] logged in with entity id 79126 at (154.69999998807907, 12.0, -93.73617205062102)
+[02:17:11] [Server thread/INFO]: shikamaru2o joined the game
+[02:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12356ms or 247 ticks behind
+[02:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4126ms or 82 ticks behind
+[02:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[02:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6656ms or 133 ticks behind
+[02:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7318ms or 146 ticks behind
+[02:21:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[02:21:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
+[02:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[02:24:08] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[02:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[02:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:25:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
+[02:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[02:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10242ms or 204 ticks behind
+[02:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[02:26:53] [Server thread/INFO]: [Not Secure] <blankslope> closing
+[02:27:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> 2 minw
+[02:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:27:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7681ms or 153 ticks behind
+[02:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[02:28:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:28:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> chal good night
+[02:29:02] [Server thread/INFO]: [Not Secure] <blankslope> gn
+[02:29:03] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[02:29:03] [Server thread/INFO]: shikamaru2o left the game
+[02:29:07] [Server thread/INFO]: blankslope lost connection: Disconnected
+[02:29:07] [Server thread/INFO]: blankslope left the game
+[02:29:40] [Server thread/INFO]: Stopping the server
+[02:29:40] [Server thread/INFO]: Stopping server
+[02:29:40] [Server thread/INFO]: Saving players
+[02:29:40] [Server thread/INFO]: Saving worlds
+[02:29:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:29:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:29:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:29:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:29:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:29:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:29:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
