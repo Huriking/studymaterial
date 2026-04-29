@@ -2734,6 +2734,19 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-04-28 20:25:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-04-29 12:58:31 +0530",
+      "minecraft:chicken": "2026-04-28 20:25:17 +0530"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-04-28 21:30:32 +0530"
@@ -2776,12 +2789,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2026-04-28 20:25:17 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2026-04-28 21:30:32 +0530"
@@ -2799,12 +2806,6 @@
       "has_blackstone": "2026-04-28 21:30:32 +0530"
     },
     "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2026-04-28 20:25:17 +0530"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
@@ -2839,6 +2840,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-04-28 21:30:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2026-04-29 12:18:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-04-29 12:18:11 +0530"
     },
     "done": true
   },

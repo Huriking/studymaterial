@@ -1601,7 +1601,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-04-28 18:27:50 +0530",
-      "minecraft:skeleton": "2026-04-28 15:25:30 +0530"
+      "minecraft:skeleton": "2026-04-28 15:25:30 +0530",
+      "minecraft:zombie": "2026-04-29 16:10:50 +0530"
     },
     "done": false
   },
@@ -1656,6 +1657,36 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2026-04-28 19:12:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2026-04-29 16:08:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2026-04-29 16:08:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-04-29 16:08:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2026-04-29 16:08:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-04-29 16:08:24 +0530"
     },
     "done": true
   },

@@ -1,4 +1,4 @@
-[09:30:44] [ServerMain/WARN]: Failed retrieving info for group processor
+[09:47:53] [ServerMain/WARN]: Failed retrieving info for group processor
 java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Win32Exception
 	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:42)
 	at oshi.util.Memoizer$1.get(Memoizer.java:65)
@@ -19,7 +19,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Win32Exc
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
 	... 14 more
-[09:30:44] [ServerMain/WARN]: Failed retrieving info for group graphics
+[09:47:53] [ServerMain/WARN]: Failed retrieving info for group graphics
 java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Win32Exception
 	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:87)
 	at net.minecraft.SystemReport.lambda$putHardware$1(SystemReport.java:101)
@@ -38,7 +38,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Win32Exc
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
 	... 12 more
-[09:30:44] [ServerMain/WARN]: Failed retrieving info for group memory
+[09:47:53] [ServerMain/WARN]: Failed retrieving info for group memory
 java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Psapi$PERFORMANCE_INFORMATION
 	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:37)
 	at oshi.util.Memoizer$1.get(Memoizer.java:65)
@@ -59,69 +59,645 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Psapi$PE
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
 	... 14 more
-[09:30:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[09:30:54] [ServerMain/INFO]: Loaded 1515 recipes
-[09:30:54] [ServerMain/INFO]: Loaded 1617 advancements
-[09:30:54] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[09:30:54] [Server thread/INFO]: Loading properties
-[09:30:54] [Server thread/INFO]: Default game type: SURVIVAL
-[09:30:54] [Server thread/INFO]: Generating keypair
-[09:30:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:30:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:30:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:30:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:30:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:30:54] [Server thread/INFO]: Preparing level "world"
-[09:30:55] [Server thread/INFO]: Loading 0 persistent chunks...
-[09:30:55] [Server thread/INFO]: Preparing spawn area: 100%
-[09:30:55] [Server thread/INFO]: Time elapsed: 73 ms
-[09:30:55] [Server thread/INFO]: Done (0.616s)! For help, type "help"
-[09:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09:31:02] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[09:31:02] [Server thread/INFO]: do /reload<--[HERE]
-[09:31:51] [Server thread/INFO]: Reloading!
-[09:31:52] [Server thread/INFO]: Loaded 1515 recipes
-[09:31:52] [Server thread/INFO]: Loaded 1617 advancements
-[09:31:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:31:57] [Server thread/INFO]: SamWise[/127.221.30.78:50479] logged in with entity id 311 at (-178.13303328579437, 105.5, 10.25969006525418)
-[09:31:57] [Server thread/INFO]: SamWise joined the game
-[09:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
-[09:33:49] [Server thread/INFO]: XFighter009[/127.99.221.180:50500] logged in with entity id 870 at (-186.69999998807907, 92.0, 3.699999988079071)
-[09:33:49] [Server thread/INFO]: XFighter009 joined the game
-[09:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[09:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10062ms or 201 ticks behind
-[09:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
-[09:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10771ms or 215 ticks behind
-[09:35:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7101ms or 142 ticks behind
-[09:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10031ms or 200 ticks behind
-[09:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14937ms or 298 ticks behind
-[09:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9949ms or 198 ticks behind
-[09:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4589ms or 91 ticks behind
-[09:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
-[09:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[09:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[09:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3357ms or 67 ticks behind
-[09:38:34] [Server thread/INFO]: [Not Secure] <SamWise> ruk benzil
-[09:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
-[09:38:41] [Server thread/INFO]: [Not Secure] <SamWise> abh ye file push kar
-[09:38:46] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[09:38:46] [Server thread/INFO]: XFighter009 left the game
-[09:38:50] [Server thread/INFO]: SamWise lost connection: Disconnected
-[09:38:50] [Server thread/INFO]: SamWise left the game
-[09:38:55] [Server thread/INFO]: Stopping the server
-[09:38:55] [Server thread/INFO]: Stopping server
-[09:38:55] [Server thread/INFO]: Saving players
-[09:38:55] [Server thread/INFO]: Saving worlds
-[09:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:48:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[09:48:13] [ServerMain/INFO]: Loaded 1515 recipes
+[09:48:13] [ServerMain/INFO]: Loaded 1617 advancements
+[09:48:13] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[09:48:13] [Server thread/INFO]: Loading properties
+[09:48:13] [Server thread/INFO]: Default game type: SURVIVAL
+[09:48:13] [Server thread/INFO]: Generating keypair
+[09:48:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:48:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:48:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:48:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:48:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:48:14] [Server thread/INFO]: Preparing level "world"
+[09:48:15] [Server thread/INFO]: Loading 0 persistent chunks...
+[09:48:15] [Server thread/INFO]: Preparing spawn area: 100%
+[09:48:15] [Server thread/INFO]: Time elapsed: 40 ms
+[09:48:15] [Server thread/INFO]: Done (1.068s)! For help, type "help"
+[09:48:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:48:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:48:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:48:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:49:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:51:14] [Server thread/INFO]: SamWise[/127.221.30.78:52835] logged in with entity id 353 at (-172.1581830870886, 114.0, 2.102592354576752)
+[09:51:14] [Server thread/INFO]: SamWise joined the game
+[09:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3914ms or 78 ticks behind
+[09:55:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[09:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4193ms or 83 ticks behind
+[10:03:46] [Server thread/INFO]: beast_07[/127.38.144.168:53014] logged in with entity id 2613 at (-119.93303620149271, 99.0, 65.40334169836626)
+[10:03:46] [Server thread/INFO]: beast_07 joined the game
+[10:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[10:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[10:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
+[10:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6548ms or 130 ticks behind
+[10:05:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[10:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[10:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[10:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[10:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[10:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9035ms or 180 ticks behind
+[10:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[10:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[10:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[10:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[10:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[10:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6356ms or 127 ticks behind
+[10:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[10:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6583ms or 131 ticks behind
+[10:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10593ms or 211 ticks behind
+[10:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[10:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11106ms or 222 ticks behind
+[10:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9496ms or 189 ticks behind
+[10:15:05] [Server thread/INFO]: SamWise has made the advancement [Those Were the Days]
+[10:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[10:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10230ms or 204 ticks behind
+[10:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[10:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7725ms or 154 ticks behind
+[10:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10:16:47] [Server thread/INFO]: SamWise has made the advancement [War Pigs]
+[10:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[10:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8861ms or 177 ticks behind
+[10:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
+[10:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[10:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7792ms or 155 ticks behind
+[10:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[10:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5948ms or 118 ticks behind
+[10:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[10:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[10:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[10:21:20] [Server thread/INFO]: [Not Secure] <SamWise> make it dayyy!!!!
+[10:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12419ms or 248 ticks behind
+[10:22:29] [Server thread/INFO]: beast_07 was slain by Iron Golem
+[10:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[10:22:50] [Server thread/INFO]: [Not Secure] <SamWise> galat logon se nahi bhidneka
+[10:23:17] [Server thread/INFO]: [Not Secure] <beast_07> iron golem ktm hai bhai
+[10:23:25] [Server thread/INFO]: [Not Secure] <beast_07> abhi dekh tu bus
+[10:23:30] [Server thread/INFO]: [Not Secure] <SamWise> ye le
+[10:23:37] [Server thread/INFO]: [Not Secure] <beast_07> aaya
+[10:24:54] [Server thread/INFO]: beast_07 has made the advancement [Cover Me with Diamonds]
+[10:25:39] [Server thread/INFO]: [Not Secure] <beast_07> iron chahiye tha mujhe uska
+[10:25:44] [Server thread/INFO]: beast_07 has made the advancement [Acquire Hardware]
+[10:25:46] [Server thread/INFO]: [Not Secure] <beast_07> thanks
+[10:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[10:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[10:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[10:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[11:03:43] [Server thread/INFO]: beast_07 lost connection: Disconnected
+[11:03:43] [Server thread/INFO]: beast_07 left the game
+[11:13:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 59309ms or 1186 ticks behind
+[11:13:37] [Server thread/INFO]: SamWise lost connection: Timed out
+[11:13:38] [Server thread/INFO]: SamWise left the game
+[11:13:57] [Server thread/INFO]: SamWise[/127.221.30.78:54160] logged in with entity id 19747 at (14.470755093484769, 13.0, -100.90910713604642)
+[11:13:57] [Server thread/INFO]: SamWise joined the game
+[11:19:54] [Server thread/INFO]: Huriking[/127.152.85.180:54251] logged in with entity id 20764 at (-176.5570198482355, 114.0, -0.4813199717757677)
+[11:19:54] [Server thread/INFO]: Huriking joined the game
+[11:25:47] [Server thread/INFO]: shikamaru2o[/127.158.179.126:54317] logged in with entity id 23883 at (-160.77953613593326, 102.0, 24.43146248598578)
+[11:25:47] [Server thread/INFO]: shikamaru2o joined the game
+[11:25:56] [Server thread/INFO]: beast_07[/127.38.144.168:54320] logged in with entity id 24302 at (-121.10532771769049, 103.0, 49.97500992547451)
+[11:25:56] [Server thread/INFO]: beast_07 joined the game
+[11:28:51] [Server thread/INFO]: [Not Secure] <beast_07> where is the sea
+[11:29:07] [Server thread/INFO]: [Not Secure] <beast_07> i will become king of the pirates
+[11:29:14] [Server thread/INFO]: [Not Secure] <beast_07> join my crew
+[11:29:22] [Server thread/INFO]: [Not Secure] <Huriking> chalte reh kisi bhi direction
+[11:29:24] [Server thread/INFO]: [Not Secure] <Huriking> aajayega
+[11:29:40] [Server thread/INFO]: [Not Secure] <beast_07> ok
+[11:30:30] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[11:30:30] [Server thread/INFO]: shikamaru2o left the game
+[11:31:34] [Server thread/INFO]: shikamaru2o[/127.158.179.126:54396] logged in with entity id 27100 at (-172.69999998807907, 104.5, 15.25222721249871)
+[11:31:34] [Server thread/INFO]: shikamaru2o joined the game
+[11:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 437173ms or 8743 ticks behind
+[11:41:24] [Server thread/INFO]: SamWise lost connection: Disconnected
+[11:41:24] [Server thread/INFO]: SamWise left the game
+[11:41:25] [Server thread/INFO]: Huriking lost connection: Timed out
+[11:41:25] [Server thread/INFO]: Huriking left the game
+[11:41:25] [Server thread/INFO]: beast_07 lost connection: Timed out
+[11:41:25] [Server thread/INFO]: beast_07 left the game
+[11:41:25] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[11:41:25] [Server thread/INFO]: shikamaru2o left the game
+[11:41:32] [Server thread/INFO]: SamWise[/127.221.30.78:54497] logged in with entity id 29177 at (-8.47034270649901, 13.0, -157.69999998807907)
+[11:41:32] [Server thread/INFO]: SamWise joined the game
+[11:42:08] [Server thread/INFO]: Huriking[/127.152.85.180:54526] logged in with entity id 29384 at (531.5, 64.0, 2795.5)
+[11:42:08] [Server thread/INFO]: Huriking joined the game
+[11:42:19] [Server thread/INFO]: beast_07[/127.38.144.168:54538] logged in with entity id 29590 at (25.317992448462395, 59.283036301236166, -238.12879718273194)
+[11:42:19] [Server thread/INFO]: beast_07 joined the game
+[11:44:53] [Server thread/INFO]: blankslope[/127.204.191.233:54617] logged in with entity id 31455 at (-158.06975691313062, 115.0, 15.363737176473805)
+[11:44:53] [Server thread/INFO]: blankslope joined the game
+[11:45:05] [Server thread/INFO]: blankslope lost connection: Disconnected
+[11:45:05] [Server thread/INFO]: blankslope left the game
+[11:45:14] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[11:45:30] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[11:45:37] [Server thread/INFO]: Set the weather to rain
+[11:45:50] [Server thread/INFO]: Set the weather to clear
+[11:46:15] [Server thread/INFO]: blankslope[/127.204.191.233:54650] logged in with entity id 32260 at (-158.22663615357303, 115.5, 15.986061353225555)
+[11:46:15] [Server thread/INFO]: blankslope joined the game
+[11:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[11:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[11:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
+[11:55:06] [Server thread/INFO]: [Not Secure] <blankslope> pls go and sleep
+[11:55:12] [Server thread/INFO]: [Not Secure] <blankslope> beast
+[11:55:26] [Server thread/INFO]: [Not Secure] <blankslope> cool tnx
+[11:57:42] [Server thread/INFO]: [Not Secure] <beast_07> BLACKSHEEP KIDHAR HAI TU ?
+[11:57:52] [Server thread/INFO]: [Not Secure] <blankslope> mc
+[11:58:12] [Server thread/INFO]: [Not Secure] <beast_07> sheild kese use karte hai ?
+[11:58:26] [Server thread/INFO]: [Not Secure] <blankslope> left click kr
+[11:58:29] [Server thread/INFO]: [Not Secure] <blankslope> block krega
+[11:58:38] [Server thread/INFO]: [Not Secure] <beast_07> ok
+[11:58:51] [Server thread/INFO]: [Not Secure] <beast_07> spiders kidhr honge ?
+[11:59:02] [Server thread/INFO]: [Not Secure] <blankslope> mines mein honge
+[12:01:36] [Server thread/INFO]: [Not Secure] <SamWise> what if u run out of beds
+[12:01:41] [Server thread/INFO]: [Not Secure] <SamWise> u will come to over world na
+[12:02:00] [Server thread/INFO]: [Not Secure] <Huriking> to collect wool yes?
+[12:02:06] [Server thread/INFO]: [Not Secure] <SamWise> actually
+[12:02:20] [Server thread/INFO]: [Not Secure] <SamWise> we should keep 3 slots for crafting table wood and wool
+[12:02:27] [Server thread/INFO]: [Not Secure] <SamWise> that way we can double it up
+[12:02:51] [Server thread/INFO]: [Not Secure] <SamWise> one full inventory of beds equals
+[12:02:59] [Server thread/INFO]: [Not Secure] <SamWise> 4 debris
+[12:03:01] [Server thread/INFO]: [Not Secure] <SamWise> great
+[12:03:09] [Server thread/INFO]: [Not Secure] <Huriking> nah i am getting more than 4
+[12:03:31] [Server thread/INFO]: [Not Secure] <Huriking> i got 21 from like 2 inventory worth beds
+[12:03:36] [Server thread/INFO]: [Not Secure] <SamWise> gg
+[12:03:50] [Server thread/INFO]: [Not Secure] <SamWise> i went into wrong biome beech mein i think
+[12:05:40] [Server thread/INFO]: [Not Secure] <blankslope> sleep
+[12:05:44] [Server thread/INFO]: [Not Secure] <blankslope> beast pls
+[12:06:08] [Server thread/INFO]: [Not Secure] <beast_07> kis sheep ko marna hai ?
+[12:06:10] [Server thread/INFO]: [Not Secure] <Huriking> half heart save
+[12:06:16] [Server thread/INFO]: [Not Secure] <Huriking> tip: dont use any food
+[12:06:21] [Server thread/INFO]: [Not Secure] <Huriking> use steak only
+[12:06:28] [Server thread/INFO]: [Not Secure] <SamWise> ye kya e giel bana hai jaoh
+[12:06:38] [Server thread/INFO]: [Not Secure] <blankslope> ky
+[12:07:23] [Server thread/INFO]: [Not Secure] <beast_07> tum logo ne iron farm bana ke rakha hai
+[12:09:58] [Server thread/INFO]: SamWise has completed the challenge [Cover Me in Debris]
+[12:10:21] [Server thread/INFO]: [Not Secure] <Huriking> kya kya kiya?
+[12:10:28] [Server thread/INFO]: [Not Secure] <SamWise> netherite armor
+[12:10:37] [Server thread/INFO]: [Not Secure] <Huriking> pura ho gaya?
+[12:10:42] [Server thread/INFO]: [Not Secure] <SamWise> yea
+[12:10:46] [Server thread/INFO]: [Not Secure] <SamWise> but need 16 more
+[12:12:58] [Server thread/INFO]: SamWise has made the advancement [Crafting a New Look]
+[12:13:00] [Server thread/INFO]: beast_07 has made the advancement [We Need to Go Deeper]
+[12:17:03] [Server thread/INFO]: [Not Secure] <blankslope> sleep pls
+[12:19:28] [Server thread/INFO]: [Not Secure] <SamWise> look at me
+[12:19:32] [Server thread/INFO]: [Not Secure] <blankslope> vo disc de na
+[12:19:36] [Server thread/INFO]: [Not Secure] <SamWise> konsa
+[12:19:42] [Server thread/INFO]: [Not Secure] <blankslope> vo gaana ka
+[12:19:47] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[12:19:55] [Server thread/INFO]: [Not Secure] <SamWise> right click on it
+[12:19:58] [Server thread/INFO]: [Not Secure] <SamWise> and put it back in
+[12:20:05] [Server thread/INFO]: [Not Secure] <blankslope> kn aa rha
+[12:20:36] [Server thread/INFO]: [Not Secure] <blankslope> yippeee
+[12:21:00] [Server thread/INFO]: [Not Secure] <SamWise> how do i look joash
+[12:21:06] [Server thread/INFO]: [Not Secure] <blankslope> how do i look
+[12:21:27] [Server thread/INFO]: [Not Secure] <blankslope> were you looking at me as i slept
+[12:21:30] [Server thread/INFO]: [Not Secure] <blankslope> all night
+[12:21:35] [Server thread/INFO]: [Not Secure] <blankslope> creep
+[12:21:38] [Server thread/INFO]: [Not Secure] <blankslope> ewwwww
+[12:21:55] [Server thread/INFO]: beast_07 has made the advancement [Take Aim]
+[12:22:01] [Server thread/INFO]: SamWise lost connection: Disconnected
+[12:22:01] [Server thread/INFO]: SamWise left the game
+[12:22:03] [Server thread/INFO]: SamWise[/127.221.30.78:54937] logged in with entity id 47821 at (-174.7230236620806, 114.0, 3.616791685668083)
+[12:22:03] [Server thread/INFO]: SamWise joined the game
+[12:22:04] [Server thread/INFO]: shikamaru2o[/127.158.179.126:54939] logged in with entity id 47846 at (-201.8931995019849, 10.176759275064239, -170.21503073402403)
+[12:22:04] [Server thread/INFO]: shikamaru2o joined the game
+[12:22:09] [Server thread/INFO]: [Not Secure] <beast_07> acha aim hai na
+[12:22:48] [Server thread/INFO]: [Not Secure] <beast_07> tera ghar konsa hai ?
+[12:22:56] [Server thread/INFO]: [Not Secure] <blankslope> ye
+[12:25:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep mere paas aayega?
+[12:25:41] [Server thread/INFO]: [Not Secure] <SamWise> kahan
+[12:25:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> the hole we died in
+[12:26:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> i wanna show u how vast it is
+[12:26:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> plus 2 cities here
+[12:26:10] [Server thread/INFO]: [Not Secure] <blankslope> everone dies for a hole
+[12:26:11] [Server thread/INFO]: [Not Secure] <SamWise> ik baba
+[12:26:19] [Server thread/INFO]: [Not Secure] <SamWise> there are 3 cities underneath
+[12:26:41] [Server thread/INFO]: [Not Secure] <blankslope> 2 to be precise
+[12:26:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> its actually 3
+[12:26:55] [Server thread/INFO]: [Not Secure] <SamWise> yea
+[12:27:07] [Server thread/INFO]: [Not Secure] <blankslope> ik but u cant do anything with the third one
+[12:27:18] [Server thread/INFO]: [Not Secure] <blankslope> one wid 3 holes
+[12:27:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> 3 holes is the best wdym
+[12:27:50] [Server thread/INFO]: [Not Secure] <blankslope> ik
+[12:27:55] [Server thread/INFO]: [Not Secure] <blankslope> i love three
+[12:33:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> wai9t whattttttttt
+[12:39:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> guess what attacked me while exploring
+[12:39:15] [Server thread/INFO]: [Not Secure] <SamWise> a witch
+[12:39:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> a silverfish
+[12:41:11] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[12:41:11] [Server thread/INFO]: shikamaru2o left the game
+[12:42:22] [Server thread/INFO]: shikamaru2o[/127.158.179.126:55077] logged in with entity id 57460 at (-412.30000001192093, -15.0, -173.42630459403404)
+[12:42:22] [Server thread/INFO]: shikamaru2o joined the game
+[12:42:45] [Server thread/INFO]: [Not Secure] <blankslope> mc
+[12:42:47] [Server thread/INFO]: [Not Secure] <blankslope> mt
+[12:42:47] [Server thread/INFO]: [Not Secure] <beast_07> so mat raat ko
+[12:42:58] [Server thread/INFO]: [Not Secure] <beast_07> mujhe jombiz marna hai
+[12:43:06] [Server thread/INFO]: [Not Secure] <blankslope> gm bsdk
+[12:43:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep can u make one eye of ender
+[12:43:16] [Server thread/INFO]: [Not Secure] <blankslope> agar creeper aaya tho udaa dega ghr ko
+[12:43:48] [Server thread/INFO]: [Not Secure] <blankslope> idhr aa
+[12:43:51] [Server thread/INFO]: [Not Secure] <blankslope> jdli
+[12:44:10] [Server thread/INFO]: [Not Secure] <blankslope> abbe chutye
+[12:44:13] [Server thread/INFO]: [Not Secure] <blankslope> idhr
+[12:44:45] [Server thread/INFO]: [Not Secure] <blankslope> sameep ye traders k idhr mobs hai
+[12:44:50] [Server thread/INFO]: [Not Secure] <blankslope> phoote tho khtm
+[12:45:37] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[12:45:37] [Server thread/INFO]: shikamaru2o left the game
+[12:45:37] [Server thread/WARN]: handleDisconnection() called twice
+[12:45:50] [Server thread/INFO]: shikamaru2o[/127.158.179.126:55085] logged in with entity id 59433 at (-360.5322945903425, -36.0, -223.7240904541768)
+[12:45:50] [Server thread/INFO]: shikamaru2o joined the game
+[12:47:27] [Server thread/INFO]: blankslope was slain by beast_07
+[12:47:33] [Server thread/INFO]: [Not Secure] <blankslope> mkc
+[12:47:36] [Server thread/INFO]: [Not Secure] <blankslope> tu khtm hai
+[12:48:21] [Server thread/INFO]: [Not Secure] <beast_07> sorry
+[12:48:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep?
+[12:51:21] [Server thread/WARN]: shikamaru2o was kicked for floating too long!
+[12:51:22] [Server thread/INFO]: shikamaru2o lost connection: Flying is not enabled on this server
+[12:51:22] [Server thread/INFO]: shikamaru2o left the game
+[12:51:40] [Server thread/INFO]: shikamaru2o[/127.158.179.126:55138] logged in with entity id 62858 at (-360.7958852517974, -34.75081292125532, -220.57233744737198)
+[12:51:40] [Server thread/INFO]: shikamaru2o joined the game
+[12:52:34] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[12:52:34] [Server thread/INFO]: shikamaru2o left the game
+[12:52:42] [Server thread/INFO]: shikamaru2o[/127.158.179.126:55146] logged in with entity id 63522 at (-363.1290280476193, -38.0, -226.98132074403952)
+[12:52:42] [Server thread/INFO]: shikamaru2o joined the game
+[12:53:06] [Server thread/INFO]: blankslope was slain by beast_07
+[12:53:10] [Server thread/INFO]: [Not Secure] <blankslope> mc
+[12:53:20] [Server thread/INFO]: [Not Secure] <Huriking> harshit op
+[12:53:26] [Server thread/INFO]: [Not Secure] <beast_07> are toh bhai mt lad
+[12:53:30] [Server thread/INFO]: [Not Secure] <blankslope> bsdk mein kuch rkha hinhi hai
+[12:53:33] [Server thread/INFO]: [Not Secure] <beast_07> ho gya ab bht
+[12:53:46] [Server thread/INFO]: [Not Secure] <blankslope> jis dnn mein sb kuch rkhahoga na
+[12:53:49] [Server thread/INFO]: [Not Secure] <beast_07> chal tune hi bajaya abhi
+[12:53:52] [Server thread/INFO]: [Not Secure] <blankslope> u khtm hai
+[12:54:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruh
+[12:55:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> help chahiyer?
+[12:55:10] [Server thread/INFO]: [Not Secure] <beast_07> ha spider web chahiye
+[12:55:21] [Server thread/INFO]: [Not Secure] <beast_07> aur ye flint kese milta hai
+[13:00:53] [Server thread/INFO]: beast_07 has made the advancement [Fishy Business]
+[13:02:10] [Server thread/INFO]: beast_07 has made the advancement [Best Friends Forever]
+[13:02:51] [Server thread/INFO]: [Not Secure] <blankslope> help4
+[13:03:47] [Server thread/INFO]: [Not Secure] <blankslope> help
+[13:03:55] [Server thread/INFO]: [Not Secure] <Huriking> kya hua aur kidr
+[13:04:04] [Server thread/INFO]: [Not Secure] <beast_07> kya ?
+[13:04:12] [Server thread/INFO]: [Not Secure] <blankslope> follow kr meko
+[13:04:16] [Server thread/INFO]: [Not Secure] <beast_07> sheep marni hai ?
+[13:04:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> chutiye
+[13:04:37] [Server thread/INFO]: [Not Secure] <blankslope> kidr se nhi pta
+[13:04:47] [Server thread/INFO]: [Not Secure] <blankslope> mein literraly hill k upr leke gya usko
+[13:05:02] [Server thread/INFO]: beast_07 has completed the challenge [It Spreads]
+[13:05:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> harshit this your home?
+[13:05:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> samne?
+[13:05:29] [Server thread/INFO]: [Not Secure] <beast_07> ha
+[13:05:35] [Server thread/INFO]: [Not Secure] <beast_07> kya hua ?
+[13:05:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> mere samne kyu
+[13:05:56] [Server thread/INFO]: [Not Secure] <beast_07> are koi aur jagha hi nhi bachi thi
+[13:06:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> hills mein bana na
+[13:06:13] [Server thread/INFO]: [Not Secure] <beast_07> teri bakriya sab bhara ja rahi hai
+[13:06:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> breed karna hoga wapis sabko
+[13:09:16] [Server thread/INFO]: beast_07 has made the advancement [The Parrots and the Bats]
+[13:12:28] [Server thread/INFO]: [Not Secure] <blankslope> harshit mc
+[13:12:37] [Server thread/INFO]: [Not Secure] <blankslope> mera spruce doors gya
+[13:13:05] [Server thread/INFO]: [Not Secure] <beast_07> kaya ye kaya hai
+[13:13:16] [Server thread/INFO]: [Not Secure] <beast_07> mere chest mai wood hai lele
+[13:16:40] [Server thread/INFO]: beast_07 has made the advancement [Ol' Betsy]
+[13:19:39] [Server thread/INFO]: beast_07 has made the advancement [Voluntary Exile]
+[13:20:49] [Server thread/INFO]: [Not Secure] <blankslope> help
+[13:21:37] [Server thread/INFO]: [Not Secure] <blankslope> help
+[13:21:43] [Server thread/INFO]: [Not Secure] <Huriking> kya hua aur kidr
+[13:21:46] [Server thread/INFO]: [Not Secure] <blankslope> idhr
+[13:21:50] [Server thread/INFO]: [Not Secure] <Huriking> -_-
+[13:24:37] [Server thread/INFO]: [Not Secure] <Huriking> total kitne debri lagte hai
+[13:26:26] [Server thread/INFO]: blankslope lost connection: Disconnected
+[13:26:26] [Server thread/INFO]: blankslope left the game
+[13:26:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> 36
+[13:26:43] [Server thread/INFO]: [Not Secure] <Huriking> man
+[13:26:48] [Server thread/INFO]: [Not Secure] <Huriking> 2 short
+[13:26:57] [Server thread/INFO]: [Not Secure] <SamWise> 1 short
+[13:27:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep saale
+[13:27:06] [Server thread/INFO]: [Not Secure] <Huriking> me overworld aaya
+[13:27:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> give me templates
+[13:28:15] [Server thread/INFO]: Huriking lost connection: Disconnected
+[13:28:15] [Server thread/INFO]: Huriking left the game
+[13:28:16] [Server thread/INFO]: [Not Secure] <SamWise> fuck uff
+[13:28:19] [Server thread/INFO]: [Not Secure] <SamWise> ruk zara
+[13:28:23] [Server thread/INFO]: [Not Secure] <SamWise> bastian doondha
+[13:28:30] [Server thread/INFO]: [Not Secure] <SamWise> debris bhi dhoondha
+[13:28:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> u dont want 2 debris?
+[13:28:36] [Server thread/INFO]: [Not Secure] <SamWise> mera 2 pickaxes liye
+[13:28:44] [Server thread/INFO]: [Not Secure] <SamWise> template ka 7 diamond bhi lera
+[13:28:47] [Server thread/INFO]: [Not Secure] <SamWise> ruk
+[13:32:04] [Server thread/INFO]: shikamaru2o has made the advancement [Crafting a New Look]
+[13:35:17] [Server thread/INFO]: shikamaru2o has completed the challenge [Hot Tourist Destinations]
+[13:35:37] [Server thread/INFO]: [Not Secure] <SamWise> bhing i have one extra
+[13:36:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep have u explored pura bastian?
+[13:36:39] [Server thread/INFO]: [Not Secure] <SamWise> nope
+[13:36:46] [Server thread/INFO]: shikamaru2o has made the advancement [Those Were the Days]
+[13:37:26] [Server thread/INFO]: shikamaru2o has made the advancement [Who is Cutting Onions?]
+[13:37:44] [Server thread/INFO]: [Not Secure] <SamWise> netherite hoe?
+[13:42:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep tujhe brutes dikhe the?
+[13:43:02] [Server thread/INFO]: [Not Secure] <SamWise> mardiya sabko
+[13:43:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh lmao
+[13:43:11] [Server thread/INFO]: [Not Secure] <SamWise> i dont if they repsawn mostly they dont
+[13:44:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh ek hai
+[13:45:37] [Server thread/INFO]: [Not Secure] <SamWise> idk what to do now
+[13:45:51] [Server thread/INFO]: blankslope[/127.204.191.233:55384] logged in with entity id 88736 at (-141.8923628609491, 102.0, 11.598228636633635)
+[13:45:51] [Server thread/INFO]: blankslope joined the game
+[13:45:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> give me template
+[13:46:02] [Server thread/INFO]: [Not Secure] <SamWise> give 7 diamonds
+[13:46:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> ill give u 2 debri instead
+[13:46:28] [Server thread/INFO]: [Not Secure] <SamWise> dont need debris now lol
+[13:46:32] [Server thread/INFO]: [Not Secure] <SamWise> im done
+[13:46:37] [Server thread/INFO]: [Not Secure] <SamWise> maybe later for spear
+[13:46:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> mujhe chahiye diamonds replicate karne
+[13:47:05] [Server thread/INFO]: [Not Secure] <SamWise> i have just 10 diamonds left
+[13:47:14] [Server thread/INFO]: [Not Secure] <SamWise> from 90
+[13:47:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> nigga u have full netherite what u cring about
+[13:47:45] [Server thread/INFO]: [Not Secure] <SamWise> fine i will take the debris
+[13:47:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> good
+[13:48:04] [Server thread/INFO]: [Not Secure] <SamWise> bhing id appreciate 7 diamonds from u tho
+[13:48:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
+[13:48:12] [Server thread/INFO]: [Not Secure] <SamWise> what to do now
+[13:48:26] [Server thread/INFO]: [Not Secure] <blankslope> anyone ahs spruce planks?
+[13:49:32] [Server thread/INFO]: [Not Secure] <SamWise> give 4
+[13:49:33] [Server thread/INFO]: [Not Secure] <SamWise> plannk
+[13:51:08] [Server thread/INFO]: [Not Secure] <blankslope> pls sleep smone
+[13:52:46] [Server thread/INFO]: [Not Secure] <blankslope> whts tis
+[13:52:54] [Server thread/INFO]: [Not Secure] <SamWise> nothing
+[13:56:29] [Server thread/INFO]: [Not Secure] <SamWise> f u joash
+[13:56:41] [Server thread/INFO]: [Not Secure] <SamWise> mere ghar ka pura entrance ka aesthetic tabha kardiya
+[13:56:52] [Server thread/INFO]: [Not Secure] <blankslope> wht did i do
+[13:57:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep
+[13:57:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> take
+[13:57:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> 2
+[13:57:36] [Server thread/INFO]: [Not Secure] <SamWise> twooo
+[13:57:38] [Server thread/INFO]: [Not Secure] <SamWise> bruh
+[13:57:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> u gave 2 yesterday
+[13:57:43] [Server thread/INFO]: [Not Secure] <SamWise> ik but
+[13:57:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> we did a deal come on
+[13:57:51] [Server thread/INFO]: [Not Secure] <SamWise> yrrr kaise log ho
+[13:57:54] [Server thread/INFO]: [Not Secure] <SamWise> shi
+[13:58:19] [Server thread/INFO]: [Not Secure] <SamWise> give me a netherack
+[13:58:30] [Server thread/INFO]: [Not Secure] <SamWise> wait
+[13:59:00] [Server thread/INFO]: [Not Secure] <SamWise> down to just 2 doamond from 92
+[13:59:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks
+[13:59:14] [Server thread/INFO]: [Not Secure] <SamWise> u better remeber this
+[13:59:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> i will
+[13:59:57] [Server thread/INFO]: [Not Secure] <blankslope> theres a creeper inside my house
+[14:00:06] [Server thread/INFO]: [Not Secure] <SamWise> mai phdrau usko
+[14:00:11] [Server thread/INFO]: [Not Secure] <blankslope> mt pls
+[14:00:25] [Server thread/INFO]: [Not Secure] <SamWise> mera ghar ka pura sene tabha kiya tune chutiye
+[14:00:33] [Server thread/INFO]: [Not Secure] <blankslope> pls
+[14:00:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> kitty ah
+[14:01:13] [Server thread/INFO]: [Not Secure] <SamWise> im making modifications u mind
+[14:01:17] [Server thread/INFO]: [Not Secure] <SamWise> to ur house?
+[14:01:17] [Server thread/INFO]: [Not Secure] <beast_07> kisi village ke golem ko marne se woh village dead ho jata hai kya ??
+[14:01:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> golems keeping spawing
+[14:01:36] [Server thread/INFO]: [Not Secure] <blankslope> where did it go
+[14:01:44] [Server thread/INFO]: [Not Secure] <SamWise> joash answer me
+[14:01:48] [Server thread/INFO]: [Not Secure] <blankslope> wht
+[14:02:00] [Server thread/INFO]: [Not Secure] <SamWise> i wanna take this room out
+[14:02:07] [Server thread/INFO]: [Not Secure] <blankslope> wht
+[14:02:11] [Server thread/INFO]: [Not Secure] <SamWise> will put fences below to look for support
+[14:02:22] [Server thread/INFO]: [Not Secure] <blankslope> nooooo
+[14:02:23] [Server thread/INFO]: [Not Secure] <SamWise> thi room
+[14:02:34] [Server thread/INFO]: [Not Secure] <SamWise> idhar se
+[14:02:39] [Server thread/INFO]: [Not Secure] <blankslope> no
+[14:02:41] [Server thread/INFO]: [Not Secure] <SamWise> this chunk
+[14:02:43] [Server thread/INFO]: [Not Secure] <SamWise> bruh
+[14:02:45] [Server thread/INFO]: [Not Secure] <blankslope> kitna mehnat kiya hai
+[14:02:49] [Server thread/INFO]: blankslope was slain by Zombie
+[14:02:55] [Server thread/INFO]: [Not Secure] <SamWise> serves u right
+[14:02:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> lol
+[14:03:26] [Server thread/INFO]: [Not Secure] <SamWise> this entrance is soo congested
+[14:03:37] [Server thread/INFO]: [Not Secure] <SamWise> ghar mein jaan ka hi man nahi karray
+[14:03:48] [Server thread/INFO]: [Not Secure] <SamWise> itne paas paas tu naya building khada kiya hai
+[14:04:00] [Server thread/INFO]: [Not Secure] <SamWise> tell me if im wrong shikamaru
+[14:04:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> true
+[14:05:12] [Server thread/INFO]: [Not Secure] <SamWise> chod kya bilun isko
+[14:05:26] [Server thread/INFO]: [Not Secure] <SamWise> kuch fayda nahi
+[14:05:32] [Server thread/INFO]: [Not Secure] <SamWise> meko nikaalne ko bhi bura lagra
+[14:05:36] [Server thread/INFO]: [Not Secure] <SamWise> fuvk u
+[14:05:41] [Server thread/INFO]: [Not Secure] <SamWise> teko armor diya
+[14:05:44] [Server thread/INFO]: [Not Secure] <SamWise> game sikhaya
+[14:05:52] [Server thread/INFO]: [Not Secure] <SamWise> aisa silla diya tune mere pyaar kaa
+[14:06:00] [Server thread/INFO]: [Not Secure] <blankslope> sry senpai
+[14:07:14] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[14:07:14] [Server thread/INFO]: shikamaru2o left the game
+[14:07:24] [Server thread/INFO]: shikamaru2o[/127.158.179.126:55498] logged in with entity id 99565 at (69.81192907525016, 125.02442408821369, 212.99455769517175)
+[14:07:24] [Server thread/INFO]: shikamaru2o joined the game
+[14:12:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> i found a smite 5 sword
+[14:12:57] [Server thread/INFO]: [Not Secure] <blankslope> anyone has spruce planks?
+[14:13:38] [Server thread/INFO]: [Not Secure] <blankslope> pls
+[14:18:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> joash breed these sheeps plz
+[14:18:29] [Server thread/INFO]: [Not Secure] <blankslope> rapist wht u doing to the sheeps
+[14:18:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> shearing dumbass
+[14:19:01] [Server thread/INFO]: [Not Secure] <blankslope> shearing is just an excuse
+[14:19:59] [Server thread/INFO]: [Not Secure] <blankslope> sry
+[14:20:17] [Server thread/INFO]: [Not Secure] <SamWise> merko ek baar bhi nahi bola sory
+[14:20:19] [Server thread/INFO]: [Not Secure] <blankslope> shearing bolke ull slide it in
+[14:20:21] [Server thread/INFO]: [Not Secure] <SamWise> aai zhavada
+[14:20:49] [Server thread/INFO]: [Not Secure] <blankslope> hello rapist
+[14:20:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> my nigga breed them
+[14:20:57] [Server thread/INFO]: [Not Secure] <blankslope> give me tht tool
+[14:21:05] [Server thread/INFO]: Huriking[/127.152.85.180:55574] logged in with entity id 115078 at (163.99303219005745, 112.0, 246.64007054087062)
+[14:21:05] [Server thread/INFO]: Huriking joined the game
+[14:21:17] [Server thread/INFO]: [Not Secure] <blankslope> sry
+[14:21:22] [Server thread/INFO]: [Not Secure] <blankslope> im low on hp
+[14:22:26] [Server thread/INFO]: [Not Secure] <SamWise> yahan kya karray
+[14:22:36] [Server thread/INFO]: [Not Secure] <beast_07> explore
+[14:22:44] [Server thread/INFO]: [Not Secure] <beast_07> niche mine hai
+[14:28:13] [Server thread/INFO]: SamWise lost connection: Disconnected
+[14:28:13] [Server thread/INFO]: SamWise left the game
+[14:28:50] [Server thread/INFO]: Villager Villager['Cleric'/107263, l='ServerLevel[world]', x=1958.48, y=72.00, z=-1000.30] died, message: 'Cleric was slain by beast_07'
+[14:28:50] [Server thread/INFO]: Huriking lost connection: Timed out
+[14:28:50] [Server thread/INFO]: Huriking left the game
+[14:29:14] [Server thread/INFO]: [Not Secure] <blankslope> sleep smone
+[14:31:13] [Server thread/INFO]: [Not Secure] <blankslope> how to use trapdoors
+[14:33:34] [Server thread/INFO]: [Not Secure] <blankslope> hello
+[14:33:39] [Server thread/INFO]: [Not Secure] <blankslope> come up here
+[14:33:44] [Server thread/INFO]: [Not Secure] <blankslope> i need help
+[14:38:57] [Server thread/INFO]: [Not Secure] <blankslope> need help trapdoors
+[14:38:59] [Server thread/INFO]: [Not Secure] <blankslope> joel mc
+[14:39:06] [Server thread/INFO]: SamWise[/127.221.30.78:55678] logged in with entity id 127665 at (589.3830115910249, 62.11076431274413, -342.90914375300827)
+[14:39:06] [Server thread/INFO]: SamWise joined the game
+[14:39:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> wgat
+[14:39:25] [Server thread/INFO]: [Not Secure] <blankslope> sameep need help with trapdoors
+[14:40:12] [Server thread/INFO]: [Not Secure] <blankslope> pls help smone
+[14:40:27] [Server thread/INFO]: [Not Secure] <SamWise> shit seed for exploration
+[14:40:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have a swamp map jana hai?
+[14:41:08] [Server thread/INFO]: blankslope lost connection: Disconnected
+[14:41:08] [Server thread/INFO]: blankslope left the game
+[14:41:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep?
+[14:41:35] [Server thread/INFO]: [Not Secure] <SamWise> lemme come home firt
+[14:41:38] [Server thread/INFO]: beast_07 has made the advancement [Isn't It Iron Pick]
+[14:41:52] [Server thread/INFO]: [Not Secure] <SamWise> also no more throiwing eggs
+[14:42:00] [Server thread/INFO]: [Not Secure] <SamWise> sabh jagah chicken chicken karke rakha hai
+[14:42:47] [Server thread/INFO]: SamWise lost connection: Disconnected
+[14:42:47] [Server thread/INFO]: SamWise left the game
+[14:43:04] [Server thread/INFO]: blankslope[/127.204.191.233:55694] logged in with entity id 131241 at (-149.56241689231643, 110.0, 22.477325440920254)
+[14:43:04] [Server thread/INFO]: blankslope joined the game
+[15:01:41] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[15:01:41] [Server thread/INFO]: shikamaru2o left the game
+[15:06:11] [Server thread/INFO]: beast_07 has made the advancement [Not Today, Thank You]
+[15:06:39] [Server thread/INFO]: beast_07 was slain by Zombie
+[15:17:09] [Server thread/INFO]: beast_07 fell from a high place
+[15:19:22] [Server thread/INFO]: beast_07 was shot by Skeleton
+[15:25:54] [Server thread/INFO]: beast_07 lost connection: Disconnected
+[15:25:54] [Server thread/INFO]: beast_07 left the game
+[15:27:37] [Server thread/INFO]: Copper[/127.67.226.90:55982] logged in with entity id 156184 at (-149.32181496257752, 98.0, 48.8522348442994)
+[15:27:37] [Server thread/INFO]: Copper joined the game
+[15:29:43] [Server thread/INFO]: [Not Secure] <Copper> idhar jump krke bana
+[15:29:55] [Server thread/INFO]: [Not Secure] <Copper> lodu piche dekh
+[15:30:25] [Server thread/INFO]: [Not Secure] <Copper> daal
+[15:30:31] [Server thread/INFO]: [Not Secure] <blankslope> ruk
+[15:30:35] [Server thread/INFO]: [Not Secure] <blankslope> video dekh rha
+[15:30:43] [Server thread/INFO]: [Not Secure] <Copper> ok
+[15:33:02] [Server thread/INFO]: [Not Secure] <Copper> ab bata kya chahiye
+[15:36:31] [Server thread/INFO]: [Not Secure] <Copper> bhadve bahar kase jau
+[15:37:55] [Server thread/INFO]: [Not Secure] <Copper> sexy lag rha hai
+[15:38:11] [Server thread/INFO]: [Not Secure] <blankslope> bahut kaam baaki hai
+[15:38:17] [Server thread/INFO]: [Not Secure] <blankslope> interior ka saaman hai hi nhi
+[15:38:22] [Server thread/INFO]: [Not Secure] <blankslope> sb dhoondhna pdega
+[15:38:42] [Server thread/INFO]: SamWise[/127.70.28.2:56046] logged in with entity id 157884 at (-161.139548536418, 103.0, 22.671347484269106)
+[15:38:42] [Server thread/INFO]: SamWise joined the game
+[15:38:56] [Server thread/INFO]: Copper lost connection: Disconnected
+[15:38:56] [Server thread/INFO]: Copper left the game
+[15:39:18] [Server thread/INFO]: Copper[/127.67.226.90:56049] logged in with entity id 158001 at (-130.88087784077945, 102.0, 25.305337032858848)
+[15:39:18] [Server thread/INFO]: Copper joined the game
+[15:39:41] [Server thread/INFO]: [Not Secure] <SamWise> yo
+[15:39:51] [Server thread/INFO]: [Not Secure] <SamWise> how do i look
+[15:39:53] [Server thread/INFO]: [Not Secure] <Copper> the sheep went out
+[15:40:04] [Server thread/INFO]: [Not Secure] <Copper> look like a cyborg
+[15:40:12] [Server thread/INFO]: [Not Secure] <SamWise> nice
+[15:40:35] [Server thread/INFO]: [Not Secure] <SamWise> see black sword
+[15:40:39] [Server thread/INFO]: [Not Secure] <Copper> nice
+[15:40:42] [Server thread/INFO]: [Not Secure] <SamWise> black axe
+[15:40:50] [Server thread/INFO]: [Not Secure] <Copper> what does it cut
+[15:40:54] [Server thread/INFO]: [Not Secure] <SamWise> u bet one hitof this will one shot you
+[15:41:01] [Server thread/INFO]: [Not Secure] <Copper> wow
+[15:41:06] [Server thread/INFO]: [Not Secure] <SamWise> wanna try
+[15:41:07] [Server thread/INFO]: [Not Secure] <Copper> give me some tools
+[15:49:35] [Server thread/INFO]: blankslope lost connection: Disconnected
+[15:49:35] [Server thread/INFO]: blankslope left the game
+[16:00:55] [Server thread/INFO]: [Not Secure] <SamWise> punch my chest
+[16:01:02] [Server thread/INFO]: [Not Secure] <Copper> rock todne ke liye tool dena
+[16:01:10] [Server thread/INFO]: [Not Secure] <SamWise> bruh
+[16:01:12] [Server thread/INFO]: [Not Secure] <SamWise> again
+[16:01:17] [Server thread/INFO]: [Not Secure] <SamWise> again
+[16:01:21] [Server thread/INFO]: [Not Secure] <SamWise> haha see
+[16:01:28] [Server thread/INFO]: [Not Secure] <Copper> what
+[16:01:33] [Server thread/INFO]: [Not Secure] <SamWise> u took damage
+[16:01:36] [Server thread/INFO]: [Not Secure] <Copper> bringe me a tool pls
+[16:01:38] [Server thread/INFO]: [Not Secure] <SamWise> only by hitting me
+[16:03:32] [Server thread/INFO]: [Not Secure] <Copper> thanks
+[16:22:45] [Server thread/INFO]: Copper lost connection: Disconnected
+[16:22:45] [Server thread/INFO]: Copper left the game
+[16:29:07] [Server thread/INFO]: /advancement (grant|revoke)
+[16:29:07] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[16:29:07] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[16:29:07] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[16:29:07] [Server thread/INFO]: /clear [<targets>]
+[16:29:07] [Server thread/INFO]: /clone (<begin>|from)
+[16:29:07] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[16:29:07] [Server thread/INFO]: /data (merge|get|remove|modify)
+[16:29:07] [Server thread/INFO]: /datapack (enable|disable|list|create)
+[16:29:07] [Server thread/INFO]: /debug (start|stop|function)
+[16:29:07] [Server thread/INFO]: /defaultgamemode <gamemode>
+[16:29:07] [Server thread/INFO]: /dialog (show|clear)
+[16:29:07] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[16:29:07] [Server thread/INFO]: /effect (clear|give)
+[16:29:07] [Server thread/INFO]: /me <action>
+[16:29:07] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[16:29:07] [Server thread/INFO]: /experience (add|set|query)
+[16:29:07] [Server thread/INFO]: /xp -> experience
+[16:29:07] [Server thread/INFO]: /fill <from> <to> <block> [outline|hollow|destroy|strict|replace|keep]
+[16:29:07] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[16:29:07] [Server thread/INFO]: /forceload (add|remove|query)
+[16:29:07] [Server thread/INFO]: /function <name> [<arguments>|with]
+[16:29:07] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[16:29:07] [Server thread/INFO]: /gamerule (mob_explosion_drop_decay|minecraft:mob_explosion_drop_decay|projectiles_can_break_blocks|minecraft:projectiles_can_break_blocks|spawn_wandering_traders|minecraft:spawn_wandering_traders|command_block_output|minecraft:command_block_output|entity_drops|minecraft:entity_drops|raids|minecraft:raids|player_movement_check|minecraft:player_movement_check|reduced_debug_info|minecraft:reduced_debug_info|block_explosion_drop_decay|minecraft:block_explosion_drop_decay|players_sleeping_percentage|minecraft:players_sleeping_percentage|natural_health_regeneration|minecraft:natural_health_regeneration|spawn_monsters|minecraft:spawn_monsters|forgive_dead_players|minecraft:forgive_dead_players|mob_griefing|minecraft:mob_griefing|advance_weather|minecraft:advance_weather|ender_pearls_vanish_on_death|minecraft:ender_pearls_vanish_on_death|elytra_movement_check|minecraft:elytra_movement_check|respawn_radius|minecraft:respawn_radius|spawn_patrols|minecraft:spawn_patrols|max_command_sequence_length|minecraft:max_command_sequence_length|fire_damage|minecraft:fire_damage|players_nether_portal_creative_delay|minecraft:players_nether_portal_creative_delay|limited_crafting|minecraft:limited_crafting|fall_damage|minecraft:fall_damage|fire_spread_radius_around_player|minecraft:fire_spread_radius_around_player|max_snow_accumulation_height|minecraft:max_snow_accumulation_height|max_command_forks|minecraft:max_command_forks|drowning_damage|minecraft:drowning_damage|tnt_explosion_drop_decay|minecraft:tnt_explosion_drop_decay|tnt_explodes|minecraft:tnt_explodes|keep_inventory|minecraft:keep_inventory|command_blocks_work|minecraft:command_blocks_work|players_nether_portal_default_delay|minecraft:players_nether_portal_default_delay|immediate_respawn|minecraft:immediate_respawn|max_entity_cramming|minecraft:max_entity_cramming|mob_drops|minecraft:mob_drops|freeze_damage|minecraft:freeze_damage|locator_bar|minecraft:locator_bar|lava_source_conversion|minecraft:lava_source_conversion|water_source_conversion|minecraft:water_source_conversion|log_admin_commands|minecraft:log_admin_commands|spawner_blocks_work|minecraft:spawner_blocks_work|spread_vines|minecraft:spread_vines|allow_entering_nether_using_portals|minecraft:allow_entering_nether_using_portals|advance_time|minecraft:advance_time|spectators_generate_chunks|minecraft:spectators_generate_chunks|universal_anger|minecraft:universal_anger|block_drops|minecraft:block_drops|pvp|minecraft:pvp|random_tick_speed|minecraft:random_tick_speed|spawn_mobs|minecraft:spawn_mobs|show_death_messages|minecraft:show_death_messages|max_block_modifications|minecraft:max_block_modifications|spawn_wardens|minecraft:spawn_wardens|show_advancement_messages|minecraft:show_advancement_messages|send_command_feedback|minecraft:send_command_feedback|spawn_phantoms|minecraft:spawn_phantoms|global_sound_events|minecraft:global_sound_events)
+[16:29:07] [Server thread/INFO]: /give <targets> <item> [<count>]
+[16:29:07] [Server thread/INFO]: /help [<command>]
+[16:29:07] [Server thread/INFO]: /item (replace|modify)
+[16:29:07] [Server thread/INFO]: /kick <targets> [<reason>]
+[16:29:07] [Server thread/INFO]: /kill [<targets>]
+[16:29:07] [Server thread/INFO]: /list [uuids]
+[16:29:07] [Server thread/INFO]: /locate (structure|biome|poi)
+[16:29:07] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[16:29:07] [Server thread/INFO]: /msg <targets> <message>
+[16:29:07] [Server thread/INFO]: /tell -> msg
+[16:29:07] [Server thread/INFO]: /w -> msg
+[16:29:07] [Server thread/INFO]: /swing [<targets>]
+[16:29:07] [Server thread/INFO]: /particle <name> [<pos>]
+[16:29:07] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[16:29:07] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
+[16:29:07] [Server thread/INFO]: /random (value|roll|reset)
+[16:29:07] [Server thread/INFO]: /reload
+[16:29:07] [Server thread/INFO]: /recipe (give|take)
+[16:29:07] [Server thread/INFO]: /fetchprofile (name|id|entity)
+[16:29:07] [Server thread/INFO]: /return (<value>|fail|run)
+[16:29:07] [Server thread/INFO]: /ride <target> (mount|dismount)
+[16:29:07] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[16:29:07] [Server thread/INFO]: /say <message>
+[16:29:07] [Server thread/INFO]: /schedule (function|clear)
+[16:29:07] [Server thread/INFO]: /scoreboard (objectives|players)
+[16:29:07] [Server thread/INFO]: /seed
+[16:29:07] [Server thread/INFO]: /version
+[16:29:07] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace|strict]
+[16:29:07] [Server thread/INFO]: /spawnpoint [<targets>]
+[16:29:07] [Server thread/INFO]: /setworldspawn [<pos>]
+[16:29:07] [Server thread/INFO]: /spectate [<target>]
+[16:29:07] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[16:29:07] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
+[16:29:07] [Server thread/INFO]: /stopwatch (create|query|restart|remove)
+[16:29:07] [Server thread/INFO]: /summon <entity> [<pos>]
+[16:29:07] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[16:29:07] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[16:29:07] [Server thread/INFO]: /teammsg <message>
+[16:29:07] [Server thread/INFO]: /tm -> teammsg
+[16:29:07] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[16:29:07] [Server thread/INFO]: /tp -> teleport
+[16:29:07] [Server thread/INFO]: /tellraw <targets> <message>
+[16:29:07] [Server thread/INFO]: /test (run|runmultiple|runthese|runclosest|runthat|runfailed|verify|locate|resetclosest|resetthese|resetthat|clearthat|clearthese|clearall|stop|pos|create)
+[16:29:07] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[16:29:07] [Server thread/INFO]: /time (set|add|pause|resume|rate|query|of)
+[16:29:07] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[16:29:07] [Server thread/INFO]: /trigger <objective> [add|set]
+[16:29:07] [Server thread/INFO]: /waypoint (list|modify)
+[16:29:07] [Server thread/INFO]: /weather (clear|rain|thunder)
+[16:29:07] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[16:29:07] [Server thread/INFO]: /jfr (start|stop)
+[16:29:07] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[16:29:07] [Server thread/INFO]: /banlist [ips|players]
+[16:29:07] [Server thread/INFO]: /ban <targets> [<reason>]
+[16:29:07] [Server thread/INFO]: /deop <targets>
+[16:29:07] [Server thread/INFO]: /op <targets>
+[16:29:07] [Server thread/INFO]: /pardon <targets>
+[16:29:07] [Server thread/INFO]: /pardon-ip <target>
+[16:29:07] [Server thread/INFO]: /perf (start|stop)
+[16:29:07] [Server thread/INFO]: /save-all [flush]
+[16:29:07] [Server thread/INFO]: /save-off
+[16:29:07] [Server thread/INFO]: /save-on
+[16:29:07] [Server thread/INFO]: /setidletimeout <minutes>
+[16:29:07] [Server thread/INFO]: /stop
+[16:29:07] [Server thread/INFO]: /transfer <hostname> [<port>]
+[16:29:07] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[16:29:46] [Server thread/INFO]: No player was found
+[16:29:52] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[16:29:52] [Server thread/INFO]: tell<--[HERE]
+[16:36:31] [Server thread/INFO]: Stopping the server
+[16:36:31] [Server thread/INFO]: Stopping server
+[16:36:31] [Server thread/INFO]: Saving players
+[16:36:31] [Server thread/INFO]: Saving worlds
+[16:36:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:36:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:36:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:36:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:36:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:36:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:36:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
