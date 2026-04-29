@@ -1,998 +1,127 @@
-[09:41:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[09:41:31] [ServerMain/INFO]: Loaded 1515 recipes
-[09:41:31] [ServerMain/INFO]: Loaded 1617 advancements
-[09:41:31] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[09:41:31] [Server thread/INFO]: Loading properties
-[09:41:31] [Server thread/INFO]: Default game type: SURVIVAL
-[09:41:31] [Server thread/INFO]: Generating keypair
-[09:41:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:41:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:41:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:41:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:41:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:41:32] [Server thread/INFO]: Preparing level "world"
-[09:41:32] [Server thread/INFO]: Loading 0 persistent chunks...
-[09:41:32] [Server thread/INFO]: Preparing spawn area: 100%
-[09:41:32] [Server thread/INFO]: Time elapsed: 27 ms
-[09:41:32] [Server thread/INFO]: Done (0.434s)! For help, type "help"
-[09:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:41:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09:41:59] [Server thread/INFO]: Huriking[/127.202.108.139:41660] logged in with entity id 3 at (-121.37839474194344, 68.0, -83.82088009903379)
-[09:41:59] [Server thread/INFO]: Huriking joined the game
-[09:48:26] [Server thread/INFO]: shikamaru2o[/127.158.179.126:41683] logged in with entity id 968 at (183.39969547036458, 12.0, -22.68864211325348)
-[09:48:26] [Server thread/INFO]: shikamaru2o joined the game
-[09:56:00] [Server thread/INFO]: [Not Secure] <Huriking> shikamaru kuch important kar raha hai
-[09:56:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> netherite
-[09:56:16] [Server thread/INFO]: [Not Secure] <Huriking> reset hua toh chalega?
-[09:56:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa kuch mila toh nhi
-[09:56:29] [Server thread/INFO]: [Not Secure] <Huriking> aaj ka session
-[09:56:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike
-[09:56:39] [Server thread/INFO]: [Not Secure] <Huriking> kyuki me peheli baar bed try kar raha hu
-[09:56:43] [Server thread/INFO]: [Not Secure] <Huriking> mara toh reset
-[09:56:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> lol ok
-[09:57:07] [Server thread/INFO]: [Not Secure] <Huriking> not dead
-[09:57:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> yayy
-[09:57:19] [Server thread/INFO]: [Not Secure] <Huriking> but basalt
-[09:57:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> netherite hi dhundra hai kya?
-[09:57:48] [Server thread/INFO]: [Not Secure] <Huriking> ha
-[09:58:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> sahi
-[09:59:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> basalt mein mat kar
-[10:00:05] [Server thread/INFO]: [Not Secure] <Huriking> ha relocate kar raha hu abb
-[10:00:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> kk
-[10:19:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> karra hai?
-[10:20:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> mujhe 3 debris and 3 stack gold mila
-[10:20:21] [Server thread/INFO]: [Not Secure] <Huriking> mujhe 4 debri
-[10:20:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice so now no reset
-[10:20:38] [Server thread/INFO]: [Not Secure] <Huriking> but ghar kaise aau
-[10:20:46] [Server thread/INFO]: [Not Secure] <Huriking> diamond pick bhi nahi hai
-[10:20:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruh
-[10:21:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> should place marker block of different color than nether to know where u came from
-[10:31:52] [Server thread/INFO]: shikamaru2o tried to swim in lava
-[10:31:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> fkkkk
-[10:32:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> slipped
-[10:32:49] [Server thread/WARN]: shikamaru2o moved too quickly! 7.366801242236988,-2.9561420813684265,-6.3109407644173245
-[10:33:15] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[10:33:15] [Server thread/INFO]: shikamaru2o left the game
-[10:33:31] [Server thread/INFO]: shikamaru2o[/127.158.179.126:42421] logged in with entity id 11007 at (-229.01461931992404, 127.162141421027, 107.62845928456169)
-[10:33:31] [Server thread/INFO]: shikamaru2o joined the game
-[10:48:22] [Server thread/INFO]: Huriking burned to death
-[10:48:26] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[10:48:26] [Server thread/INFO]: shikamaru2o left the game
-[10:48:29] [Server thread/INFO]: shikamaru2o[/127.158.179.126:42497] logged in with entity id 16001 at (41.15515203981274, 75.16610926093821, 287.275875798689)
-[10:48:29] [Server thread/INFO]: shikamaru2o joined the game
-[10:48:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> bro
-[10:48:37] [Server thread/INFO]: [Not Secure] <Huriking> hmmm
-[10:48:43] [Server thread/INFO]: [Not Secure] <Huriking> nice trial
-[10:48:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> gaya debris?
-[10:48:53] [Server thread/INFO]: [Not Secure] <Huriking> me kuch imp nahi leke gaya
-[10:48:57] [Server thread/INFO]: [Not Secure] <Huriking> didnt mine
-[10:48:59] [Server thread/INFO]: [Not Secure] <Huriking> ss
-[10:49:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
-[10:49:24] [Server thread/INFO]: [Not Secure] <Huriking> single lava block vo bhi pair ke niche
-[10:49:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> acha
-[10:49:43] [Server thread/INFO]: [Not Secure] <Huriking> nether thodi aisa rouge lava block expect karega, sidha lava pool ana chahiye
-[10:49:47] [Server thread/INFO]: [Not Secure] <Huriking> :(
-[10:49:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> sad
-[10:50:13] [Server thread/INFO]: [Not Secure] <Huriking> abhi jau lene sab ki vo4-5 debri rehnede vaise hi?
-[10:50:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> leke ghar mein rakhde
-[10:51:16] [Server thread/INFO]: shikamaru2o was slain by Wither Skeleton
-[10:51:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya mc game hai
-[10:51:30] [Server thread/INFO]: [Not Secure] <Huriking> tu kya abb skulls farm kar raha hai
-[10:51:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> block place kyu nhi hora
-[10:51:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> nhi mujhe magma cream chahiye toh basalt explore karne gaya tera portal dikha
-[11:04:26] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[11:04:26] [Server thread/INFO]: shikamaru2o left the game
-[11:09:12] [Server thread/INFO]: shikamaru2o[/127.158.179.126:42743] logged in with entity id 23599 at (36.93375207005767, 10.0, -37.23989252554719)
-[11:09:12] [Server thread/INFO]: shikamaru2o joined the game
-[11:15:05] [Server thread/INFO]: shikamaru2o went up in flames
-[11:15:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> wtffff
-[11:19:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein thoda apne ghar se durr ja raha hu
-[11:19:31] [Server thread/INFO]: [Not Secure] <Huriking> kidr
-[11:19:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> basalt biome ke liye
-[11:19:37] [Server thread/INFO]: [Not Secure] <Huriking> aur nether ka kya
-[11:19:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> nether ke liye hi
-[11:19:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> ya toh bastion chahiye ya toh basalt for magma cream,
-[11:20:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> apne aspas dono nhi hai
-[11:22:31] [Server thread/INFO]: shikamaru2o has made the advancement [Ice Bucket Challenge]
-[11:32:44] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[11:32:44] [Server thread/INFO]: shikamaru2o left the game
-[11:33:05] [Server thread/INFO]: shikamaru2o[/127.158.179.126:43102] logged in with entity id 33694 at (831.1767956443233, 66.0, 307.06499692433533)
-[11:33:05] [Server thread/INFO]: shikamaru2o joined the game
-[11:35:57] [Server thread/INFO]: shikamaru2o burned to death
-[11:37:16] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[11:37:16] [Server thread/INFO]: shikamaru2o left the game
-[11:37:57] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[11:48:41] [Server thread/INFO]: Huriking lost connection: Disconnected
-[11:48:41] [Server thread/INFO]: Huriking left the game
-[11:49:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:52:50] [Server thread/INFO]: Huriking[/127.202.108.139:43223] logged in with entity id 39045 at (179.5, 118.5625, 254.5)
-[11:52:50] [Server thread/INFO]: Huriking joined the game
-[12:10:17] [Server thread/INFO]: Huriking lost connection: Disconnected
-[12:10:17] [Server thread/INFO]: Huriking left the game
-[12:11:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:38:58] [Server thread/INFO]: shikamaru2o[/127.158.179.126:43891] logged in with entity id 45100 at (239.73633449407896, 61.672748187392955, -214.5960866166645)
-[12:38:58] [Server thread/INFO]: shikamaru2o joined the game
-[12:39:25] [Server thread/INFO]: shikamaru2o drowned
-[12:40:41] [Server thread/INFO]: SamWise[/127.185.161.195:43898] logged in with entity id 46325 at (-189.18004685063343, 103.0, 26.395173259470603)
-[12:40:41] [Server thread/INFO]: SamWise joined the game
-[12:41:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> SAMEEP give me diamonds for pickaxe
-[12:41:36] [Server thread/INFO]: [Not Secure] <SamWise> pickaxe in my chest
-[12:41:52] [Server thread/INFO]: [Not Secure] <SamWise> night please
-[12:41:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> thnx
-[12:42:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> and 4 gold for boots
-[12:43:53] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
-[12:44:36] [Server thread/INFO]: [Not Secure] <SamWise> did u take the oick
-[12:44:39] [Server thread/INFO]: [Not Secure] <SamWise> pick
-[12:44:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> yes
-[12:44:43] [Server thread/INFO]: [Not Secure] <SamWise> ok
-[12:44:54] [Server thread/INFO]: [Not Secure] <SamWise> does fortune 3 work on debris
-[12:44:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> dk
-[12:45:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> gold dena
-[12:45:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> thnx
-[12:46:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> u have wool?
-[12:46:27] [Server thread/INFO]: [Not Secure] <SamWise> no
-[13:00:02] [Server thread/WARN]: SamWise moved too quickly! -6.282296790234398,0.0,8.012945768149415
-[13:03:09] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! -0.07683361386129661,0.0,11.167329621326104
-[13:03:09] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! -0.09654958192592744,0.0,13.037868411443583
-[13:03:10] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! -0.12686767046739078,0.0,10.35705873327916
-[13:03:10] [Server thread/WARN]: Oak Boat (vehicle of SamWise) moved too quickly! -0.13798020320660953,0.0,11.509705978302037
-[13:06:09] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[13:06:09] [Server thread/INFO]: shikamaru2o left the game
-[13:06:18] [Server thread/INFO]: shikamaru2o[/127.158.179.126:44096] logged in with entity id 55001 at (58.18544564587114, 13.76636799395752, -56.30000001192093)
-[13:06:18] [Server thread/INFO]: shikamaru2o joined the game
-[13:13:19] [Server thread/INFO]: Copper[/127.118.41.218:44134] logged in with entity id 57892 at (-185.69999998807907, 110.0, 88.20953148295871)
-[13:13:19] [Server thread/INFO]: Copper joined the game
-[13:13:45] [Server thread/WARN]: SamWise moved too quickly! -6.033235177952122,1.0,8.257559023010302
-[13:16:34] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[13:16:34] [Server thread/INFO]: shikamaru2o left the game
-[13:16:37] [Server thread/INFO]: Copper lost connection: Disconnected
-[13:16:37] [Server thread/INFO]: Copper left the game
-[13:16:47] [Server thread/INFO]: shikamaru2o[/127.158.179.126:44161] logged in with entity id 59189 at (61.82026916579988, 10.0, -114.87948153603868)
-[13:16:47] [Server thread/INFO]: shikamaru2o joined the game
-[13:36:05] [Server thread/INFO]: SamWise lost connection: Disconnected
-[13:36:05] [Server thread/INFO]: SamWise left the game
-[13:36:06] [Server thread/INFO]: SamWise[/127.185.161.195:44289] logged in with entity id 65268 at (-172.12128512148314, 114.0, 4.003611115656936)
-[13:36:06] [Server thread/INFO]: SamWise joined the game
-[13:37:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameeop i spawned in another nether
-[13:38:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> i mean i came to overworld through another portal
-[13:38:17] [Server thread/INFO]: [Not Secure] <SamWise> ya i broke the snow one
-[13:38:24] [Server thread/INFO]: [Not Secure] <SamWise> for someobsidian sorry
-[13:38:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> hm okay theres another made here
-[13:39:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> this can becoome like infinte obsidian glitcj
-[13:39:18] [Server thread/INFO]: [Not Secure] <SamWise> ya ik
-[13:40:40] [Server thread/INFO]: [Not Secure] <SamWise> yo
-[13:40:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> hey
-[13:41:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> 9 more debris left
-[13:41:20] [Server thread/INFO]: [Not Secure] <SamWise> can i take some
-[13:41:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> ill get some for u
-[13:41:33] [Server thread/INFO]: [Not Secure] <SamWise> like
-[13:41:34] [Server thread/INFO]: Huriking[/127.202.108.139:20801] logged in with entity id 66887 at (106.5146871840958, 111.0, 219.61033746376913)
-[13:41:34] [Server thread/INFO]: Huriking joined the game
-[13:41:35] [Server thread/INFO]: [Not Secure] <SamWise> 4
-[13:41:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> nah 4 is too much
-[13:41:51] [Server thread/INFO]: [Not Secure] <SamWise> bruh what are u gonna spend it on anyways
-[13:42:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> full armour and all tools
-[13:42:05] [Server thread/INFO]: [Not Secure] <SamWise> u have 13
-[13:42:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have 27
-[13:42:14] [Server thread/INFO]: [Not Secure] <SamWise> perperson is lik 8
-[13:42:18] [Server thread/INFO]: [Not Secure] <SamWise> wahina
-[13:42:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> who said that
-[13:42:34] [Server thread/INFO]: [Not Secure] <SamWise> one deris equals one ingot right
-[13:42:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> i need 36 for full armour plus tools
-[13:42:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> one scrap lmao
-[13:42:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> and 4 scrap plus 4 gold ingot is one ingot
-[13:43:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> dw ill get some for u
-[13:43:20] [Server thread/INFO]: [Not Secure] <SamWise> mwah
-[13:43:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> u need 4 right
-[13:43:34] [Server thread/INFO]: [Not Secure] <SamWise> well i also need 4 ingots
-[13:43:37] [Server thread/INFO]: [Not Secure] <SamWise> lmao
-[13:43:43] [Server thread/INFO]: [Not Secure] <SamWise> so 16
-[13:43:51] [Server thread/INFO]: [Not Secure] <SamWise> plus 3 for weapns
-[13:43:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> let see what i can do
-[13:43:55] [Server thread/WARN]: shikamaru2o moved too quickly! -5.7863389100433835,-4.0,7.1150252245641425
-[13:44:02] [Server thread/INFO]: [Not Secure] <SamWise> so 7 time s 4
-[13:44:04] [Server thread/INFO]: Huriking lost connection: Timed out
-[13:44:04] [Server thread/INFO]: Huriking left the game
-[13:44:06] [Server thread/INFO]: Huriking[/127.202.108.139:20840] logged in with entity id 68113 at (170.51646547120197, 95.0, 178.6673863861589)
-[13:44:06] [Server thread/INFO]: Huriking joined the game
-[13:44:06] [Server thread/INFO]: [Not Secure] <SamWise> 28 i need f
-[13:44:21] [Server thread/INFO]: Disconnecting /127.202.108.139:20830: Took too long to log in
-[13:44:21] [Server thread/INFO]: /127.202.108.139:20830 lost connection: Took too long to log in
-[13:44:21] [Server thread/WARN]: handleDisconnection() called twice
-[13:44:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> exactly isliye
-[13:44:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> bohot mehnat hai
-[13:48:28] [Server thread/INFO]: [Not Secure] <SamWise> joash is here uk he can see
-[13:48:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh clg mein ho kya
-[13:48:42] [Server thread/INFO]: [Not Secure] <SamWise> ya
-[13:49:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> tell him chicken brings good luck isliye
-[13:49:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> hua submissions?
-[13:49:25] [Server thread/INFO]: [Not Secure] <SamWise> ya
-[13:49:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> joash ka bhi?
-[13:49:45] [Server thread/INFO]: [Not Secure] <SamWise> 2 30
-[13:50:09] [Server thread/INFO]: [Not Secure] <Huriking> sameep tera toh sabh ho gaya tha na kak
-[13:50:22] [Server thread/INFO]: [Not Secure] <SamWise> kindog=f\
-[13:50:25] [Server thread/INFO]: [Not Secure] <SamWise> feedback
-[13:51:31] [Server thread/INFO]: [Not Secure] <SamWise> give me one ingot
-[13:51:37] [Server thread/INFO]: [Not Secure] <SamWise> for the diamond pickaxes
-[13:51:41] [Server thread/INFO]: [Not Secure] <SamWise> 2 if i aint wrong
-[13:53:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike
-[13:53:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> aake deta hu
-[14:00:39] [Server thread/INFO]: [Not Secure] <SamWise> joel wru
-[14:01:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> nether pe
-[14:01:24] [Server thread/INFO]: [Not Secure] <SamWise> dhriv where the portal at
-[14:01:26] [Server thread/INFO]: [Not Secure] <SamWise> new onw
-[14:01:58] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[14:01:58] [Server thread/INFO]: shikamaru2o left the game
-[14:02:14] [Server thread/INFO]: shikamaru2o[/127.158.179.126:21309] logged in with entity id 75572 at (37.914809076747765, 10.0, -8.311509199857959)
-[14:02:14] [Server thread/INFO]: shikamaru2o joined the game
-[14:02:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> new what
-[14:02:26] [Server thread/INFO]: [Not Secure] <SamWise> u said new portal of overworld na where is it
-[14:02:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> near your old portal
-[14:02:43] [Server thread/INFO]: [Not Secure] <SamWise> found it
-[14:02:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> mera netherack rahega
-[14:02:50] [Server thread/INFO]: [Not Secure] <SamWise> ok now where
-[14:02:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> remember my hole?
-[14:03:12] [Server thread/INFO]: [Not Secure] <SamWise> nopw
-[14:03:27] [Server thread/INFO]: [Not Secure] <SamWise> just wanna learn how to mine for debris
-[14:03:40] [Server thread/INFO]: [Not Secure] <SamWise> im at the portal can u come pls
-[14:03:44] [Server thread/INFO]: [Not Secure] <SamWise> i bring one bed
-[14:03:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> coming
-[14:04:07] [Server thread/INFO]: [Not Secure] <SamWise> i dont have gold ghear also btw
-[14:04:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhai phir jaake la
-[14:04:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> idhar bohot piglins hai
-[14:06:03] [Server thread/INFO]: [Not Secure] <SamWise> wya
-[14:06:15] [Server thread/INFO]: [Not Secure] <SamWise> arre dw i will dodge thenm
-[14:06:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> no u cant
-[14:06:29] [Server thread/INFO]: [Not Secure] <SamWise> lets go
-[14:06:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhai maze hai
-[14:06:36] [Server thread/INFO]: [Not Secure] <SamWise> lets go
-[14:06:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> jagah nhi hai dodge karne ki
-[14:06:45] [Server thread/INFO]: [Not Secure] <SamWise> lets go!!!!!1
-[14:06:57] [Server thread/INFO]: [Not Secure] <SamWise> im ready
-[14:06:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhaiiii
-[14:06:58] [Server thread/INFO]: [Not Secure] <SamWise> dw
-[14:07:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> remove your diamond armour
-[14:07:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> dont risk it
-[14:07:11] [Server thread/INFO]: [Not Secure] <SamWise> it ok
-[14:07:16] [Server thread/INFO]: [Not Secure] <SamWise> lets goo
-[14:07:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> ok
-[14:07:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> first of all remember the dirt trail
-[14:07:44] [Server thread/INFO]: [Not Secure] <SamWise> run i follow
-[14:08:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> welcome to the hold
-[14:08:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> hole
-[14:08:26] [Server thread/INFO]: [Not Secure] <SamWise> lmaoo
-[14:08:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> youre free to explore now
-[14:08:40] [Server thread/INFO]: [Not Secure] <SamWise> but how to mine
-[14:08:56] [Server thread/INFO]: [Not Secure] <SamWise> blast and mine one
-[14:09:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> this gravel is my marker
-[14:09:07] [Server thread/INFO]: [Not Secure] <SamWise> i have bed see
-[14:09:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> to remember my path
-[14:09:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> aaja
-[14:09:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> theres a lava wall just ahead of where im loking
-[14:09:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> so careful
-[14:10:08] [Server thread/INFO]: [Not Secure] <SamWise> run i will gp
-[14:10:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> i dont have to run lol come
-[14:10:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> aana
-[14:11:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> make sure u place bed a y 13
-[14:11:41] [Server thread/INFO]: [Not Secure] <SamWise> here right
-[14:11:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
-[14:11:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> let me do it once
-[14:12:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> aise cover lena hota hai\
-[14:12:36] [Server thread/INFO]: [Not Secure] <SamWise> mine a y 13 for me
-[14:12:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> more often than not lava will flow from anywhere, some can be stopped other cant
-[14:13:19] [Server thread/INFO]: [Not Secure] <SamWise> mine na
-[14:13:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> now u can choose your direction
-[14:13:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> and y 13 pe bed daalde
-[14:13:37] [Server thread/INFO]: [Not Secure] <SamWise> mine a y 13 for me
-[14:14:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> make sure u take cover
-[14:14:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> noooo
-[14:14:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> its too close
-[14:14:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> youll die
-[14:14:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> thoda andar daalna bed
-[14:14:55] [Server thread/INFO]: [Not Secure] <SamWise> then how
-[14:15:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa thoda andar
-[14:15:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> nicee
-[14:15:28] [Server thread/INFO]: [Not Secure] <SamWise> chi only haf heart
-[14:15:29] [Server thread/INFO]: [Not Secure] <SamWise> ok
-[14:15:33] [Server thread/INFO]: [Not Secure] <SamWise> how mnay beds int
-[14:15:41] [Server thread/INFO]: [Not Secure] <SamWise> for 28 ish ingots
-[14:15:50] [Server thread/INFO]: [Not Secure] <SamWise> sorry i mean
-[14:15:53] [Server thread/INFO]: [Not Secure] <SamWise> 7 ingots
-[14:16:00] [Server thread/INFO]: [Not Secure] <SamWise> idc about netherite hoe
-[14:16:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> depends on how lucky u are bro
-[14:16:10] [Server thread/INFO]: [Not Secure] <SamWise> still
-[14:16:12] [Server thread/INFO]: [Not Secure] <SamWise> tell na
-[14:16:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> i always bring full inventory
-[14:16:28] [Server thread/INFO]: [Not Secure] <SamWise> how many have you done bed blast i mean
-[14:16:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> once i got 13 and once 15
-[14:16:39] [Server thread/INFO]: [Not Secure] <SamWise> and this is your which round
-[14:16:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> 100+ kiya hoga lol
-[14:16:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> 5 maybr
-[14:16:45] [Server thread/INFO]: [Not Secure] <SamWise> wtf
-[14:16:47] [Server thread/INFO]: [Not Secure] <SamWise> crazyy
-[14:16:49] [Server thread/INFO]: [Not Secure] <SamWise> yaar
-[14:16:54] [Server thread/INFO]: [Not Secure] <SamWise> i finsinhed enchanting
-[14:17:06] [Server thread/INFO]: [Not Secure] <SamWise> got the god armor and maxed wepons
-[14:17:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> half the time lava covers the entire debris and u cant stop it
-[14:17:18] [Server thread/INFO]: [Not Secure] <SamWise> except spear trident and mace that is
-[14:17:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> hhaaa
-[14:18:21] [Server thread/INFO]: [Not Secure] <SamWise> damn gg
-[14:18:43] [Server thread/INFO]: [Not Secure] <SamWise> its always on y 13 kya
-[14:18:56] [Server thread/INFO]: [Not Secure] <SamWise> aisa beech mein
-[14:19:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> statistically y 13 pe zyada chance hai whenusing beds
-[14:19:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> if youre strip mining then y 15
-[14:19:40] [Server thread/INFO]: [Not Secure] <SamWise> how many can u give me
-[14:19:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> none rn
-[14:19:53] [Server thread/INFO]: [Not Secure] <SamWise> arre but baadmein
-[14:20:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> badme 4 ka try karta hu
-[14:20:11] [Server thread/INFO]: [Not Secure] <SamWise> kuch karne ko nahi hai
-[14:20:22] [Server thread/INFO]: [Not Secure] <SamWise> just give 3 ig
-[14:20:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> ingots na
-[14:20:37] [Server thread/INFO]: [Not Secure] <SamWise> should i just die i dont wanna run home
-[14:20:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> what about your armour
-[14:21:05] [Server thread/INFO]: [Not Secure] <SamWise> i have too many diamonds
-[14:21:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> give me them
-[14:21:11] [Server thread/INFO]: [Not Secure] <SamWise> no
-[14:21:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruh
-[14:21:19] [Server thread/INFO]: [Not Secure] <SamWise> dude u forgot i have trader
-[14:21:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> ikk
-[14:21:24] [Server thread/INFO]: [Not Secure] <SamWise> le
-[14:21:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks
-[14:22:29] [Server thread/INFO]: [Not Secure] <SamWise> exit cant find
-[14:22:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> itll take a few tries
-[14:23:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> rememver this gravel in the middle
-[14:23:46] [Server thread/INFO]: [Not Secure] <SamWise> arre exit where
-[14:24:11] [Server thread/INFO]: [Not Secure] <SamWise> where
-[14:24:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> follow
-[14:24:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> where u going
-[14:24:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> look at my nametag
-[14:25:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> yaha se upar
-[14:25:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> follow the dirt trail to the steps and the portal
-[14:29:34] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[14:29:38] [Server thread/INFO]: SamWise was slain by Piglin
-[14:29:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> nhi mila kya portal?
-[14:33:12] [Server thread/INFO]: [Not Secure] <SamWise> bhingarde what are u doing
-[14:33:21] [Server thread/INFO]: [Not Secure] <SamWise> blaze farm?
-[14:33:33] [Server thread/INFO]: [Not Secure] <Huriking> i am a simple man
-[14:33:37] [Server thread/INFO]: [Not Secure] <Huriking> doing simple farms
-[14:33:45] [Server thread/INFO]: [Not Secure] <SamWise> sheep wool farm?
-[14:34:10] [Server thread/INFO]: [Not Secure] <Huriking> ya
-[14:35:22] [Server thread/INFO]: [Not Secure] <SamWise> not taking just seeing produce
-[14:35:28] [Server thread/INFO]: [Not Secure] <SamWise> can i take one shear aise hi
-[14:37:34] [Server thread/INFO]: [Not Secure] <Huriking> bruh go back to nether ffs
-[14:37:57] [Server thread/INFO]: [Not Secure] <SamWise> im tryna help
-[14:38:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> aja sameep tera value nhi
-[14:39:23] [Server thread/INFO]: SamWise tried to swim in lava
-[14:39:37] [Server thread/INFO]: [Not Secure] <SamWise> jaa rha hun mai bye
-[14:39:43] [Server thread/INFO]: [Not Secure] <SamWise> goodbye cruel world
-[14:39:50] [Server thread/INFO]: SamWise lost connection: Disconnected
-[14:39:50] [Server thread/INFO]: SamWise left the game
-[14:39:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> mere paas aaja
-[14:41:02] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[14:41:02] [Server thread/INFO]: shikamaru2o left the game
-[14:41:04] [Server thread/INFO]: shikamaru2o[/127.158.179.126:21569] logged in with entity id 90503 at (-111.62280704284292, 13.0, 4.498982013787701)
-[14:41:04] [Server thread/INFO]: shikamaru2o joined the game
-[14:41:49] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[14:41:49] [Server thread/INFO]: shikamaru2o left the game
-[14:42:10] [Server thread/INFO]: shikamaru2o[/127.158.179.126:21581] logged in with entity id 90939 at (-110.53891961586541, 11.0, 4.076238724428102)
-[14:42:10] [Server thread/INFO]: shikamaru2o joined the game
-[14:43:15] [Server thread/INFO]: Huriking lost connection: Disconnected
-[14:43:15] [Server thread/INFO]: Huriking left the game
-[14:43:33] [Server thread/INFO]: SamWise[/127.185.161.195:21626] logged in with entity id 91870 at (-176.5, 114.5625, -3.5)
-[14:43:33] [Server thread/INFO]: SamWise joined the game
-[14:43:40] [Server thread/INFO]: [Not Secure] <SamWise> oi shikamaru
-[14:43:49] [Server thread/INFO]: [Not Secure] <SamWise> im coming for ur netherite
-[14:43:55] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[14:43:55] [Server thread/INFO]: shikamaru2o left the game
-[14:44:05] [Server thread/INFO]: shikamaru2o[/127.158.179.126:21634] logged in with entity id 92323 at (-128.70243964158527, 10.0, 3.3509766442356974)
-[14:44:05] [Server thread/INFO]: shikamaru2o joined the game
-[14:44:18] [Server thread/INFO]: [Not Secure] <SamWise> just give 2 netherite ok
-[14:44:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> OKAY
-[14:44:26] [Server thread/INFO]: [Not Secure] <SamWise> 3 if u can and want to
-[14:44:30] [Server thread/INFO]: [Not Secure] <SamWise> else 2 is enough
-[14:44:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> how about i come to u
-[14:44:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> after i finisah
-[14:44:51] [Server thread/INFO]: [Not Secure] <SamWise> im going mining now
-[14:44:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> finish
-[14:45:05] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[14:45:05] [Server thread/INFO]: shikamaru2o left the game
-[14:45:07] [Server thread/INFO]: Copper[/127.118.41.218:21644] logged in with entity id 92706 at (-180.45408712731538, 106.0, 88.60227840469342)
-[14:45:07] [Server thread/INFO]: Copper joined the game
-[14:45:22] [Server thread/INFO]: shikamaru2o[/127.158.179.126:21650] logged in with entity id 92867 at (-129.6300705876483, 9.0, 4.689872556521658)
-[14:45:22] [Server thread/INFO]: shikamaru2o joined the game
-[14:46:57] [Server thread/WARN]: SamWise moved too quickly! 0.42822519986214047,3.256759288177264,-9.682290429213985
-[14:47:07] [Server thread/INFO]: Copper lost connection: Timed out
-[14:47:07] [Server thread/INFO]: Copper left the game
-[14:47:24] [Server thread/INFO]: Copper[/127.118.41.218:21671] logged in with entity id 93639 at (-184.69999998807907, 109.16610926093821, 95.75703513512609)
-[14:47:24] [Server thread/INFO]: Copper joined the game
-[14:49:34] [Server thread/INFO]: [Not Secure] <SamWise> copper come here
-[14:50:02] [Server thread/INFO]: [Not Secure] <SamWise> copper come here
-[14:51:03] [Server thread/INFO]: [Not Secure] <SamWise> hold these in hand i look carefully
-[14:51:19] [Server thread/INFO]: [Not Secure] <SamWise> u can climb on carpet
-[14:51:29] [Server thread/INFO]: [Not Secure] <SamWise> get all sheeps out of hall
-[14:51:40] [Server thread/INFO]: [Not Secure] <SamWise> and stand here
-[14:52:11] [Server thread/INFO]: [Not Secure] <SamWise> its ok just get as many as you can and stan
-[14:53:00] [Server thread/INFO]: [Not Secure] <SamWise> food keep dontremove from hand and wait
-[14:53:05] [Server thread/INFO]: [Not Secure] <Copper> ok
-[14:53:17] [Server thread/INFO]: [Not Secure] <Copper> u buildin a tunnel?
-[14:53:47] [Server thread/INFO]: [Not Secure] <SamWise> arre dont change
-[14:53:53] [Server thread/INFO]: [Not Secure] <Copper> gandu u changed
-[14:54:44] [Server thread/INFO]: [Not Secure] <SamWise> wait stay there
-[14:55:10] [Server thread/INFO]: [Not Secure] <Copper> give me some tools when u come back
-[14:56:25] [Server thread/INFO]: [Not Secure] <SamWise> ok leave
-[14:56:45] [Server thread/INFO]: [Not Secure] <SamWise> thanks
-[14:57:20] [Server thread/INFO]: [Not Secure] <SamWise> ye le
-[14:57:28] [Server thread/INFO]: [Not Secure] <SamWise> copper
-[14:59:26] [Server thread/INFO]: [Not Secure] <SamWise> mat na bhade
-[14:59:37] [Server thread/INFO]: [Not Secure] <SamWise> itni mehenat se saare chicken ko maara idhar kyun
-[14:59:49] [Server thread/INFO]: [Not Secure] <Copper> oh sorry'
-[14:59:53] [Server thread/INFO]: [Not Secure] <SamWise> lund insaan
-[15:00:17] [Server thread/INFO]: [Not Secure] <SamWise> ok
-[15:00:26] [Server thread/INFO]: [Not Secure] <SamWise> go sleep i want it day
-[15:01:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep ill go back for more for u
-[15:02:41] [Server thread/INFO]: [Not Secure] <Copper> tools pls
-[15:04:40] [Server thread/INFO]: [Not Secure] <SamWise> i have wool
-[15:05:15] [Server thread/INFO]: [Not Secure] <SamWise> uk i dindt know ki shift click se jhate bed bante jitne ho sake utne
-[15:05:16] [Server thread/INFO]: [Not Secure] <Copper> this black guy is hitting me
-[15:05:36] [Server thread/INFO]: [Not Secure] <SamWise> here
-[15:05:38] [Server thread/INFO]: [Not Secure] <SamWise> joel
-[15:05:41] [Server thread/INFO]: [Not Secure] <SamWise> arya
-[15:05:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks
-[15:05:48] [Server thread/INFO]: [Not Secure] <SamWise> u look in his eyes he gets mad
-[15:06:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhag gaya
-[15:08:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> alright sameep
-[15:08:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> ab mujhe jitna bhi milega sab tera
-[15:08:25] [Server thread/INFO]: [Not Secure] <SamWise> ?
-[15:08:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> mere liye ho gaya'
-[15:08:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> tere liye jara hu ab
-[15:08:46] [Server thread/INFO]: [Not Secure] <SamWise> mai bhi aarha hun
-[15:08:52] [Server thread/INFO]: [Not Secure] <SamWise> opposite direction jaldi hoga
-[15:08:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> pickaxe bhi leke aana
-[15:09:02] [Server thread/INFO]: [Not Secure] <SamWise> i made one for me
-[15:09:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> mera tutne ke close hai
-[15:09:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> ek diamond se repair ho jayega wapis mat bana
-[15:09:29] [Server thread/INFO]: SamWise lost connection: Disconnected
-[15:09:29] [Server thread/INFO]: SamWise left the game
-[15:11:36] [Server thread/INFO]: SamWise[/127.179.28.129:21805] logged in with entity id 101345 at (-185.16310189538123, 110.73152379758702, 6.9448051909138115)
-[15:11:36] [Server thread/INFO]: SamWise joined the game
-[15:12:05] [Server thread/INFO]: [Not Secure] <SamWise> bruh 3 se full repair nahi horha
-[15:12:09] [Server thread/INFO]: [Not Secure] <SamWise> naya hi banalun
-[15:12:56] [Server thread/INFO]: [Not Secure] <SamWise> joel
-[15:13:09] [Server thread/INFO]: [Not Secure] <SamWise> kitna durability chahiye
-[15:13:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> maybe 80%
-[15:13:30] [Server thread/INFO]: [Not Secure] <SamWise> one diamond is less than half
-[15:13:37] [Server thread/INFO]: [Not Secure] <SamWise> two is more than half
-[15:13:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> 3?
-[15:13:50] [Server thread/INFO]: [Not Secure] <SamWise> 3 is 80
-[15:13:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk do it
-[15:13:58] [Server thread/INFO]: [Not Secure] <SamWise> usse accha naya hi banalun na
-[15:14:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> true lmaooo
-[15:14:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> 3 mein hi naya banta hai
-[15:14:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> alright lets gooo
-[15:14:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> full inventiry bed haina
-[15:14:33] [Server thread/INFO]: [Not Secure] <SamWise> yea
-[15:14:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> great
-[15:14:46] [Server thread/INFO]: [Not Secure] <SamWise> i actually misiing 5 slots but ok
-[15:14:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> its fine
-[15:15:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> let me just take some marker blocks
-[15:15:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu bhi lele
-[15:16:11] [Server thread/INFO]: [Not Secure] <SamWise> chal
-[15:16:22] [Server thread/INFO]: [Not Secure] <SamWise> his y 13 shit annoying tho
-[15:16:26] [Server thread/INFO]: [Not Secure] <SamWise> wait lemme lead the way
-[15:16:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> ok
-[15:16:38] [Server thread/WARN]: SamWise moved too quickly! -0.11945416811635923,0.0,10.172686337920851
-[15:16:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> galat
-[15:17:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> lets ru8n
-[15:17:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> alright
-[15:18:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> alag alag jana haina
-[15:18:49] [Server thread/INFO]: [Not Secure] <SamWise> i mean isnt that more faster?
-[15:18:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> most ogf the area ahead ive already destryed lets go piche
-[15:19:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> u take rihght side
-[15:19:29] [Server thread/INFO]: [Not Secure] <SamWise> here?
-[15:19:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> samne nhi
-[15:19:36] [Server thread/INFO]: [Not Secure] <SamWise> her
-[15:19:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> waha bohoty bada lava hai
-[15:19:41] [Server thread/INFO]: [Not Secure] <SamWise> ?
-[15:19:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> idahr yes'
-[15:19:46] [Server thread/INFO]: [Not Secure] <SamWise> ok
-[15:19:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> ill go this side
-[15:20:21] [Server thread/INFO]: Copper was slain by Zombie
-[15:20:28] [Server thread/INFO]: Copper was slain by Zombie
-[15:20:32] [Server thread/INFO]: Copper was slain by Zombie
-[15:20:36] [Server thread/INFO]: Copper was slain by Zombie
-[15:20:39] [Server thread/INFO]: Copper was slain by Zombie
-[15:20:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya kar raha hai tu
-[15:20:59] [Server thread/INFO]: [Not Secure] <SamWise> kya kiya?
-[15:21:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> arya rey
-[15:21:06] [Server thread/INFO]: [Not Secure] <SamWise> ok
-[15:24:29] [Server thread/INFO]: [Not Secure] <SamWise> omggg
-[15:24:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> what
-[15:25:17] [Server thread/INFO]: [Not Secure] <SamWise> i got lava but
-[15:25:30] [Server thread/INFO]: Copper has made the advancement [Monster Hunter]
-[15:25:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> lava ke piche hai kya
-[15:25:39] [Server thread/INFO]: SamWise has made the advancement [Hidden in the Depths]
-[15:25:48] [Server thread/INFO]: [Not Secure] <SamWise> 3 ka vein
-[15:25:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice
-[15:26:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> btw do u have enough armor trims
-[15:26:29] [Server thread/INFO]: [Not Secure] <SamWise> no how many do u have
-[15:26:35] [Server thread/INFO]: [Not Secure] <SamWise> uk u can make right with diamond
-[15:26:44] [Server thread/INFO]: [Not Secure] <SamWise> i had 3
-[15:26:46] [Server thread/INFO]: [Not Secure] <SamWise> imma make one
-[15:26:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> yes same
-[15:30:42] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[15:30:42] [Server thread/INFO]: shikamaru2o left the game
-[15:31:09] [Server thread/INFO]: shikamaru2o[/127.158.179.126:49983] logged in with entity id 110168 at (-39.44973423217806, 11.0, 21.796805399466304)
-[15:31:09] [Server thread/INFO]: shikamaru2o joined the game
-[15:31:42] [Server thread/INFO]: Huriking[/127.202.108.139:49990] logged in with entity id 110462 at (149.59980590481678, 96.0, 167.13201446286507)
-[15:31:42] [Server thread/INFO]: Huriking joined the game
-[15:32:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> great found a 3 veil too
-[15:32:28] [Server thread/INFO]: [Not Secure] <Huriking> how do you not hit lava often
-[15:32:39] [Server thread/INFO]: [Not Secure] <Huriking> i tried morning hit lava every 3rd bed or so
-[15:32:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa lava toh bohot common hai
-[15:33:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> but more often than not u can stop the lava
-[15:35:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu konse level pe karta hai bhing
-[15:35:40] [Server thread/INFO]: [Not Secure] <Huriking> 15
-[15:36:05] [Server thread/INFO]: [Not Secure] <SamWise> blackstone mein nahi milata?
-[15:36:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> blackstone suppress the explosion so prefferably dont do there
-[15:37:12] [Server thread/INFO]: Copper lost connection: Disconnected
-[15:37:12] [Server thread/INFO]: Copper left the game
-[15:39:00] [Server thread/INFO]: [Not Secure] <SamWise> its roughly 3 beds per debris
-[15:43:52] [Server thread/INFO]: [Not Secure] <SamWise> bhai everywhere i go u have mine
-[15:44:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> aise hi 37 debris nhi mila
-[15:44:21] [Server thread/INFO]: [Not Secure] <SamWise> lmao
-[15:44:25] [Server thread/INFO]: [Not Secure] <SamWise> kitna mila tujhe abhtak
-[15:44:27] [Server thread/INFO]: [Not Secure] <SamWise> i got 5
-[15:44:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> 4
-[15:47:54] [Server thread/INFO]: [Not Secure] <SamWise> fuck this lava
-[15:52:23] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[15:52:23] [Server thread/INFO]: shikamaru2o left the game
-[15:53:32] [Server thread/INFO]: shikamaru2o[/127.158.179.126:50208] logged in with entity id 119821 at (-159.41129905420794, 10.0, 19.422972769171018)
-[15:53:32] [Server thread/INFO]: shikamaru2o joined the game
-[16:02:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> yooooo
-[16:02:39] [Server thread/INFO]: [Not Secure] <SamWise> yo
-[16:02:41] [Server thread/INFO]: [Not Secure] <SamWise> i got lost
-[16:02:51] [Server thread/INFO]: [Not Secure] <SamWise> and i almost died in lava
-[16:02:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> careful
-[16:03:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> kitna beds hai?
-[16:03:11] [Server thread/INFO]: [Not Secure] <SamWise> 11
-[16:03:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruh
-[16:03:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> im done
-[16:03:22] [Server thread/INFO]: [Not Secure] <SamWise> me too
-[16:03:27] [Server thread/INFO]: [Not Secure] <SamWise> i was playing on trackpad
-[16:03:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> acha clg mein hi?
-[16:03:50] [Server thread/INFO]: [Not Secure] <SamWise> and im gonna find a mod which only dsplays coord
-[16:03:57] [Server thread/INFO]: [Not Secure] <SamWise> its soo annoying the whole screen
-[16:04:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> ugh
-[16:05:04] [Server thread/INFO]: [Not Secure] <SamWise> only 6 till now
-[16:05:06] [Server thread/INFO]: [Not Secure] <SamWise> of 28
-[16:05:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> im done
-[16:05:30] [Server thread/INFO]: [Not Secure] <SamWise> ok lets go
-[16:05:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> last bed
-[16:05:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> wait
-[16:05:35] [Server thread/INFO]: [Not Secure] <SamWise> i forgot way back home
-[16:05:47] [Server thread/INFO]: [Not Secure] <SamWise> oh god most merciful father
-[16:05:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> as thanks for helping me with pickaxe
-[16:05:55] [Server thread/INFO]: [Not Secure] <SamWise> creator of heaven and earth and nether
-[16:06:05] [Server thread/INFO]: [Not Secure] <SamWise> find me a legendary 6 stack veing of debrid
-[16:06:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> yooo
-[16:06:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> uske liye fire res lagega
-[16:06:26] [Server thread/INFO]: [Not Secure] <SamWise> mai banau
-[16:06:27] [Server thread/INFO]: [Not Secure] <SamWise> ?
-[16:07:07] [Server thread/INFO]: [Not Secure] <SamWise> obviously joel is good at exploring her nether regions
-[16:07:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> cobblestone bruh
-[16:07:21] [Server thread/INFO]: [Not Secure] <SamWise> wha
-[16:07:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> i made this maze ik all about it
-[16:08:03] [Server thread/INFO]: [Not Secure] <SamWise> hole explorer
-[16:08:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> if u make a fire res i can show u a guaranteed spot of debris
-[16:09:38] [Server thread/INFO]: Maerusen[/127.243.190.54:50499] logged in with entity id 124917 at (-133.5539506702337, 108.5625, 101.69999998807907)
-[16:09:38] [Server thread/INFO]: Maerusen joined the game
-[16:09:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> well we are officially lost
-[16:10:00] [Server thread/INFO]: [Not Secure] <SamWise> lmao
-[16:10:09] [Server thread/INFO]: [Not Secure] <Huriking> portal coords chahiye?
-[16:10:11] [Server thread/INFO]: [Not Secure] <SamWise> did u get my sloppy seconds
-[16:10:19] [Server thread/INFO]: [Not Secure] <SamWise> no more like
-[16:10:23] [Server thread/INFO]: [Not Secure] <SamWise> just come to portal
-[16:10:28] [Server thread/INFO]: [Not Secure] <SamWise> we will follow u using marker
-[16:10:38] [Server thread/INFO]: [Not Secure] <SamWise> wait ik this plavce
-[16:10:42] [Server thread/INFO]: [Not Secure] <Huriking> ek netherite for navigation aid
-[16:11:24] [Server thread/INFO]: [Not Secure] <Huriking> i am at portal
-[16:11:33] [Server thread/INFO]: [Not Secure] <SamWise> enter toh kar
-[16:13:46] [Server thread/INFO]: [Not Secure] <Huriking> lava hai upar careful if digging upwards
-[16:14:45] [Server thread/INFO]: [Not Secure] <Huriking> yellow kyu disappear hua
-[16:14:50] [Server thread/INFO]: [Not Secure] <Huriking> aaye
-[16:14:55] [Server thread/INFO]: [Not Secure] <Huriking> ashu kyu khel raha hai
-[16:14:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep i found uit
-[16:15:01] [Server thread/INFO]: [Not Secure] <Huriking> go back chaman
-[16:15:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> can u come to me
-[16:15:10] [Server thread/INFO]: [Not Secure] <Maerusen> Gaav gum rha hu
-[16:15:13] [Server thread/INFO]: [Not Secure] <Huriking> me ja raha hu
-[16:15:25] [Server thread/INFO]: [Not Secure] <Maerusen> Accha banaya hai
-[16:15:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep
-[16:15:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> come to me
-[16:15:53] [Server thread/INFO]: [Not Secure] <SamWise> yes daddy
-[16:16:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> let go home
-[16:16:16] [Server thread/INFO]: [Not Secure] <SamWise> ok papa
-[16:16:25] [Server thread/INFO]: [Not Secure] <SamWise> im happy
-[16:16:43] [Server thread/INFO]: [Not Secure] <SamWise> atleast i can make netherite tool
-[16:16:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> me too u deserve it all after helping me
-[16:16:49] [Server thread/INFO]: [Not Secure] <SamWise> i can have 3
-[16:17:03] [Server thread/INFO]: [Not Secure] <Huriking> he helped or was a liability
-[16:17:04] [Server thread/INFO]: [Not Secure] <SamWise> brom come here
-[16:17:09] [Server thread/INFO]: [Not Secure] <SamWise> hide
-[16:17:24] [Server thread/INFO]: [Not Secure] <SamWise> will croft something using legging
-[16:18:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> bcccc
-[16:18:17] [Server thread/INFO]: [Not Secure] <SamWise> lmaoo
-[16:18:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> i didnt realize
-[16:18:32] [Server thread/INFO]: [Not Secure] <SamWise> what
-[16:18:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> boots tuta
-[16:19:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> yea run away
-[16:20:24] [Server thread/INFO]: Maerusen was slain by shikamaru2o
-[16:20:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> oops
-[16:20:36] [Server thread/INFO]: [Not Secure] <Maerusen> hahaha
-[16:20:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> take your stuff man
-[16:20:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> let me give a gift to
-[16:20:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> too
-[16:21:18] [Server thread/INFO]: [Not Secure] <SamWise> ?
-[16:21:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> saman toh utha
-[16:21:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> idhar
-[16:21:56] [Server thread/INFO]: [Not Secure] <Maerusen> got it
-[16:21:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> this
-[16:22:12] [Server thread/INFO]: Maerusen has made the advancement [Diamonds!]
-[16:22:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> take
-[16:22:22] [Server thread/INFO]: [Not Secure] <Maerusen> wow
-[16:22:27] [Server thread/INFO]: [Not Secure] <Maerusen> thx
-[16:23:37] [Server thread/INFO]: Huriking has completed the challenge [Hot Tourist Destinations]
-[16:23:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> wow
-[16:24:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> phir bhi bastian nhi mila
-[16:25:09] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[16:25:09] [Server thread/INFO]: shikamaru2o left the game
-[16:25:17] [Server thread/INFO]: [Not Secure] <SamWise> fuck this shit
-[16:25:22] [Server thread/INFO]: [Not Secure] <SamWise> we need to find a bastian
-[16:25:28] [Server thread/INFO]: [Not Secure] <SamWise> extremely badly
-[16:26:32] [Server thread/INFO]: SamWise lost connection: Disconnected
-[16:26:32] [Server thread/INFO]: SamWise left the game
-[16:36:59] [Server thread/INFO]: shikamaru2o[/127.158.179.126:50609] logged in with entity id 135567 at (-139.9148969832046, 98.0, 55.01094060715991)
-[16:36:59] [Server thread/INFO]: shikamaru2o joined the game
-[16:39:14] [Server thread/INFO]: [Not Secure] <Maerusen> benzil ke ghar ke andar creepr kyu hai
-[16:39:17] [Server thread/INFO]: [Not Secure] <Maerusen> wth
-[16:39:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> where
-[16:40:01] [Server thread/INFO]: [Not Secure] <Maerusen> basement me tha
-[16:40:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> kaha
-[16:40:16] [Server thread/INFO]: [Not Secure] <Maerusen> darwaaaj khola toh bahar aya
-[16:40:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> mustve ran away
-[16:40:39] [Server thread/INFO]: [Not Secure] <Maerusen> hmmmm
-[16:42:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> a zombie
-[16:42:27] [Server thread/INFO]: [Not Secure] <Maerusen> dam
-[16:42:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> this is where i mined for the mob farm u see outside
-[16:42:59] [Server thread/INFO]: [Not Secure] <Maerusen> looks nice
-[16:43:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> ghar bana le
-[16:43:30] [Server thread/INFO]: [Not Secure] <Maerusen> lol
-[16:43:37] [Server thread/INFO]: [Not Secure] <Maerusen> cave ko connect kr deta
-[16:43:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike
-[16:47:33] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[16:47:33] [Server thread/INFO]: shikamaru2o left the game
-[16:49:56] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[16:49:56] [Server thread/INFO]: Maerusen left the game
-[16:49:59] [Server thread/INFO]: Maerusen[/127.243.190.54:50729] logged in with entity id 139916 at (-149.45210655933147, 142.0, 130.8987322195084)
-[16:49:59] [Server thread/INFO]: Maerusen joined the game
-[16:59:23] [Server thread/INFO]: Huriking has made the advancement [Hidden in the Depths]
-[17:07:10] [Server thread/INFO]: Maerusen was blown up by Creeper
-[17:08:14] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[17:08:14] [Server thread/INFO]: Maerusen left the game
-[17:08:43] [Server thread/INFO]: Maerusen[/127.243.190.54:50865] logged in with entity id 147748 at (-150.03806220234998, 102.0, 82.52119838354729)
-[17:08:43] [Server thread/INFO]: Maerusen joined the game
-[17:31:47] [Server thread/INFO]: Huriking burned to death
-[17:37:46] [Server thread/INFO]: beast_07[/127.116.205.235:61408] logged in with entity id 156779 at (-112.88423852339362, 95.0, 81.69999998807907)
-[17:37:46] [Server thread/INFO]: beast_07 joined the game
-[17:42:53] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[17:42:53] [Server thread/INFO]: Maerusen left the game
-[17:42:56] [Server thread/INFO]: Maerusen[/127.243.190.54:61453] logged in with entity id 158323 at (-165.33310270810446, 143.0, 129.08725263943435)
-[17:42:56] [Server thread/INFO]: Maerusen joined the game
-[17:44:27] [Server thread/INFO]: beast_07 has made the advancement [Getting an Upgrade]
-[17:50:39] [Server thread/INFO]: Huriking lost connection: Disconnected
-[17:50:39] [Server thread/INFO]: Huriking left the game
-[17:56:04] [Server thread/INFO]: Maerusen fell from a high place
-[18:02:21] [Server thread/INFO]: beast_07 was burned to a crisp while fighting Zombie
-[18:02:21] [Server thread/INFO]: beast_07 has made the advancement [Monster Hunter]
-[18:06:09] [Server thread/INFO]: beast_07 has made the advancement [Sweet Dreams]
-[18:09:00] [Server thread/INFO]: Maerusen fell from a high place
-[18:16:12] [Server thread/INFO]: Maerusen fell from a high place
-[18:18:07] [Server thread/INFO]: beast_07 was slain by Zombie
-[18:20:29] [Server thread/INFO]: Maerusen was shot by Skeleton
-[18:22:39] [Server thread/INFO]: beast_07 was burned to a crisp while fighting Zombie
-[18:25:25] [Server thread/INFO]: Copper[/127.118.41.218:61684] logged in with entity id 168094 at (-190.0959665528672, 114.0, 98.60275958156278)
-[18:25:25] [Server thread/INFO]: Copper joined the game
-[18:25:48] [Server thread/INFO]: [Not Secure] <Copper> hi
-[18:25:55] [Server thread/INFO]: [Not Secure] <Maerusen> Hi
-[18:25:58] [Server thread/INFO]: [Not Secure] <Copper> kon kon hia
-[18:26:07] [Server thread/INFO]: [Not Secure] <beast_07> mai hoon
-[18:26:11] [Server thread/INFO]: [Not Secure] <Copper> hi harshit
-[18:26:41] [Server thread/INFO]: [Not Secure] <beast_07> woh kuch bade ajeeb se log aaye hue hai idhar
-[18:27:10] [Server thread/INFO]: [Not Secure] <Maerusen> Arya ko aisa bolega ab
-[18:27:29] [Server thread/INFO]: [Not Secure] <beast_07> woh nhi woh jahnde wale log hai
-[18:27:39] [Server thread/INFO]: [Not Secure] <beast_07> grp pe dala hai ss dekh
-[18:27:41] [Server thread/INFO]: [Not Secure] <Copper> aisa na
-[18:28:02] [Server thread/INFO]: Copper was shot by Pillager
-[18:34:35] [Server thread/INFO]: beast_07 lost connection: Timed out
-[18:34:35] [Server thread/INFO]: beast_07 left the game
-[18:35:10] [Server thread/INFO]: Maerusen fell from a high place
-[18:35:49] [Server thread/INFO]: [Not Secure] <Maerusen> helo
-[18:36:33] [Server thread/INFO]: [Not Secure] <Maerusen> u wanna go up?
-[18:36:44] [Server thread/INFO]: [Not Secure] <Maerusen> come with me
-[18:36:49] [Server thread/INFO]: [Not Secure] <Copper> no i wanna help the person who wanna complete the rest
-[18:36:52] [Server thread/INFO]: [Not Secure] <Maerusen> right behind u
-[18:37:01] [Server thread/INFO]: [Not Secure] <Copper> just giving me the space
-[18:37:07] [Server thread/INFO]: [Not Secure] <Maerusen> k cool
-[18:37:57] [Server thread/INFO]: beast_07[/127.38.144.168:62195] logged in with entity id 170761 at (-132.74272916673596, 98.0, 52.93237383049703)
-[18:37:57] [Server thread/INFO]: beast_07 joined the game
-[18:39:04] [Server thread/INFO]: [Not Secure] <Copper> pls someone sleep in
-[18:39:13] [Server thread/INFO]: [Not Secure] <Copper> thanks
-[18:39:39] [Server thread/INFO]: [Not Secure] <beast_07> ek balti kaha se milega
-[18:39:53] [Server thread/INFO]: [Not Secure] <beast_07> balti hai
-[18:39:53] [Server thread/INFO]: [Not Secure] <Maerusen> no idea, im noob
-[18:41:23] [Server thread/INFO]: beast_07 has made the advancement [A Seedy Place]
-[18:43:12] [Server thread/INFO]: [Not Secure] <Copper> maerusen shipra hai na
-[18:43:30] [Server thread/INFO]: [Not Secure] <Maerusen> Shipra 'Study mat' kyu likhegi
-[18:43:40] [Server thread/INFO]: [Not Secure] <Copper> ashu nigger
-[18:44:01] [Server thread/INFO]: [Not Secure] <Copper> complete kru kya
-[18:44:07] [Server thread/INFO]: [Not Secure] <Copper> steps chahiye?
-[18:44:12] [Server thread/INFO]: [Not Secure] <Maerusen> Ha upar toh aa
-[18:44:19] [Server thread/INFO]: [Not Secure] <Maerusen> saath banate'
-[18:44:28] [Server thread/INFO]: [Not Secure] <Copper> tu bana
-[18:44:36] [Server thread/INFO]: [Not Secure] <Copper> mai terko aage ka raata deta hu
-[18:44:50] [Server thread/INFO]: [Not Secure] <Maerusen> upar se bhi bana sakta hai
-[18:45:00] [Server thread/INFO]: [Not Secure] <Maerusen> Dont have to build from down up
-[18:45:32] [Server thread/INFO]: [Not Secure] <Maerusen> AJA
-[18:45:53] [Server thread/INFO]: [Not Secure] <Copper> we are so close yet we are so far
-[18:46:59] [Server thread/INFO]: beast_07 lost connection: Timed out
-[18:46:59] [Server thread/INFO]: beast_07 left the game
-[18:47:10] [Server thread/INFO]: beast_07[/127.154.161.13:62443] logged in with entity id 172506 at (-178.40839392229506, 112.0, 103.04904466342514)
-[18:47:10] [Server thread/INFO]: beast_07 joined the game
-[18:48:49] [Server thread/INFO]: [Not Secure] <Maerusen> HI
-[18:48:52] [Server thread/INFO]: [Not Secure] <Copper> yo
-[18:50:33] [Server thread/INFO]: [Not Secure] <Maerusen> BAADME PURA FLOORING HATANE VALA HU
-[18:50:45] [Server thread/INFO]: [Not Secure] <Maerusen> just dont fall down
-[18:50:55] [Server thread/INFO]: [Not Secure] <Copper> sahi dikh rha hai kya dekh baar
-[18:51:06] [Server thread/INFO]: [Not Secure] <Copper> l
-[18:51:21] [Server thread/INFO]: [Not Secure] <Maerusen> yesssss
-[18:51:30] [Server thread/INFO]: [Not Secure] <Maerusen> Mujhe realise nhi nhi hua
-[18:51:31] [Server thread/INFO]: [Not Secure] <Copper> yaha aur ek chahiye kya
-[18:51:38] [Server thread/INFO]: [Not Secure] <Maerusen> kya?
-[18:51:54] [Server thread/INFO]: [Not Secure] <Maerusen> na olnly 3
-[18:52:04] [Server thread/INFO]: [Not Secure] <Copper> now 3
-[18:52:07] [Server thread/INFO]: [Not Secure] <Copper> now 2
-[18:52:12] [Server thread/INFO]: [Not Secure] <Maerusen> lessgo ab flooring hatate
-[18:53:19] [Server thread/INFO]: [Not Secure] <Maerusen> wait
-[18:53:30] [Server thread/INFO]: [Not Secure] <Copper> saale
-[18:53:43] [Server thread/INFO]: [Not Secure] <Maerusen> thoda side ho na
-[18:53:45] [Server thread/INFO]: [Not Secure] <Copper> dhaka kya deta hai
-[18:53:51] [Server thread/INFO]: [Not Secure] <Maerusen> unka heigth dekho
-[18:54:06] [Server thread/INFO]: Maerusen was doomed to fall by Copper
-[18:54:20] [Server thread/INFO]: [Not Secure] <Maerusen> undergroun vunderground vala blocks hata na hai
-[18:54:28] [Server thread/INFO]: [Not Secure] <Copper> konsa
-[18:54:39] [Server thread/INFO]: [Not Secure] <Maerusen> alphabets ke niche vala
-[18:54:41] [Server thread/INFO]: [Not Secure] <Copper> aa ka
-[18:56:28] [Server thread/INFO]: [Not Secure] <Copper> kidhar gya
-[18:56:34] [Server thread/INFO]: [Not Secure] <Maerusen> vaps gir gaya :)
-[18:57:59] [Server thread/INFO]: Maerusen fell from a high place
-[19:00:55] [Server thread/INFO]: [Not Secure] <Copper> ashu tere liye sidhi banaya
-[19:01:10] [Server thread/INFO]: [Not Secure] <Maerusen> lovely
-[19:01:13] [Server thread/INFO]: [Not Secure] <Maerusen> Thx
-[19:02:53] [Server thread/INFO]: [Not Secure] <Maerusen> great
-[19:02:58] [Server thread/INFO]: [Not Secure] <Copper> shit
-[19:03:02] [Server thread/INFO]: [Not Secure] <Copper> l chota hai
-[19:03:09] [Server thread/INFO]: [Not Secure] <Copper> idhar aa
-[19:03:16] [Server thread/INFO]: [Not Secure] <Maerusen> hahahaha
-[19:03:22] [Server thread/INFO]: [Not Secure] <Maerusen> issok
-[19:03:31] [Server thread/INFO]: [Not Secure] <Maerusen> uske niceh se banate
-[19:03:36] [Server thread/INFO]: [Not Secure] <Copper> yes
-[19:04:33] [Server thread/INFO]: [Not Secure] <Maerusen> come up
-[19:04:52] [Server thread/INFO]: [Not Secure] <Maerusen> jump nad place beneath
-[19:05:13] [Server thread/INFO]: [Not Secure] <Copper> fucckkk
-[19:05:22] [Server thread/INFO]: [Not Secure] <Maerusen> idhr se aa
-[19:05:54] [Server thread/INFO]: [Not Secure] <Maerusen> u place it
-[19:05:58] [Server thread/INFO]: [Not Secure] <Maerusen> final block
-[19:05:59] [Server thread/INFO]: [Not Secure] <Copper> n o
-[19:06:05] [Server thread/INFO]: [Not Secure] <Copper> it is u
-[19:06:09] [Server thread/INFO]: [Not Secure] <Maerusen> sure?
-[19:06:12] [Server thread/INFO]: [Not Secure] <Copper> vreative to survival move
-[19:06:17] [Server thread/INFO]: [Not Secure] <Maerusen> lol
-[19:06:25] [Server thread/INFO]: [Not Secure] <Copper> woohoo
-[19:07:56] [Server thread/INFO]: [Not Secure] <Maerusen> gg
-[19:08:00] [Server thread/INFO]: [Not Secure] <Copper> well done
-[19:08:05] [Server thread/INFO]: [Not Secure] <Maerusen> yESSIR
-[19:08:16] [Server thread/INFO]: [Not Secure] <Maerusen> nOW I DIP
-[19:08:34] [Server thread/INFO]: [Not Secure] <Maerusen> Goodbye sir, it was a pleasure building alongside u
-[19:08:40] [Server thread/INFO]: [Not Secure] <Copper> same here
-[19:08:55] [Server thread/INFO]: [Not Secure] <Maerusen> Now we wait for someone to spot it
-[19:09:03] [Server thread/INFO]: [Not Secure] <Maerusen> Bye
-[19:09:11] [Server thread/INFO]: [Not Secure] <Copper> bye and thanks
-[19:10:08] [Server thread/INFO]: [Not Secure] <Maerusen> perfect
-[19:10:37] [Server thread/INFO]: [Not Secure] <Copper> perfect weather
-[19:11:04] [Server thread/INFO]: [Not Secure] <Maerusen> Cahlo bye bye
-[19:11:07] [Server thread/INFO]: [Not Secure] <Copper> kaha
-[19:11:09] [Server thread/INFO]: [Not Secure] <Copper> ab
-[19:11:09] [Server thread/INFO]: [Not Secure] <Maerusen> tis was my final stint
-[19:11:15] [Server thread/INFO]: [Not Secure] <Copper> u deleting?
-[19:11:21] [Server thread/INFO]: [Not Secure] <Maerusen> Its goodnight forever
-[19:11:25] [Server thread/INFO]: [Not Secure] <Maerusen> Yes sir
-[19:11:26] [Server thread/INFO]: [Not Secure] <Copper> see u my friend
-[19:11:31] [Server thread/INFO]: [Not Secure] <Copper> thanks
-[19:11:41] [Server thread/INFO]: [Not Secure] <Maerusen> ive been on this for pas 4 hours
-[19:11:46] [Server thread/INFO]: [Not Secure] <Maerusen> See ya
-[19:11:52] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[19:11:52] [Server thread/INFO]: Maerusen left the game
-[19:13:20] [Server thread/INFO]: Copper lost connection: Disconnected
-[19:13:20] [Server thread/INFO]: Copper left the game
-[19:40:22] [Server thread/INFO]: Huriking[/127.202.108.139:6318] logged in with entity id 181574 at (531.9403182111226, 64.0, 2795.699999988079)
-[19:40:22] [Server thread/INFO]: Huriking joined the game
-[19:48:27] [Server thread/INFO]: Huriking lost connection: Disconnected
-[19:48:27] [Server thread/INFO]: Huriking left the game
-[20:03:07] [Server thread/INFO]: Huriking[/127.202.108.139:3278] logged in with entity id 186457 at (40.329676484823864, 80.0, 302.63664136855436)
-[20:03:07] [Server thread/INFO]: Huriking joined the game
-[20:22:08] [Server thread/INFO]: Huriking was burned to a crisp while fighting Ghast
-[20:22:32] [Server thread/INFO]: blankslope[/127.92.210.105:33952] logged in with entity id 193666 at (-137.3316849426022, 108.0, 14.232969925256715)
-[20:22:32] [Server thread/INFO]: blankslope joined the game
-[20:22:57] [Server thread/INFO]: [Not Secure] <blankslope> kaise dikh rha hoonmein
-[20:24:56] [Server thread/INFO]: [Not Secure] <beast_07> habibi
-[20:25:07] [Server thread/INFO]: [Not Secure] <blankslope> allah hu akbar
-[20:25:15] [Server thread/INFO]: [Not Secure] <beast_07> boom
-[20:25:17] [Server thread/INFO]: blankslope has made the advancement [The Parrots and the Bats]
-[20:25:52] [Server thread/INFO]: blankslope was squished too much
-[20:26:25] [Server thread/INFO]: [Not Secure] <blankslope> murgi mc
-[20:31:13] [Server thread/INFO]: [Not Secure] <blankslope> murgi ko vaps andhr kaise daalneka
-[20:35:19] [Server thread/INFO]: SamWise[/127.221.30.78:58351] logged in with entity id 197729 at (-173.89448793513145, 114.0, 2.3876987128377363)
-[20:35:19] [Server thread/INFO]: SamWise joined the game
-[20:35:26] [Server thread/INFO]: [Not Secure] <blankslope> sry sameep
-[20:35:30] [Server thread/INFO]: [Not Secure] <blankslope> glti ho gya
-[20:35:31] [Server thread/INFO]: [Not Secure] <SamWise> why
-[20:35:35] [Server thread/INFO]: [Not Secure] <blankslope> intentional nhi tha
-[20:35:38] [Server thread/INFO]: [Not Secure] <blankslope> crie
-[20:35:41] [Server thread/INFO]: [Not Secure] <blankslope> sad face
-[20:35:54] [Server thread/INFO]: [Not Secure] <SamWise> bhingarde phone pe mat kar host
-[20:35:59] [Server thread/INFO]: [Not Secure] <SamWise> locally kar na
-[20:36:35] [Server thread/INFO]: blankslope was slain by SamWise
-[20:37:50] [Server thread/INFO]: [Not Secure] <SamWise> chut hai tu joash
-[20:38:09] [Server thread/INFO]: [Not Secure] <blankslope> sry bhi bola
-[20:38:13] [Server thread/INFO]: [Not Secure] <SamWise> bhingarde
-[20:38:18] [Server thread/INFO]: [Not Secure] <blankslope> maar bhi khaaya
-[20:38:19] [Server thread/INFO]: [Not Secure] <SamWise> kya karega tu xp ka
-[20:38:22] [Server thread/INFO]: [Not Secure] <SamWise> ghar bana na
-[20:38:42] [Server thread/INFO]: [Not Secure] <SamWise> xp ka mai baadmein sikhaa=ta terko
-[20:38:46] [Server thread/INFO]: [Not Secure] <SamWise> enchanting and all
-[20:38:54] [Server thread/INFO]: [Not Secure] <SamWise> tu filhal ghar bana
-[20:39:20] [Server thread/INFO]: [Not Secure] <SamWise> isnt server laggy for you guys
-[20:39:28] [Server thread/INFO]: [Not Secure] <SamWise> its soo laggy for me
-[20:42:11] [Server thread/INFO]: SamWise lost connection: Disconnected
-[20:42:11] [Server thread/INFO]: SamWise left the game
-[20:52:28] [Server thread/INFO]: Maerusen[/127.179.116.244:58408] logged in with entity id 202566 at (-163.40666573918074, 103.0, 21.36454999235132)
-[20:52:28] [Server thread/INFO]: Maerusen joined the game
-[20:54:18] [Server thread/INFO]: [Not Secure] <Maerusen> anyone online?
-[20:54:25] [Server thread/INFO]: [Not Secure] <blankslope> me
-[20:54:34] [Server thread/INFO]: [Not Secure] <Maerusen> hows the monument
-[20:54:38] [Server thread/INFO]: [Not Secure] <Maerusen> did u see?
-[20:54:46] [Server thread/INFO]: [Not Secure] <blankslope> how did u make
-[20:55:17] [Server thread/INFO]: [Not Secure] <Maerusen> Just went on building
-[20:55:34] [Server thread/INFO]: [Not Secure] <blankslope> nice
-[20:55:39] [Server thread/INFO]: [Not Secure] <Maerusen> Copper helped
-[20:56:20] [Server thread/INFO]: [Not Secure] <Maerusen> Made a platform and built on it
-[20:56:27] [Server thread/INFO]: [Not Secure] <Maerusen> Guess how much time?
-[20:56:33] [Server thread/INFO]: [Not Secure] <blankslope> 1 hr?
-[20:56:39] [Server thread/INFO]: [Not Secure] <Maerusen> 3.5
-[20:56:43] [Server thread/INFO]: [Not Secure] <blankslope> dem
-[20:56:45] [Server thread/INFO]: [Not Secure] <blankslope> cool
-[20:59:01] [Server thread/INFO]: [Not Secure] <Maerusen> Rrabic?
-[20:59:04] [Server thread/INFO]: [Not Secure] <blankslope> allahu akbar boom
-[20:59:04] [Server thread/INFO]: [Not Secure] <Maerusen> :)
-[20:59:18] [Server thread/INFO]: [Not Secure] <blankslope> boom boom boom i want you in my room
-[20:59:24] [Server thread/INFO]: [Not Secure] <Maerusen> do u have a sign board i can take?
-[20:59:27] [Server thread/INFO]: [Not Secure] <blankslope> lets spend tis night together
-[20:59:33] [Server thread/INFO]: [Not Secure] <blankslope> oghether in my room
-[20:59:43] [Server thread/INFO]: [Not Secure] <blankslope> ill make one wait
-[21:01:04] [Server thread/INFO]: [Not Secure] <Maerusen> mere pass barter ke liye kya hai dekhta hu
-[21:01:24] [Server thread/INFO]: [Not Secure] <blankslope> here
-[21:01:33] [Server thread/INFO]: [Not Secure] <blankslope> i have a lot of wood
-[21:01:47] [Server thread/INFO]: [Not Secure] <blankslope> 3 signboards
-[21:01:49] [Server thread/INFO]: [Not Secure] <Maerusen> thx ill give u coppper
-[21:02:12] [Server thread/INFO]: [Not Secure] <blankslope> whered you get sm frm
-[21:02:18] [Server thread/INFO]: [Not Secure] <Maerusen> copper?
-[21:02:26] [Server thread/INFO]: [Not Secure] <blankslope> yes
-[21:02:44] [Server thread/INFO]: [Not Secure] <Maerusen> had mined it in cave besides Joels houes
-[21:02:50] [Server thread/INFO]: [Not Secure] <blankslope> were u watching me sleep
-[21:02:55] [Server thread/INFO]: [Not Secure] <blankslope> creep
-[21:02:59] [Server thread/INFO]: [Not Secure] <Maerusen> rocky
-[21:03:33] [Server thread/INFO]: beast_07 was slain by Enderman
-[21:05:29] [Server thread/INFO]: [Not Secure] <beast_07> bhai pink lakhadi kha milegi ?
-[21:05:47] [Server thread/INFO]: [Not Secure] <blankslope> blossom waala ped tod
-[21:06:02] [Server thread/INFO]: [Not Secure] <beast_07> sab tod rakhe hai tum logo ne
-[21:06:13] [Server thread/INFO]: [Not Secure] <blankslope> thoda door ja phir
-[21:06:29] [Server thread/INFO]: [Not Secure] <blankslope> mera ghr thoda hone de
-[21:06:38] [Server thread/INFO]: [Not Secure] <blankslope> phir mein plant krta idhr poora
-[21:08:11] [Server thread/INFO]: [Not Secure] <blankslope> can smone make a pickaxe and bring here
-[21:13:13] [Server thread/INFO]: [Not Secure] <blankslope> someone pls sleep
-[21:14:24] [Server thread/INFO]: [Not Secure] <Maerusen> come with me
-[21:15:08] [Server thread/WARN]: blankslope moved too quickly! 9.963455651125685,-1.0,0.7001430198833987
-[21:15:08] [Server thread/INFO]: [Not Secure] <Maerusen> over here
-[21:15:37] [Server thread/INFO]: [Not Secure] <Maerusen> yall are my best of friends
-[21:15:39] [Server thread/INFO]: [Not Secure] <Maerusen> ever
-[21:15:43] [Server thread/INFO]: [Not Secure] <Maerusen> till now
-[21:16:35] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[21:16:35] [Server thread/INFO]: Maerusen left the game
-[21:17:24] [Server thread/INFO]: [Not Secure] <blankslope> huriking wya
-[21:17:29] [Server thread/INFO]: [Not Secure] <blankslope> i need help
-[21:18:33] [Server thread/INFO]: Maerusen[/127.179.116.244:58542] logged in with entity id 209892 at (-148.3623191970565, 128.0, 116.69999998807907)
-[21:18:33] [Server thread/INFO]: Maerusen joined the game
-[21:20:18] [Server thread/INFO]: [Not Secure] <blankslope> mera ghr kabza ho gya
-[21:20:24] [Server thread/INFO]: [Not Secure] <Maerusen> kya matlab
-[21:20:27] [Server thread/INFO]: [Not Secure] <Maerusen> kisne?
-[21:20:30] [Server thread/INFO]: [Not Secure] <blankslope> upr dekh
-[21:20:47] [Server thread/INFO]: [Not Secure] <Maerusen> roof gayab?
-[21:20:50] [Server thread/INFO]: [Not Secure] <blankslope> nhi
-[21:20:53] [Server thread/INFO]: [Not Secure] <blankslope> idhr aa
-[21:20:56] [Server thread/INFO]: [Not Secure] <Maerusen> aya
-[21:21:01] [Server thread/INFO]: [Not Secure] <Huriking> aa raha hu 5min de
-[21:21:15] [Server thread/INFO]: [Not Secure] <blankslope> see
-[21:21:22] [Server thread/INFO]: [Not Secure] <blankslope> inside
-[21:21:35] [Server thread/INFO]: [Not Secure] <blankslope> DONT GO
-[21:21:39] [Server thread/INFO]: [Not Secure] <blankslope> COME HERE
-[21:21:53] [Server thread/INFO]: [Not Secure] <Maerusen> oh voh banda
-[21:22:05] [Server thread/INFO]: [Not Secure] <blankslope> bahut hai
-[21:22:13] [Server thread/INFO]: [Not Secure] <blankslope> 3 or 4 smthing
-[21:22:17] [Server thread/INFO]: [Not Secure] <blankslope> soya nhi na koi
-[21:22:30] [Server thread/INFO]: [Not Secure] <Huriking> din kar
-[21:22:33] [Server thread/INFO]: [Not Secure] <Huriking> mar jayenge
-[21:22:36] [Server thread/INFO]: [Not Secure] <Maerusen> din hai
-[21:23:19] [Server thread/INFO]: [Not Secure] <blankslope> jldi aana
-[21:23:26] [Server thread/INFO]: [Not Secure] <blankslope> construction continue krna hai
-[21:23:30] [Server thread/INFO]: [Not Secure] <blankslope> pls
-[21:23:51] [Server thread/INFO]: [Not Secure] <Huriking> aa raha hu nether me hu
-[21:23:57] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[21:23:57] [Server thread/INFO]: Maerusen left the game
-[21:26:04] [Server thread/INFO]: [Not Secure] <blankslope> acha hai
-[21:26:35] [Server thread/INFO]: Maerusen[/127.179.116.244:58575] logged in with entity id 213212 at (-184.12719375952048, 113.0, 10.276996149236473)
-[21:26:35] [Server thread/INFO]: Maerusen joined the game
-[21:26:40] [Server thread/INFO]: [Not Secure] <blankslope> ohh damn
-[21:29:04] [Server thread/INFO]: [Not Secure] <blankslope> why
-[21:29:07] [Server thread/INFO]: [Not Secure] <blankslope> huriking
-[21:29:16] [Server thread/INFO]: [Not Secure] <blankslope> why did u put tht there
-[21:29:23] [Server thread/INFO]: beast_07 was slain by Zombie
-[21:29:25] [Server thread/INFO]: [Not Secure] <Huriking> pickaxe de
-[21:29:36] [Server thread/INFO]: beast_07 was slain by Zombie
-[21:29:37] [Server thread/INFO]: Maerusen lost connection: Disconnected
-[21:29:37] [Server thread/INFO]: Maerusen left the game
-[21:29:43] [Server thread/INFO]: beast_07 was slain by Zombie
-[21:29:53] [Server thread/INFO]: beast_07 was slain by Zombie
-[21:29:59] [Server thread/INFO]: [Not Secure] <Huriking> done mar diye
-[21:30:03] [Server thread/INFO]: [Not Secure] <Huriking> abb continue
-[21:30:04] [Server thread/INFO]: beast_07 was slain by Zombie
-[21:30:11] [Server thread/INFO]: [Not Secure] <blankslope> usko bhi bachade
-[21:30:12] [Server thread/INFO]: beast_07 was slain by Zombie
-[21:30:18] [Server thread/INFO]: [Not Secure] <blankslope> 4 baar marr gya
-[21:30:59] [Server thread/INFO]: [Not Secure] <beast_07> din mai zombies kese aa rhe hai
-[21:31:14] [Server thread/INFO]: [Not Secure] <beast_07> aur iski health itni kese mar ku nhi rha tha
-[21:32:20] [Server thread/INFO]: [Not Secure] <Huriking> dirt house kiska hai
-[21:32:29] [Server thread/INFO]: [Not Secure] <beast_07> mera hai
-[21:32:36] [Server thread/INFO]: [Not Secure] <Huriking> aur ye naya wala?
-[21:32:54] [Server thread/INFO]: [Not Secure] <beast_07> jab majdoor building banate hai toh plhe apni jhopdi lagate hai
-[21:33:04] [Server thread/INFO]: [Not Secure] <beast_07> fir kam start hota hai
-[21:33:14] [Server thread/INFO]: Huriking lost connection: Disconnected
-[21:33:14] [Server thread/INFO]: Huriking left the game
-[21:33:19] [Server thread/INFO]: [Not Secure] <beast_07> abhi woh jamin bhi mere kabje mai hai
-[21:34:02] [Server thread/INFO]: Stopping the server
-[21:34:02] [Server thread/INFO]: Stopping server
-[21:34:02] [Server thread/INFO]: Saving players
-[21:34:02] [Server thread/INFO]: blankslope lost connection: Server closed
-[21:34:02] [Server thread/INFO]: blankslope left the game
-[21:34:02] [Server thread/INFO]: Saving worlds
-[21:34:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:34:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:34:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:34:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:34:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:34:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:34:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:30:44] [ServerMain/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Win32Exception
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createProcessor(WindowsHardwareAbstractionLayer.java:42)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48)
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:100)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Win32Exception
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:377)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 14 more
+[09:30:44] [ServerMain/WARN]: Failed retrieving info for group graphics
+java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Win32Exception
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.getGraphicsCards(WindowsHardwareAbstractionLayer.java:87)
+	at net.minecraft.SystemReport.lambda$putHardware$1(SystemReport.java:101)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:101)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Win32Exception
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:377)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 12 more
+[09:30:44] [ServerMain/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: com/sun/jna/platform/win32/Psapi$PERFORMANCE_INFORMATION
+	at oshi.hardware.platform.windows.WindowsHardwareAbstractionLayer.createMemory(WindowsHardwareAbstractionLayer.java:37)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60)
+	at net.minecraft.SystemReport.lambda$putHardware$2(SystemReport.java:102)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:102)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.platform.win32.Psapi$PERFORMANCE_INFORMATION
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:377)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:557)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	... 14 more
+[09:30:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[09:30:54] [ServerMain/INFO]: Loaded 1515 recipes
+[09:30:54] [ServerMain/INFO]: Loaded 1617 advancements
+[09:30:54] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[09:30:54] [Server thread/INFO]: Loading properties
+[09:30:54] [Server thread/INFO]: Default game type: SURVIVAL
+[09:30:54] [Server thread/INFO]: Generating keypair
+[09:30:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:30:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:30:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:30:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:30:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:30:54] [Server thread/INFO]: Preparing level "world"
+[09:30:55] [Server thread/INFO]: Loading 0 persistent chunks...
+[09:30:55] [Server thread/INFO]: Preparing spawn area: 100%
+[09:30:55] [Server thread/INFO]: Time elapsed: 73 ms
+[09:30:55] [Server thread/INFO]: Done (0.616s)! For help, type "help"
+[09:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:30:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:31:02] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[09:31:02] [Server thread/INFO]: do /reload<--[HERE]
+[09:31:51] [Server thread/INFO]: Reloading!
+[09:31:52] [Server thread/INFO]: Loaded 1515 recipes
+[09:31:52] [Server thread/INFO]: Loaded 1617 advancements
+[09:31:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:31:57] [Server thread/INFO]: SamWise[/127.221.30.78:50479] logged in with entity id 311 at (-178.13303328579437, 105.5, 10.25969006525418)
+[09:31:57] [Server thread/INFO]: SamWise joined the game
+[09:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[09:33:49] [Server thread/INFO]: XFighter009[/127.99.221.180:50500] logged in with entity id 870 at (-186.69999998807907, 92.0, 3.699999988079071)
+[09:33:49] [Server thread/INFO]: XFighter009 joined the game
+[09:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[09:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10062ms or 201 ticks behind
+[09:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
+[09:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10771ms or 215 ticks behind
+[09:35:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7101ms or 142 ticks behind
+[09:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10031ms or 200 ticks behind
+[09:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14937ms or 298 ticks behind
+[09:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9949ms or 198 ticks behind
+[09:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4589ms or 91 ticks behind
+[09:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[09:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[09:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3357ms or 67 ticks behind
+[09:38:34] [Server thread/INFO]: [Not Secure] <SamWise> ruk benzil
+[09:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
+[09:38:41] [Server thread/INFO]: [Not Secure] <SamWise> abh ye file push kar
+[09:38:46] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[09:38:46] [Server thread/INFO]: XFighter009 left the game
+[09:38:50] [Server thread/INFO]: SamWise lost connection: Disconnected
+[09:38:50] [Server thread/INFO]: SamWise left the game
+[09:38:55] [Server thread/INFO]: Stopping the server
+[09:38:55] [Server thread/INFO]: Stopping server
+[09:38:55] [Server thread/INFO]: Saving players
+[09:38:55] [Server thread/INFO]: Saving worlds
+[09:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:38:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
