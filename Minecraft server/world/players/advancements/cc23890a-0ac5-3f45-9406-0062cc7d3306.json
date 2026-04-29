@@ -754,6 +754,7 @@
       "minecraft:blaze": "2026-04-18 12:27:45 +0530",
       "minecraft:pillager": "2026-04-26 15:02:58 +0530",
       "minecraft:skeleton": "2026-04-15 11:34:31 +0530",
+      "minecraft:phantom": "2026-04-29 18:56:35 +0530",
       "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
       "minecraft:ghast": "2026-04-21 12:36:56 +0530",
       "minecraft:hoglin": "2026-04-21 12:36:28 +0530",
@@ -3888,6 +3889,12 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2026-04-29 12:12:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-04-29 19:12:09 +0530"
     },
     "done": true
   },
