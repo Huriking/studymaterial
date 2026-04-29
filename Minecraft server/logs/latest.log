@@ -1,53 +1,44 @@
-[17:56:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:56:12] [ServerMain/INFO]: Loaded 1515 recipes
-[17:56:12] [ServerMain/INFO]: Loaded 1617 advancements
-[17:56:12] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:56:12] [Server thread/INFO]: Loading properties
-[17:56:12] [Server thread/INFO]: Default game type: SURVIVAL
-[17:56:12] [Server thread/INFO]: Generating keypair
-[17:56:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:56:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:56:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:56:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:56:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:56:12] [Server thread/INFO]: Preparing level "world"
-[17:56:13] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:56:13] [Server thread/INFO]: Preparing spawn area: 100%
-[17:56:13] [Server thread/INFO]: Time elapsed: 14 ms
-[17:56:13] [Server thread/INFO]: Done (0.177s)! For help, type "help"
-[17:56:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:56:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:56:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:56:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:56:15] [Server thread/INFO]: SamWise[/127.0.0.1:50162] logged in with entity id 129 at (198.56309863008747, 93.0, 163.6285860896856)
-[17:56:15] [Server thread/INFO]: SamWise joined the game
-[17:56:27] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[17:56:31] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[18:04:18] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:04:21] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[18:08:06] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:08:11] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[18:34:36] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:44:37] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[18:48:41] [Server thread/INFO]: Set the weather to rain
-[18:50:51] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[18:59:36] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[19:05:44] [Server thread/INFO]: Set the weather to rain
-[19:08:28] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[19:18:32] [Server thread/INFO]: Set the weather to clear
-[19:21:26] [Server thread/INFO]: SamWise lost connection: Disconnected
-[19:21:26] [Server thread/INFO]: SamWise left the game
-[19:21:31] [Server thread/INFO]: Stopping the server
-[19:21:31] [Server thread/INFO]: Stopping server
-[19:21:31] [Server thread/INFO]: Saving players
-[19:21:31] [Server thread/INFO]: Saving worlds
-[19:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:59:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:59:44] [ServerMain/INFO]: Loaded 1515 recipes
+[19:59:44] [ServerMain/INFO]: Loaded 1617 advancements
+[19:59:44] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:59:44] [Server thread/INFO]: Loading properties
+[19:59:44] [Server thread/INFO]: Default game type: SURVIVAL
+[19:59:44] [Server thread/INFO]: Generating keypair
+[19:59:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:59:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:59:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:59:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:59:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:59:45] [Server thread/INFO]: Preparing level "world"
+[19:59:45] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:59:45] [Server thread/INFO]: Preparing spawn area: 100%
+[19:59:45] [Server thread/INFO]: Time elapsed: 14 ms
+[19:59:45] [Server thread/INFO]: Done (0.153s)! For help, type "help"
+[19:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:00:10] [Server thread/INFO]: SamWise[/127.0.0.1:50300] logged in with entity id 329 at (-173.48154621014086, 109.0, 0.8715267940804748)
+[20:00:10] [Server thread/INFO]: SamWise joined the game
+[20:01:06] [Server thread/INFO]: Set the weather to rain
+[20:03:13] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[20:12:40] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[20:12:47] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[20:26:41] [Server thread/INFO]: SamWise has made the advancement [A Throwaway Joke]
+[20:43:46] [Server thread/INFO]: SamWise lost connection: Disconnected
+[20:43:46] [Server thread/INFO]: SamWise left the game
+[20:44:06] [Server thread/INFO]: Stopping the server
+[20:44:07] [Server thread/INFO]: Stopping server
+[20:44:07] [Server thread/INFO]: Saving players
+[20:44:07] [Server thread/INFO]: Saving worlds
+[20:44:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:44:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:44:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:44:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:44:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:44:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:44:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
