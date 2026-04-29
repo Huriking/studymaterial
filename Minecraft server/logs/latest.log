@@ -1,18 +1,66 @@
-[00:04:29] [Server thread/WARN]: beast_07 moved too quickly! 5.488438003495503,-7.21379205849226,4.348361873873046
-[00:06:52] [Server thread/INFO]: beast_07 fell from a high place
-[00:09:05] [Server thread/INFO]: beast_07 was slain by Zombie
-[00:09:41] [Server thread/INFO]: beast_07 was slain by Zombie
-[00:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 309561ms or 6191 ticks behind
-[00:18:18] [Server thread/INFO]: beast_07 lost connection: Timed out
-[00:18:19] [Server thread/INFO]: beast_07 left the game
-[00:19:05] [Server thread/INFO]: Stopping the server
-[00:19:05] [Server thread/INFO]: Stopping server
-[00:19:05] [Server thread/INFO]: Saving players
-[00:19:05] [Server thread/INFO]: Saving worlds
-[00:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:19:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:19:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:19:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:19:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:19:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:06:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:06:44] [ServerMain/INFO]: Loaded 1515 recipes
+[01:06:44] [ServerMain/INFO]: Loaded 1617 advancements
+[01:06:44] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[01:06:44] [Server thread/INFO]: Loading properties
+[01:06:44] [Server thread/INFO]: Default game type: SURVIVAL
+[01:06:44] [Server thread/INFO]: Generating keypair
+[01:06:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:06:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:06:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:06:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:06:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:06:45] [Server thread/INFO]: Preparing level "world"
+[01:06:46] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:06:46] [Server thread/INFO]: Preparing spawn area: 100%
+[01:06:46] [Server thread/INFO]: Time elapsed: 17 ms
+[01:06:46] [Server thread/INFO]: Done (0.694s)! For help, type "help"
+[01:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:07:33] [Server thread/INFO]: beast_07[/127.115.159.151:42475] logged in with entity id 61 at (1504.8731363106817, 47.0, -1216.4172558485843)
+[01:07:33] [Server thread/INFO]: beast_07 joined the game
+[01:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[01:11:48] [Server thread/INFO]: beast_07 fell from a high place
+[01:27:19] [Server thread/INFO]: beast_07 was shot by Skeleton
+[01:31:56] [Server thread/INFO]: beast_07 was slain by Zombie
+[01:33:31] [Server thread/INFO]: beast_07 was slain by Zombie
+[01:45:30] [Server thread/INFO]: beast_07 was slain by Zombie Villager
+[01:45:40] [Server thread/INFO]: beast_07 was slain by Zombie Villager
+[01:45:57] [Server thread/INFO]: beast_07 was slain by Zombie Villager
+[01:46:08] [Server thread/INFO]: beast_07 was slain by Zombie Villager
+[01:56:36] [Server thread/INFO]: beast_07 was shot by Skeleton
+[02:22:15] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:28:04] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:30:54] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:31:26] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:32:33] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:33:14] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:35:06] [Server thread/INFO]: beast_07 has made the advancement [Diamonds!]
+[02:35:43] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:37:35] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:37:52] [Server thread/WARN]: beast_07 moved too quickly! 8.749024810719675,-4.464159374955443,2.754568355862375
+[02:38:56] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:40:23] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:40:34] [Server thread/WARN]: beast_07 moved too quickly! 8.329976975282534,-2.0,-5.277079933470304
+[02:41:31] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:45:11] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:56:15] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:56:26] [Server thread/WARN]: beast_07 moved too quickly! 9.364347445035037,-3.0,-2.1466412905813286
+[02:57:12] [Server thread/INFO]: beast_07 was slain by Zombie
+[02:57:23] [Server thread/WARN]: beast_07 moved too quickly! 6.655625726110884,-5.766367993957523,-5.0068995277172235
+[02:58:24] [Server thread/INFO]: beast_07 was slain by Zombie
+[03:04:32] [Server thread/INFO]: beast_07 was slain by Zombie
+[03:07:30] [Server thread/INFO]: beast_07 was slain by Zombie
+[03:07:40] [Server thread/WARN]: beast_07 moved too quickly! 7.344944871588268,-7.233632006042477,-0.13710956652153072
+[03:09:22] [Server thread/INFO]: beast_07 was slain by Zombie
+[03:09:39] [Server thread/WARN]: beast_07 moved too quickly! 7.886510816784494,-5.3589725915925825,-3.9425799736250156
+[03:10:38] [Server thread/INFO]: beast_07 was slain by Zombie
+[03:17:27] [Server thread/INFO]: beast_07 was slain by Zombie
+[03:36:54] [Server thread/INFO]: beast_07 was blown up by Creeper
+[03:42:05] [Server thread/INFO]: beast_07 was shot by Skeleton
+[03:54:13] [Server thread/INFO]: beast_07 tried to swim in lava
