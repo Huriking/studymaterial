@@ -18,8 +18,10 @@
       "minecraft:lush_caves": "2026-04-29 14:52:33 +0530",
       "minecraft:dripstone_caves": "2026-04-29 10:52:56 +0530",
       "minecraft:snowy_taiga": "2026-04-29 13:45:21 +0530",
+      "minecraft:deep_cold_ocean": "2026-04-30 07:08:32 +0530",
       "minecraft:frozen_ocean": "2026-04-29 13:37:22 +0530",
       "minecraft:frozen_river": "2026-04-29 13:39:24 +0530",
+      "minecraft:deep_frozen_ocean": "2026-04-30 07:09:09 +0530",
       "minecraft:cherry_grove": "2026-04-27 19:41:42 +0530",
       "minecraft:grove": "2026-04-28 19:41:50 +0530",
       "minecraft:meadow": "2026-04-27 19:41:16 +0530",
@@ -189,12 +191,16 @@
       "mutton": "2026-04-27 20:01:53 +0530",
       "chicken": "2026-04-28 17:51:24 +0530",
       "bread": "2026-04-28 17:51:28 +0530",
-      "cooked_chicken": "2026-04-29 10:04:27 +0530",
+      "golden_apple": "2026-04-30 07:11:19 +0530",
       "rotten_flesh": "2026-04-30 01:13:26 +0530",
       "salmon": "2026-04-29 12:15:05 +0530",
       "beef": "2026-04-29 14:23:27 +0530",
       "porkchop": "2026-04-28 19:10:22 +0530",
-      "tropical_fish": "2026-04-30 00:05:19 +0530"
+      "tropical_fish": "2026-04-30 00:05:19 +0530",
+      "cooked_chicken": "2026-04-29 10:04:27 +0530",
+      "potato": "2026-04-30 07:31:40 +0530",
+      "cod": "2026-04-30 07:17:46 +0530",
+      "carrot": "2026-04-30 07:32:55 +0530"
     },
     "done": false
   },
@@ -437,6 +443,7 @@
       "minecraft:pillager": "2026-04-29 12:32:52 +0530",
       "minecraft:skeleton": "2026-04-29 10:45:36 +0530",
       "minecraft:zombie_horse": "2026-04-29 13:16:08 +0530",
+      "minecraft:enderman": "2026-04-30 08:50:12 +0530",
       "minecraft:witch": "2026-04-29 12:31:46 +0530",
       "minecraft:spider": "2026-04-29 10:43:08 +0530",
       "minecraft:zombie": "2026-04-28 18:02:21 +0530",
@@ -1426,7 +1433,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2026-04-29 13:09:16 +0530"
+      "minecraft:cow": "2026-04-30 08:17:48 +0530",
+      "minecraft:chicken": "2026-04-29 13:09:16 +0530",
+      "minecraft:sheep": "2026-04-30 08:26:28 +0530"
     },
     "done": false
   },
@@ -2030,6 +2039,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-04-30 06:08:20 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2026-04-30 02:35:06 +0530"
@@ -2042,15 +2057,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-04-30 07:03:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2026-04-30 01:44:00 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2026-04-30 01:25:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2026-04-30 07:01:03 +0530"
     },
     "done": true
   },
@@ -2066,9 +2105,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-04-30 01:18:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
     },
     "done": true
   },
@@ -2078,9 +2129,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2026-04-30 01:44:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-04-30 06:49:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-04-30 06:40:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
     },
     "done": true
   },
@@ -2090,9 +2165,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2026-04-30 07:01:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2026-04-30 01:12:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-04-30 07:28:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-04-30 07:55:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-04-30 06:49:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-04-30 05:42:00 +0530"
     },
     "done": true
   },
@@ -2114,9 +2225,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_boots_dyed": {
+    "criteria": {
+      "has_leather_boots": "2026-04-30 07:21:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-04-30 01:18:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
     },
     "done": true
   },
@@ -2132,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-04-30 01:18:35 +0530"
@@ -2144,9 +2273,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-04-30 05:58:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2026-04-30 02:35:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-04-30 05:42:00 +0530"
     },
     "done": true
   },
@@ -2156,9 +2303,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-04-30 07:28:48 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2026-04-30 02:35:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-04-30 05:42:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2026-04-30 08:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-04-30 05:58:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-04-30 08:50:16 +0530"
     },
     "done": true
   },
@@ -2192,6 +2369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-04-30 05:42:00 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2026-04-30 01:44:00 +0530"
@@ -2210,6 +2393,42 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-04-30 07:02:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-04-30 07:31:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-04-30 05:42:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_shelf": {
+    "criteria": {
+      "has_stripped_cherry_log": "2026-04-30 08:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2026-04-30 01:18:35 +0530"
@@ -2222,9 +2441,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2026-04-30 01:18:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-04-30 05:42:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-04-30 07:02:13 +0530"
     },
     "done": true
   },
@@ -2237,6 +2474,42 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2026-04-30 02:35:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-04-30 08:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-04-30 06:40:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-04-30 05:58:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-04-30 07:11:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2026-04-30 07:55:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-04-30 06:56:46 +0530"
     },
     "done": true
   },
