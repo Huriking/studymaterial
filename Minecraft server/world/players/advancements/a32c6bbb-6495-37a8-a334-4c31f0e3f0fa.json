@@ -193,6 +193,7 @@
       "cooked_mutton": "2026-04-17 01:44:44 +0530",
       "potato": "2026-04-16 19:59:20 +0530",
       "cooked_beef": "2026-04-16 21:33:20 +0530",
+      "beef": "2026-05-01 09:07:43 +0530",
       "carrot": "2026-04-16 20:01:31 +0530"
     },
     "done": false
@@ -3449,12 +3450,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2026-05-01 08:50:27 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_slab": {
     "criteria": {
       "has_planks": "2026-05-01 08:48:52 +0530"
@@ -3485,12 +3480,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2026-05-01 08:50:27 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/pale_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2026-05-01 08:48:52 +0530"
@@ -3500,6 +3489,18 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2026-05-01 08:48:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-01 08:50:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-01 08:50:27 +0530"
     },
     "done": true
   },
