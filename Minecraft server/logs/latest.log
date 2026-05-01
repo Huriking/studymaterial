@@ -1,87 +1,22 @@
-[01:06:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[01:06:44] [ServerMain/INFO]: Loaded 1515 recipes
-[01:06:44] [ServerMain/INFO]: Loaded 1617 advancements
-[01:06:44] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[01:06:44] [Server thread/INFO]: Loading properties
-[01:06:44] [Server thread/INFO]: Default game type: SURVIVAL
-[01:06:44] [Server thread/INFO]: Generating keypair
-[01:06:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:06:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:06:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:06:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:06:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:06:45] [Server thread/INFO]: Preparing level "world"
-[01:06:46] [Server thread/INFO]: Loading 0 persistent chunks...
-[01:06:46] [Server thread/INFO]: Preparing spawn area: 100%
-[01:06:46] [Server thread/INFO]: Time elapsed: 17 ms
-[01:06:46] [Server thread/INFO]: Done (0.694s)! For help, type "help"
-[01:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:06:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:07:33] [Server thread/INFO]: beast_07[/127.115.159.151:42475] logged in with entity id 61 at (1504.8731363106817, 47.0, -1216.4172558485843)
-[01:07:33] [Server thread/INFO]: beast_07 joined the game
-[01:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
-[01:11:48] [Server thread/INFO]: beast_07 fell from a high place
-[01:27:19] [Server thread/INFO]: beast_07 was shot by Skeleton
-[01:31:56] [Server thread/INFO]: beast_07 was slain by Zombie
-[01:33:31] [Server thread/INFO]: beast_07 was slain by Zombie
-[01:45:30] [Server thread/INFO]: beast_07 was slain by Zombie Villager
-[01:45:40] [Server thread/INFO]: beast_07 was slain by Zombie Villager
-[01:45:57] [Server thread/INFO]: beast_07 was slain by Zombie Villager
-[01:46:08] [Server thread/INFO]: beast_07 was slain by Zombie Villager
-[01:56:36] [Server thread/INFO]: beast_07 was shot by Skeleton
-[02:22:15] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:28:04] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:30:54] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:31:26] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:32:33] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:33:14] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:35:06] [Server thread/INFO]: beast_07 has made the advancement [Diamonds!]
-[02:35:43] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:37:35] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:37:52] [Server thread/WARN]: beast_07 moved too quickly! 8.749024810719675,-4.464159374955443,2.754568355862375
-[02:38:56] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:40:23] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:40:34] [Server thread/WARN]: beast_07 moved too quickly! 8.329976975282534,-2.0,-5.277079933470304
-[02:41:31] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:45:11] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:56:15] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:56:26] [Server thread/WARN]: beast_07 moved too quickly! 9.364347445035037,-3.0,-2.1466412905813286
-[02:57:12] [Server thread/INFO]: beast_07 was slain by Zombie
-[02:57:23] [Server thread/WARN]: beast_07 moved too quickly! 6.655625726110884,-5.766367993957523,-5.0068995277172235
-[02:58:24] [Server thread/INFO]: beast_07 was slain by Zombie
-[03:04:32] [Server thread/INFO]: beast_07 was slain by Zombie
-[03:07:30] [Server thread/INFO]: beast_07 was slain by Zombie
-[03:07:40] [Server thread/WARN]: beast_07 moved too quickly! 7.344944871588268,-7.233632006042477,-0.13710956652153072
-[03:09:22] [Server thread/INFO]: beast_07 was slain by Zombie
-[03:09:39] [Server thread/WARN]: beast_07 moved too quickly! 7.886510816784494,-5.3589725915925825,-3.9425799736250156
-[03:10:38] [Server thread/INFO]: beast_07 was slain by Zombie
-[03:17:27] [Server thread/INFO]: beast_07 was slain by Zombie
-[03:36:54] [Server thread/INFO]: beast_07 was blown up by Creeper
-[03:42:05] [Server thread/INFO]: beast_07 was shot by Skeleton
-[03:54:13] [Server thread/INFO]: beast_07 tried to swim in lava
-[04:10:34] [Server thread/INFO]: beast_07 fell from a high place
-[04:46:31] [Server thread/INFO]: beast_07 was blown up by Creeper
-[04:47:57] [Server thread/INFO]: beast_07 was slain by Zombie
-[04:59:17] [Server thread/INFO]: beast_07 was slain by Zombie
-[05:00:59] [Server thread/INFO]: beast_07 was slain by Zombie
-[05:03:08] [Server thread/INFO]: beast_07 fell from a high place
-[05:12:53] [Server thread/INFO]: beast_07 fell from a high place
-[05:16:34] [Server thread/INFO]: beast_07 fell from a high place
-[05:24:29] [Server thread/INFO]: beast_07 was slain by Zombie
-[05:34:20] [Server thread/INFO]: beast_07 was slain by Zombie
-[05:38:28] [Server thread/INFO]: beast_07 was slain by Zombie
-[05:39:35] [Server thread/INFO]: beast_07 was slain by Zombie
-[06:08:20] [Server thread/INFO]: beast_07 has made the advancement [Suit Up]
-[06:15:47] [Server thread/INFO]: beast_07 was blown up by Creeper
-[06:38:57] [Server thread/INFO]: beast_07 was blown up by Creeper
-[06:41:30] [Server thread/INFO]: beast_07 fell from a high place
-[07:02:13] [Server thread/INFO]: beast_07 has made the advancement [Ice Bucket Challenge]
-[10:16:31] [Server thread/INFO]: beast_07 was doomed to fall by Phantom
-[10:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
-[10:35:14] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[10:35:14] [Server thread/INFO]: beast_07 left the game
+[03:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[03:07:02] [Server thread/INFO]: beast_07[/127.38.144.168:55437] logged in with entity id 128613 at (-121.08236796643908, 99.0, 51.063331307089115)
+[03:07:02] [Server thread/INFO]: beast_07 joined the game
+[03:19:11] [Server thread/WARN]: beast_07 moved too quickly! -0.04861914075731022,10.113600196838306,0.0
+[03:44:01] [Server thread/INFO]: beast_07 fell from a high place
+[04:11:47] [Server thread/INFO]: beast_07 has made the advancement [Hot Stuff]
+[04:46:35] [Server thread/INFO]: beast_07 has made the advancement [Sneak 100]
+[05:17:57] [Server thread/INFO]: beast_07 was obliterated by a sonically-charged shriek
+[05:40:35] [Server thread/INFO]: beast_07 was obliterated by a sonically-charged shriek
+[05:43:19] [Server thread/INFO]: beast_07 lost connection: Disconnected
+[05:43:19] [Server thread/INFO]: beast_07 left the game
+[05:44:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:48:19] [Server thread/INFO]: beast_07[/127.38.144.168:50359] logged in with entity id 154785 at (-119.53523631873853, 99.0, 50.66965555384178)
+[05:48:19] [Server thread/INFO]: beast_07 joined the game
+[07:34:11] [Server thread/INFO]: beast_07 lost connection: Disconnected
+[07:34:11] [Server thread/INFO]: beast_07 left the game
+[07:35:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:48:15] [Server thread/INFO]: shikamaru2o[/127.158.179.126:42309] logged in with entity id 173233 at (-162.3915361343339, 83.0, 2133.1846973564548)
+[08:48:15] [Server thread/INFO]: shikamaru2o joined the game
+[08:51:39] [Server thread/WARN]: shikamaru2o was kicked for floating too long!
+[08:51:39] [Server thread/INFO]: shikamaru2o lost connection: Flying is not enabled on this server
+[08:51:39] [Server thread/INFO]: shikamaru2o left the game
