@@ -1,40 +1,194 @@
-[16:07:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[16:07:20] [ServerMain/INFO]: Loaded 1515 recipes
-[16:07:20] [ServerMain/INFO]: Loaded 1617 advancements
-[16:07:21] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[16:07:21] [Server thread/INFO]: Loading properties
-[16:07:21] [Server thread/INFO]: Default game type: SURVIVAL
-[16:07:21] [Server thread/INFO]: Generating keypair
-[16:07:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:07:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:07:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:07:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:07:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:07:21] [Server thread/INFO]: Preparing level "world"
-[16:07:21] [Server thread/INFO]: Loading 0 persistent chunks...
-[16:07:21] [Server thread/INFO]: Preparing spawn area: 100%
-[16:07:21] [Server thread/INFO]: Time elapsed: 13 ms
-[16:07:21] [Server thread/INFO]: Done (0.143s)! For help, type "help"
-[16:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:07:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:07:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:07:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:07:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:07:25] [Server thread/INFO]: SamWise[/127.0.0.1:57924] logged in with entity id 343 at (-163.03177052968883, 98.0, 42.23307017092276)
-[16:07:25] [Server thread/INFO]: SamWise joined the game
-[17:05:08] [Server thread/INFO]: SamWise has made the advancement [Minecraft: Trial(s) Edition]
-[17:14:53] [Server thread/INFO]: SamWise lost connection: Disconnected
-[17:14:53] [Server thread/INFO]: SamWise left the game
-[17:14:58] [Server thread/INFO]: Stopping the server
-[17:14:58] [Server thread/INFO]: Stopping server
-[17:14:58] [Server thread/INFO]: Saving players
-[17:14:58] [Server thread/INFO]: Saving worlds
-[17:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:04:24] [Server thread/INFO]: shikamaru2o[/127.158.179.126:56959] logged in with entity id 19257 at (-163.50497949947038, 104.0, 15.844702132611237)
+[00:04:24] [Server thread/INFO]: shikamaru2o joined the game
+[00:06:23] [Server thread/INFO]: SamWise[/127.47.92.130:33651] logged in with entity id 19925 at (-171.72183865455722, 114.0, -0.2133069698893474)
+[00:06:23] [Server thread/INFO]: SamWise joined the game
+[00:07:01] [Server thread/INFO]: [Not Secure] <SamWise> dar toh lagta ganda waala
+[00:07:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> ha na
+[00:07:15] [Server thread/INFO]: [Not Secure] <SamWise> player placed spawners dont spawn
+[00:07:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> sachme?
+[00:07:39] [Server thread/INFO]: [Not Secure] <SamWise> so once u break and place again, the wont spawn
+[00:07:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> thank God
+[00:08:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> aight give diamonds lets go at once
+[00:08:21] [Server thread/INFO]: [Not Secure] <SamWise> how many
+[00:08:45] [Server thread/INFO]: [Not Secure] <SamWise> u have 15
+[00:08:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> where
+[00:08:56] [Server thread/INFO]: [Not Secure] <SamWise> calculate and tell
+[00:09:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have 4
+[00:09:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> need to replicate template 2 baar
+[00:10:16] [Server thread/INFO]: [Not Secure] <SamWise> arre mat na
+[00:10:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> mb
+[00:10:26] [Server thread/INFO]: [Not Secure] <SamWise> sabh jagah chicks ghhomta rehta fir
+[00:14:27] [Server thread/INFO]: shikamaru2o has completed the challenge [Cover Me in Debris]
+[00:17:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> alright lets go
+[00:18:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> chale?
+[00:19:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> what did u enchant your shield with
+[00:19:15] [Server thread/INFO]: [Not Secure] <SamWise> unbreaking 3
+[00:19:26] [Server thread/INFO]: [Not Secure] <SamWise> lets go
+[00:20:19] [Server thread/INFO]: [Not Secure] <SamWise> chal
+[00:21:21] [Server thread/INFO]: [Not Secure] <SamWise> shit wait
+[00:21:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> what
+[00:21:55] [Server thread/INFO]: [Not Secure] <SamWise> did u carry ominous potion
+[00:22:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh no
+[00:22:11] [Server thread/INFO]: [Not Secure] <SamWise> wait im getting
+[00:22:17] [Server thread/INFO]: [Not Secure] <SamWise> and im also getting blocks
+[00:22:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have 2 stack netherack
+[00:22:59] [Server thread/INFO]: [Not Secure] <SamWise> also while looking for diamonds i found another chamber
+[00:23:09] [Server thread/INFO]: [Not Secure] <SamWise> near ur 3rd ancient city
+[00:24:08] [Server thread/INFO]: [Not Secure] <SamWise> come
+[00:25:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> what
+[00:27:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> mkcc
+[00:28:22] [Server thread/INFO]: shikamaru2o has made the advancement [Minecraft: Trial(s) Edition]
+[00:28:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> wait
+[00:28:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> let me heal
+[00:28:44] [Server thread/INFO]: [Not Secure] <SamWise> mark it
+[00:28:58] [Server thread/INFO]: [Not Secure] <SamWise> shit cave spawner
+[00:29:01] [Server thread/INFO]: [Not Secure] <SamWise> cave spider
+[00:29:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> KONSA OMIBNOUS POTION LIYA?
+[00:29:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> i II AUR III?
+[00:29:56] [Server thread/INFO]: [Not Secure] <SamWise> 2
+[00:30:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> OKAY
+[00:30:01] [Server thread/INFO]: [Not Secure] <SamWise> it doesnt matter
+[00:30:26] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[00:30:26] [Server thread/INFO]: shikamaru2o left the game
+[00:30:39] [Server thread/INFO]: shikamaru2o[/127.158.179.126:42199] logged in with entity id 24619 at (-312.49029629804755, -19.0, 310.50706107332906)
+[00:30:39] [Server thread/INFO]: shikamaru2o joined the game
+[00:32:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> break vases
+[00:32:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> key mila?
+[00:33:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> uopar
+[00:36:16] [Server thread/INFO]: [Not Secure] <SamWise> come here down
+[00:37:17] [Server thread/INFO]: [Not Secure] <SamWise> come up
+[00:37:20] [Server thread/INFO]: [Not Secure] <SamWise> i have 4 keys
+[00:38:51] [Server thread/INFO]: SamWise has reached the goal [Revaulting]
+[00:39:08] [Server thread/INFO]: [Not Secure] <SamWise> try
+[00:39:12] [Server thread/INFO]: [Not Secure] <SamWise> i got a gapple
+[00:39:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> give
+[00:39:19] [Server thread/INFO]: [Not Secure] <SamWise> i gave
+[00:39:32] [Server thread/INFO]: [Not Secure] <SamWise> it doesnt work on those
+[00:39:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> then
+[00:39:43] [Server thread/INFO]: shikamaru2o has reached the goal [Revaulting]
+[00:39:43] [Server thread/INFO]: [Not Secure] <SamWise> only ominous vaults like this one
+[00:39:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruh
+[00:40:01] [Server thread/INFO]: [Not Secure] <SamWise> come lets go
+[00:40:04] [Server thread/INFO]: [Not Secure] <SamWise> that armor trim tho
+[00:40:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> flow armour trim and a block of emerald
+[00:40:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> toh yeh bandh ho gaya na
+[00:40:19] [Server thread/INFO]: [Not Secure] <SamWise> there one more here
+[00:41:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> bro
+[00:41:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> got block of diamond
+[00:41:23] [Server thread/INFO]: [Not Secure] <SamWise> kya mila?
+[00:41:26] [Server thread/INFO]: [Not Secure] <SamWise> damn
+[00:41:27] [Server thread/INFO]: [Not Secure] <SamWise> lmao
+[00:41:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> again wind charge
+[00:41:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> how fuin
+[00:42:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> sun na
+[00:42:12] [Server thread/INFO]: [Not Secure] <SamWise> bol
+[00:42:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> how do i use only the arrow of poison i got
+[00:42:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> i dont wanna use the normal ones
+[00:42:43] [Server thread/INFO]: [Not Secure] <SamWise> throw the normal ones ig
+[00:42:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> should i throw them?
+[00:42:48] [Server thread/INFO]: [Not Secure] <SamWise> i think se
+[00:43:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> and flame plus poison hoga kya
+[00:44:17] [Server thread/INFO]: shikamaru2o was doomed to fall
+[00:45:24] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[00:46:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> do u have my helmet
+[00:47:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> bro
+[00:47:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> wait
+[00:47:53] [Server thread/INFO]: [Not Secure] <SamWise> no
+[00:48:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> kitna key mila
+[00:48:17] [Server thread/INFO]: [Not Secure] <SamWise> none
+[00:48:30] [Server thread/INFO]: [Not Secure] <SamWise> but there is a vault here
+[00:48:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> wow
+[00:48:43] [Server thread/INFO]: [Not Secure] <SamWise> we will come back
+[00:49:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh
+[00:49:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> there an ominous potion here
+[00:50:42] [Server thread/INFO]: [Not Secure] <SamWise> ok come here
+[00:51:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> lagging
+[00:51:41] [Server thread/INFO]: [Not Secure] <SamWise> here'
+[00:54:23] [Server thread/INFO]: [Not Secure] <SamWise> come
+[00:54:26] [Server thread/INFO]: [Not Secure] <SamWise> got a key
+[00:54:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice
+[00:54:40] [Server thread/INFO]: [Not Secure] <SamWise> lets finsih the vault in blaze spawner area
+[00:54:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> okay
+[00:54:46] [Server thread/INFO]: [Not Secure] <SamWise> that place annoying
+[00:54:49] [Server thread/INFO]: [Not Secure] <SamWise> breeze spawner
+[00:54:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> ugh
+[00:55:53] [Server thread/INFO]: [Not Secure] <SamWise> look behin
+[00:56:11] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[00:56:11] [Server thread/INFO]: shikamaru2o left the game
+[00:56:14] [Server thread/INFO]: shikamaru2o[/127.158.179.126:42847] logged in with entity id 29576 at (-294.2942626496333, -9.0, 310.94110166458483)
+[00:56:14] [Server thread/INFO]: shikamaru2o joined the game
+[00:56:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya mila
+[00:56:48] [Server thread/INFO]: [Not Secure] <SamWise> 2 diamonds and density
+[00:56:52] [Server thread/INFO]: [Not Secure] <SamWise> u?
+[00:57:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> piercing 2 crossbow and wincharge
+[00:57:32] [Server thread/INFO]: [Not Secure] <SamWise> chuck it lets go
+[00:57:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> ho gaya?
+[00:58:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> u hear mobs?
+[00:58:48] [Server thread/INFO]: [Not Secure] <SamWise> yea
+[00:59:41] [Server thread/INFO]: [Not Secure] <SamWise> what is that
+[00:59:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> what
+[00:59:53] [Server thread/INFO]: [Not Secure] <SamWise> chod
+[00:59:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> bruhhh
+[01:00:20] [Server thread/INFO]: [Not Secure] <SamWise> nothing here
+[01:00:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> bro
+[01:00:36] [Server thread/INFO]: [Not Secure] <SamWise> what
+[01:00:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> could there be stonghold here
+[01:00:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> or a spawner
+[01:00:52] [Server thread/INFO]: [Not Secure] <SamWise> nah i think it nturall generated
+[01:00:59] [Server thread/INFO]: [Not Secure] <SamWise> look on other side
+[01:01:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> hmmm
+[01:01:07] [Server thread/INFO]: [Not Secure] <SamWise> yea see
+[01:01:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> yeah
+[01:01:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> bro i got a key
+[01:01:56] [Server thread/INFO]: [Not Secure] <SamWise> which one
+[01:02:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> a basic key not a normal
+[01:02:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> i mean not an ominous
+[01:02:28] [Server thread/INFO]: [Not Secure] <SamWise> oh see here
+[01:02:36] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[01:02:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> n iceeee
+[01:02:59] [Server thread/INFO]: [Not Secure] <SamWise> try
+[01:03:09] [Server thread/INFO]: [Not Secure] <SamWise> only ominous
+[01:03:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh\
+[01:03:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have a basic one
+[01:03:30] [Server thread/INFO]: [Not Secure] <SamWise> come basic open this one
+[01:03:39] [Server thread/INFO]: [Not Secure] <SamWise> wait
+[01:03:41] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[01:04:04] [Server thread/INFO]: [Not Secure] <SamWise> comehere joel
+[01:04:24] [Server thread/INFO]: [Not Secure] <SamWise> my ominous potion ran out u have that one
+[01:04:26] [Server thread/INFO]: [Not Secure] <SamWise> drink it
+[01:04:35] [Server thread/INFO]: [Not Secure] <SamWise> isliye u got basic key
+[01:04:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> i lost it when i died
+[01:04:46] [Server thread/INFO]: [Not Secure] <SamWise> shit
+[01:04:56] [Server thread/INFO]: [Not Secure] <SamWise> we wont get ominous keys
+[01:05:01] [Server thread/INFO]: [Not Secure] <SamWise> we will get normal ones
+[01:05:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> ughhhh
+[01:05:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> leke aau?
+[01:06:08] [Server thread/INFO]: [Not Secure] <SamWise> come lets go
+[01:06:20] [Server thread/INFO]: [Not Secure] <SamWise> without onminous potions its not worth it
+[01:06:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> woh snowy area baaki
+[01:06:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> okay
+[01:06:32] [Server thread/INFO]: [Not Secure] <SamWise> just locate omous vaults
+[01:06:35] [Server thread/INFO]: [Not Secure] <SamWise> i see 2
+[01:06:40] [Server thread/INFO]: [Not Secure] <SamWise> one at that bed area
+[01:06:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk4
+[01:07:03] [Server thread/INFO]: [Not Secure] <SamWise> and one over here
+[01:07:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> toh yeh key use kar sakta hu?
+[01:07:30] [Server thread/INFO]: [Not Secure] <SamWise> try on this basic one
+[01:07:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> mila hai toh
+[01:07:40] [Server thread/INFO]: shikamaru2o has made the advancement [Under Lock and Key]
+[01:08:22] [Server thread/INFO]: [Not Secure] <SamWise> lets go
+[01:14:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> aa gaye
+[01:17:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> wanna go again after 5 mins?
+[01:17:44] [Server thread/INFO]: [Not Secure] <SamWise> no re im tired
+[01:17:52] [Server thread/INFO]: [Not Secure] <SamWise> kuch khas mila bhi nahi
+[01:18:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> hmm
+[01:18:13] [Server thread/INFO]: [Not Secure] <SamWise> one gapple
+[01:18:18] [Server thread/INFO]: [Not Secure] <SamWise> and one flow armor trim
+[01:18:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> kal jaate phir?
+[01:18:24] [Server thread/INFO]: [Not Secure] <SamWise> ok
+[01:18:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike gn
+[01:19:14] [Server thread/INFO]: SamWise lost connection: Disconnected
+[01:19:14] [Server thread/INFO]: SamWise left the game
+[01:41:33] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:41:33] [Server thread/INFO]: shikamaru2o left the game
+[01:42:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
