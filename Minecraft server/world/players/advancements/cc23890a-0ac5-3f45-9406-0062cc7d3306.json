@@ -15,6 +15,7 @@
       "minecraft:river": "2026-04-15 11:46:34 +0530",
       "minecraft:snowy_plains": "2026-04-15 20:16:48 +0530",
       "minecraft:stony_shore": "2026-04-24 15:10:24 +0530",
+      "minecraft:lush_caves": "2026-05-02 17:11:00 +0530",
       "minecraft:dripstone_caves": "2026-04-15 11:20:42 +0530",
       "minecraft:snowy_taiga": "2026-04-15 20:19:38 +0530",
       "minecraft:frozen_peaks": "2026-04-15 11:02:12 +0530",
@@ -755,6 +756,7 @@
       "minecraft:pillager": "2026-04-26 15:02:58 +0530",
       "minecraft:skeleton": "2026-04-15 11:34:31 +0530",
       "minecraft:phantom": "2026-04-29 18:56:35 +0530",
+      "minecraft:witch": "2026-05-02 16:25:57 +0530",
       "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
       "minecraft:ghast": "2026-04-21 12:36:56 +0530",
       "minecraft:hoglin": "2026-04-21 12:36:28 +0530",
@@ -3901,6 +3903,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2026-04-29 20:26:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-05-02 17:05:08 +0530"
     },
     "done": true
   },
