@@ -1,33 +1,49 @@
 {
   "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 4,
+      "minecraft:iron_golem": 2
+    },
     "minecraft:mined": {
+      "minecraft:wall_torch": 3,
       "minecraft:pink_petals": 3
     },
+    "minecraft:used": {
+      "minecraft:egg": 30,
+      "minecraft:cobblestone": 1
+    },
     "minecraft:custom": {
-      "minecraft:sprint_one_cm": 202,
+      "minecraft:time_since_rest": 283,
+      "minecraft:walk_one_cm": 300178,
+      "minecraft:leave_game": 4,
+      "minecraft:damage_taken": 1715,
+      "minecraft:damage_dealt": 125,
+      "minecraft:play_time": 44492,
+      "minecraft:jump": 248,
+      "minecraft:time_since_death": 260,
+      "minecraft:sprint_one_cm": 1233,
       "minecraft:open_chest": 1,
-      "minecraft:time_since_rest": 14473,
-      "minecraft:fall_one_cm": 2000,
-      "minecraft:walk_one_cm": 83525,
-      "minecraft:total_world_time": 14473,
-      "minecraft:leave_game": 2,
-      "minecraft:fly_one_cm": 74,
-      "minecraft:damage_taken": 143,
-      "minecraft:play_time": 14473,
-      "minecraft:jump": 95,
-      "minecraft:time_since_death": 14473
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 3375,
+      "minecraft:total_world_time": 44492,
+      "minecraft:fly_one_cm": 605,
+      "minecraft:walk_on_water_one_cm": 555,
+      "minecraft:sneak_time": 80,
+      "minecraft:climb_one_cm": 455,
+      "minecraft:deaths": 6
     },
     "minecraft:picked_up": {
-      "minecraft:egg": 16,
+      "minecraft:egg": 249,
+      "minecraft:tipped_arrow": 2,
       "minecraft:dirt": 16,
       "minecraft:cobblestone": 1,
-      "minecraft:snowball": 15,
-      "minecraft:stone_brick_slab": 1,
-      "minecraft:pink_petals": 8
-    },
-    "minecraft:used": {
-      "minecraft:egg": 1,
-      "minecraft:cobblestone": 1
+      "minecraft:breeze_rod": 2,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:snowball": 30,
+      "minecraft:torch": 2,
+      "minecraft:stone_brick_slab": 2,
+      "minecraft:iron_ingot": 4,
+      "minecraft:pink_petals": 16
     }
   },
   "DataVersion": 4790

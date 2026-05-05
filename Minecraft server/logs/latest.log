@@ -1,6 +1,6 @@
-[05:37:49] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
-[05:37:49] [ServerMain/ERROR]: Did not JNA classes. Investigate incompatible version or missing native dll.
-[05:37:49] [ServerMain/WARN]: Failed retrieving info for group processor
+[13:33:15] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[13:33:15] [ServerMain/ERROR]: Did not JNA classes. Investigate incompatible version or missing native dll.
+[13:33:15] [ServerMain/WARN]: Failed retrieving info for group processor
 java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
 	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35)
 	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253)
@@ -23,7 +23,7 @@ java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
 	at net.minecraft.server.Main.main(Main.java:101)
 	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
-Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.UnsatisfiedLinkError: /data/data/com.termux/files/home/.cache/JNA/temp/jna8020491288921330669.tmp: dlopen failed: library "libc.so.6" not found: needed by /data/data/com.termux/files/home/.cache/JNA/temp/jna8020491288921330669.tmp in namespace (default) [in thread "ServerMain"]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.UnsatisfiedLinkError: /data/data/com.termux/files/home/.cache/JNA/temp/jna351043816040149921.tmp: dlopen failed: library "libc.so.6" not found: needed by /data/data/com.termux/files/home/.cache/JNA/temp/jna351043816040149921.tmp in namespace (default) [in thread "ServerMain"]
 	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
 	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:321)
 	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:187)
@@ -37,7 +37,7 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.Unsatisfie
 	at com.sun.jna.platform.linux.Udev.<clinit>(Udev.java:37)
 	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:93)
 	... 17 more
-[05:37:49] [ServerMain/WARN]: Failed retrieving info for group memory
+[13:33:15] [ServerMain/WARN]: Failed retrieving info for group memory
 java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
 	at oshi.hardware.platform.linux.LinuxGlobalMemory.<clinit>(LinuxGlobalMemory.java:28)
 	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createMemory(LinuxHardwareAbstractionLayer.java:38)
@@ -69,139 +69,435 @@ Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDef
 	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
 	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
 	... 8 more
-[05:37:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[05:38:00] [ServerMain/INFO]: Loaded 1515 recipes
-[05:38:00] [ServerMain/INFO]: Loaded 1617 advancements
-[05:38:00] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[05:38:00] [Server thread/INFO]: Loading properties
-[05:38:00] [Server thread/INFO]: Default game type: SURVIVAL
-[05:38:00] [Server thread/INFO]: Generating keypair
-[05:38:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:38:01] [Server thread/WARN]: Failed to find a usable hardware address from the network interfaces; using random bytes: ce:33:4f:ac:dc:2d:44:5e
-[05:38:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:38:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:38:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:38:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:38:01] [Server thread/INFO]: Preparing level "world"
-[05:38:01] [Server thread/INFO]: Loading 0 persistent chunks...
-[05:38:01] [Server thread/INFO]: Preparing spawn area: 100%
-[05:38:01] [Server thread/INFO]: Time elapsed: 13 ms
-[05:38:01] [Server thread/INFO]: Done (0.844s)! For help, type "help"
-[05:38:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:38:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:38:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[05:38:06] [Server thread/INFO]: SamWise[/192.168.1.6:58775] logged in with entity id 272 at (-175.72087810178766, 106.0, 8.77745815381934)
-[05:38:06] [Server thread/INFO]: SamWise joined the game
-[05:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[05:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[05:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[05:46:03] [Server thread/INFO]: Villager Villager['Librarian'/173, l='ServerLevel[world]', x=-195.47, y=103.05, z=24.51] died, message: 'Librarian tried to swim in lava'
-[05:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[05:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11006ms or 220 ticks behind
-[05:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[05:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[05:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
-[05:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[05:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[05:59:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[06:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[06:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[06:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6803ms or 136 ticks behind
-[06:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[06:05:35] [Server thread/INFO]: SamWise lost connection: Disconnected
-[06:05:35] [Server thread/INFO]: SamWise left the game
-[06:05:37] [Server thread/INFO]: SamWise[/192.168.1.6:58804] logged in with entity id 6304 at (-190.48718550947189, 103.0, 24.740227990662067)
-[06:05:37] [Server thread/INFO]: SamWise joined the game
-[06:06:42] [Server thread/INFO]: Unknown or incomplete command. See below for error
-[06:06:42] [Server thread/INFO]: ti/time set night<--[HERE]
-[06:06:55] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
-[06:08:08] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[06:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[06:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
-[06:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[06:17:50] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[06:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
-[06:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
-[06:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
-[06:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
-[06:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9482ms or 189 ticks behind
-[06:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[06:27:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[06:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
-[06:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
-[06:45:26] [Server thread/WARN]: SamWise moved too quickly! -3.6707491910374017,1.7508129212553172,-9.172021925389444
-[06:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5591ms or 111 ticks behind
-[06:55:23] [Server thread/INFO]: MaerusenPhone[/127.132.30.102:33959] logged in with entity id 16049 at (-133.57329056342653, 98.0, 56.91228658396962)
-[06:55:23] [Server thread/INFO]: MaerusenPhone joined the game
-[06:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
-[06:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13612ms or 272 ticks behind
-[06:56:54] [Server thread/INFO]: SamWise lost connection: Disconnected
-[06:56:54] [Server thread/INFO]: SamWise left the game
-[06:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9788ms or 195 ticks behind
-[06:58:58] [Server thread/WARN]: MaerusenPhone moved too quickly! -9.987023806454005,-0.5,1.8120350837668937
-[06:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[07:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[07:00:58] [Server thread/INFO]: Copper[/127.119.176.128:43213] logged in with entity id 16950 at (-126.95259381684104, 110.0, 23.731080836061498)
-[07:00:58] [Server thread/INFO]: Copper joined the game
-[07:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5252ms or 105 ticks behind
-[07:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
-[07:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[07:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
-[07:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
-[07:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[07:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
-[07:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
-[07:03:39] [Server thread/INFO]: Copper lost connection: Disconnected
-[07:03:39] [Server thread/INFO]: Copper left the game
-[07:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4235ms or 84 ticks behind
-[07:03:59] [Server thread/INFO]: Copper[/127.119.176.128:52351] logged in with entity id 17430 at (-156.77464615622114, 99.0, 74.69999998807907)
-[07:03:59] [Server thread/INFO]: Copper joined the game
-[07:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
-[07:04:19] [Server thread/INFO]: Copper lost connection: Disconnected
-[07:04:19] [Server thread/INFO]: Copper left the game
-[07:04:46] [Server thread/INFO]: MaerusenPhone lost connection: Timed out
-[07:04:46] [Server thread/INFO]: MaerusenPhone left the game
-[07:05:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[07:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
-[07:32:22] [Server thread/INFO]: SamWise[/192.168.1.6:58895] logged in with entity id 17752 at (-175.65304904096274, 114.0, -1.1488331863151322)
-[07:32:22] [Server thread/INFO]: SamWise joined the game
-[07:34:42] [Server thread/INFO]: SamWise has completed the challenge [It Spreads]
-[07:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[07:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[07:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
-[07:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
-[07:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
-[07:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
-[07:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[07:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[07:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[07:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
-[07:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
-[07:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[07:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[07:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
-[07:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11510ms or 230 ticks behind
-[07:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[07:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[07:56:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
-[07:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
-[07:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
-[07:59:16] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: I/O error
-	at java.base/java.io.FileInputStream.readBytes(Native Method)
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:281)
-	at java.base/java.lang.System$In.read(System.java:1872)
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328)
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388)
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279)
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322)
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186)
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:183)
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166)
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333)
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400)
-	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:189)
+[13:33:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:33:25] [ServerMain/INFO]: Loaded 1515 recipes
+[13:33:25] [ServerMain/INFO]: Loaded 1617 advancements
+[13:33:26] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[13:33:26] [Server thread/INFO]: Loading properties
+[13:33:26] [Server thread/INFO]: Default game type: SURVIVAL
+[13:33:26] [Server thread/INFO]: Generating keypair
+[13:33:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:33:26] [Server thread/WARN]: Failed to find a usable hardware address from the network interfaces; using random bytes: 00:e0:38:1e:16:d4:ae:bd
+[13:33:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:33:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:33:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:33:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:33:26] [Server thread/INFO]: Preparing level "world"
+[13:33:27] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:33:27] [Server thread/INFO]: Preparing spawn area: 100%
+[13:33:27] [Server thread/INFO]: Time elapsed: 12 ms
+[13:33:27] [Server thread/INFO]: Done (0.571s)! For help, type "help"
+[13:33:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:33:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:33:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:33:36] [Server thread/INFO]: SamWise[/192.168.1.6:59096] logged in with entity id 42 at (-350.26788808400045, 5.0, 352.48125917287757)
+[13:33:36] [Server thread/INFO]: SamWise joined the game
+[13:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[13:34:02] [Server thread/INFO]: Copper[/127.33.30.54:42773] logged in with entity id 680 at (-134.51546088663372, 154.7531999805212, 72.66988162677627)
+[13:34:02] [Server thread/INFO]: Copper joined the game
+[13:34:06] [Server thread/INFO]: shikamaru2o[/127.21.209.24:40431] logged in with entity id 851 at (-350.3231477693452, 10.0, 330.30000001192093)
+[13:34:06] [Server thread/INFO]: shikamaru2o joined the game
+[13:34:17] [Server thread/INFO]: [Not Secure] <SamWise> chekc u have the heavy core na
+[13:34:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> yesss
+[13:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
+[13:34:22] [Server thread/INFO]: [Not Secure] <SamWise> come
+[13:34:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> take
+[13:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[13:35:06] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[13:35:06] [Server thread/INFO]: shikamaru2o left the game
+[13:35:18] [Server thread/INFO]: shikamaru2o[/127.21.209.24:57687] logged in with entity id 1203 at (-345.99753591577564, -7.0, 326.27174552460644)
+[13:35:18] [Server thread/INFO]: shikamaru2o joined the game
+[13:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[13:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
+[13:36:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6320ms or 126 ticks behind
+[13:37:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep take one key
+[13:37:31] [Server thread/INFO]: [Not Secure] <SamWise> try here
+[13:37:36] [Server thread/INFO]: [Not Secure] <SamWise> i dont need any more
+[13:37:40] [Server thread/INFO]: [Not Secure] <SamWise> come
+[13:37:42] [Server thread/INFO]: Copper was burned to a crisp while fighting Zombie
+[13:37:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> where
+[13:37:54] [Server thread/INFO]: [Not Secure] <SamWise> oh please one more heavy core minecraft gods
+[13:37:56] [Server thread/INFO]: [Not Secure] <SamWise> try here
+[13:38:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> one more
+[13:38:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> u try
+[13:38:32] [Server thread/INFO]: [Not Secure] <SamWise> i did already
+[13:38:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> koi aur vault nhi hai kya
+[13:38:53] [Server thread/INFO]: [Not Secure] <SamWise> soch rha hun
+[13:39:00] [Server thread/INFO]: [Not Secure] <SamWise> u did this one
+[13:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13:39:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> aur koi vault nhi kya
+[13:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7273ms or 145 ticks behind
+[13:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6192ms or 123 ticks behind
+[13:40:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> ugh sad
+[13:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[13:40:10] [Server thread/INFO]: [Not Secure] <SamWise> chuck it
+[13:40:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> lets go home
+[13:40:16] [Server thread/INFO]: [Not Secure] <SamWise> time to find another chamber
+[13:40:19] [Server thread/INFO]: [Not Secure] <SamWise> or uk
+[13:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[13:40:30] [Server thread/INFO]: [Not Secure] <SamWise> i could login from some other guy account and see
+[13:40:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> yeah
+[13:40:43] [Server thread/INFO]: [Not Secure] <SamWise> like farm ominous key and try fromjoashs account
+[13:40:48] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[13:40:48] [Server thread/INFO]: shikamaru2o left the game
+[13:40:49] [Server thread/INFO]: [Not Secure] <SamWise> but thats too much kasht
+[13:41:35] [Server thread/INFO]: shikamaru2o[/127.21.209.24:33625] logged in with entity id 3896 at (-353.20045137264685, -8.0, 317.1215001411796)
+[13:41:35] [Server thread/INFO]: shikamaru2o joined the game
+[13:41:51] [Server thread/INFO]: [Not Secure] <SamWise> but thats too much kasht
+[13:42:00] [Server thread/INFO]: [Not Secure] <SamWise> let it be wil get mace some other time
+[13:42:08] [Server thread/INFO]: [Not Secure] <SamWise> i dont like it much anyways
+[13:42:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> ladders hai?
+[13:43:35] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[13:43:35] [Server thread/INFO]: shikamaru2o left the game
+[13:43:54] [Server thread/INFO]: shikamaru2o[/127.21.209.24:50375] logged in with entity id 4560 at (-310.0290968953927, 69.0, 320.1509702822459)
+[13:43:54] [Server thread/INFO]: shikamaru2o joined the game
+[13:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13:44:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> comee
+[13:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5480ms or 109 ticks behind
+[13:44:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> yo
+[13:44:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> wwhat
+[13:44:31] [Server thread/INFO]: [Not Secure] <SamWise> what
+[13:44:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> yeh kaise aaya
+[13:44:45] [Server thread/INFO]: [Not Secure] <SamWise> i made him
+[13:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10949ms or 218 ticks behind
+[13:44:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh fk
+[13:45:05] [Server thread/INFO]: [Not Secure] <SamWise> two gapple
+[13:45:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> mb
+[13:45:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[13:45:09] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[13:45:09] [Server thread/INFO]: shikamaru2o left the game
+[13:45:10] [Server thread/INFO]: [Not Secure] <SamWise> 3 armor trims
+[13:45:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
+[13:45:29] [Server thread/INFO]: shikamaru2o[/127.21.209.24:53991] logged in with entity id 5044 at (-301.28738923832697, 103.0, 296.16316291911926)
+[13:45:29] [Server thread/INFO]: shikamaru2o joined the game
+[13:45:34] [Server thread/INFO]: [Not Secure] <SamWise> 2 gapples
+[13:45:39] [Server thread/INFO]: [Not Secure] <SamWise> 3 armor trims
+[13:45:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> i thought he tpd from nether
+[13:45:43] [Server thread/INFO]: [Not Secure] <SamWise> 17 diamonds
+[13:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4012ms or 80 ticks behind
+[13:45:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice
+[13:45:50] [Server thread/INFO]: [Not Secure] <SamWise> potions of strengths
+[13:46:01] [Server thread/INFO]: [Not Secure] <SamWise> i wanted the rare disc
+[13:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4229ms or 84 ticks behind
+[13:46:05] [Server thread/INFO]: [Not Secure] <SamWise> ominous trial ka
+[13:46:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
+[13:46:11] [Server thread/INFO]: [Not Secure] <SamWise> mace is like whatever
+[13:46:18] [Server thread/INFO]: [Not Secure] <SamWise> for me
+[13:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[13:46:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> acha
+[13:46:31] [Server thread/INFO]: [Not Secure] <SamWise> nahi its a good weapon
+[13:46:34] [Server thread/INFO]: [Not Secure] <SamWise> but hard to use
+[13:46:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> true
+[13:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[13:47:12] [Server thread/INFO]: [Not Secure] <SamWise> btw just saying
+[13:47:24] [Server thread/INFO]: [Not Secure] <SamWise> the catalysts use xp from mob deaths
+[13:47:32] [Server thread/INFO]: [Not Secure] <SamWise> sculk to grow
+[13:47:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep
+[13:47:41] [Server thread/INFO]: [Not Secure] <SamWise> and it can spawn a shrieker to
+[13:47:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> u sure u can enter village with ominous?
+[13:47:51] [Server thread/INFO]: [Not Secure] <SamWise> so if its naturally generated....
+[13:47:55] [Server thread/INFO]: [Not Secure] <SamWise> ya
+[13:48:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> u saying a warden can come???
+[13:48:15] [Server thread/INFO]: [Not Secure] <SamWise> so once i go in trial chamber ominous becomes trial omen
+[13:48:22] [Server thread/INFO]: [Not Secure] <SamWise> if u feed xp to catalyst
+[13:48:29] [Server thread/INFO]: [Not Secure] <SamWise> using bottle o enchanting
+[13:48:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> shit
+[13:48:34] [Server thread/INFO]: [Not Secure] <SamWise> or nearby mob deaths
+[13:48:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep
+[13:48:49] [Server thread/INFO]: [Not Secure] <SamWise> for example i came to ur house for some netherack
+[13:48:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have a gift
+[13:48:58] [Server thread/INFO]: [Not Secure] <SamWise> what
+[13:49:07] [Server thread/INFO]: [Not Secure] <SamWise> bruh
+[13:49:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> i actually got 2 heavy cores
+[13:49:15] [Server thread/INFO]: [Not Secure] <SamWise> no wayy
+[13:49:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> my best friend its for u
+[13:49:25] [Server thread/INFO]: [Not Secure] <SamWise> u kidding
+[13:49:28] [Server thread/INFO]: [Not Secure] <SamWise> show me urs
+[13:49:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> hell nah
+[13:49:37] [Server thread/INFO]: [Not Secure] <SamWise> wtfff
+[13:49:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> yesssirrrrr
+[13:49:48] [Server thread/INFO]: [Not Secure] <SamWise> mace is the best weaon
+[13:49:51] [Server thread/INFO]: [Not Secure] <SamWise> gjnaers;ghenqvpightuevwinpute
+[13:49:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> ikrrrrr
+[13:49:54] [Server thread/INFO]: [Not Secure] <SamWise> eraklgjthvijkhiuhabelwgikuh
+[13:49:56] [Server thread/INFO]: [Not Secure] <SamWise> awlkialnvweifuhvnalweiufghnvap
+[13:50:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> ahahhaa
+[13:50:07] [Server thread/INFO]: [Not Secure] <SamWise> bro uk how rare this is
+[13:50:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> suspense acha laga??
+[13:50:17] [Server thread/INFO]: [Not Secure] <SamWise> i was like just maybe if he gets two cores it would be insane
+[13:50:21] [Server thread/INFO]: [Not Secure] <SamWise> bc gaand phat gayi
+[13:50:53] [Server thread/INFO]: [Not Secure] <SamWise> so here na iu came for some netherack
+[13:50:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> u happy?
+[13:50:58] [Server thread/INFO]: [Not Secure] <SamWise> utne mein creeper ghusa
+[13:51:05] [Server thread/INFO]: [Not Secure] <SamWise> i killed him and the sculk spread
+[13:51:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> ikk
+[13:51:25] [Server thread/INFO]: [Not Secure] <SamWise> bro i dont believe this
+[13:51:40] [Server thread/INFO]: [Not Secure] <SamWise> ime to one shot ender dragon
+[13:51:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> and warden too
+[13:52:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> lets try it on arya
+[13:52:14] [Server thread/INFO]: [Not Secure] <SamWise> wait im enchanting it
+[13:52:17] [Server thread/INFO]: Copper lost connection: Disconnected
+[13:52:17] [Server thread/INFO]: Copper left the game
+[13:52:40] [Server thread/INFO]: [Not Secure] <SamWise> im legit in disbelief still
+[13:52:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have breach 3
+[13:52:55] [Server thread/INFO]: [Not Secure] <SamWise> theres no wauy u got two heavy cores from the same
+[13:53:01] [Server thread/INFO]: [Not Secure] <SamWise> uk that like
+[13:53:05] [Server thread/INFO]: [Not Secure] <SamWise> 2 percent ish
+[13:53:11] [Server thread/INFO]: [Not Secure] <SamWise> what u get?
+[13:53:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> ikr
+[13:53:13] [Server thread/INFO]: MaerusenPhone[/127.245.98.72:59545] logged in with entity id 6510 at (-148.3462661792384, 129.0, 117.48151788364015)
+[13:53:13] [Server thread/INFO]: MaerusenPhone joined the game
+[13:53:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> mujhe bhi unbreaking dena ek
+[13:53:49] [Server thread/INFO]: MaerusenPhone was slain by shikamaru2o
+[13:53:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> yoooo w damage
+[13:54:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> mb ashu we got the strongest weapon so wanted to try it
+[13:54:47] [Server thread/INFO]: [Not Secure] <SamWise> yea this good too
+[13:54:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> unbreaking hai?
+[13:54:52] [Server thread/INFO]: [Not Secure] <SamWise> i also got this disc
+[13:55:32] [Server thread/INFO]: [Not Secure] <SamWise> here
+[13:56:23] [Server thread/INFO]: [Not Secure] <SamWise> arre
+[13:56:42] [Server thread/INFO]: [Not Secure] <SamWise> damn this rock riff was good
+[13:56:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> wohi na
+[13:58:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> wind burst yeh sab kaha se milega?
+[13:58:53] [Server thread/INFO]: [Not Secure] <SamWise> more trial chambers
+[13:59:00] [Server thread/INFO]: [Not Secure] <SamWise> its like swift sneak
+[13:59:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
+[13:59:50] [Server thread/INFO]: [Not Secure] <SamWise> ashu
+[13:59:54] [Server thread/INFO]: [Not Secure] <SamWise> do u wish to die
+[13:59:57] [Server thread/INFO]: [Not Secure] <SamWise> look up
+[14:00:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> gooo
+[14:00:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> do it
+[14:00:19] [Server thread/INFO]: [Not Secure] <SamWise> idk wanna bully our creative friend
+[14:00:23] [Server thread/INFO]: MaerusenPhone was smashed by SamWise
+[14:00:32] [Server thread/INFO]: [Not Secure] <SamWise> SMAAAASHHH
+[14:00:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> damnnn
+[14:00:45] [Server thread/INFO]: MaerusenPhone has made the advancement [Sweet Dreams]
+[14:00:50] [Server thread/INFO]: [Not Secure] <SamWise> i gotta say that is satisfying
+[14:00:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> haina
+[14:01:12] [Server thread/INFO]: Copper[/127.33.30.54:34519] logged in with entity id 8208 at (-175.21347883020985, 109.0, 53.153081573897886)
+[14:01:12] [Server thread/INFO]: Copper joined the game
+[14:01:18] [Server thread/INFO]: [Not Secure] <Copper> yo
+[14:01:25] [Server thread/INFO]: [Not Secure] <MaerusenPhone> yo
+[14:01:37] [Server thread/INFO]: [Not Secure] <Copper> wo dekh
+[14:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[14:02:54] [Server thread/INFO]: [Not Secure] <MaerusenPhone> haha wow
+[14:03:07] [Server thread/INFO]: [Not Secure] <Copper> but cannot close it
+[14:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6030ms or 120 ticks behind
+[14:03:19] [Server thread/INFO]: [Not Secure] <MaerusenPhone> ye tune banaua
+[14:03:25] [Server thread/INFO]: [Not Secure] <Copper> ha upar ka
+[14:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[14:03:43] [Server thread/INFO]: [Not Secure] <MaerusenPhone> wow bhai
+[14:04:24] [Server thread/INFO]: [Not Secure] <MaerusenPhone> idhr Tera Ghar hoga kya
+[14:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:04:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6786ms or 135 ticks behind
+[14:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4561ms or 91 ticks behind
+[14:05:11] [Server thread/INFO]: [Not Secure] <MaerusenPhone> is it stuck
+[14:05:48] [Server thread/INFO]: [Not Secure] <Copper> bana sakta hu
+[14:05:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> ek smite chahiye bas
+[14:05:57] [Server thread/INFO]: [Not Secure] <Copper> but mai ghar nhi banata
+[14:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[14:06:09] [Server thread/INFO]: [Not Secure] <Copper> mai idhar udhar ghumta rehta hu
+[14:06:14] [Server thread/INFO]: [Not Secure] <MaerusenPhone> ye Sharad Joel ne banana tha
+[14:06:14] [Server thread/WARN]: shikamaru2o moved too quickly! 1.517439397380798,0.2468000194787976,10.308065046049308
+[14:06:14] [Server thread/WARN]: shikamaru2o moved too quickly! 1.5023789273707564,0.2468000194787976,9.9000571102589
+[14:06:23] [Server thread/INFO]: [Not Secure] <MaerusenPhone> shayad
+[14:06:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> i did
+[14:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23901ms or 478 ticks behind
+[14:06:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> below are many mobs inside
+[14:06:53] [Server thread/INFO]: [Not Secure] <Copper> bc
+[14:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6023ms or 120 ticks behind
+[14:07:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> kitna dmg hua
+[14:07:14] [Server thread/INFO]: [Not Secure] <MaerusenPhone> I'm stuck
+[14:07:19] [Server thread/INFO]: [Not Secure] <Copper> half gaya health
+[14:07:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5470ms or 109 ticks behind
+[14:07:29] [Server thread/INFO]: [Not Secure] <Copper> bc kidhar se mila
+[14:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5277ms or 105 ticks behind
+[14:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5569ms or 111 ticks behind
+[14:08:09] [Server thread/INFO]: [Not Secure] <Copper> thanks
+[14:08:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> ashu give those
+[14:08:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> to arya
+[14:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5069ms or 101 ticks behind
+[14:08:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> give that
+[14:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
+[14:08:54] [Server thread/INFO]: MaerusenPhone was burned to a crisp while fighting shikamaru2o
+[14:09:08] [Server thread/INFO]: [Not Secure] <MaerusenPhone> haha
+[14:09:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> rakhle
+[14:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14:09:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> some spoils from trial chamber
+[14:09:42] [Server thread/INFO]: MaerusenPhone was slain by Iron Golem
+[14:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[14:10:06] [Server thread/INFO]: SamWise lost connection: Disconnected
+[14:10:06] [Server thread/INFO]: SamWise left the game
+[14:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[14:11:50] [Server thread/INFO]: MaerusenPhone has made the advancement [Acquire Hardware]
+[14:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4444ms or 88 ticks behind
+[14:12:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[14:12:20] [Server thread/INFO]: [Not Secure] <Copper> why chickens are out
+[14:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[14:12:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> sone ja
+[14:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5442ms or 108 ticks behind
+[14:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8538ms or 170 ticks behind
+[14:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9297ms or 185 ticks behind
+[14:13:56] [Server thread/INFO]: [Not Secure] <MaerusenPhone> wow bhai shika
+[14:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7138ms or 142 ticks behind
+[14:14:09] [Server thread/INFO]: [Not Secure] <MaerusenPhone> nice upgrade beside s house
+[14:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7010ms or 140 ticks behind
+[14:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6871ms or 137 ticks behind
+[14:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7350ms or 147 ticks behind
+[14:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8064ms or 161 ticks behind
+[14:15:48] [Server thread/INFO]: [Not Secure] <MaerusenPhone> o baobab there a cave system below it
+[14:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6286ms or 125 ticks behind
+[14:16:00] [Server thread/INFO]: [Not Secure] <Copper> what'
+[14:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[14:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6110ms or 122 ticks behind
+[14:16:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> damn
+[14:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
+[14:17:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> so this is wgere he mines for diamonds
+[14:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6032ms or 120 ticks behind
+[14:17:27] [Server thread/INFO]: [Not Secure] <Copper> wtf
+[14:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7469ms or 149 ticks behind
+[14:17:47] [Server thread/INFO]: [Not Secure] <Copper> this nigga
+[14:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7066ms or 141 ticks behind
+[14:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9278ms or 185 ticks behind
+[14:18:41] [Server thread/INFO]: MaerusenPhone was slain by Copper
+[14:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7354ms or 147 ticks behind
+[14:18:50] [Server thread/INFO]: [Not Secure] <Copper> sorry
+[14:19:04] [Server thread/INFO]: [Not Secure] <MaerusenPhone> haha
+[14:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6574ms or 131 ticks behind
+[14:19:10] [Server thread/INFO]: [Not Secure] <MaerusenPhone> haha
+[14:19:15] [Server thread/INFO]: SamWise[/192.168.1.6:59161] logged in with entity id 11815 at (-175.19637700348395, 109.0, -0.5631393840219668)
+[14:19:15] [Server thread/INFO]: SamWise joined the game
+[14:19:16] [Server thread/INFO]: MaerusenPhone lost connection: Timed out
+[14:19:16] [Server thread/INFO]: MaerusenPhone left the game
+[14:19:22] [Server thread/INFO]: [Not Secure] <SamWise> joel
+[14:19:27] [Server thread/INFO]: [Not Secure] <Copper> sameep
+[14:19:28] [Server thread/INFO]: [Not Secure] <SamWise> what density u got on ur mace
+[14:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8686ms or 173 ticks behind
+[14:19:35] [Server thread/INFO]: MaerusenPhone[/127.245.98.72:57893] logged in with entity id 11912 at (-149.5, 98.0, 48.5)
+[14:19:35] [Server thread/INFO]: MaerusenPhone joined the game
+[14:19:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> none
+[14:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
+[14:19:51] [Server thread/INFO]: [Not Secure] <SamWise> bruh ok
+[14:20:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> u?
+[14:20:07] [Server thread/INFO]: [Not Secure] <SamWise> density 4
+[14:20:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> how?
+[14:20:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> table se?
+[14:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[14:20:32] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:20:32] [Server thread/INFO]: hello<--[HERE]
+[14:20:44] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:20:44] [Server thread/INFO]: t hello<--[HERE]
+[14:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9850ms or 197 ticks behind
+[14:20:50] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:20:50] [Server thread/INFO]: hello<--[HERE]
+[14:20:59] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:20:59] [Server thread/INFO]: hello<--[HERE]
+[14:21:07] [Server thread/WARN]: MaerusenPhone moved too quickly! -4.990020623707636,4.5,-7.643604153184043
+[14:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5736ms or 114 ticks behind
+[14:21:11] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:21:11] [Server thread/INFO]: thello<--[HERE]
+[14:21:21] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[14:21:21] [Server thread/INFO]: this is god<--[HERE]
+[14:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[14:21:28] [Server thread/INFO]: SamWise lost connection: Disconnected
+[14:21:28] [Server thread/INFO]: SamWise left the game
+[14:21:45] [Server thread/WARN]: MaerusenPhone moved too quickly! 0.2408412925383061,2.0,-9.9901929106315
+[14:21:45] [Server thread/WARN]: shikamaru2o moved too quickly! -3.077746452511917,-1.0554624345250474,9.581240800064087
+[14:22:05] [Server thread/WARN]: Copper moved too quickly! -9.979020465668185,-1.0,0.5561352417180636
+[14:22:05] [Server thread/WARN]: shikamaru2o moved too quickly! 3.357109460350415,9.32161442581684,-1.5344342652693719
+[14:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27649ms or 552 ticks behind
+[14:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7883ms or 157 ticks behind
+[14:22:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> arya kidhar hai?
+[14:22:48] [Server thread/INFO]: [Not Secure] <Copper> bahar aa gaya'=
+[14:22:53] [Server thread/INFO]: [Not Secure] <Copper> kaafi confusinghai
+[14:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6421ms or 128 ticks behind
+[14:23:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> come to me
+[14:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5377ms or 107 ticks behind
+[14:23:20] [Server thread/INFO]: MaerusenPhone was slain by Iron Golem
+[14:23:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> aa sakta hai?
+[14:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
+[14:25:47] [Server Watchdog/ERROR]: A single server tick took 128.03 seconds (should be max 0.05)
+[14:25:47] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[14:25:48] [Server Watchdog/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174)
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59)
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48)
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:100)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.server.dedicated.ServerWatchdog.createWatchdogCrashReport(ServerWatchdog.java:89)
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:47)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native [in thread "ServerMain"]
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35)
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253)
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48)
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174)
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59)
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48)
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:100)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	... 1 more
+[14:25:48] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[14:25:48] [Server thread/INFO]: shikamaru2o left the game
+[14:25:48] [Server thread/INFO]: Copper lost connection: Timed out
+[14:25:48] [Server thread/INFO]: Copper left the game
+[14:25:48] [Server Watchdog/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class oshi.hardware.platform.linux.LinuxGlobalMemory
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createMemory(LinuxHardwareAbstractionLayer.java:38)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60)
+	at net.minecraft.SystemReport.lambda$putHardware$2(SystemReport.java:102)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:102)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.server.dedicated.ServerWatchdog.createWatchdogCrashReport(ServerWatchdog.java:89)
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:47)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem [in thread "ServerMain"]
+	at oshi.hardware.platform.linux.LinuxGlobalMemory.<clinit>(LinuxGlobalMemory.java:28)
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createMemory(LinuxHardwareAbstractionLayer.java:38)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60)
+	at net.minecraft.SystemReport.lambda$putHardware$2(SystemReport.java:102)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:102)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	... 1 more
+[14:25:48] [Server thread/INFO]: MaerusenPhone lost connection: Timed out
+[14:25:48] [Server thread/INFO]: MaerusenPhone left the game
+[14:25:49] [Server Watchdog/ERROR]: This crash report has been saved to: /data/data/com.termux/files/home/Minecraft/Minecraft server/crash-reports/crash-2026-05-05_14.25.49-server.txt

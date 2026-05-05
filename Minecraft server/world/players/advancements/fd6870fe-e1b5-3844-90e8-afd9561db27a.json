@@ -9,9 +9,11 @@
     "criteria": {
       "minecraft:snowy_slopes": "2026-04-24 09:51:31 +0000",
       "minecraft:forest": "2026-04-24 17:02:54 +0000",
+      "minecraft:deep_dark": "2026-05-05 14:17:20 +0000",
       "minecraft:cherry_grove": "2026-04-24 09:52:11 +0000",
       "minecraft:grove": "2026-04-24 17:03:14 +0000",
       "minecraft:meadow": "2026-04-24 09:51:42 +0000",
+      "minecraft:dripstone_caves": "2026-05-05 14:21:06 +0000",
       "minecraft:frozen_peaks": "2026-04-24 11:49:04 +0000",
       "minecraft:plains": "2026-04-24 09:53:07 +0000"
     },
@@ -1813,6 +1815,54 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-05-05 07:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-05-05 14:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2026-05-05 14:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-05-05 14:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2026-05-05 14:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-05-05 14:07:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-05-05 14:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2026-05-05 14:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-05-05 14:07:42 +0000"
     },
     "done": true
   },
