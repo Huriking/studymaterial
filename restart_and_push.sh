@@ -6,13 +6,13 @@ LOGFILE="/home/sahilbhingarde404/fcrit/cron.log"
 echo "==== $(date) Restart cycle started ====" >> $LOGFILE
 
 # 1. Notify players
-screen -S $SESSION -X stuff "say Server restarting for backup in 10 seconds...\n"
+screen -S $SESSION -X stuff "say Server restarting for backup in 10 seconds...$(printf '\r')"
 sleep 10
 
 # 2. Save + stop server
-screen -S $SESSION -X stuff "save-all\n"
+screen -S $SESSION -X stuff "save-all$(printf '\r')"
 sleep 5
-screen -S $SESSION -X stuff "stop\n"
+screen -S $SESSION -X stuff "stop$(printf '\r')"
 
 # 3. Wait for shutdown
 echo "Waiting for server to stop..." >> $LOGFILE
@@ -24,6 +24,8 @@ cd "$BASE_DIR"
 /usr/bin/git add .
 
 /usr/bin/git commit -m "Backup $(date)"
+
+/usr/bin/git pull --rebase
 
 /usr/bin/git push
 
