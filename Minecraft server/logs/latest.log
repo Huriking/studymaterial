@@ -1,227 +1,44 @@
-[20:32:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:32:05] [ServerMain/INFO]: Loaded 1515 recipes
-[20:32:05] [ServerMain/INFO]: Loaded 1617 advancements
-[20:32:05] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[20:32:05] [Server thread/INFO]: Loading properties
-[20:32:05] [Server thread/INFO]: Default game type: SURVIVAL
-[20:32:05] [Server thread/INFO]: Generating keypair
-[20:32:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:32:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:32:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:32:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:32:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:32:05] [Server thread/INFO]: Preparing level "world"
-[20:32:06] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:32:06] [Server thread/INFO]: Preparing spawn area: 100%
-[20:32:06] [Server thread/INFO]: Time elapsed: 18 ms
-[20:32:06] [Server thread/INFO]: Done (0.343s)! For help, type "help"
-[20:32:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:32:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:32:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:32:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:32:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:32:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:32:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:33:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:34:56] [Server thread/INFO]: Copper[/127.33.30.54:46839] logged in with entity id 313 at (-164.56956381929507, 1.1767592750642373, 19.073709558273865)
-[20:34:56] [Server thread/INFO]: Copper joined the game
-[20:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:35:12] [Server thread/INFO]: beast_07[/127.88.245.114:41205] logged in with entity id 810 at (-119.62491663705384, 99.0, 50.91382359766355)
-[20:35:12] [Server thread/INFO]: beast_07 joined the game
-[20:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10410ms or 208 ticks behind
-[20:35:44] [Server thread/INFO]: SamWise[/127.217.215.126:33493] logged in with entity id 879 at (-188.47800749395455, 103.0, 25.630917427718128)
-[20:35:44] [Server thread/INFO]: SamWise joined the game
-[20:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
-[20:35:57] [Server thread/INFO]: SamWise lost connection: Disconnected
-[20:35:57] [Server thread/INFO]: SamWise left the game
-[20:36:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[20:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:36:39] [Server thread/INFO]: SamWise[/127.217.215.126:53589] logged in with entity id 1013 at (-187.56389140847426, 103.0, 29.46121170907014)
-[20:36:39] [Server thread/INFO]: SamWise joined the game
-[20:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[20:37:27] [Server thread/INFO]: beast_07 lost connection: Timed out
-[20:37:27] [Server thread/INFO]: beast_07 left the game
-[20:40:21] [Server thread/INFO]: beast_07[/127.88.245.114:50069] logged in with entity id 1734 at (-119.62491663705384, 99.0, 50.91382359766355)
-[20:40:21] [Server thread/INFO]: beast_07 joined the game
-[20:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[20:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
-[20:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
-[20:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
-[20:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5802ms or 116 ticks behind
-[20:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7011ms or 140 ticks behind
-[20:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4823ms or 96 ticks behind
-[20:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5332ms or 106 ticks behind
-[20:43:06] [Server thread/INFO]: beast_07 lost connection: Timed out
-[20:43:06] [Server thread/INFO]: beast_07 left the game
-[20:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
-[20:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3996ms or 79 ticks behind
-[20:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
-[20:43:55] [Server thread/INFO]: SamWise lost connection: Timed out
-[20:43:55] [Server thread/INFO]: SamWise left the game
-[20:43:57] [Server thread/INFO]: Copper lost connection: Timed out
-[20:43:57] [Server thread/INFO]: Copper left the game
-[20:44:00] [Server thread/INFO]: beast_07[/127.55.160.18:52425] logged in with entity id 3292 at (-123.74454528364015, 99.0, 61.7837614259352)
-[20:44:00] [Server thread/INFO]: beast_07 joined the game
-[20:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[20:44:09] [Server thread/INFO]: SamWise[/127.217.215.126:41291] logged in with entity id 3575 at (-189.53739180620255, 103.0, 29.85264049849074)
-[20:44:09] [Server thread/INFO]: SamWise joined the game
-[20:44:10] [Server thread/INFO]: Copper[/127.33.30.54:48565] logged in with entity id 3586 at (-156.90065113240217, 102.17675927506424, 28.234980704425425)
-[20:44:10] [Server thread/INFO]: Copper joined the game
-[20:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8833ms or 176 ticks behind
-[20:44:49] [Server thread/INFO]: SamWise lost connection: Disconnected
-[20:44:49] [Server thread/INFO]: SamWise left the game
-[20:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10000ms or 200 ticks behind
-[20:44:54] [Server thread/INFO]: SamWise[/127.217.215.126:36299] logged in with entity id 3673 at (-188.8036257608751, 103.0, 28.28120202451549)
-[20:44:54] [Server thread/INFO]: SamWise joined the game
-[20:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8350ms or 167 ticks behind
-[20:45:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6059ms or 121 ticks behind
-[20:45:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7019ms or 140 ticks behind
-[20:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11797ms or 235 ticks behind
-[20:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13383ms or 267 ticks behind
-[20:47:12] [Server thread/INFO]: Copper lost connection: Disconnected
-[20:47:12] [Server thread/INFO]: Copper left the game
-[20:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16167ms or 323 ticks behind
-[20:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20043ms or 400 ticks behind
-[20:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17745ms or 354 ticks behind
-[20:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19343ms or 386 ticks behind
-[20:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16502ms or 330 ticks behind
-[20:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6413ms or 128 ticks behind
-[20:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12173ms or 243 ticks behind
-[20:50:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9807ms or 196 ticks behind
-[20:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18565ms or 371 ticks behind
-[20:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9177ms or 183 ticks behind
-[20:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6976ms or 139 ticks behind
-[20:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9764ms or 195 ticks behind
-[20:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8691ms or 173 ticks behind
-[20:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15096ms or 301 ticks behind
-[20:53:29] [Server thread/INFO]: SamWise lost connection: Disconnected
-[20:53:29] [Server thread/INFO]: SamWise left the game
-[20:53:33] [Server thread/INFO]: SamWise[/127.217.215.126:35983] logged in with entity id 5265 at (-187.230706785466, 103.0, 30.371131799846605)
-[20:53:33] [Server thread/INFO]: SamWise joined the game
-[20:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11856ms or 237 ticks behind
-[20:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14385ms or 287 ticks behind
-[20:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13221ms or 264 ticks behind
-[20:55:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17028ms or 340 ticks behind
-[20:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15582ms or 311 ticks behind
-[20:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15057ms or 301 ticks behind
-[20:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14680ms or 293 ticks behind
-[20:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19136ms or 382 ticks behind
-[20:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8411ms or 168 ticks behind
-[20:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5171ms or 103 ticks behind
-[20:58:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
-[20:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
-[20:59:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
-[20:59:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
-[21:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[21:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4071ms or 81 ticks behind
-[21:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
-[21:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
-[21:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4262ms or 85 ticks behind
-[21:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
-[21:03:36] [Server thread/INFO]: Villager Villager['Librarian'/5219, l='ServerLevel[world]', x=-184.71, y=103.05, z=29.49] died, message: 'Librarian tried to swim in lava'
-[21:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[21:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4917ms or 98 ticks behind
-[21:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
-[21:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
-[21:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
-[21:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
-[21:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5453ms or 109 ticks behind
-[21:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
-[21:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
-[21:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[21:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[21:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
-[21:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
-[21:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
-[21:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[21:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[21:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[21:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[21:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[21:12:14] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[21:12:14] [Server thread/INFO]: beast_07 left the game
-[21:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[21:25:00] [Server thread/INFO]: shikamaru2o[/127.21.209.24:44957] logged in with entity id 10815 at (-184.69999998807907, 9.252203340253725, 21.910481838346637)
-[21:25:00] [Server thread/INFO]: shikamaru2o joined the game
-[21:26:30] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[21:26:30] [Server thread/INFO]: shikamaru2o left the game
-[21:26:46] [Server thread/INFO]: shikamaru2o[/127.21.209.24:42121] logged in with entity id 11255 at (-215.30380391179293, 49.0, 42.584043358528)
-[21:26:46] [Server thread/INFO]: shikamaru2o joined the game
-[21:26:58] [Server thread/INFO]: [Not Secure] <SamWise> joel come here
-[21:27:23] [Server thread/INFO]: [Not Secure] <SamWise> where are you
-[21:27:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> NIGGA HOW
-[21:27:53] [Server thread/INFO]: [Not Secure] <SamWise> see the name
-[21:28:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> woh toh thik
-[21:28:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> density 5 kaise but
-[21:28:12] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
-[21:28:33] [Server thread/INFO]: [Not Secure] <SamWise> crafting table ke baaju waala
-[21:28:36] [Server thread/INFO]: [Not Secure] <SamWise> disenchant
-[21:28:41] [Server thread/INFO]: [Not Secure] <SamWise> and go to enchanting table again
-[21:28:45] [Server thread/INFO]: [Not Secure] <SamWise> till u get density 5
-[21:28:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh okk
-[21:28:55] [Server thread/INFO]: [Not Secure] <SamWise> lmao i stole ur xp
-[21:28:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> wohi na
-[21:29:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> im at 3 lol
-[21:29:13] [Server thread/INFO]: [Not Secure] <SamWise> kuch nahi ho jaega aaramse
-[21:29:22] [Server thread/INFO]: [Not Secure] <SamWise> 2 to 3 ingame days
-[21:29:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> breach 2 and unbreaking 2 and 3
-[21:29:43] [Server thread/INFO]: [Not Secure] <SamWise> nah breach is shit
-[21:29:52] [Server thread/INFO]: [Not Secure] <SamWise> i got density 5 seedha
-[21:29:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> ab kya karu
-[21:29:57] [Server thread/INFO]: [Not Secure] <SamWise> on second try
-[21:30:06] [Server thread/INFO]: [Not Secure] <SamWise> first mein density 4 aur unbreaking tha
-[21:30:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu try kar mera leke
-[21:30:16] [Server thread/INFO]: [Not Secure] <SamWise> wait let me see
-[21:30:42] [Server thread/INFO]: [Not Secure] <SamWise> nope breach
-[21:30:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> ugh
-[21:30:59] [Server thread/INFO]: [Not Secure] <SamWise> uk
-[21:31:02] [Server thread/INFO]: [Not Secure] <SamWise> wait
-[21:31:22] [Server thread/INFO]: [Not Secure] <SamWise> give again
-[21:31:45] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[21:31:45] [Server thread/INFO]: shikamaru2o left the game
-[21:31:47] [Server thread/INFO]: shikamaru2o[/127.21.209.24:56043] logged in with entity id 12226 at (-175.31111330187193, 114.0, 0.7893265447911938)
-[21:31:47] [Server thread/INFO]: shikamaru2o joined the game
-[21:33:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> what does density do tho
-[21:33:07] [Server thread/INFO]: [Not Secure] <SamWise> so if u enchant something else
-[21:33:18] [Server thread/INFO]: [Not Secure] <SamWise> even one level it reset entire thing
-[21:33:25] [Server thread/INFO]: [Not Secure] <SamWise> now im getting unbreaking 3
-[21:33:36] [Server thread/INFO]: [Not Secure] <SamWise> i had gotten density 5 waise seedha
-[21:33:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> oh glitch hai kya\
-[21:33:57] [Server thread/INFO]: [Not Secure] <SamWise> increase damage multiplier by number of block falling
-[21:34:00] [Server thread/INFO]: [Not Secure] <SamWise> nope
-[21:34:04] [Server thread/INFO]: [Not Secure] <SamWise> its how it is
-[21:34:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
-[21:34:20] [Server thread/INFO]: [Not Secure] <SamWise> i could max enchant it
-[21:34:25] [Server thread/INFO]: [Not Secure] <SamWise> it would take a while tho
-[21:34:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> okay so i have to keep enchanting and disenchaing?
-[21:34:40] [Server thread/INFO]: [Not Secure] <SamWise> i mean u can enchant armor also
-[21:34:45] [Server thread/INFO]: [Not Secure] <SamWise> any enchant will reset
-[21:34:50] [Server thread/INFO]: [Not Secure] <SamWise> i did on lvl 1
-[21:34:55] [Server thread/INFO]: shikamaru2o was slain by Iron Golem
-[21:35:14] [Server thread/INFO]: [Not Secure] <SamWise> embaressing..
-[21:35:33] [Server thread/INFO]: [Not Secure] <SamWise> give idhar ek min
-[21:35:44] [Server thread/INFO]: [Not Secure] <SamWise> im 16 id reach 30 quickr waise
-[21:35:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> boots kidhar haiii
-[21:36:02] [Server thread/INFO]: [Not Secure] <SamWise> tu bhi kar saktay it will just take more time sorta
-[21:36:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> mila
-[21:36:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> le
-[21:38:31] [Server thread/INFO]: [Not Secure] <SamWise> why is it soo laggy tho
-[21:38:38] [Server thread/INFO]: SamWise lost connection: Disconnected
-[21:38:38] [Server thread/INFO]: SamWise left the game
-[21:38:43] [Server thread/INFO]: SamWise[/127.217.215.126:33125] logged in with entity id 13917 at (-171.8597057475816, 114.0, 0.30851104826454323)
-[21:38:43] [Server thread/INFO]: SamWise joined the game
-[21:39:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhai tu jara hai toh mace dede
-[21:40:17] [Server thread/INFO]: [Not Secure] <SamWise> enchannted waala?
-[21:40:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein raat ko try karta hu
-[21:40:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> yes
-[21:40:45] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[21:40:45] [Server thread/INFO]: shikamaru2o left the game
-[21:42:10] [Server thread/INFO]: SamWise lost connection: Disconnected
-[21:42:10] [Server thread/INFO]: SamWise left the game
-[21:42:15] [Server thread/INFO]: SamWise[/127.217.215.126:46795] logged in with entity id 14903 at (-171.43140578967115, 114.0, 2.1821150162467506)
-[21:42:15] [Server thread/INFO]: SamWise joined the game
-[21:42:23] [Server thread/INFO]: SamWise lost connection: Disconnected
-[21:42:23] [Server thread/INFO]: SamWise left the game
-[21:43:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:45:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:45:35] [ServerMain/INFO]: Loaded 1515 recipes
+[16:45:35] [ServerMain/INFO]: Loaded 1617 advancements
+[16:45:35] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[16:45:35] [Server thread/INFO]: Loading properties
+[16:45:35] [Server thread/INFO]: Default game type: SURVIVAL
+[16:45:35] [Server thread/INFO]: Generating keypair
+[16:45:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:45:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:45:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:45:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:45:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:45:36] [Server thread/INFO]: Preparing level "world"
+[16:45:37] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:45:37] [Server thread/INFO]: Preparing spawn area: 100%
+[16:45:37] [Server thread/INFO]: Time elapsed: 13 ms
+[16:45:37] [Server thread/INFO]: Done (0.485s)! For help, type "help"
+[16:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:46:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:46:39] [Server thread/INFO]: Huriking[/139.5.44.135:58488] logged in with entity id 8 at (-158.3288909119631, 46.0, 98.42429385364962)
+[16:46:39] [Server thread/INFO]: Huriking joined the game
+[16:49:09] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[16:49:09] [Server thread/INFO]: [B[B[B[A[Asay Server restarting for backup in 10 seconds...<--[HERE]
+[16:49:19] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:49:19] [Server thread/INFO]: Saved the game
+[16:49:24] [Server thread/INFO]: Stopping the server
+[16:49:24] [Server thread/INFO]: Stopping server
+[16:49:24] [Server thread/INFO]: Saving players
+[16:49:24] [Server thread/INFO]: Huriking lost connection: Server closed
+[16:49:24] [Server thread/INFO]: Huriking left the game
+[16:49:24] [Server thread/INFO]: Saving worlds
+[16:49:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:49:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:49:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:49:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:49:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:49:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:49:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
