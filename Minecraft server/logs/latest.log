@@ -1,34 +1,207 @@
-[00:54:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[00:54:14] [ServerMain/INFO]: Loaded 1515 recipes
-[00:54:14] [ServerMain/INFO]: Loaded 1617 advancements
-[00:54:14] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[00:54:14] [Server thread/INFO]: Loading properties
-[00:54:14] [Server thread/INFO]: Default game type: SURVIVAL
-[00:54:14] [Server thread/INFO]: Generating keypair
-[00:54:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:54:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:54:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:54:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:54:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:54:14] [Server thread/INFO]: Preparing level "world"
-[00:54:14] [Server thread/INFO]: Loading 0 persistent chunks...
-[00:54:14] [Server thread/INFO]: Preparing spawn area: 100%
-[00:54:14] [Server thread/INFO]: Time elapsed: 26 ms
-[00:54:14] [Server thread/INFO]: Done (0.295s)! For help, type "help"
-[00:54:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:54:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:54:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:54:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:54:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:54:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:54:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:55:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:11:23] [Server thread/INFO]: shikamaru2o[/127.158.179.126:64069] logged in with entity id 427 at (-142.99990546055946, 98.0, 51.760643774617705)
-[01:11:23] [Server thread/INFO]: shikamaru2o joined the game
-[01:11:26] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[01:11:26] [Server thread/INFO]: shikamaru2o left the game
-[01:12:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:13:06] [Server thread/INFO]: shikamaru2o[/127.158.179.126:60474] logged in with entity id 1082 at (-142.99990546055946, 98.0, 51.760643774617705)
-[01:13:06] [Server thread/INFO]: shikamaru2o joined the game
-[01:14:02] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[01:14:02] [Server thread/INFO]: shikamaru2o left the game
+[05:37:49] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[05:37:49] [ServerMain/ERROR]: Did not JNA classes. Investigate incompatible version or missing native dll.
+[05:37:49] [ServerMain/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35)
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253)
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48)
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174)
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59)
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48)
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:100)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.UnsatisfiedLinkError: /data/data/com.termux/files/home/.cache/JNA/temp/jna8020491288921330669.tmp: dlopen failed: library "libc.so.6" not found: needed by /data/data/com.termux/files/home/.cache/JNA/temp/jna8020491288921330669.tmp in namespace (default) [in thread "ServerMain"]
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:321)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:187)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:129)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2245)
+	at java.base/java.lang.Runtime.load0(Runtime.java:767)
+	at java.base/java.lang.System.load(System.java:1647)
+	at com.sun.jna.Native.loadNativeDispatchLibraryFromClasspath(Native.java:1041)
+	at com.sun.jna.Native.loadNativeDispatchLibrary(Native.java:1011)
+	at com.sun.jna.Native.<clinit>(Native.java:221)
+	at com.sun.jna.platform.linux.Udev.<clinit>(Udev.java:37)
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:93)
+	... 17 more
+[05:37:49] [ServerMain/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
+	at oshi.hardware.platform.linux.LinuxGlobalMemory.<clinit>(LinuxGlobalMemory.java:28)
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createMemory(LinuxHardwareAbstractionLayer.java:38)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60)
+	at net.minecraft.SystemReport.lambda$putHardware$2(SystemReport.java:102)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:102)
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:63)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.<init>(SystemReport.java:63)
+	at net.minecraft.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.CrashReport.preload(CrashReport.java:233)
+	at net.minecraft.server.Main.main(Main.java:101)
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native [in thread "ServerMain"]
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35)
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253)
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48)
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174)
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68)
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59)
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43)
+	at oshi.util.Memoizer$1.get(Memoizer.java:65)
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48)
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:100)
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:108)
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:100)
+	... 8 more
+[05:37:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[05:38:00] [ServerMain/INFO]: Loaded 1515 recipes
+[05:38:00] [ServerMain/INFO]: Loaded 1617 advancements
+[05:38:00] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[05:38:00] [Server thread/INFO]: Loading properties
+[05:38:00] [Server thread/INFO]: Default game type: SURVIVAL
+[05:38:00] [Server thread/INFO]: Generating keypair
+[05:38:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:38:01] [Server thread/WARN]: Failed to find a usable hardware address from the network interfaces; using random bytes: ce:33:4f:ac:dc:2d:44:5e
+[05:38:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:38:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:38:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:38:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:38:01] [Server thread/INFO]: Preparing level "world"
+[05:38:01] [Server thread/INFO]: Loading 0 persistent chunks...
+[05:38:01] [Server thread/INFO]: Preparing spawn area: 100%
+[05:38:01] [Server thread/INFO]: Time elapsed: 13 ms
+[05:38:01] [Server thread/INFO]: Done (0.844s)! For help, type "help"
+[05:38:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:38:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:38:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:38:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:38:06] [Server thread/INFO]: SamWise[/192.168.1.6:58775] logged in with entity id 272 at (-175.72087810178766, 106.0, 8.77745815381934)
+[05:38:06] [Server thread/INFO]: SamWise joined the game
+[05:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[05:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05:46:03] [Server thread/INFO]: Villager Villager['Librarian'/173, l='ServerLevel[world]', x=-195.47, y=103.05, z=24.51] died, message: 'Librarian tried to swim in lava'
+[05:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11006ms or 220 ticks behind
+[05:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[05:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[05:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[05:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05:59:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[06:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[06:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[06:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6803ms or 136 ticks behind
+[06:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[06:05:35] [Server thread/INFO]: SamWise lost connection: Disconnected
+[06:05:35] [Server thread/INFO]: SamWise left the game
+[06:05:37] [Server thread/INFO]: SamWise[/192.168.1.6:58804] logged in with entity id 6304 at (-190.48718550947189, 103.0, 24.740227990662067)
+[06:05:37] [Server thread/INFO]: SamWise joined the game
+[06:06:42] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[06:06:42] [Server thread/INFO]: ti/time set night<--[HERE]
+[06:06:55] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:night
+[06:08:08] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[06:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[06:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[06:17:50] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[06:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[06:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
+[06:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[06:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
+[06:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9482ms or 189 ticks behind
+[06:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06:27:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[06:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
+[06:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
+[06:45:26] [Server thread/WARN]: SamWise moved too quickly! -3.6707491910374017,1.7508129212553172,-9.172021925389444
+[06:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5591ms or 111 ticks behind
+[06:55:23] [Server thread/INFO]: MaerusenPhone[/127.132.30.102:33959] logged in with entity id 16049 at (-133.57329056342653, 98.0, 56.91228658396962)
+[06:55:23] [Server thread/INFO]: MaerusenPhone joined the game
+[06:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[06:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13612ms or 272 ticks behind
+[06:56:54] [Server thread/INFO]: SamWise lost connection: Disconnected
+[06:56:54] [Server thread/INFO]: SamWise left the game
+[06:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9788ms or 195 ticks behind
+[06:58:58] [Server thread/WARN]: MaerusenPhone moved too quickly! -9.987023806454005,-0.5,1.8120350837668937
+[06:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[07:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[07:00:58] [Server thread/INFO]: Copper[/127.119.176.128:43213] logged in with entity id 16950 at (-126.95259381684104, 110.0, 23.731080836061498)
+[07:00:58] [Server thread/INFO]: Copper joined the game
+[07:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5252ms or 105 ticks behind
+[07:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[07:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[07:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[07:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[07:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[07:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[07:03:39] [Server thread/INFO]: Copper lost connection: Disconnected
+[07:03:39] [Server thread/INFO]: Copper left the game
+[07:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4235ms or 84 ticks behind
+[07:03:59] [Server thread/INFO]: Copper[/127.119.176.128:52351] logged in with entity id 17430 at (-156.77464615622114, 99.0, 74.69999998807907)
+[07:03:59] [Server thread/INFO]: Copper joined the game
+[07:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[07:04:19] [Server thread/INFO]: Copper lost connection: Disconnected
+[07:04:19] [Server thread/INFO]: Copper left the game
+[07:04:46] [Server thread/INFO]: MaerusenPhone lost connection: Timed out
+[07:04:46] [Server thread/INFO]: MaerusenPhone left the game
+[07:05:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[07:32:22] [Server thread/INFO]: SamWise[/192.168.1.6:58895] logged in with entity id 17752 at (-175.65304904096274, 114.0, -1.1488331863151322)
+[07:32:22] [Server thread/INFO]: SamWise joined the game
+[07:34:42] [Server thread/INFO]: SamWise has completed the challenge [It Spreads]
+[07:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[07:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[07:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[07:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[07:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[07:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[07:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07:39:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[07:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[07:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[07:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[07:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11510ms or 230 ticks behind
+[07:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[07:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[07:56:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
+[07:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[07:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
+[07:59:16] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: I/O error
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:281)
+	at java.base/java.lang.System$In.read(System.java:1872)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:183)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400)
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:189)

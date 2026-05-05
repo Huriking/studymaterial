@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:pink_petals": 3
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 202,
+      "minecraft:open_chest": 1,
+      "minecraft:time_since_rest": 14473,
+      "minecraft:fall_one_cm": 2000,
+      "minecraft:walk_one_cm": 83525,
+      "minecraft:total_world_time": 14473,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 74,
+      "minecraft:damage_taken": 143,
+      "minecraft:play_time": 14473,
+      "minecraft:jump": 95,
+      "minecraft:time_since_death": 14473
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 16,
+      "minecraft:dirt": 16,
+      "minecraft:cobblestone": 1,
+      "minecraft:snowball": 15,
+      "minecraft:stone_brick_slab": 1,
+      "minecraft:pink_petals": 8
+    },
+    "minecraft:used": {
+      "minecraft:egg": 1,
+      "minecraft:cobblestone": 1
+    }
+  },
+  "DataVersion": 4790
+}
