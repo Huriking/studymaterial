@@ -11,12 +11,14 @@
       "minecraft:snowy_slopes": "2026-04-27 19:40:30 +0530",
       "minecraft:forest": "2026-04-28 19:41:49 +0530",
       "minecraft:taiga": "2026-04-29 13:50:25 +0530",
+      "minecraft:deep_ocean": "2026-05-06 15:31:21 +0530",
       "minecraft:lush_caves": "2026-04-29 14:52:33 +0530",
       "minecraft:deep_cold_ocean": "2026-04-30 07:08:32 +0530",
       "minecraft:frozen_ocean": "2026-04-29 13:37:22 +0530",
       "minecraft:frozen_river": "2026-04-29 13:39:24 +0530",
       "minecraft:deep_frozen_ocean": "2026-04-30 07:09:09 +0530",
       "minecraft:jungle": "2026-05-06 09:47:30 +0530",
+      "minecraft:ocean": "2026-05-06 15:14:31 +0530",
       "minecraft:cherry_grove": "2026-04-27 19:41:42 +0530",
       "minecraft:birch_forest": "2026-05-06 00:33:06 +0530",
       "minecraft:snowy_beach": "2026-04-29 13:39:14 +0530",
@@ -2748,24 +2750,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2026-05-06 10:21:32 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
-    "criteria": {
-      "has_log": "2026-05-06 10:04:24 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2026-05-06 10:21:32 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2026-05-06 09:58:49 +0530"
@@ -2778,9 +2762,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-05-06 09:58:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-05-06 10:04:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
       "has_log": "2026-05-06 10:04:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-05-06 10:21:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-05-06 10:21:32 +0530"
     },
     "done": true
   },
@@ -2790,9 +2798,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_bamboo": "2026-05-06 09:58:49 +0530"
+      "has_emerald_block": "2026-05-06 15:36:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-06 15:24:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-06 15:24:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-05-06 15:36:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-05-06 15:36:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-06 15:24:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-05-06 15:36:09 +0530"
     },
     "done": true
   },

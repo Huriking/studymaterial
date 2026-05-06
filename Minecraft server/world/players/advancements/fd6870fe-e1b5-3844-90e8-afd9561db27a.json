@@ -9,12 +9,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2026-04-24 15:21:31 +0530",
       "minecraft:forest": "2026-04-24 22:32:54 +0530",
+      "minecraft:taiga": "2026-05-06 15:12:51 +0530",
+      "minecraft:river": "2026-05-06 15:13:31 +0530",
+      "minecraft:dripstone_caves": "2026-05-05 19:51:06 +0530",
+      "minecraft:frozen_peaks": "2026-04-24 17:19:04 +0530",
+      "minecraft:old_growth_birch_forest": "2026-05-06 15:12:52 +0530",
       "minecraft:deep_dark": "2026-05-05 19:47:20 +0530",
       "minecraft:cherry_grove": "2026-04-24 15:22:11 +0530",
       "minecraft:grove": "2026-04-24 22:33:14 +0530",
       "minecraft:meadow": "2026-04-24 15:21:42 +0530",
-      "minecraft:dripstone_caves": "2026-05-05 19:51:06 +0530",
-      "minecraft:frozen_peaks": "2026-04-24 17:19:04 +0530",
+      "minecraft:birch_forest": "2026-05-06 15:12:53 +0530",
       "minecraft:plains": "2026-04-24 15:23:07 +0530"
     },
     "done": false
@@ -1595,6 +1599,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2026-05-06 15:23:41 +0530",
+      "chicken": "2026-05-06 15:06:15 +0530",
       "cooked_chicken": "2026-04-28 14:57:55 +0530",
       "cooked_beef": "2026-04-26 23:40:06 +0530"
     },
@@ -1605,7 +1611,8 @@
       "minecraft:pillager": "2026-04-28 18:27:50 +0530",
       "minecraft:skeleton": "2026-04-28 15:25:30 +0530",
       "minecraft:spider": "2026-05-05 23:27:01 +0530",
-      "minecraft:zombie": "2026-04-29 16:10:50 +0530"
+      "minecraft:zombie": "2026-04-29 16:10:50 +0530",
+      "minecraft:drowned": "2026-05-06 15:23:36 +0530"
     },
     "done": false
   },
@@ -2038,6 +2045,114 @@
   "minecraft:recipes/misc/leather_horse_armor_dyed": {
     "criteria": {
       "has_leather_horse_armor": "2026-05-05 23:55:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2026-05-06 15:23:38 +0530"
     },
     "done": true
   },
