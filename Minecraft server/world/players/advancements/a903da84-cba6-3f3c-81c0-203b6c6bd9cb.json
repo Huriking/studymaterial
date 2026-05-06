@@ -7,14 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-05-06 09:35:59 +0530",
       "minecraft:snowy_slopes": "2026-04-15 17:46:22 +0530",
+      "minecraft:beach": "2026-05-06 09:27:37 +0530",
+      "minecraft:mushroom_fields": "2026-05-06 10:27:36 +0530",
       "minecraft:forest": "2026-04-15 18:54:46 +0530",
+      "minecraft:taiga": "2026-05-06 08:51:58 +0530",
+      "minecraft:deep_ocean": "2026-05-06 10:21:20 +0530",
+      "minecraft:river": "2026-05-06 08:50:58 +0530",
+      "minecraft:dripstone_caves": "2026-04-18 11:53:46 +0530",
+      "minecraft:frozen_peaks": "2026-04-16 00:42:04 +0530",
       "minecraft:deep_dark": "2026-04-18 12:07:39 +0530",
+      "minecraft:ocean": "2026-05-06 09:28:11 +0530",
       "minecraft:cherry_grove": "2026-04-15 17:48:17 +0530",
       "minecraft:grove": "2026-04-15 18:37:19 +0530",
       "minecraft:meadow": "2026-04-15 18:54:36 +0530",
-      "minecraft:dripstone_caves": "2026-04-18 11:53:46 +0530",
-      "minecraft:frozen_peaks": "2026-04-16 00:42:04 +0530",
+      "minecraft:birch_forest": "2026-05-06 09:27:24 +0530",
+      "minecraft:windswept_gravelly_hills": "2026-05-06 09:57:51 +0530",
       "minecraft:plains": "2026-04-15 17:48:31 +0530"
     },
     "done": false
@@ -1985,7 +1994,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2026-05-05 23:45:05 +0530"
+      "minecraft:crimson_forest": "2026-05-05 23:45:05 +0530",
+      "minecraft:nether_wastes": "2026-05-06 10:53:06 +0530",
+      "minecraft:basalt_deltas": "2026-05-06 10:53:14 +0530",
+      "minecraft:warped_forest": "2026-05-06 10:39:05 +0530"
     },
     "done": false
   },
@@ -2001,15 +2013,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_cobbled_deepslate": "2026-05-06 00:20:03 +0530"
+      "has_iron_sword": "2026-05-06 00:04:36 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_cobbled_deepslate": "2026-05-06 00:20:03 +0530"
+      "has_iron_sword": "2026-05-06 00:04:36 +0530"
     },
     "done": true
   },
@@ -2019,9 +2031,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
-      "has_iron_sword": "2026-05-06 00:04:36 +0530"
+      "has_cobbled_deepslate": "2026-05-06 00:20:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-05-06 00:20:03 +0530"
     },
     "done": true
   },
@@ -2127,12 +2145,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_sword": "2026-05-06 00:04:36 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-05-06 00:20:03 +0530"
@@ -2142,6 +2154,264 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-05-06 00:20:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-06 08:45:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-05-06 09:08:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-05-06 09:08:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-05-06 09:09:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-05-06 09:09:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-05-06 09:22:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-06 09:28:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-06 09:28:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-06 09:28:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-05-06 09:54:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-05-06 10:54:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-05-06 09:54:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_boots_dyed": {
+    "criteria": {
+      "has_leather_boots": "2026-05-06 09:54:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-05-06 09:54:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-05-06 09:54:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-06 09:53:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2026-05-06 10:46:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-05-06 09:55:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-05-06 09:55:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-05-06 09:54:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2026-05-06 09:53:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-05-06 10:54:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-05-06 09:55:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2026-05-06 10:46:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:52:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-05-06 09:55:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2026-05-06 10:47:58 +0530"
     },
     "done": true
   },

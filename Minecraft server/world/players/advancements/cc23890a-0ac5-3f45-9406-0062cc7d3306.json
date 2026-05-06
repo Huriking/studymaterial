@@ -9,27 +9,31 @@
     "criteria": {
       "minecraft:cold_ocean": "2026-04-15 22:57:30 +0530",
       "minecraft:snowy_slopes": "2026-04-15 10:49:51 +0530",
-      "minecraft:beach": "2026-04-15 22:57:07 +0530",
+      "minecraft:mushroom_fields": "2026-05-06 10:27:37 +0530",
       "minecraft:forest": "2026-04-15 12:39:21 +0530",
       "minecraft:taiga": "2026-04-15 20:00:51 +0530",
-      "minecraft:river": "2026-04-15 11:46:34 +0530",
-      "minecraft:snowy_plains": "2026-04-15 20:16:48 +0530",
-      "minecraft:stony_shore": "2026-04-24 15:10:24 +0530",
+      "minecraft:deep_ocean": "2026-05-06 10:21:08 +0530",
       "minecraft:lush_caves": "2026-05-02 17:11:00 +0530",
-      "minecraft:dripstone_caves": "2026-04-15 11:20:42 +0530",
-      "minecraft:snowy_taiga": "2026-04-15 20:19:38 +0530",
-      "minecraft:frozen_peaks": "2026-04-15 11:02:12 +0530",
       "minecraft:deep_cold_ocean": "2026-04-29 14:27:22 +0530",
-      "minecraft:old_growth_birch_forest": "2026-04-15 20:01:01 +0530",
       "minecraft:frozen_ocean": "2026-04-19 17:51:08 +0530",
       "minecraft:frozen_river": "2026-04-15 20:18:17 +0530",
       "minecraft:deep_frozen_ocean": "2026-04-24 15:12:16 +0530",
-      "minecraft:deep_dark": "2026-04-16 19:51:51 +0530",
+      "minecraft:ocean": "2026-05-06 09:52:45 +0530",
       "minecraft:cherry_grove": "2026-04-15 10:50:17 +0530",
-      "minecraft:grove": "2026-04-15 12:39:25 +0530",
-      "minecraft:meadow": "2026-04-15 11:41:41 +0530",
       "minecraft:birch_forest": "2026-04-15 20:03:43 +0530",
       "minecraft:snowy_beach": "2026-04-15 20:35:39 +0530",
+      "minecraft:beach": "2026-04-15 22:57:07 +0530",
+      "minecraft:river": "2026-04-15 11:46:34 +0530",
+      "minecraft:snowy_plains": "2026-04-15 20:16:48 +0530",
+      "minecraft:stony_shore": "2026-04-24 15:10:24 +0530",
+      "minecraft:dripstone_caves": "2026-04-15 11:20:42 +0530",
+      "minecraft:snowy_taiga": "2026-04-15 20:19:38 +0530",
+      "minecraft:frozen_peaks": "2026-04-15 11:02:12 +0530",
+      "minecraft:old_growth_birch_forest": "2026-04-15 20:01:01 +0530",
+      "minecraft:deep_dark": "2026-04-16 19:51:51 +0530",
+      "minecraft:grove": "2026-04-15 12:39:25 +0530",
+      "minecraft:meadow": "2026-04-15 11:41:41 +0530",
+      "minecraft:windswept_gravelly_hills": "2026-05-06 09:57:51 +0530",
       "minecraft:plains": "2026-04-15 10:50:56 +0530"
     },
     "done": false
@@ -4298,6 +4302,174 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2026-05-05 18:20:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-06 10:02:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2026-05-06 10:02:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-05-06 10:07:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-05-06 10:22:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2026-05-06 10:22:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2026-05-06 10:22:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-05-06 10:22:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2026-05-06 10:43:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2026-05-06 10:43:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2026-05-06 10:43:34 +0530"
     },
     "done": true
   },

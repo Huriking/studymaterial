@@ -1,42 +1,22 @@
 {
   "stats": {
-    "minecraft:killed_by": {
-      "minecraft:player": 4,
-      "minecraft:iron_golem": 2
+    "minecraft:used": {
+      "minecraft:egg": 30,
+      "minecraft:cobblestone": 2
     },
     "minecraft:mined": {
       "minecraft:wall_torch": 3,
       "minecraft:pink_petals": 3
     },
-    "minecraft:used": {
-      "minecraft:egg": 30,
-      "minecraft:cobblestone": 1
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 283,
-      "minecraft:walk_one_cm": 300178,
-      "minecraft:leave_game": 4,
-      "minecraft:damage_taken": 1715,
-      "minecraft:damage_dealt": 125,
-      "minecraft:play_time": 44492,
-      "minecraft:jump": 248,
-      "minecraft:time_since_death": 260,
-      "minecraft:sprint_one_cm": 1233,
-      "minecraft:open_chest": 1,
-      "minecraft:sleep_in_bed": 1,
-      "minecraft:fall_one_cm": 3375,
-      "minecraft:total_world_time": 44492,
-      "minecraft:fly_one_cm": 605,
-      "minecraft:walk_on_water_one_cm": 555,
-      "minecraft:sneak_time": 80,
-      "minecraft:climb_one_cm": 455,
-      "minecraft:deaths": 6
+    "minecraft:killed_by": {
+      "minecraft:player": 4,
+      "minecraft:iron_golem": 2
     },
     "minecraft:picked_up": {
       "minecraft:egg": 249,
       "minecraft:tipped_arrow": 2,
       "minecraft:dirt": 16,
-      "minecraft:cobblestone": 1,
+      "minecraft:cobblestone": 2,
       "minecraft:breeze_rod": 2,
       "minecraft:wheat_seeds": 1,
       "minecraft:snowball": 30,
@@ -44,6 +24,27 @@
       "minecraft:stone_brick_slab": 2,
       "minecraft:iron_ingot": 4,
       "minecraft:pink_petals": 16
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 8539,
+      "minecraft:walk_one_cm": 372696,
+      "minecraft:leave_game": 5,
+      "minecraft:walk_under_water_one_cm": 169,
+      "minecraft:damage_taken": 1835,
+      "minecraft:damage_dealt": 165,
+      "minecraft:play_time": 52748,
+      "minecraft:jump": 280,
+      "minecraft:time_since_death": 8516,
+      "minecraft:sprint_one_cm": 1310,
+      "minecraft:open_chest": 1,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 4062,
+      "minecraft:total_world_time": 52748,
+      "minecraft:fly_one_cm": 683,
+      "minecraft:walk_on_water_one_cm": 1013,
+      "minecraft:sneak_time": 80,
+      "minecraft:climb_one_cm": 455,
+      "minecraft:deaths": 6
     }
   },
   "DataVersion": 4790
