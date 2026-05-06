@@ -1,698 +1,193 @@
-[12:57:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:57:31] [ServerMain/INFO]: Loaded 1515 recipes
-[12:57:31] [ServerMain/INFO]: Loaded 1617 advancements
-[12:57:31] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[12:57:31] [Server thread/INFO]: Loading properties
-[12:57:31] [Server thread/INFO]: Default game type: SURVIVAL
-[12:57:31] [Server thread/INFO]: Generating keypair
-[12:57:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:57:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:57:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:57:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:57:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:57:32] [Server thread/INFO]: Preparing level "world"
-[12:57:33] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:57:33] [Server thread/INFO]: Preparing spawn area: 100%
-[12:57:33] [Server thread/INFO]: Time elapsed: 12 ms
-[12:57:33] [Server thread/INFO]: Done (0.692s)! For help, type "help"
-[12:57:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:57:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:57:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:57:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:57:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:57:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:57:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:57:43] [Server thread/INFO]: Huriking[/43.255.222.79:50549] logged in with entity id 385 at (-180.91146519718632, 99.9375, 44.36320464007266)
-[12:57:43] [Server thread/INFO]: Huriking joined the game
-[12:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[12:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16611ms or 332 ticks behind
-[12:58:20] [Server thread/INFO]: Eclipse[/110.226.177.118:9318] logged in with entity id 1828 at (0.5, 127.0, 8.5)
-[12:58:20] [Server thread/INFO]: Eclipse joined the game
-[12:58:30] [Server thread/INFO]: Varun311004[/223.236.96.254:17697] logged in with entity id 1948 at (-4.5, 134.0, -7.5)
-[12:58:30] [Server thread/INFO]: Varun311004 joined the game
-[12:58:35] [Server thread/INFO]: SamWise[/103.195.202.212:50849] logged in with entity id 2034 at (44.73382099403651, 19.0, -2782.445541407765)
-[12:58:35] [Server thread/INFO]: SamWise joined the game
-[12:58:42] [Server thread/INFO]: [Not Secure] <SamWise> yooo
-[12:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12589ms or 251 ticks behind
-[12:58:48] [Server thread/INFO]: [Not Secure] <Varun311004> yoo
-[12:58:54] [Server thread/INFO]: [Not Secure] <Eclipse> yoo
-[12:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12427ms or 248 ticks behind
-[12:59:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17733ms or 354 ticks behind
-[13:00:03] [Server thread/INFO]: SamWise tried to swim in lava
-[13:00:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19833ms or 396 ticks behind
-[13:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11240ms or 224 ticks behind
-[13:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9575ms or 191 ticks behind
-[13:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10434ms or 208 ticks behind
-[13:01:37] [Server thread/INFO]: [Not Secure] <Eclipse> yo
-[13:01:40] [Server thread/INFO]: [Not Secure] <SamWise> ye kya skin hai
-[13:01:46] [Server thread/INFO]: [Not Secure] <Eclipse> idk
-[13:01:57] [Server thread/INFO]: [Not Secure] <Eclipse> give me food
-[13:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8353ms or 167 ticks behind
-[13:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7461ms or 149 ticks behind
-[13:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7586ms or 151 ticks behind
-[13:03:04] [Server thread/INFO]: [Not Secure] <SamWise> le thus
-[13:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6266ms or 125 ticks behind
-[13:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5689ms or 113 ticks behind
-[13:03:30] [Server thread/INFO]: Eclipse has made the advancement [Isn't It Iron Pick]
-[13:03:31] [Server thread/INFO]: [Not Secure] <SamWise> terko tour chahiye?
-[13:03:38] [Server thread/INFO]: [Not Secure] <Eclipse> i stole ur pickaxe
-[13:03:41] [Server thread/INFO]: [Not Secure] <Eclipse> dikha
-[13:03:43] [Server thread/INFO]: [Not Secure] <SamWise> its ok
-[13:03:45] [Server thread/INFO]: [Not Secure] <Huriking> netherite ka achievement de deta pehele hi
-[13:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[13:04:00] [Server thread/INFO]: [Not Secure] <SamWise> mi house
-[13:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7761ms or 155 ticks behind
-[13:04:16] [Server thread/INFO]: [Not Secure] <SamWise> slaves
-[13:04:22] [Server thread/INFO]: [Not Secure] <Eclipse> hitler ideals
-[13:04:24] [Server thread/INFO]: [Not Secure] <Eclipse> nice
-[13:04:31] [Server thread/INFO]: [Not Secure] <SamWise> jews hai saare
-[13:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10983ms or 219 ticks behind
-[13:04:39] [Server thread/INFO]: [Not Secure] <SamWise> sex chamber
-[13:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9956ms or 199 ticks behind
-[13:05:14] [Server thread/INFO]: [Not Secure] <SamWise> idhar bohot ghar hogaya kidr aur bana hai toh bano
-[13:05:23] [Server thread/INFO]: [Not Secure] <Eclipse> samjha woh
-[13:05:24] [Server thread/INFO]: [Not Secure] <SamWise> nether
-[13:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12102ms or 242 ticks behind
-[13:05:41] [Server thread/INFO]: Varun311004 has made the advancement [We Need to Go Deeper]
-[13:05:43] [Server thread/INFO]: [Not Secure] <SamWise> meko bhi naya bana hai
-[13:05:43] [Server thread/INFO]: Eclipse has made the advancement [We Need to Go Deeper]
-[13:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14996ms or 299 ticks behind
-[13:05:58] [Server thread/INFO]: [Not Secure] <SamWise> idhar se seedha gaya toh fortress hai
-[13:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13229ms or 264 ticks behind
-[13:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10647ms or 212 ticks behind
-[13:07:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7464ms or 149 ticks behind
-[13:07:28] [Server thread/INFO]: [Not Secure] <SamWise> ye smart khela dur banaya ghaer
-[13:07:34] [Server thread/INFO]: [Not Secure] <SamWise> 2 hi farm hai
-[13:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8972ms or 179 ticks behind
-[13:07:52] [Server thread/INFO]: [Not Secure] <SamWise> bc ye wool farm kabh banaya
-[13:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
-[13:08:05] [Server thread/INFO]: [Not Secure] <Eclipse> kyu banaya is a better question
-[13:08:10] [Server thread/INFO]: [Not Secure] <SamWise> check these bottom ones
-[13:08:16] [Server thread/INFO]: Eclipse has made the advancement [Acquire Hardware]
-[13:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
-[13:08:21] [Server thread/INFO]: Varun311004 has made the advancement [Acquire Hardware]
-[13:08:22] [Server thread/INFO]: [Not Secure] <SamWise> neeche 3 ancient city hai
-[13:08:27] [Server thread/INFO]: [Not Secure] <Eclipse> wowowo
-[13:08:34] [Server thread/INFO]: [Not Secure] <Varun311004> damn
-[13:08:37] [Server thread/INFO]: [Not Secure] <SamWise> pura lootna baaki hai saare
-[13:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7073ms or 141 ticks behind
-[13:08:45] [Server thread/INFO]: [Not Secure] <Eclipse> is this actual farm
-[13:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6633ms or 132 ticks behind
-[13:09:11] [Server thread/INFO]: [Not Secure] <SamWise> ice bridge ka kuch fayda hi nahi
-[13:09:15] [Server thread/INFO]: [Not Secure] <SamWise> itna mehenat se abnaya tha
-[13:09:21] [Server thread/INFO]: [Not Secure] <SamWise> abh sabh portal wapar rahe hai
-[13:09:22] [Server thread/INFO]: [Not Secure] <Huriking> thike bhai
-[13:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6539ms or 130 ticks behind
-[13:09:45] [Server thread/INFO]: [Not Secure] <Varun311004> lol
-[13:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5952ms or 119 ticks behind
-[13:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6546ms or 130 ticks behind
-[13:10:13] [Server thread/INFO]: [Not Secure] <SamWise> here
-[13:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8981ms or 179 ticks behind
-[13:10:40] [Server thread/INFO]: [Not Secure] <SamWise> yahan se gaya toh bastian hai
-[13:10:51] [Server thread/INFO]: [Not Secure] <Eclipse> tu gaya kidhar
-[13:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6112ms or 122 ticks behind
-[13:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5952ms or 119 ticks behind
-[13:11:16] [Server thread/INFO]: [Not Secure] <SamWise> city dekhany 3
-[13:11:20] [Server thread/INFO]: [Not Secure] <SamWise> ki bastian
-[13:11:22] [Server thread/INFO]: [Not Secure] <SamWise> 2 hai
-[13:11:26] [Server thread/INFO]: [Not Secure] <SamWise> ek looted
-[13:11:30] [Server thread/INFO]: [Not Secure] <Eclipse> abhi kn abhi jara saman toh gola karnede
-[13:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind
-[13:11:34] [Server thread/INFO]: [Not Secure] <SamWise> ek gaya bhi nahi sirf spot kiya
-[13:11:41] [Server thread/INFO]: [Not Secure] <Eclipse> okok
-[13:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6858ms or 137 ticks behind
-[13:12:16] [Server thread/INFO]: Varun311004 has made the advancement [Suit Up]
-[13:12:19] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa tho
-[13:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9458ms or 189 ticks behind
-[13:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8183ms or 163 ticks behind
-[13:12:55] [Server thread/INFO]: [Not Secure] <SamWise> ze sugar cane farm
-[13:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5586ms or 111 ticks behind
-[13:13:11] [Server thread/INFO]: [Not Secure] <Eclipse> upar kya he
-[13:13:15] [Server thread/INFO]: [Not Secure] <SamWise> some one took some iron
-[13:13:17] [Server thread/INFO]: [Not Secure] <SamWise> i need 3
-[13:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4747ms or 94 ticks behind
-[13:13:31] [Server thread/INFO]: [Not Secure] <Eclipse> le na
-[13:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4414ms or 88 ticks behind
-[13:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
-[13:14:09] [Server thread/INFO]: [Not Secure] <Eclipse> wot iz u doin
-[13:14:17] [Server thread/INFO]: [Not Secure] <SamWise> ruk neeche
-[13:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4515ms or 90 ticks behind
-[13:14:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
-[13:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4215ms or 84 ticks behind
-[13:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4035ms or 80 ticks behind
-[13:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
-[13:15:47] [Server thread/INFO]: [Not Secure] <SamWise> left part is explored right part baaki hai
-[13:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
-[13:16:15] [Server thread/INFO]: [Not Secure] <SamWise> chaud mein chalo left side
-[13:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4535ms or 90 ticks behind
-[13:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4575ms or 91 ticks behind
-[13:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4702ms or 94 ticks behind
-[13:17:09] [Server thread/INFO]: [Not Secure] <SamWise> idhar se left ko aur ek cituy hai
-[13:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
-[13:17:16] [Server thread/INFO]: [Not Secure] <SamWise> wo bohot kam explored hai tho
-[13:17:20] [Server thread/INFO]: [Not Secure] <Eclipse> okok
-[13:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
-[13:17:32] [Server thread/INFO]: Eclipse has made the advancement [Stone Age]
-[13:17:33] [Server thread/INFO]: [Not Secure] <SamWise> teesra city hole is other side
-[13:17:38] [Server thread/INFO]: Varun311004 has made the advancement [Stone Age]
-[13:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
-[13:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
-[13:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
-[13:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
-[13:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
-[13:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
-[13:19:21] [Server thread/INFO]: [Not Secure] <SamWise> thereis another way down with no water but its long cut
-[13:19:26] [Server thread/INFO]: [Not Secure] <Eclipse> traversing jara better ho sakta tha
-[13:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
-[13:19:37] [Server thread/INFO]: [Not Secure] <SamWise> haan haan okok
-[13:19:50] [Server thread/INFO]: [Not Secure] <SamWise> netherwart!!!
-[13:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
-[13:19:53] [Server thread/INFO]: [Not Secure] <Eclipse> lulul
-[13:19:57] [Server thread/INFO]: [Not Secure] <SamWise> bas
-[13:20:02] [Server thread/INFO]: [Not Secure] <Eclipse> okokk
-[13:20:05] [Server thread/INFO]: [Not Secure] <SamWise> btw there is a mushroom biome
-[13:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
-[13:20:12] [Server thread/INFO]: [Not Secure] <SamWise> at the portal near bastial
-[13:20:13] [Server thread/INFO]: [Not Secure] <Varun311004> dhanyawaddd
-[13:20:22] [Server thread/INFO]: [Not Secure] <SamWise> mai jaarau khaana khaane
-[13:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[13:20:28] [Server thread/INFO]: [Not Secure] <Eclipse> kha kha
-[13:20:34] [Server thread/INFO]: [Not Secure] <SamWise> dont steal from peepal
-[13:20:36] [Server thread/INFO]: [Not Secure] <Varun311004> yes
-[13:20:42] [Server thread/INFO]: [Not Secure] <Eclipse> where is the fun in that
-[13:20:44] [Server thread/INFO]: [Not Secure] <SamWise> iron vagaire no one cares
-[13:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[13:20:48] [Server thread/INFO]: [Not Secure] <SamWise> diamonds and all
-[13:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
-[13:21:03] [Server thread/INFO]: [Not Secure] <Eclipse> there has to be a antagonist too
-[13:21:04] [Server thread/INFO]: [Not Secure] <SamWise> go to mushroom biome to look for them
-[13:21:11] [Server thread/INFO]: [Not Secure] <SamWise> wahan cave hai plus no mob spawns
-[13:21:19] [Server thread/INFO]: [Not Secure] <Eclipse> demm
-[13:21:21] [Server thread/INFO]: [Not Secure] <Eclipse> dekhtay
-[13:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
-[13:21:33] [Server thread/INFO]: [Not Secure] <SamWise> ye varun ka bhi skin ladki ka hi hai
-[13:21:41] [Server thread/INFO]: [Not Secure] <Eclipse> bhai
-[13:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3840ms or 76 ticks behind
-[13:21:46] [Server thread/INFO]: [Not Secure] <SamWise> dont fall in now on mwill save u ye shall be killed
-[13:21:48] [Server thread/INFO]: [Not Secure] <Eclipse> yeh pivla kombdi
-[13:21:51] [Server thread/INFO]: [Not Secure] <Eclipse> kyu he
-[13:21:57] [Server thread/INFO]: [Not Secure] <SamWise> vo chicks hai
-[13:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
-[13:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2590ms or 51 ticks behind
-[13:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
-[13:22:39] [Server thread/INFO]: SamWise lost connection: Disconnected
-[13:22:39] [Server thread/INFO]: SamWise left the game
-[13:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[13:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[13:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
-[13:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2980ms or 59 ticks behind
-[13:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
-[13:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3455ms or 69 ticks behind
-[13:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2450ms or 49 ticks behind
-[13:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[13:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
-[13:25:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
-[13:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
-[13:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
-[13:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
-[13:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
-[13:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
-[13:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[13:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
-[13:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
-[13:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
-[13:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2999ms or 59 ticks behind
-[13:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
-[13:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6138ms or 122 ticks behind
-[13:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7358ms or 147 ticks behind
-[13:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7124ms or 142 ticks behind
-[13:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6554ms or 131 ticks behind
-[13:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6877ms or 137 ticks behind
-[13:30:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6550ms or 131 ticks behind
-[13:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
-[13:31:30] [Server thread/INFO]: Varun311004 has made the advancement [Isn't It Iron Pick]
-[13:31:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7320ms or 146 ticks behind
-[13:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
-[13:32:17] [Server thread/INFO]: [Not Secure] <Eclipse> banao banao
-[13:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7585ms or 151 ticks behind
-[13:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7424ms or 148 ticks behind
-[13:33:05] [Server thread/INFO]: Eclipse has made the advancement [Suit Up]
-[13:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8126ms or 162 ticks behind
-[13:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8357ms or 167 ticks behind
-[13:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7189ms or 143 ticks behind
-[13:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7521ms or 150 ticks behind
-[13:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7901ms or 158 ticks behind
-[13:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6344ms or 126 ticks behind
-[13:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4560ms or 91 ticks behind
-[13:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
-[13:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4308ms or 86 ticks behind
-[13:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
-[13:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5331ms or 106 ticks behind
-[13:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5414ms or 108 ticks behind
-[13:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
-[13:37:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
-[13:37:46] [Server thread/INFO]: Eclipse has made the advancement [Monster Hunter]
-[13:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5686ms or 113 ticks behind
-[13:38:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5130ms or 102 ticks behind
-[13:38:22] [Server thread/INFO]: Varun311004 has made the advancement [Monster Hunter]
-[13:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5239ms or 104 ticks behind
-[13:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5440ms or 108 ticks behind
-[13:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
-[13:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
-[13:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3941ms or 78 ticks behind
-[13:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
-[13:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
-[13:40:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
-[13:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3534ms or 70 ticks behind
-[13:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
-[13:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
-[13:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3765ms or 75 ticks behind
-[13:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
-[13:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
-[13:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3549ms or 70 ticks behind
-[13:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
-[13:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
-[13:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3146ms or 62 ticks behind
-[13:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
-[13:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
-[13:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
-[13:45:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4056ms or 81 ticks behind
-[13:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7116ms or 142 ticks behind
-[13:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5497ms or 109 ticks behind
-[13:46:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5215ms or 104 ticks behind
-[13:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
-[13:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7068ms or 141 ticks behind
-[13:47:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7164ms or 143 ticks behind
-[13:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7839ms or 156 ticks behind
-[13:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9167ms or 183 ticks behind
-[13:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8304ms or 166 ticks behind
-[13:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8594ms or 171 ticks behind
-[13:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8742ms or 174 ticks behind
-[13:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9318ms or 186 ticks behind
-[13:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
-[13:50:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6503ms or 130 ticks behind
-[13:50:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5949ms or 118 ticks behind
-[13:51:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5563ms or 111 ticks behind
-[13:51:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
-[13:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4543ms or 90 ticks behind
-[13:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
-[13:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
-[13:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
-[13:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4392ms or 87 ticks behind
-[13:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
-[13:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
-[13:54:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3952ms or 79 ticks behind
-[13:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
-[13:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3594ms or 71 ticks behind
-[13:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
-[13:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3645ms or 72 ticks behind
-[13:55:31] [Server thread/INFO]: Huriking lost connection: Disconnected
-[13:55:31] [Server thread/INFO]: Huriking left the game
-[14:01:56] [Server thread/INFO]: Eclipse has made the advancement [Sweet Dreams]
-[14:15:22] [Server thread/INFO]: Huriking[/43.255.222.79:57889] logged in with entity id 26785 at (-171.67183561703388, 114.0, 0.07547889047100823)
-[14:15:22] [Server thread/INFO]: Huriking joined the game
-[14:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[14:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
-[14:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4884ms or 97 ticks behind
-[14:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4348ms or 86 ticks behind
-[14:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4107ms or 82 ticks behind
-[14:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
-[14:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
-[14:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3657ms or 73 ticks behind
-[14:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4193ms or 83 ticks behind
-[14:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
-[14:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4127ms or 82 ticks behind
-[14:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5215ms or 104 ticks behind
-[14:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
-[14:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
-[14:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[14:20:15] [Server thread/INFO]: Varun311004 lost connection: Disconnected
-[14:20:15] [Server thread/INFO]: Varun311004 left the game
-[14:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[14:21:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[14:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[14:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[14:23:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[14:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[14:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[14:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[14:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[14:25:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[14:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[14:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[14:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[14:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[14:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[14:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[14:28:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[14:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[14:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[14:28:46] [Server thread/INFO]: XFighter009[/103.145.18.150:48065] logged in with entity id 33416 at (-145.13485560510296, 101.0, 39.97554566576482)
-[14:28:46] [Server thread/INFO]: XFighter009 joined the game
-[14:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4790ms or 95 ticks behind
-[14:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind
-[14:29:44] [Server thread/INFO]: XFighter009 lost connection: You logged in from another location
-[14:29:44] [Server thread/INFO]: XFighter009 left the game
-[14:29:46] [Server thread/INFO]: XFighter009[/103.145.18.150:48118] logged in with entity id 33780 at (-146.20499607885375, 101.0, 40.2941229473385)
-[14:29:46] [Server thread/INFO]: XFighter009 joined the game
-[14:29:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4594ms or 91 ticks behind
-[14:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
-[14:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
-[14:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4183ms or 83 ticks behind
-[14:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
-[14:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
-[14:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7445ms or 148 ticks behind
-[14:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7555ms or 151 ticks behind
-[14:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
-[14:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6459ms or 129 ticks behind
-[14:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6980ms or 139 ticks behind
-[14:33:33] [Server thread/INFO]: [Not Secure] <XFighter009> ecliose kon
-[14:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8276ms or 165 ticks behind
-[14:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7705ms or 154 ticks behind
-[14:34:01] [Server thread/INFO]: Copper[/103.77.153.206:33095] logged in with entity id 35679 at (-121.72652373404617, 132.0, 84.93458510001702)
-[14:34:01] [Server thread/INFO]: Copper joined the game
-[14:34:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10945ms or 218 ticks behind
-[14:34:37] [Server thread/INFO]: beast_07[/106.192.49.156:56276] logged in with entity id 36107 at (-147.5, 98.0, 48.5)
-[14:34:37] [Server thread/INFO]: beast_07 joined the game
-[14:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13424ms or 268 ticks behind
-[14:35:07] [Server thread/INFO]: [Not Secure] <Huriking> harshit me nikal dunga dw, sirf sword bana raha hu crazy wala
-[14:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14517ms or 290 ticks behind
-[14:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13231ms or 264 ticks behind
-[14:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13291ms or 265 ticks behind
-[14:36:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13860ms or 277 ticks behind
-[14:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13579ms or 271 ticks behind
-[14:37:17] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[14:37:17] [Server thread/INFO]: XFighter009 left the game
-[14:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10900ms or 218 ticks behind
-[14:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12325ms or 246 ticks behind
-[14:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10611ms or 212 ticks behind
-[14:38:43] [Server thread/INFO]: XFighter009[/103.145.18.150:48241] logged in with entity id 38702 at (74.48247519139098, 87.0, -303.3068201900735)
-[14:38:43] [Server thread/INFO]: XFighter009 joined the game
-[14:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12058ms or 241 ticks behind
-[14:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13815ms or 276 ticks behind
-[14:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13050ms or 261 ticks behind
-[14:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12498ms or 249 ticks behind
-[14:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13219ms or 264 ticks behind
-[14:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13271ms or 265 ticks behind
-[14:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13136ms or 262 ticks behind
-[14:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11155ms or 223 ticks behind
-[14:42:39] [Server thread/INFO]: [Not Secure] <Copper> server thoda lag kr rha hai kya
-[14:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11743ms or 234 ticks behind
-[14:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9098ms or 181 ticks behind
-[14:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10780ms or 215 ticks behind
-[14:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11224ms or 224 ticks behind
-[14:44:01] [Server thread/INFO]: [Not Secure] <Eclipse> yes
-[14:44:04] [Server thread/INFO]: [Not Secure] <Huriking> brrooo
-[14:44:25] [Server thread/INFO]: [Not Secure] <XFighter009> bhot lag
-[14:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11668ms or 233 ticks behind
-[14:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19127ms or 382 ticks behind
-[14:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13702ms or 274 ticks behind
-[14:45:40] [Server thread/INFO]: [Not Secure] <beast_07> lag kam karna hai toh mere farm mai aao inko ktm karo
-[14:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12967ms or 259 ticks behind
-[14:46:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12471ms or 249 ticks behind
-[14:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12792ms or 255 ticks behind
-[14:47:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14685ms or 293 ticks behind
-[14:47:39] [Server thread/INFO]: [Not Secure] <Huriking> kaun bola thodne mc
-[14:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11092ms or 221 ticks behind
-[14:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14150ms or 283 ticks behind
-[14:48:34] [Server thread/INFO]: [Not Secure] <Copper> sabko marna hai
-[14:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12685ms or 253 ticks behind
-[14:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11062ms or 221 ticks behind
-[14:49:27] [Server thread/INFO]: Set the weather to clear
-[14:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9473ms or 189 ticks behind
-[14:49:38] [Server thread/INFO]: [Not Secure] <beast_07> lava hai kisi pe
-[14:49:43] [Server thread/INFO]: [Not Secure] <Huriking> chup
-[14:49:46] [Server thread/INFO]: [Not Secure] <Huriking> khana chahiye
-[14:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8871ms or 177 ticks behind
-[14:50:00] [Server thread/INFO]: [Not Secure] <Copper> maar kise rhe ho
-[14:50:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8209ms or 164 ticks behind
-[14:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7639ms or 152 ticks behind
-[14:51:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6391ms or 127 ticks behind
-[14:51:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6067ms or 121 ticks behind
-[14:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6096ms or 121 ticks behind
-[14:51:53] [Server thread/INFO]: [Not Secure] <XFighter009> YAAAR HUNER BAR FULL NHI HORA
-[14:52:01] [Server thread/INFO]: [Not Secure] <XFighter009> SEVER BC
-[14:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
-[14:52:22] [Server thread/INFO]: [Not Secure] <XFighter009> HOGYA
-[14:55:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[14:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
-[14:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
-[14:58:07] [Server thread/INFO]: Time marker ResourceKey[minecraft:clock_time_marker / minecraft:dat] does not exist for clock minecraft:overworld
-[14:58:14] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
-[14:58:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
-[15:00:19] [Server thread/INFO]: beast_07 was slain by Enderman
-[15:00:47] [Server thread/INFO]: Eclipse lost connection: Disconnected
-[15:00:47] [Server thread/INFO]: Eclipse left the game
-[15:01:22] [Server thread/INFO]: [Not Secure] <Huriking> harshit fence nahi thodna tha
-[15:01:30] [Server thread/INFO]: [Not Secure] <Huriking> andhar hi mar dete
-[15:01:40] [Server thread/INFO]: [Not Secure] <beast_07> are woh marte marte tu gya
-[15:01:49] [Server thread/INFO]: [Not Secure] <Huriking> me bola na rukh
-[15:02:04] [Server thread/INFO]: [Not Secure] <Huriking> fire aspect mar raha tha sword pe, phir direct cooked milta
-[15:05:00] [Server thread/INFO]: Huriking lost connection: Timed out
-[15:05:00] [Server thread/INFO]: Huriking left the game
-[15:11:26] [Server thread/INFO]: [Not Secure] <Copper> bhai ye lava ka flow apne village lete hai
-[15:17:20] [Server thread/INFO]: [Not Secure] <XFighter009> KIDR HAI
-[15:18:09] [Server thread/INFO]: Copper fell from a high place
-[15:20:09] [Server thread/INFO]: [Not Secure] <Copper> sleep
-[15:21:04] [Server thread/INFO]: XFighter009 lost connection: Timed out
-[15:21:04] [Server thread/INFO]: XFighter009 left the game
-[15:21:19] [Server thread/INFO]: XFighter009[/42.106.249.109:20960] logged in with entity id 64230 at (-250.32389629900803, 102.0, -212.41212275341445)
-[15:21:19] [Server thread/INFO]: XFighter009 joined the game
-[15:21:26] [Server thread/INFO]: XFighter009 was shot by Skeleton
-[15:22:05] [Server thread/INFO]: [Not Secure] <beast_07> koi so jao
-[15:22:52] [Server thread/INFO]: XFighter009 tried to swim in lava
-[15:23:03] [Server thread/INFO]: [Not Secure] <XFighter009> saman kab despawn hoga
-[15:24:04] [Server thread/INFO]: [Not Secure] <Copper> so jao
-[15:24:27] [Server thread/INFO]: XFighter009 tried to swim in lava
-[15:26:13] [Server thread/INFO]: Copper was blown up by Creeper
-[15:26:34] [Server thread/INFO]: Copper lost connection: Disconnected
-[15:26:34] [Server thread/INFO]: Copper left the game
-[15:27:11] [Server thread/INFO]: XFighter009 drowned
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -9.823165118368987,0.0,3.1535747080040437
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -10.198577460561065,0.0,3.2894677870284568
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -10.57500981059788,0.0,3.422403099425992
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -10.952602959740549,0.0,3.551752924327502
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -11.331441203965387,0.0,3.6770365510926126
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -11.711564464322972,0.0,3.7979036038794334
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -12.092979098403493,0.0,3.914114849791133
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -12.475667943579655,0.0,4.025516992736868
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -12.859595667887692,0.0,4.132034781966411
-[15:28:08] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -13.244714938100511,0.0,4.23365238649717
-[15:30:27] [Server thread/INFO]: XFighter009 fell from a high place
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -8.631977891482961,0.0,-5.800747005846603
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -8.963969539929394,0.0,-6.023864480714863
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -9.295961024170083,0.0,-6.246982214346502
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -9.627952360625727,0.0,-6.470100180865174
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -9.959943564074706,0.0,-6.693218356982172
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -10.291934647817698,0.0,-6.91633672173765
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -10.623925623825357,0.0,-7.139455256267766
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -10.955916502871219,0.0,-7.362573943595052
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -11.287907294651404,0.0,-7.585692768439785
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -11.619898007892516,0.0,-7.8088117170502045
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -11.951888650448495,0.0,-8.031930777049752
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -12.283879229387821,0.0,-8.255049937299518
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -12.615869751072069,0.0,-8.47816918777447
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -12.947860221226847,0.0,-8.701288519452078
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -13.279850645005126,0.0,-8.92440792421209
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -13.611841027044534,0.0,-9.147527394746263
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -13.943831371518968,0.0,-9.370646924477171
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -14.27582168218487,0.0,-9.593766507485142
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -14.60781196242317,0.0,-9.81688613844247
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -14.939802215276586,0.0,-10.040005812554213
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -15.271792443483605,0.0,-10.263125525504933
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -15.603782649508844,0.0,-10.48624527341073
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -15.93577283557056,0.0,-10.709365052776093
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -16.267763003665095,0.0,-10.932484860455077
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -16.599753155589156,0.0,-11.155604693616311
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -16.93174329295971,0.0,-11.378724549711563
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -17.263733417232174,0.0,-11.601844426447443
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -17.595723529716338,0.0,-11.824964321759879
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -17.92771363159102,0.0,-12.048084233791215
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -18.259703723917255,0.0,-12.271204160869559
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -18.59169380764979,0.0,-12.494324101490221
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -18.923683883648096,0.0,-12.717444054298952
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -19.25567395268547,0.0,-12.940564018076955
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -19.58766401545813,0.0,-13.16368399172731
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -19.919654072592493,0.0,-13.386803974262776
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -20.25164412465233,0.0,-13.609923964794831
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -20.58363417214514,0.0,-13.833043962523831
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -20.9156242155276,0.0,-14.056163966730068
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -21.247614255210806,0.0,-14.279283976765825
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -21.579604291564692,0.0,-14.502403992048144
-[15:30:45] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -13.611608264336496,0.0,-9.147894193559154
-[15:31:33] [Server thread/INFO]: Huriking[/139.5.44.142:44319] logged in with entity id 72287 at (-126.60693222673505, 102.0, 30.36773412047014)
-[15:31:33] [Server thread/INFO]: Huriking joined the game
-[15:31:54] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[15:31:54] [Server thread/INFO]: XFighter009 left the game
-[15:31:57] [Server thread/INFO]: beast_07 was slain by Guardian
-[15:35:01] [Server thread/INFO]: beast_07 froze to death
-[15:36:26] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 0.11906809551824438,0.0,-10.696358678321275
-[15:36:26] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 0.1433318889018267,0.0,-12.493913779423949
-[15:36:26] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 0.16706438746724928,0.0,-14.295517785819115
-[15:36:27] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 0.0,0.0,-10.346947272286833
-[15:36:27] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 0.0,0.0,-12.008039631909817
-[15:36:28] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! 0.0,0.0,-10.716263356988858
-[15:36:32] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! -10.711695838906891,0.0,-0.14511466215031987
-[15:36:32] [Server thread/WARN]: Oak Boat (vehicle of Huriking) moved too quickly! -12.278585298841186,0.0,-0.17160713775581904
-[15:36:53] [Server thread/INFO]: Varun311004[/223.236.96.254:31667] logged in with entity id 75185 at (198.55695219933435, 104.0, 567.8414778556574)
-[15:36:53] [Server thread/INFO]: Varun311004 joined the game
-[15:38:26] [Server thread/INFO]: [Not Secure] <Huriking> meri boar thi idhra
-[15:38:29] [Server thread/INFO]: [Not Secure] <Huriking> kidr gayi
-[15:38:51] [Server thread/INFO]: [Not Secure] <Varun311004> boar?
-[15:38:59] [Server thread/INFO]: [Not Secure] <Huriking> boat
-[15:39:05] [Server thread/INFO]: [Not Secure] <Varun311004> oh
-[15:39:10] [Server thread/INFO]: [Not Secure] <Varun311004> nahh dont know
-[15:40:40] [Server thread/INFO]: [Not Secure] <Huriking> harshit tune li kya?
-[15:41:35] [Server thread/INFO]: SamWise[/103.195.202.212:50807] logged in with entity id 79346 at (-181.2759374617942, 108.0, 6.067503632785066)
-[15:41:35] [Server thread/INFO]: SamWise joined the game
-[15:41:57] [Server thread/INFO]: shikamaru2o[/49.36.108.75:51497] logged in with entity id 79670 at (-187.05000001192093, 103.125, 29.600369100119266)
-[15:41:57] [Server thread/INFO]: shikamaru2o joined the game
-[15:42:04] [Server thread/INFO]: [Not Secure] <SamWise> bro what hapened to all cows
-[15:42:10] [Server thread/INFO]: [Not Secure] <SamWise> chicken farms
-[15:42:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> saale sahil tune sabko kyumara
-[15:42:32] [Server thread/INFO]: [Not Secure] <Huriking> i rage killed every mob in sight
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -10.004643780755842,0.0,-2.561640993377864
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -10.37772613935185,0.0,-2.702714974018818
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -10.750263295404807,0.0,-2.8454447596396903
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -11.122290092198668,0.0,-2.9897105758724365
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -11.493840876370967,0.0,-3.1353975626383317
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -11.864946511465902,0.0,-3.2824023253803034
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -12.235636268513929,0.0,-3.430628273698744
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -12.60593950892688,0.0,-3.579981429849795
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -12.975882643073575,0.0,-3.73037720269042
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -13.345490949027862,0.0,-3.8817359379319214
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -13.714788696974054,0.0,-4.03398242445428
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -14.083512190301377,0.0,-4.187685844155453
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -14.451137016294851,0.0,-4.343914253553521
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -14.817214549917807,0.0,-4.5034905797350575
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -15.181369992779992,0.0,-4.667031725266611
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -15.543296182564106,0.0,-4.834986435509222
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -15.902749824550241,0.0,-5.007662086945061
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -16.259542422645637,0.0,-5.185254699393454
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -16.61353920281381,0.0,-5.367862560173762
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -16.964648674472798,0.0,-5.555510816562332
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -17.312818842315778,0.0,-5.748163649440016
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -17.658030988080853,0.0,-5.945738051481385
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -18.000295836206234,0.0,-6.148112844961929
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -18.339644988096524,0.0,-6.355142599923056
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -18.676132339923697,0.0,-6.566657881964261
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -19.00982801423821,0.0,-6.782474358210379
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -19.340815053499554,0.0,-7.002397829910251
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -19.669186265439862,0.0,-7.226228633253413
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -19.995041242330274,0.0,-7.453765493933702
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -20.3184835479355,0.0,-7.684808899399286
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -20.639620623975546,0.0,-7.9191611722714015
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -20.958563670550987,0.0,-8.156626515932658
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -21.274952483918923,0.0,-8.397532812264558
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -21.588021908793493,0.0,-8.642597468762233
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -21.89663821706401,0.0,-8.892801422692855
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -22.19986927578273,0.0,-9.148822511123285
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -22.49696713132009,0.0,-9.411098166758165
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -22.787353018695512,0.0,-9.6798739130503
-[15:42:41] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved too quickly! -13.439619241950709,0.0,-7.532896455859827
-[15:42:42] [Server thread/INFO]: [Not Secure] <SamWise> bruh why
-[15:42:57] [Server thread/INFO]: [Not Secure] <SamWise> why do i still hear them here
-[15:43:12] [Server thread/INFO]: [Not Secure] <SamWise> lol look here
-[15:43:27] [Server thread/WARN]: Cherry Boat with Chest (vehicle of beast_07) moved wrongly! 0.3210842293335645
-[15:43:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> mat na
-[15:43:44] [Server thread/INFO]: [Not Secure] <SamWise> sahil why but
-[15:43:46] [Server thread/INFO]: [Not Secure] <Huriking> lao na vapas
-[15:43:57] [Server thread/INFO]: [Not Secure] <Huriking> tum log uncontrolled breed karte ho
-[15:44:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> inko mat mar
-[15:44:03] [Server thread/INFO]: [Not Secure] <Huriking> server 4sec piche chalta hai phir
-[15:44:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> ek do ko toh rakhne ka na
-[15:44:26] [Server thread/INFO]: [Not Secure] <Varun311004> server actually slow ho raha tha jab mene or omkar ne join kiya
-[15:44:30] [Server thread/INFO]: [Not Secure] <Huriking> phirse vohi karega
-[15:44:49] [Server thread/INFO]: [Not Secure] <SamWise> atleast keep chicken farm yrr
-[15:44:51] [Server thread/INFO]: [Not Secure] <Huriking> cow ka 1 x 1 farm dekh online aur vo bana
-[15:44:55] [Server thread/INFO]: [Not Secure] <SamWise> its free xp
-[15:45:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> nigga cows laye kaha se
-[15:45:02] [Server thread/INFO]: [Not Secure] <Huriking> chicken farm me bhi eggs lag karte hai
-[15:45:20] [Server thread/INFO]: [Not Secure] <Huriking> bro aisa kya act kar raha hai ki cow spawn nahi honge
-[15:45:22] [Server thread/INFO]: [Not Secure] <SamWise> just one chick farm please
-[15:45:32] [Server thread/INFO]: Huriking was burned to a crisp while fighting shikamaru2o
-[15:45:48] [Server thread/INFO]: [Not Secure] <Huriking> gand maro
-[15:45:50] [Server thread/INFO]: [Not Secure] <SamWise> bc naya log aaya aur anarchy chaalu hogaya
-[15:46:03] [Server thread/INFO]: [Not Secure] <Huriking> phirse vaise karo breed me phirse dab ko marunga
-[15:46:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> wait is bar nhi
-[15:46:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> last time pheli baar tha yaar sabka
-[15:46:21] [Server thread/INFO]: [Not Secure] <Huriking> chicken thode
-[15:46:23] [Server thread/INFO]: [Not Secure] <SamWise> shika gimme an ender pearl na
-[15:46:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> iss bar dekhe karenge
-[15:46:31] [Server thread/INFO]: [Not Secure] <Huriking> cow ka similar hota hai but better
-[15:46:52] [Server thread/INFO]: [Not Secure] <SamWise> idhar kya karray
-[15:46:56] [Server thread/INFO]: [Not Secure] <Huriking> lead lo aur 2 cows lao
-[15:47:04] [Server thread/INFO]: beast_07 was slain by Guardian
-[15:47:11] [Server thread/INFO]: [Not Secure] <Huriking> expand kiya hai
-[15:47:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> varun kiska dost
-[15:47:26] [Server thread/INFO]: [Not Secure] <Varun311004> omkar ka
-[15:47:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> omkar whoo
-[15:47:35] [Server thread/INFO]: [Not Secure] <Huriking> oh
-[15:47:38] [Server thread/INFO]: [Not Secure] <SamWise> mera dost
-[15:47:38] [Server thread/INFO]: [Not Secure] <Huriking> abb omkar kaun
-[15:47:41] [Server thread/INFO]: [Not Secure] <Varun311004> sam ka dost
-[15:47:47] [Server thread/INFO]: [Not Secure] <Huriking> sameep tera dost nahi hai bola
-[15:47:50] [Server thread/INFO]: [Not Secure] <Huriking> hawwww
-[15:48:01] [Server thread/INFO]: [Not Secure] <Varun311004> sameep ka dost omkar he and me omkar ka dost hu
-[15:48:04] [Server thread/INFO]: [Not Secure] <SamWise> weve played like 2 valo games together
-[15:48:11] [Server thread/INFO]: beast_07 was slain by Piglin
-[15:48:12] [Server thread/INFO]: [Not Secure] <Huriking> ohk
-[15:48:22] [Server thread/INFO]: [Not Secure] <Huriking> harshit kya chal raha hai
-[15:48:29] [Server thread/INFO]: [Not Secure] <SamWise> chud rha hai vo
-[15:48:32] [Server thread/INFO]: [Not Secure] <SamWise> guardians se
-[15:48:45] [Server thread/INFO]: [Not Secure] <Varun311004> if we are being the problem let us know
-[15:48:54] [Server thread/INFO]: [Not Secure] <Huriking> nah
-[15:48:56] [Server thread/INFO]: [Not Secure] <Huriking> chill
-[15:49:01] [Server thread/INFO]: [Not Secure] <beast_07> are dimag kharab ho gya hai loot se jyada toh saman ja rha hai
-[15:49:08] [Server thread/INFO]: [Not Secure] <Huriking> more the merrier
-[15:49:13] [Server thread/INFO]: [Not Secure] <SamWise> anyone oen enderpearl pls
-[15:49:26] [Server thread/INFO]: [Not Secure] <beast_07> bht hua kal hi khel ta
-[15:49:30] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[15:49:30] [Server thread/INFO]: beast_07 left the game
-[15:49:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> none of the traders have pearls?
-[15:49:37] [Server thread/INFO]: [Not Secure] <Varun311004> i got one
-[15:49:39] [Server thread/INFO]: [Not Secure] <SamWise> kidr hai traders
-[15:50:05] [Server thread/INFO]: [Not Secure] <Huriking> mere idhar se cow lake kar cow farm
-[15:50:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> terepe lead hai?
-[15:50:45] [Server thread/INFO]: [Not Secure] <Huriking> nahi
-[15:50:55] [Server thread/INFO]: [Not Secure] <SamWise> mere pas 21 slime hai bana le
-[15:50:58] [Server thread/INFO]: [Not Secure] <SamWise> recepie ya hai
-[15:51:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> i dont have threads
-[15:51:18] [Server thread/INFO]: [Not Secure] <SamWise> wait string se hotay damn
-[15:51:40] [Server thread/INFO]: [Not Secure] <Huriking> trident hai na
-[15:51:46] [Server thread/INFO]: [Not Secure] <SamWise> bruh
-[15:51:49] [Server thread/INFO]: [Not Secure] <Huriking> kar heads farm
-[15:51:56] [Server thread/INFO]: [Not Secure] <Huriking> ya riptide
-[15:51:56] [Server thread/INFO]: [Not Secure] <SamWise> get this out
-[15:52:14] [Server thread/INFO]: [Not Secure] <SamWise> uk if u keep shit liek this enchanting table ke around kle bookshelves dont work
-[15:52:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> ohhh
-[15:52:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> idk i got density 5 wit it being around
-[15:54:04] [Server thread/INFO]: [Not Secure] <SamWise> wtf is all the emeralds
-[15:54:09] [Server thread/INFO]: [Not Secure] <Huriking> mere boat me the
-[15:54:16] [Server thread/INFO]: [Not Secure] <Huriking> boat malum nahi kidr gayi
-[15:54:23] [Server thread/INFO]: [Not Secure] <Huriking> bed ke baju me rakhi thi
-[15:56:43] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:56:43] [Server thread/INFO]: shikamaru2o left the game
-[15:57:30] [Server thread/INFO]: shikamaru2o[/49.36.108.75:56590] logged in with entity id 91177 at (106.03391418022775, 111.0, 68.42530365703716)
-[15:57:30] [Server thread/INFO]: shikamaru2o joined the game
-[15:59:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> how many lvls did u gain from killing them all
-[16:00:01] [Server thread/INFO]: [Not Secure] [Server] Server restarting for backup in 10 seconds...
-[16:00:04] [Server thread/INFO]: SamWise fell from a high place
-[16:00:11] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:00:12] [Server thread/INFO]: Saved the game
-[16:00:13] [Server thread/INFO]: [Not Secure] <Huriking> next time ask before killing me
-[16:00:16] [Server thread/INFO]: Stopping the server
-[16:00:16] [Server thread/INFO]: Stopping server
-[16:00:16] [Server thread/INFO]: Saving players
-[16:00:17] [Server thread/INFO]: Varun311004 lost connection: Server closed
-[16:00:17] [Server thread/INFO]: Varun311004 left the game
-[16:00:17] [Server thread/INFO]: shikamaru2o lost connection: Server closed
-[16:00:17] [Server thread/INFO]: shikamaru2o left the game
-[16:00:17] [Server thread/INFO]: Saving worlds
-[16:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:07:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> raid?
+[00:07:52] [Server thread/INFO]: [Not Secure] <SamWise> no bhi
+[00:07:56] [Server thread/INFO]: [Not Secure] <SamWise> i wanna sleep
+[00:07:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> why
+[00:08:05] [Server thread/INFO]: [Not Secure] <SamWise> did u max enchant
+[00:08:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> yea i think so
+[00:08:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> can u give me some blaze to make ender chest too
+[00:09:12] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[00:09:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks
+[00:09:51] [Server thread/INFO]: [Not Secure] <SamWise> some thing else for my best fried
+[00:10:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> all this netherite is quite heavy
+[00:10:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> yo thanks
+[00:10:32] [Server thread/INFO]: [Not Secure] <SamWise> 16 diamonds from 6 diamond blocks
+[00:11:30] [Server thread/INFO]: [Not Secure] <SamWise> are u doing it rn?
+[00:11:38] [Server thread/INFO]: [Not Secure] <SamWise> trim?
+[00:11:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> nhi
+[00:11:45] [Server thread/INFO]: [Not Secure] <SamWise> pchh i wanna see
+[00:11:56] [Server thread/INFO]: [Not Secure] <SamWise> can u arrange 5 diamonds
+[00:12:01] [Server thread/INFO]: [Not Secure] <SamWise> i mean 7 diamonds
+[00:12:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> yea wait
+[00:12:27] [Server thread/INFO]: [Not Secure] <SamWise> what colour will u do for trimming
+[00:12:35] [Server thread/INFO]: [Not Secure] <SamWise> min u also need breeze rods
+[00:12:39] [Server thread/INFO]: [Not Secure] <SamWise> 3
+[00:12:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> wait im new to trimming
+[00:13:11] [Server thread/INFO]: [Not Secure] <SamWise> so that flow thing right
+[00:13:20] [Server thread/INFO]: [Not Secure] <SamWise> u can replicate it using breeze rods and diamonds
+[00:13:30] [Server thread/INFO]: [Not Secure] <SamWise> similar to netherite template
+[00:13:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> right instead of netherrack
+[00:13:48] [Server thread/INFO]: [Not Secure] <SamWise> in place of netherack in centre u have to place breeze rod
+[00:13:53] [Server thread/INFO]: [Not Secure] <SamWise> each armor trim is diff
+[00:13:59] [Server thread/INFO]: [Not Secure] <SamWise> for ward i needed deepslate
+[00:14:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> i have only 2 breeze
+[00:14:15] [Server thread/INFO]: [Not Secure] <SamWise> i go t you homie
+[00:14:33] [Server thread/INFO]: [Not Secure] <SamWise> think of what colour u enchant it with
+[00:14:36] [Server thread/INFO]: [Not Secure] <SamWise> diaomnd
+[00:14:38] [Server thread/INFO]: [Not Secure] <SamWise> emerald
+[00:14:40] [Server thread/INFO]: [Not Secure] <SamWise> redstone
+[00:14:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> eye of ender bana na padega na ender chest ke liye?
+[00:14:51] [Server thread/INFO]: [Not Secure] <SamWise> ya
+[00:14:55] [Server thread/INFO]: [Not Secure] <SamWise> vo chod re
+[00:14:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> hmm
+[00:14:58] [Server thread/INFO]: [Not Secure] <SamWise> pehle trim kar
+[00:15:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> lets go redstone to get a villainy look
+[00:15:32] [Server thread/INFO]: [Not Secure] <SamWise> ameythyst bhi hai purple ke liye
+[00:15:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> hmm redstone only
+[00:15:52] [Server thread/INFO]: [Not Secure] <SamWise> honestly flow ke saath redston would look good
+[00:15:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
+[00:15:58] [Server thread/INFO]: [Not Secure] <SamWise> gave
+[00:16:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> should i replicate it???
+[00:16:16] [Server thread/INFO]: [Not Secure] <SamWise> ya
+[00:16:29] [Server thread/INFO]: [Not Secure] <SamWise> here i sponsor one for the cause
+[00:17:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> aight got 3
+[00:17:22] [Server thread/INFO]: [Not Secure] <SamWise> how many in total
+[00:17:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> 3 trims
+[00:17:36] [Server thread/INFO]: [Not Secure] <SamWise> make one more
+[00:17:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> aur 4 diamond chahiye phir
+[00:17:55] [Server thread/INFO]: [Not Secure] <SamWise> for the cause
+[00:18:00] [Server thread/INFO]: [Not Secure] <SamWise> sameeps love
+[00:18:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> ho gaya 4 thanks baby
+[00:18:17] [Server thread/INFO]: [Not Secure] <SamWise> varun bc sochrha hoga konsa gay server join kiya hai
+[00:18:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> hes not wrong in thinking that
+[00:18:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> redstone dust chalega kya
+[00:18:52] [Server thread/INFO]: [Not Secure] <SamWise> ya
+[00:18:55] [Server thread/INFO]: [Not Secure] <SamWise> wahi chahiye
+[00:18:57] [Server thread/INFO]: [Not Secure] <SamWise> get 4
+[00:19:51] [Server thread/INFO]: [Not Secure] <SamWise> damnnn
+[00:19:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> its time for anarchy
+[00:20:09] [Server thread/INFO]: [Not Secure] <SamWise> idhar dekh
+[00:20:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> i straight up look like a villain
+[00:20:17] [Server thread/INFO]: [Not Secure] <SamWise> take some wepon in hand
+[00:20:43] [Server thread/INFO]: [Not Secure] <SamWise> eko bhejtay ss
+[00:20:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> grp pe bhi bhej
+[00:22:03] [Server thread/INFO]: [Not Secure] <SamWise> mind u i have 2 flo armor trims stored in chest
+[00:22:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> damn
+[00:22:10] [Server thread/INFO]: [Not Secure] <SamWise> baadmein mereko karne ka man kara toh
+[00:22:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> nice
+[00:22:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu purple kar
+[00:22:22] [Server thread/INFO]: [Not Secure] <SamWise> flow loks good yaar
+[00:22:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> haana
+[00:22:30] [Server thread/INFO]: [Not Secure] <SamWise> from behind
+[00:22:39] [Server thread/INFO]: [Not Secure] <SamWise> ward peechese kuch hai hi nahi
+[00:22:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> mera ss bhejna grp pe
+[00:22:42] [Server thread/INFO]: [Not Secure] <SamWise> see
+[00:23:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> ha rey
+[00:23:09] [Server thread/INFO]: [Not Secure] <SamWise> samne se its nice
+[00:23:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> yeah
+[00:23:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> its like were power rangers
+[00:23:46] [Server thread/INFO]: [Not Secure] <SamWise> lol red ranger
+[00:23:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> yesss
+[00:23:58] [Server thread/INFO]: [Not Secure] <SamWise> but i like this
+[00:24:06] [Server thread/INFO]: [Not Secure] <SamWise> his color and all matches with warden
+[00:24:21] [Server thread/INFO]: [Not Secure] <SamWise> see
+[00:24:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> true tho
+[00:26:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> bhai kon saare obisidian liya portals se
+[00:26:52] [Server thread/INFO]: [Not Secure] <SamWise> lmoa that might be me
+[00:27:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> 8 hai?
+[00:27:15] [Server thread/INFO]: [Not Secure] <SamWise> actually
+[00:27:16] [Server thread/INFO]: [Not Secure] <SamWise> ya
+[00:27:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks man
+[00:27:48] [Server thread/INFO]: [Not Secure] <SamWise> love
+[00:27:58] [Server thread/INFO]: [Not Secure] <SamWise> in case u didnt knoww
+[00:28:04] [Server thread/INFO]: [Not Secure] <SamWise> baby how much i love you
+[00:28:08] [Server thread/INFO]: [Not Secure] <SamWise> even thought
+[00:28:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> i love u too
+[00:28:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> whole lots
+[00:29:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> i feel so light removing all armour
+[00:29:10] [Server thread/INFO]: [Not Secure] <SamWise> byee
+[00:29:12] [Server thread/INFO]: [Not Secure] <SamWise> lol
+[00:29:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> gn baby
+[00:29:17] [Server thread/INFO]: [Not Secure] <SamWise> aisa bhi hai kya kuch
+[00:29:19] [Server thread/INFO]: [Not Secure] <SamWise> gn
+[00:29:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> mentally
+[00:29:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> now i feel like a freed women
+[00:29:44] [Server thread/INFO]: [Not Secure] <SamWise> armor aisa hai display stand pe rakne ko dar lagta
+[00:29:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> wohi na
+[00:29:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> mere ek stand se copper armour liya
+[00:30:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> netherite toh no way
+[00:30:05] [Server thread/INFO]: [Not Secure] <SamWise> ik
+[00:30:18] [Server thread/INFO]: [Not Secure] <SamWise> isliye mai bhi banaya tha ender chest
+[00:30:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> bohot mast idea tha
+[00:30:54] [Server thread/INFO]: [Not Secure] <SamWise> i wanna kil this fucker
+[00:31:04] [Server thread/INFO]: [Not Secure] <SamWise> power 4 for 1 emerald bas
+[00:31:09] [Server thread/INFO]: [Not Secure] <SamWise> aur kuch kaam ka nahi
+[00:31:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> change that stand na bas
+[00:31:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> reset ho jayega
+[00:31:26] [Server thread/INFO]: [Not Secure] <SamWise> varun kya karray exacty
+[00:32:06] [Server thread/INFO]: SamWise lost connection: Disconnected
+[00:32:06] [Server thread/INFO]: SamWise left the game
+[00:32:52] [Server thread/INFO]: Varun311004 lost connection: Disconnected
+[00:32:52] [Server thread/INFO]: Varun311004 left the game
+[00:56:43] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[00:56:43] [Server thread/INFO]: shikamaru2o left the game
+[00:57:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:03:49] [Netty Epoll IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
+	at net.minecraft.network.Connection$2.write(Connection.java:488)
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
+	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:324)
+	at net.minecraft.network.Connection.sendPacket(Connection.java:316)
+	at net.minecraft.network.Connection.send(Connection.java:298)
+	at net.minecraft.network.Connection.send(Connection.java:292)
+	at net.minecraft.network.Connection.exceptionCaught(Connection.java:143)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:725)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:820)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.handle(AbstractEpollChannel.java:482)
+	at io.netty.channel.epoll.EpollIoHandler$DefaultEpollIoRegistration.handle(EpollIoHandler.java:317)
+	at io.netty.channel.epoll.EpollIoHandler.processReady(EpollIoHandler.java:515)
+	at io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:460)
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+[02:06:28] [Server thread/INFO]: shikamaru2o[/49.36.108.75:50753] logged in with entity id 119865 at (-186.85662694228026, 103.0, 22.30000001192093)
+[02:06:28] [Server thread/INFO]: shikamaru2o joined the game
+[02:10:58] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[02:10:58] [Server thread/INFO]: shikamaru2o left the game
+[02:11:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:13:00] [Server thread/INFO]: shikamaru2o[/49.36.108.75:52451] logged in with entity id 122488 at (-176.8471856282976, 102.0, 22.964121880036043)
+[02:13:00] [Server thread/INFO]: shikamaru2o joined the game
+[03:02:58] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[03:02:58] [Server thread/INFO]: shikamaru2o left the game
+[03:03:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:00:01] [Server thread/INFO]: [Not Secure] [Server] Server restarting for backup in 10 seconds...
+[04:00:11] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:00:11] [Server thread/INFO]: Saved the game
+[04:00:16] [Server thread/INFO]: Stopping the server
+[04:00:16] [Server thread/INFO]: Stopping server
+[04:00:16] [Server thread/INFO]: Saving players
+[04:00:16] [Server thread/INFO]: Saving worlds
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

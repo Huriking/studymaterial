@@ -454,16 +454,17 @@
     "criteria": {
       "minecraft:pillager": "2026-04-29 12:32:52 +0530",
       "minecraft:skeleton": "2026-04-29 10:45:36 +0530",
+      "minecraft:zombified_piglin": "2026-05-06 23:26:31 +0530",
+      "minecraft:witch": "2026-04-29 12:31:46 +0530",
+      "minecraft:hoglin": "2026-05-01 09:38:48 +0530",
       "minecraft:piglin": "2026-05-05 20:50:19 +0530",
       "minecraft:zombie_horse": "2026-04-29 13:16:08 +0530",
       "minecraft:enderman": "2026-04-30 08:50:12 +0530",
-      "minecraft:witch": "2026-04-29 12:31:46 +0530",
       "minecraft:spider": "2026-04-29 10:43:08 +0530",
       "minecraft:zombie": "2026-04-28 18:02:21 +0530",
       "minecraft:creeper": "2026-04-29 12:35:29 +0530",
       "minecraft:drowned": "2026-04-29 11:33:27 +0530",
-      "minecraft:zombie_villager": "2026-04-30 01:46:12 +0530",
-      "minecraft:hoglin": "2026-05-01 09:38:48 +0530"
+      "minecraft:zombie_villager": "2026-04-30 01:46:12 +0530"
     },
     "done": false
   },
@@ -2798,12 +2799,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2026-05-06 15:36:09 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2026-05-06 15:24:04 +0530"
@@ -2816,6 +2811,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-06 15:24:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2026-05-06 15:36:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-06 15:36:09 +0530"
@@ -2825,12 +2832,6 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-06 15:36:09 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2026-05-06 15:24:04 +0530"
     },
     "done": true
   },
