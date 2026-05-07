@@ -1600,9 +1600,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2026-05-06 15:23:41 +0530",
+      "apple": "2026-05-07 18:38:38 +0530",
       "chicken": "2026-05-06 15:06:15 +0530",
       "cooked_chicken": "2026-04-28 14:57:55 +0530",
-      "cooked_beef": "2026-04-26 23:40:06 +0530"
+      "cooked_mutton": "2026-05-07 22:58:00 +0530",
+      "cooked_beef": "2026-04-26 23:40:06 +0530",
+      "beef": "2026-05-07 22:47:47 +0530"
     },
     "done": false
   },
@@ -1612,6 +1615,7 @@
       "minecraft:skeleton": "2026-04-28 15:25:30 +0530",
       "minecraft:spider": "2026-05-05 23:27:01 +0530",
       "minecraft:zombie": "2026-04-29 16:10:50 +0530",
+      "minecraft:creeper": "2026-05-07 22:51:51 +0530",
       "minecraft:drowned": "2026-05-06 15:23:36 +0530"
     },
     "done": false
@@ -2153,6 +2157,153 @@
   "minecraft:recipes/combat/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2026-05-06 15:23:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-05-07 17:13:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-05-07 17:17:02 +0530",
+      "minecraft:nether_wastes": "2026-05-07 17:19:42 +0530",
+      "minecraft:basalt_deltas": "2026-05-07 17:20:09 +0530",
+      "minecraft:warped_forest": "2026-05-07 17:20:51 +0530"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-05-07 17:17:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-05-07 17:17:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-05-07 18:12:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2026-05-07 18:19:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-05-07 18:19:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2026-05-07 18:20:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2026-05-07 18:20:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-05-07 23:03:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-05-07 23:03:10 +0530"
     },
     "done": true
   },
