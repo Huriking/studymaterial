@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2026-04-29 13:46:44 +0530",
       "minecraft:snowy_slopes": "2026-04-27 19:40:30 +0530",
+      "minecraft:mushroom_fields": "2026-05-07 10:20:25 +0530",
       "minecraft:forest": "2026-04-28 19:41:49 +0530",
       "minecraft:taiga": "2026-04-29 13:50:25 +0530",
       "minecraft:deep_ocean": "2026-05-06 15:31:21 +0530",
@@ -23,6 +24,7 @@
       "minecraft:birch_forest": "2026-05-06 00:33:06 +0530",
       "minecraft:snowy_beach": "2026-04-29 13:39:14 +0530",
       "minecraft:bamboo_jungle": "2026-05-06 09:58:42 +0530",
+      "minecraft:deep_lukewarm_ocean": "2026-05-07 10:24:26 +0530",
       "minecraft:beach": "2026-04-29 13:36:17 +0530",
       "minecraft:dark_forest": "2026-05-06 10:03:35 +0530",
       "minecraft:sparse_jungle": "2026-05-06 09:37:10 +0530",
@@ -35,6 +37,7 @@
       "minecraft:deep_dark": "2026-04-30 16:16:04 +0530",
       "minecraft:grove": "2026-04-28 19:41:50 +0530",
       "minecraft:meadow": "2026-04-27 19:41:16 +0530",
+      "minecraft:windswept_gravelly_hills": "2026-05-07 09:53:19 +0530",
       "minecraft:savanna": "2026-05-06 09:50:15 +0530",
       "minecraft:plains": "2026-04-27 19:41:56 +0530",
       "minecraft:pale_garden": "2026-05-06 10:04:16 +0530"
@@ -209,6 +212,7 @@
       "beef": "2026-04-29 14:23:27 +0530",
       "porkchop": "2026-04-28 19:10:22 +0530",
       "tropical_fish": "2026-04-30 00:05:19 +0530",
+      "golden_carrot": "2026-05-07 11:37:19 +0530",
       "cooked_chicken": "2026-04-29 10:04:27 +0530",
       "potato": "2026-04-30 07:31:40 +0530",
       "cod": "2026-04-30 07:17:46 +0530",
@@ -2838,6 +2842,102 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2026-05-06 15:36:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-07 10:57:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-05-07 10:18:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-05-07 10:57:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-05-07 10:57:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-05-07 11:07:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-05-07 11:36:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-05-07 11:36:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-05-07 10:59:58 +0530"
     },
     "done": true
   },
