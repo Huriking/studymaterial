@@ -2295,15 +2295,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-05-07 23:03:10 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2026-05-07 23:03:25 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_bow": "2026-05-07 23:03:10 +0530"
+      "has_water_bucket": "2026-05-09 02:28:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-05-09 02:27:37 +0530"
     },
     "done": true
   },

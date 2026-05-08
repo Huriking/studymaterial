@@ -1,372 +1,148 @@
-[04:01:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[04:01:36] [ServerMain/INFO]: Loaded 1515 recipes
-[04:01:36] [ServerMain/INFO]: Loaded 1617 advancements
-[04:01:36] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[04:01:36] [Server thread/INFO]: Loading properties
-[04:01:36] [Server thread/INFO]: Default game type: SURVIVAL
-[04:01:36] [Server thread/INFO]: Generating keypair
-[04:01:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:01:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:01:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:01:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:01:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:01:37] [Server thread/INFO]: Preparing level "world"
-[04:01:37] [Server thread/INFO]: Loading 0 persistent chunks...
-[04:01:37] [Server thread/INFO]: Preparing spawn area: 100%
-[04:01:37] [Server thread/INFO]: Time elapsed: 13 ms
-[04:01:37] [Server thread/INFO]: Done (0.453s)! For help, type "help"
-[04:01:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:01:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:01:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:01:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:01:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:01:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:01:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:02:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:12:42] [Server thread/INFO]: KittyScan01[/163.172.143.147:45066] logged in with entity id 64 at (-7.5, 128.0, 7.5)
-[04:12:42] [Server thread/INFO]: KittyScan01 joined the game
-[04:12:43] [Server thread/ERROR]: Failed to validate profile key: Invalid signature for profile public key.
-Try restarting your game.
-[04:12:43] [Server thread/INFO]: KittyScan01 lost connection: Invalid signature for profile public key.
-Try restarting your game.
-[04:12:43] [Server thread/INFO]: KittyScan01 left the game
-[04:13:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:28:57] [Server thread/INFO]: Huriking[/139.5.44.141:3925] logged in with entity id 165 at (-116.07499998807907, 100.0625, 58.62960412067205)
-[09:28:57] [Server thread/INFO]: Huriking joined the game
-[09:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[09:30:02] [Server thread/INFO]: Huriking was slain by Zombie
-[09:48:31] [Server thread/INFO]: shikamaru2o[/49.36.106.153:64846] logged in with entity id 6269 at (-160.22628054144258, 103.0, 22.66392975676133)
-[09:48:31] [Server thread/INFO]: shikamaru2o joined the game
-[09:52:35] [Server thread/INFO]: Huriking lost connection: Disconnected
-[09:52:35] [Server thread/INFO]: Huriking left the game
-[09:54:35] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[09:54:35] [Server thread/INFO]: shikamaru2o left the game
-[09:55:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:02:02] [Server thread/INFO]: shikamaru2o[/49.36.106.153:49667] logged in with entity id 8781 at (-190.94999998807907, 108.125, 24.51643574442561)
-[10:02:02] [Server thread/INFO]: shikamaru2o joined the game
-[10:15:18] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[10:15:18] [Server thread/INFO]: shikamaru2o left the game
-[10:15:23] [Server thread/INFO]: shikamaru2o[/49.36.106.153:63389] logged in with entity id 11652 at (-332.92165748506966, -12.0, 314.7811311378479)
-[10:15:23] [Server thread/INFO]: shikamaru2o joined the game
-[10:16:05] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[10:16:05] [Server thread/INFO]: shikamaru2o left the game
-[10:16:07] [Server thread/INFO]: shikamaru2o[/49.36.106.153:61635] logged in with entity id 11963 at (-332.5013761097238, -12.0, 310.69999998807907)
-[10:16:07] [Server thread/INFO]: shikamaru2o joined the game
-[10:17:22] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[10:17:22] [Server thread/INFO]: shikamaru2o left the game
-[10:17:35] [Server thread/INFO]: shikamaru2o[/49.36.106.153:62139] logged in with entity id 12367 at (-357.98393532590876, -7.5, 311.8871485435328)
-[10:17:35] [Server thread/INFO]: shikamaru2o joined the game
-[10:21:47] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[10:21:47] [Server thread/INFO]: shikamaru2o left the game
-[10:22:02] [Server thread/INFO]: shikamaru2o[/49.36.106.153:60160] logged in with entity id 13451 at (-358.61312773728463, -7.0, 310.3406089020519)
-[10:22:02] [Server thread/INFO]: shikamaru2o joined the game
-[10:22:47] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[10:22:47] [Server thread/INFO]: shikamaru2o left the game
-[10:22:57] [Server thread/INFO]: shikamaru2o[/49.36.106.153:63611] logged in with entity id 13725 at (-358.52857705080885, -7.0, 309.70003544564656)
-[10:22:57] [Server thread/INFO]: shikamaru2o joined the game
-[10:27:13] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[10:27:13] [Server thread/INFO]: shikamaru2o left the game
-[10:27:32] [Server thread/INFO]: shikamaru2o[/49.36.106.153:51417] logged in with entity id 14775 at (-348.54135689351136, -12.0, 325.60374404892747)
-[10:27:32] [Server thread/INFO]: shikamaru2o joined the game
-[10:30:18] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[10:30:18] [Server thread/INFO]: shikamaru2o left the game
-[10:30:21] [Server thread/INFO]: shikamaru2o[/49.36.106.153:50218] logged in with entity id 15499 at (-350.6326307234039, -7.956484061003809, 370.71897268745187)
-[10:30:21] [Server thread/INFO]: shikamaru2o joined the game
-[10:47:50] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[10:47:50] [Server thread/INFO]: shikamaru2o left the game
-[10:48:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[10:50:25] [Server thread/INFO]: Eclipse[/110.226.177.118:4091] logged in with entity id 19701 at (198.2303619937847, 103.0, 577.634259161368)
-[10:50:25] [Server thread/INFO]: Eclipse joined the game
-[10:54:43] [Server thread/INFO]: Eclipse lost connection: Disconnected
-[10:54:43] [Server thread/INFO]: Eclipse left the game
-[10:55:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:14:25] [Server thread/INFO]: Varun311004[/223.236.96.197:3760] logged in with entity id 20299 at (196.29596296884074, 103.0, 578.1789059764769)
-[11:14:25] [Server thread/INFO]: Varun311004 joined the game
-[11:18:16] [Server thread/INFO]: Eclipse[/110.226.177.118:33092] logged in with entity id 21248 at (207.54587569678228, 104.0, 595.1656693806043)
-[11:18:16] [Server thread/INFO]: Eclipse joined the game
-[11:28:26] [Server thread/INFO]: Varun311004 was blown up by Creeper
-[11:32:03] [Server thread/INFO]: shikamaru2o[/49.36.106.153:57162] logged in with entity id 25193 at (-161.69999998807907, 103.5, 31.30000001192093)
-[11:32:03] [Server thread/INFO]: shikamaru2o joined the game
-[11:32:33] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[11:32:33] [Server thread/INFO]: shikamaru2o left the game
-[11:33:01] [Server thread/INFO]: shikamaru2o[/49.36.106.153:54608] logged in with entity id 25807 at (-161.69999998807907, 103.5, 31.30000001192093)
-[11:33:01] [Server thread/INFO]: shikamaru2o joined the game
-[11:34:16] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[11:34:16] [Server thread/INFO]: shikamaru2o left the game
-[11:34:21] [Server thread/INFO]: shikamaru2o[/49.36.106.153:55034] logged in with entity id 26609 at (-162.2853784928717, 105.0, 33.508469169941705)
-[11:34:21] [Server thread/INFO]: shikamaru2o joined the game
-[11:37:22] [Server thread/INFO]: Villager Villager['Villager'/23039, l='ServerLevel[world]', x=369.30, y=69.00, z=860.50] died, message: 'Villager was slain by Zombie'
-[11:39:05] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[11:39:05] [Server thread/INFO]: shikamaru2o left the game
-[11:39:21] [Server thread/INFO]: shikamaru2o[/49.36.106.153:51756] logged in with entity id 28966 at (-127.24301496468985, 102.17675927506424, 38.45608542536118)
-[11:39:21] [Server thread/INFO]: shikamaru2o joined the game
-[11:40:23] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[11:40:23] [Server thread/INFO]: shikamaru2o left the game
-[11:40:27] [Server thread/INFO]: shikamaru2o[/49.36.106.153:53643] logged in with entity id 29832 at (-118.2045980279056, 99.35489329934836, 58.46104807319655)
-[11:40:27] [Server thread/INFO]: shikamaru2o joined the game
-[11:48:30] [Server thread/INFO]: Eclipse has made the advancement [A Seedy Place]
-[11:48:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> eclipse kon
-[11:48:59] [Server thread/INFO]: [Not Secure] <Eclipse> sameep ka dost school ka
-[11:49:55] [Server thread/INFO]: [Not Secure] <shikamaru2o> okkk
-[11:49:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> where are u
-[11:50:48] [Server thread/INFO]: [Not Secure] <Eclipse> ruk dikhatau
-[11:50:55] [Server thread/INFO]: [Not Secure] <Eclipse> me main city me atay
-[11:50:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu varun ke saath hai kya
-[11:51:02] [Server thread/INFO]: [Not Secure] <Eclipse> yeyes
-[11:51:05] [Server thread/INFO]: [Not Secure] <shikamaru2o> phir ik
-[11:51:11] [Server thread/INFO]: [Not Secure] <Eclipse> okokk
-[11:51:23] [Server thread/INFO]: [Not Secure] <Eclipse> tu kon sameep ka degree ka dost?
-[11:51:28] [Server thread/INFO]: [Not Secure] <Eclipse> joel?
-[11:51:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> yess
-[11:51:59] [Server thread/INFO]: [Not Secure] <Eclipse> okokk and who is huriking
-[11:52:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> sahil same degree
-[11:52:59] [Server thread/INFO]: [Not Secure] <Eclipse> okokk
-[12:02:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> yo nigga
-[12:02:25] [Server thread/INFO]: [Not Secure] <Varun311004> tu nigga
-[12:02:37] [Server thread/INFO]: [Not Secure] <Varun311004> bhai itna breed karega game mar jayega
-[12:02:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> thats the point
-[12:02:49] [Server thread/INFO]: [Not Secure] <Varun311004> aree ree
-[12:02:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> thats how u get chicken
-[12:02:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> its a primary exp farm
-[12:06:42] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[12:06:42] [Server thread/INFO]: shikamaru2o left the game
-[12:08:48] [Server thread/INFO]: [Not Secure] <Eclipse> thm aaiku nai yet
-[12:09:07] [Server thread/INFO]: [Not Secure] <Varun311004> sagye sugarcane vaprun banau ka paper?
-[12:09:23] [Server thread/INFO]: [Not Secure] <Eclipse> haa sugarcane ni tasahi kyny banat
-[12:14:07] [Server thread/INFO]: [Not Secure] <Eclipse> wot
-[12:14:13] [Server thread/INFO]: [Not Secure] <Varun311004> he kay banavtoy??
-[12:14:21] [Server thread/INFO]: [Not Secure] <Eclipse> apple che jhada lavtoy
-[12:14:29] [Server thread/INFO]: [Not Secure] <Varun311004> are ram
-[12:20:46] [Server thread/INFO]: Varun311004 lost connection: Timed out
-[12:20:46] [Server thread/INFO]: Varun311004 left the game
-[12:21:39] [Server thread/INFO]: Varun311004[/223.236.96.197:21787] logged in with entity id 47141 at (97.09070143344668, 62.0, 715.296989160895)
-[12:21:39] [Server thread/INFO]: Varun311004 joined the game
-[12:23:48] [Server thread/INFO]: Villager Villager['Villager'/47508, l='ServerLevel[world]', x=358.42, y=69.00, z=867.65] died, message: 'Villager was slain by Zombie'
-[12:28:53] [Server thread/INFO]: Varun311004 has made the advancement [What a Deal!]
-[12:37:06] [Server thread/INFO]: beast_07[/223.228.53.79:55524] logged in with entity id 53554 at (-120.6322519428415, 99.0, 49.49412607832175)
-[12:37:06] [Server thread/INFO]: beast_07 joined the game
-[12:38:19] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[12:38:19] [Server thread/INFO]: beast_07 left the game
-[12:52:15] [Server thread/INFO]: Huriking[/139.5.44.141:4665] logged in with entity id 59723 at (184.5440454355593, 118.0, 252.97453962009425)
-[12:52:15] [Server thread/INFO]: Huriking joined the game
-[13:03:25] [Server thread/INFO]: beast_07[/223.228.53.79:57306] logged in with entity id 67773 at (-120.6322519428415, 99.0, 49.49412607832175)
-[13:03:25] [Server thread/INFO]: beast_07 joined the game
-[13:07:54] [Server thread/INFO]: Varun311004 has made the advancement [Ice Bucket Challenge]
-[13:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[13:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[13:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[13:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
-[13:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
-[13:17:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
-[13:17:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=231, y=49, z=2003} BlockPos{x=230, y=47, z=2002}
-[13:18:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=227, y=54, z=2005} BlockPos{x=227, y=53, z=2005}
-[13:18:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=227, y=54, z=2005} BlockPos{x=227, y=53, z=2005}
-[13:22:46] [Server thread/INFO]: [Not Secure] <beast_07> anyone sleep
-[13:22:55] [Server thread/INFO]: [Not Secure] <beast_07> pleamz
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.3718545509699425,0.0,-8.518109413946604
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.474841518028029,0.0,-8.679222228311232
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.567529785924876,0.0,-8.824223757398158
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.65094922482217,0.0,-8.9547251301193
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.726026717840909,0.0,-9.072176362456958
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.793596459767741,0.0,-9.177882468760572
-[13:30:15] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! 5.85440922589089,0.0,-9.273017961913638
-[13:30:27] [Server thread/INFO]: Huriking lost connection: Disconnected
-[13:30:27] [Server thread/INFO]: Huriking left the game
-[13:40:13] [Server thread/INFO]: Huriking[/139.5.44.141:59267] logged in with entity id 104996 at (174.44916909020407, 103.0, 223.0466917646306)
-[13:40:13] [Server thread/INFO]: Huriking joined the game
-[13:51:36] [Server thread/INFO]: Huriking lost connection: Disconnected
-[13:51:36] [Server thread/INFO]: Huriking left the game
-[14:05:57] [Server thread/INFO]: Eclipse has made the advancement [A Terrible Fortress]
-[14:07:01] [Server thread/WARN]: beast_07 moved too quickly! -6.794419563085853,0.607804363030553,7.363396021925382
-[14:16:32] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -3.3947101822557215,-2.8987869882257655E-9,9.770588804396084
-[14:16:32] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -3.534814685378251,-2.898531192840892E-9,10.135501908846436
-[14:16:32] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -3.6710699819525416,-2.8982114486098E-9,10.50261153425572
-[14:16:32] [Server thread/WARN]: Spruce Boat (vehicle of beast_07) moved too quickly! -3.8036345621303553,-2.8978632826692774E-9,10.871756791204461
-[14:20:54] [Server thread/INFO]: Eclipse lost connection: Disconnected
-[14:20:54] [Server thread/INFO]: Eclipse left the game
-[14:49:30] [Server thread/INFO]: beast_07 was slain by Zombie
-[14:49:45] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[14:49:45] [Server thread/INFO]: beast_07 left the game
-[14:50:27] [Server thread/INFO]: Huriking[/139.5.44.141:50725] logged in with entity id 134194 at (175.30000001192093, 95.0, 212.22145197513373)
-[14:50:27] [Server thread/INFO]: Huriking joined the game
-[14:55:56] [Server thread/INFO]: XFighter009[/103.145.18.150:4059] logged in with entity id 135271 at (273.1039735625856, 79.0, 222.83422770362327)
-[14:55:56] [Server thread/INFO]: XFighter009 joined the game
-[14:59:44] [Server thread/INFO]: Varun311004 has made the advancement [Enchanter]
-[15:01:39] [Server thread/INFO]: [Not Secure] <XFighter009> sahil
-[15:01:42] [Server thread/INFO]: [Not Secure] <XFighter009> where
-[15:02:07] [Server thread/INFO]: [Not Secure] <Huriking> mikase
-[15:02:18] [Server thread/INFO]: [Not Secure] <Huriking> mikasa
-[15:02:44] [Server thread/INFO]: [Not Secure] <XFighter009> ek spawner mila zombie
-[15:02:47] [Server thread/INFO]: [Not Secure] <XFighter009> kya kre
-[15:03:02] [Server thread/INFO]: [Not Secure] <Huriking> kidr?
-[15:03:09] [Server thread/INFO]: [Not Secure] <XFighter009> ihave no stuf
-[15:03:21] [Server thread/INFO]: [Not Secure] <Huriking> iron farm se iron le mere ghar se food
-[15:04:56] [Server thread/INFO]: [Not Secure] <Huriking> ye chest se chahiye vo utha
-[15:05:19] [Server thread/INFO]: [Not Secure] <Huriking> upar wale re
-[15:05:26] [Server thread/INFO]: [Not Secure] <Huriking> niche sirf charcoal hai
-[15:05:27] [Server thread/INFO]: [Not Secure] <XFighter009> nhi horhau
-[15:05:57] [Server thread/INFO]: [Not Secure] <XFighter009> chal
-[15:06:12] [Server thread/INFO]: [Not Secure] <XFighter009> mark karke rhak hai
-[15:06:28] [Server thread/INFO]: [Not Secure] <XFighter009> bc ghumgaya tha raat ko cave banaya awaj aya zombie ka
-[15:06:32] [Server thread/INFO]: [Not Secure] <XFighter009> milgaaya
-[15:06:53] [Server thread/INFO]: [Not Secure] <XFighter009> ye khali kyu?
-[15:06:57] [Server thread/INFO]: [Not Secure] <Huriking> kha liya
-[15:07:05] [Server thread/INFO]: [Not Secure] <Huriking> bata kidr jana hai
-[15:07:14] [Server thread/INFO]: [Not Secure] <Huriking> rukh
-[15:08:31] [Server thread/INFO]: [Not Secure] <Huriking> chal
-[15:09:06] [Server thread/INFO]: [Not Secure] <XFighter009> upar
-[15:10:11] [Server thread/INFO]: [Not Secure] <Huriking> bruh
-[15:10:11] [Server thread/INFO]: [Not Secure] <XFighter009> gg
-[15:10:48] [Server thread/INFO]: [Not Secure] <XFighter009> chud gaya swpaner
-[15:10:50] [Server thread/INFO]: [Not Secure] <Huriking> anyway, milte rahenge spawners
-[15:10:57] [Server thread/INFO]: [Not Secure] <XFighter009> oh any use?
-[15:11:02] [Server thread/INFO]: [Not Secure] <Huriking> xp farm
-[15:11:04] [Server thread/INFO]: [Not Secure] <XFighter009> dsn
-[15:11:07] [Server thread/INFO]: [Not Secure] <XFighter009> damn
-[15:11:21] [Server thread/INFO]: [Not Secure] <Huriking> bohot close tha ye tho
-[15:11:25] [Server thread/INFO]: [Not Secure] <Huriking> accha hota
-[15:11:27] [Server thread/INFO]: [Not Secure] <XFighter009> true
-[15:11:31] [Server thread/INFO]: [Not Secure] <XFighter009> mc crepper
-[15:12:44] [Server thread/INFO]: [Not Secure] <Huriking> mera cave dekhna hai, udhar 2 spider spawners hai
-[15:12:49] [Server thread/INFO]: [Not Secure] <XFighter009> chzl
-[15:12:51] [Server thread/INFO]: [Not Secure] <Huriking> but spider ka farm difficult
-[15:14:17] [Server thread/INFO]: [Not Secure] <Huriking> chal
-[15:14:42] [Server thread/INFO]: [Not Secure] <Huriking> that my pussy
-[15:15:09] [Server thread/INFO]: [Not Secure] <XFighter009> tf tuta ksie
-[15:15:24] [Server thread/INFO]: [Not Secure] <Huriking> ashu bola creeper fata
-[15:15:30] [Server thread/INFO]: [Not Secure] <XFighter009> mc4
-[15:17:03] [Server thread/INFO]: XFighter009 fell from a high place
-[15:17:08] [Server thread/INFO]: [Not Secure] <XFighter009> bc
-[15:17:27] [Server thread/INFO]: [Not Secure] <XFighter009> saman le
-[15:19:10] [Server thread/INFO]: [Not Secure] <Huriking> jump
-[15:19:27] [Server thread/INFO]: [Not Secure] <Huriking> vo mera hai
-[15:19:31] [Server thread/INFO]: [Not Secure] <Huriking> rakh vapas
-[15:19:37] [Server thread/INFO]: [Not Secure] <Huriking> tera mere paas hai
-[15:19:40] [Server thread/INFO]: [Not Secure] <XFighter009> mere utya?
-[15:19:42] [Server thread/INFO]: [Not Secure] <XFighter009> okk
-[15:19:46] [Server thread/INFO]: [Not Secure] <XFighter009> gold sab
-[15:20:05] [Server thread/INFO]: [Not Secure] <XFighter009> hapu
-[15:20:11] [Server thread/INFO]: [Not Secure] <XFighter009> hapi
-[15:22:01] [Server thread/INFO]: [Not Secure] <XFighter009> bc itna dur
-[15:22:11] [Server thread/INFO]: [Not Secure] <Huriking> ye closest cave hai mera
-[15:22:23] [Server thread/INFO]: [Not Secure] <Huriking> ye sameep sabh explore kiya
-[15:22:23] [Server thread/INFO]: shikamaru2o[/49.36.106.153:53312] logged in with entity id 147241 at (-146.40590792937516, 102.0, 25.532012295246812)
-[15:22:23] [Server thread/INFO]: shikamaru2o joined the game
-[15:22:32] [Server thread/INFO]: [Not Secure] <Huriking> nasdik wale
-[15:22:56] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:22:56] [Server thread/INFO]: shikamaru2o left the game
-[15:23:08] [Server thread/INFO]: shikamaru2o[/49.36.106.153:62373] logged in with entity id 148364 at (-146.40590792937516, 102.0, 25.532012295246812)
-[15:23:08] [Server thread/INFO]: shikamaru2o joined the game
-[15:23:27] [Server thread/INFO]: [Not Secure] <Huriking> direct aa
-[15:23:38] [Server thread/INFO]: [Not Secure] <Huriking> idhar careful
-[15:23:53] [Server thread/INFO]: [Not Secure] <Huriking> respawn set kar
-[15:24:05] [Server thread/INFO]: [Not Secure] <Huriking> ye mera cave
-[15:25:00] [Server thread/INFO]: [Not Secure] <XFighter009> ye kya cave hau bc
-[15:25:24] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:25:24] [Server thread/INFO]: shikamaru2o left the game
-[15:25:29] [Server thread/WARN]: XFighter009 moved too quickly! -4.038746441505964,0.0,-9.383768588484493
-[15:25:51] [Server thread/INFO]: [Not Secure] <Huriking> diamond
-[15:25:57] [Server thread/INFO]: [Not Secure] <Huriking> vo dekh
-[15:25:59] [Server thread/INFO]: shikamaru2o[/49.36.106.153:58858] logged in with entity id 149917 at (216.16008702878628, 103.92159999847412, 575.4094727662393)
-[15:25:59] [Server thread/INFO]: shikamaru2o joined the game
-[15:26:07] [Server thread/INFO]: [Not Secure] <XFighter009> kidr
-[15:26:33] [Server thread/INFO]: [Not Secure] <XFighter009> wowo
-[15:26:48] [Server thread/INFO]: [Not Secure] <Huriking> aaju baju rehte hai kabhi kabhi
-[15:27:00] [Server thread/INFO]: [Not Secure] <Huriking> 3 x 3 ka area check akrneka just in case
-[15:29:13] [Server thread/INFO]: [Not Secure] <XFighter009> sahillll
-[15:29:16] [Server thread/INFO]: [Not Secure] <Huriking> aaja next area dekhte hai
-[15:29:24] [Server thread/INFO]: [Not Secure] <Huriking> kaise :/
-[15:29:28] [Server thread/INFO]: [Not Secure] <Huriking> tu bhi hecking
-[15:29:45] [Server thread/INFO]: [Not Secure] <Huriking> baas
-[15:29:53] [Server thread/INFO]: [Not Secure] <XFighter009> wwowowoow
-[15:30:16] [Server thread/INFO]: [Not Secure] <XFighter009> ye rakh tere pass filahl
-[15:30:37] [Server thread/INFO]: [Not Secure] <XFighter009> ghumadega me
-[15:30:49] [Server thread/INFO]: [Not Secure] <Huriking> craft kar armour
-[15:31:13] [Server thread/INFO]: [Not Secure] <XFighter009> gharpe pada hai aree tere seleta hu na abdhme
-[15:31:15] [Server thread/INFO]: [Not Secure] <XFighter009> badme
-[15:32:04] [Server thread/INFO]: [Not Secure] <Huriking> are iron free hota hai kar
-[15:34:39] [Server thread/INFO]: SamWise[/103.195.202.212:50906] logged in with entity id 155217 at (-172.60286894260952, 109.0, -0.317762482997733)
-[15:34:39] [Server thread/INFO]: SamWise joined the game
-[15:35:00] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:35:00] [Server thread/INFO]: shikamaru2o left the game
-[15:35:21] [Server thread/INFO]: shikamaru2o[/49.36.106.153:51728] logged in with entity id 156037 at (-972.6999999880791, 7.3500699297466205, -44.542507494653115)
-[15:35:21] [Server thread/INFO]: shikamaru2o joined the game
-[15:35:34] [Server thread/INFO]: [Not Secure] <Huriking> f3+b click kar
-[15:35:40] [Server thread/INFO]: [Not Secure] <Huriking> mobs clear dikhte hai
-[15:36:25] [Server thread/INFO]: [Not Secure] <XFighter009> mltb?
-[15:37:43] [Server thread/INFO]: [Not Secure] <XFighter009> ye lapiz ka use?
-[15:37:50] [Server thread/INFO]: [Not Secure] <Huriking> enchantment
-[15:38:48] [Server thread/INFO]: [Not Secure] <Huriking> tu idhar kyu
-[15:39:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> yo
-[15:39:12] [Server thread/INFO]: [Not Secure] <XFighter009> yoyo
-[15:39:15] [Server thread/INFO]: [Not Secure] <Huriking> idhar kaise bata
-[15:39:27] [Server thread/INFO]: [Not Secure] <XFighter009> hecker
-[15:39:52] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:39:52] [Server thread/INFO]: shikamaru2o left the game
-[15:39:58] [Server thread/INFO]: shikamaru2o[/49.36.106.153:55158] logged in with entity id 158928 at (-1010.1575839067103, 6.0, 43.5634075890107)
-[15:39:58] [Server thread/INFO]: shikamaru2o joined the game
-[15:40:37] [Server thread/INFO]: [Not Secure] <XFighter009> bc
-[15:40:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> jump and hit
-[15:43:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> mein jaha se aaya waha diamonds tha
-[15:43:26] [Server thread/INFO]: [Not Secure] <shikamaru2o> tera jahan bed hai
-[15:44:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> idhar bhi
-[15:44:40] [Server thread/INFO]: [Not Secure] <Huriking> tu idhr kaise aaya bata
-[15:44:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> ik where everyone is
-[15:45:08] [Server thread/INFO]: [Not Secure] <Huriking> tu follow karke aaya ki khudse aa
-[15:45:13] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:45:13] [Server thread/INFO]: shikamaru2o left the game
-[15:45:24] [Server thread/INFO]: [Not Secure] <XFighter009> hmmm
-[15:45:24] [Server thread/INFO]: shikamaru2o[/49.36.106.153:54625] logged in with entity id 161831 at (-1102.6830241346177, -24.823240724935765, 104.64765927460644)
-[15:45:24] [Server thread/INFO]: shikamaru2o joined the game
-[15:45:30] [Server thread/INFO]: [Not Secure] <Huriking> ye aise kaise khelta hai, disconnect kyu hota hai itne time
-[15:45:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> skill issue fr
-[15:46:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> ooo 2 spawners
-[15:47:32] [Server thread/INFO]: [Not Secure] <Huriking> idhar ek hai
-[15:47:42] [Server thread/INFO]: [Not Secure] <Huriking> mene explore kar liya tha
-[15:47:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> yea i see the torch\
-[15:48:50] [Server thread/INFO]: [Not Secure] <Huriking> kya plan hai tera
-[15:49:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> i just wanted to join in on the fun
-[15:50:25] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:50:25] [Server thread/INFO]: shikamaru2o left the game
-[15:50:32] [Server thread/INFO]: shikamaru2o[/49.36.106.153:58907] logged in with entity id 164405 at (-1008.5462375624766, -40.0, 120.9416343903843)
-[15:50:32] [Server thread/INFO]: shikamaru2o joined the game
-[15:51:32] [Server thread/INFO]: [Not Secure] <Huriking> crafting benxh laga benzil
-[15:51:48] [Server thread/INFO]: [Not Secure] <XFighter009> kya
-[15:51:53] [Server thread/INFO]: [Not Secure] <XFighter009> tbale?
-[15:51:54] [Server thread/INFO]: [Not Secure] <Huriking> crafting bench
-[15:51:56] [Server thread/INFO]: [Not Secure] <Huriking> ha
-[15:52:06] [Server thread/INFO]: [Not Secure] <Huriking> tere inventory me hai
-[15:52:08] [Server thread/INFO]: [Not Secure] <XFighter009> terepas na
-[15:52:11] [Server thread/INFO]: [Not Secure] <XFighter009> mere pas nhi
-[15:52:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> lololol
-[15:52:18] [Server thread/INFO]: [Not Secure] <XFighter009> sry
-[15:52:59] [Server thread/INFO]: [Not Secure] <Huriking> wood la na mere bed ke nasdik se
-[15:54:23] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[15:54:23] [Server thread/INFO]: XFighter009 left the game
-[15:55:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> helppp4
-[15:55:17] [Server thread/INFO]: shikamaru2o lost connection: Timed out
-[15:55:17] [Server thread/INFO]: shikamaru2o left the game
-[15:55:27] [Server thread/INFO]: shikamaru2o[/49.36.106.153:63939] logged in with entity id 166776 at (-999.968711221292, -34.0, 91.49008141538363)
-[15:55:27] [Server thread/INFO]: shikamaru2o joined the game
-[15:59:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> exp farm?
-[15:59:04] [Server thread/INFO]: [Not Secure] <Huriking> ha
-[15:59:37] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
-[15:59:37] [Server thread/INFO]: shikamaru2o left the game
-[16:00:01] [Server thread/INFO]: [Not Secure] [Server] Server restarting for backup in 10 seconds...
-[16:00:11] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:00:11] [Server thread/INFO]: Saved the game
-[16:00:16] [Server thread/INFO]: Stopping the server
-[16:00:16] [Server thread/INFO]: Stopping server
-[16:00:16] [Server thread/INFO]: Saving players
-[16:00:16] [Server thread/INFO]: Varun311004 lost connection: Server closed
-[16:00:16] [Server thread/INFO]: Varun311004 left the game
-[16:00:16] [Server thread/INFO]: SamWise lost connection: Server closed
-[16:00:16] [Server thread/INFO]: SamWise left the game
-[16:00:16] [Server thread/INFO]: Saving worlds
-[16:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:01] [Server thread/INFO]: Eclipse lost connection: Disconnected
+[00:13:01] [Server thread/INFO]: Eclipse left the game
+[00:14:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:35:57] [Server thread/INFO]: XFighter009[/103.145.18.150:7903] logged in with entity id 200821 at (-91.10690953952437, 119.0, 35.21808436139618)
+[00:35:57] [Server thread/INFO]: XFighter009 joined the game
+[00:39:50] [Server thread/INFO]: Test354542 (/103.44.174.155:3971) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed with error(-104): Connection reset by peer
+[00:43:05] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[00:43:05] [Server thread/INFO]: XFighter009 left the game
+[00:44:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:19:58] [Server thread/INFO]: SamWise[/45.127.44.31:16465] logged in with entity id 201968 at (988.2783921118711, 63.0, 9071.806699778428)
+[01:19:58] [Server thread/INFO]: SamWise joined the game
+[01:34:15] [Server thread/INFO]: shikamaru2o[/49.36.106.153:51210] logged in with entity id 208083 at (-261.43701169681674, 134.25220334025371, 171.01996299084425)
+[01:34:15] [Server thread/INFO]: shikamaru2o joined the game
+[01:35:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> yo sameep
+[01:35:45] [Server thread/INFO]: [Not Secure] <SamWise> yo
+[01:35:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> hows life
+[01:36:09] [Server thread/INFO]: [Not Secure] <SamWise> im happy i found the biome i was looking for
+[01:36:15] [Server thread/INFO]: [Not Secure] <SamWise> now its time to build
+[01:36:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> damn
+[01:37:00] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:37:00] [Server thread/INFO]: shikamaru2o left the game
+[01:37:29] [Server thread/INFO]: shikamaru2o[/49.36.106.153:57954] logged in with entity id 209593 at (-304.0236249369696, -15.0, 315.30000001192093)
+[01:37:29] [Server thread/INFO]: shikamaru2o joined the game
+[01:37:59] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:37:59] [Server thread/INFO]: shikamaru2o left the game
+[01:37:59] [Server thread/WARN]: handleDisconnection() called twice
+[01:38:26] [Server thread/INFO]: SamWise lost connection: Disconnected
+[01:38:26] [Server thread/INFO]: SamWise left the game
+[01:38:32] [Server thread/INFO]: shikamaru2o[/49.36.106.153:54799] logged in with entity id 209912 at (-303.9562188335995, -14.0, 314.24503823974425)
+[01:38:32] [Server thread/INFO]: shikamaru2o joined the game
+[01:38:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> im lonely
+[01:39:17] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:39:17] [Server thread/INFO]: shikamaru2o left the game
+[01:39:35] [Server thread/INFO]: shikamaru2o[/49.36.106.153:51528] logged in with entity id 210176 at (-304.7442950060791, -14.0, 313.54557502679074)
+[01:39:35] [Server thread/INFO]: shikamaru2o joined the game
+[01:40:35] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:40:35] [Server thread/INFO]: shikamaru2o left the game
+[01:40:46] [Server thread/INFO]: shikamaru2o[/49.36.106.153:59970] logged in with entity id 210539 at (-328.81242588996133, -19.0, 311.13541401685774)
+[01:40:46] [Server thread/INFO]: shikamaru2o joined the game
+[01:41:27] [Server thread/INFO]: shikamaru2o lost connection: You logged in from another location
+[01:41:27] [Server thread/INFO]: shikamaru2o left the game
+[01:41:27] [Server thread/INFO]: shikamaru2o[/49.36.106.153:64748] logged in with entity id 210753 at (-315.1387416247324, -19.0, 306.0593392942124)
+[01:41:27] [Server thread/INFO]: shikamaru2o joined the game
+[01:41:57] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:41:57] [Server thread/INFO]: shikamaru2o left the game
+[01:42:11] [Server thread/INFO]: shikamaru2o[/49.36.106.153:54953] logged in with entity id 210975 at (-311.5, -19.0, 313.5)
+[01:42:11] [Server thread/INFO]: shikamaru2o joined the game
+[01:43:11] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:43:11] [Server thread/INFO]: shikamaru2o left the game
+[01:44:01] [Server thread/INFO]: shikamaru2o[/49.36.106.153:50827] logged in with entity id 211273 at (-339.6744524618041, -17.0, 316.46665771274047)
+[01:44:01] [Server thread/INFO]: shikamaru2o joined the game
+[01:44:31] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:44:31] [Server thread/INFO]: shikamaru2o left the game
+[01:44:44] [Server thread/INFO]: shikamaru2o[/49.36.106.153:57300] logged in with entity id 211499 at (-312.9620699619245, -19.0, 305.798127081126)
+[01:44:44] [Server thread/INFO]: shikamaru2o joined the game
+[01:45:10] [Server thread/WARN]: shikamaru2o moved too quickly! -10.200475120803617,0.0,1.5618689778385146
+[01:45:29] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:45:29] [Server thread/INFO]: shikamaru2o left the game
+[01:45:49] [Server thread/INFO]: shikamaru2o[/49.36.106.153:50380] logged in with entity id 211768 at (-327.364137215039, -18.878703159460812, 311.428576101907)
+[01:45:49] [Server thread/INFO]: shikamaru2o joined the game
+[01:46:18] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:46:18] [Server thread/INFO]: shikamaru2o left the game
+[01:46:29] [Server thread/INFO]: shikamaru2o[/49.36.106.153:57763] logged in with entity id 211982 at (-305.23803418967486, -14.0, 310.4335744158038)
+[01:46:29] [Server thread/INFO]: shikamaru2o joined the game
+[01:46:48] [Server thread/WARN]: shikamaru2o moved too quickly! -8.452472462969297,-2.2663679939575196,4.960352060272953
+[01:47:11] [Server thread/WARN]: shikamaru2o moved too quickly! -8.049947207386595,-1.5,-5.808795587748875
+[01:47:29] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:47:29] [Server thread/INFO]: shikamaru2o left the game
+[01:47:58] [Server thread/INFO]: shikamaru2o (a32c6bbb-6495-37a8-a334-4c31f0e3f0fa) lost connection: Disconnected
+[01:48:11] [Server thread/INFO]: shikamaru2o[/49.36.106.153:60095] logged in with entity id 212342 at (-342.1923332941161, -18.5, 310.1179695646728)
+[01:48:11] [Server thread/INFO]: shikamaru2o joined the game
+[01:48:41] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:48:41] [Server thread/INFO]: shikamaru2o left the game
+[01:49:17] [Server thread/INFO]: shikamaru2o[/49.36.106.153:63305] logged in with entity id 212591 at (-332.608061956873, -17.0, 318.04720587966244)
+[01:49:17] [Server thread/INFO]: shikamaru2o joined the game
+[01:49:34] [Server thread/INFO]: shikamaru2o (/49.36.106.153:58684) lost connection: Disconnected
+[01:49:47] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:49:47] [Server thread/INFO]: shikamaru2o left the game
+[01:49:48] [Server thread/INFO]: shikamaru2o[/49.36.106.153:52064] logged in with entity id 212809 at (-332.608061956873, -17.0, 318.04720587966244)
+[01:49:48] [Server thread/INFO]: shikamaru2o joined the game
+[01:50:48] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:50:48] [Server thread/INFO]: shikamaru2o left the game
+[01:50:50] [Server thread/INFO]: shikamaru2o[/49.36.106.153:57882] logged in with entity id 213168 at (-311.404695835242, -18.451500000059603, 312.87949308395486)
+[01:50:50] [Server thread/INFO]: shikamaru2o joined the game
+[01:52:20] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:52:20] [Server thread/INFO]: shikamaru2o left the game
+[01:52:25] [Server thread/INFO]: shikamaru2o[/49.36.106.153:57900] logged in with entity id 213519 at (-309.5046368941307, -7.625, 310.3455547387009)
+[01:52:25] [Server thread/INFO]: shikamaru2o joined the game
+[01:53:10] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:53:10] [Server thread/INFO]: shikamaru2o left the game
+[01:53:23] [Server thread/INFO]: shikamaru2o[/49.36.106.153:62687] logged in with entity id 213770 at (-322.963275015413, -7.0, 318.34843649389427)
+[01:53:23] [Server thread/INFO]: shikamaru2o joined the game
+[01:54:23] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:54:23] [Server thread/INFO]: shikamaru2o left the game
+[01:55:13] [Server thread/INFO]: shikamaru2o[/49.36.106.153:64097] logged in with entity id 214117 at (-331.91829698116146, 5.0, 316.42314472970764)
+[01:55:13] [Server thread/INFO]: shikamaru2o joined the game
+[01:55:58] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:55:58] [Server thread/INFO]: shikamaru2o left the game
+[01:56:19] [Server thread/INFO]: shikamaru2o[/49.36.106.153:65462] logged in with entity id 214442 at (-326.08325510212023, 6.252203340253724, 316.6664753514301)
+[01:56:19] [Server thread/INFO]: shikamaru2o joined the game
+[02:00:04] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:00:04] [Server thread/INFO]: shikamaru2o left the game
+[02:00:26] [Server thread/INFO]: shikamaru2o[/49.36.106.153:59930] logged in with entity id 215300 at (-323.6293857783026, 8.0, 314.6383822304535)
+[02:00:26] [Server thread/INFO]: shikamaru2o joined the game
+[02:03:43] [Server thread/INFO]: Copper[/103.137.153.204:29512] logged in with entity id 216176 at (-2.676882696603277, 161.4404047707318, 207.69999998807907)
+[02:03:43] [Server thread/INFO]: Copper joined the game
+[02:03:56] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:03:56] [Server thread/INFO]: shikamaru2o left the game
+[02:04:04] [Server thread/INFO]: shikamaru2o[/49.36.106.153:54445] logged in with entity id 216836 at (-386.9510929896463, -7.0, 303.98747322792195)
+[02:04:04] [Server thread/INFO]: shikamaru2o joined the game
+[02:04:31] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[02:04:31] [Server thread/INFO]: shikamaru2o left the game
+[02:05:06] [Server thread/INFO]: shikamaru2o[/49.36.106.153:49947] logged in with entity id 217306 at (-387.6185527898585, -7.0, 301.97368948697294)
+[02:05:06] [Server thread/INFO]: shikamaru2o joined the game
+[02:05:15] [Server thread/WARN]: shikamaru2o moved too quickly! 9.688978338040272,0.0,3.0168486196321282
+[02:11:36] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:11:36] [Server thread/INFO]: shikamaru2o left the game
+[02:12:04] [Server thread/INFO]: shikamaru2o[/49.36.106.153:63535] logged in with entity id 220504 at (-355.8512011314674, -17.0, 322.51597404988644)
+[02:12:04] [Server thread/INFO]: shikamaru2o joined the game
+[02:17:20] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[02:17:20] [Server thread/INFO]: shikamaru2o left the game
+[02:17:22] [Server thread/INFO]: shikamaru2o[/49.36.106.153:62349] logged in with entity id 222584 at (-298.69999998807907, -14.0, 320.30000001192093)
+[02:17:22] [Server thread/INFO]: shikamaru2o joined the game
+[02:21:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> w house
+[02:21:54] [Server thread/INFO]: [Not Secure] <Copper> whose
+[02:21:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> yours
+[02:22:10] [Server thread/INFO]: [Not Secure] <Copper> thx
+[02:25:04] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[02:25:04] [Server thread/INFO]: shikamaru2o left the game
+[03:05:50] [Server thread/INFO]: Copper was slain by Zombie
+[03:26:01] [Server thread/INFO]: shepan (/51.159.119.214:59670) lost connection: Disconnected
+[03:32:12] [Server thread/INFO]: Copper lost connection: Disconnected
+[03:32:12] [Server thread/INFO]: Copper left the game
+[03:33:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:00:01] [Server thread/INFO]: [Not Secure] [Server] Server restarting for backup in 10 seconds...
+[04:00:11] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:00:11] [Server thread/INFO]: Saved the game
+[04:00:16] [Server thread/INFO]: Stopping the server
+[04:00:16] [Server thread/INFO]: Stopping server
+[04:00:16] [Server thread/INFO]: Saving players
+[04:00:16] [Server thread/INFO]: Saving worlds
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

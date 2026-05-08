@@ -16,12 +16,17 @@
       "minecraft:lush_caves": "2026-05-02 17:11:00 +0530",
       "minecraft:deep_cold_ocean": "2026-04-29 14:27:22 +0530",
       "minecraft:frozen_ocean": "2026-04-19 17:51:08 +0530",
+      "minecraft:eroded_badlands": "2026-05-08 17:47:27 +0530",
+      "minecraft:desert": "2026-05-08 17:41:24 +0530",
       "minecraft:frozen_river": "2026-04-15 20:18:17 +0530",
       "minecraft:deep_frozen_ocean": "2026-04-24 15:12:16 +0530",
       "minecraft:ocean": "2026-05-06 09:52:45 +0530",
       "minecraft:cherry_grove": "2026-04-15 10:50:17 +0530",
       "minecraft:birch_forest": "2026-04-15 20:03:43 +0530",
       "minecraft:snowy_beach": "2026-04-15 20:35:39 +0530",
+      "minecraft:windswept_savanna": "2026-05-08 22:37:09 +0530",
+      "minecraft:warm_ocean": "2026-05-08 17:43:36 +0530",
+      "minecraft:badlands": "2026-05-08 17:44:21 +0530",
       "minecraft:beach": "2026-04-15 22:57:07 +0530",
       "minecraft:river": "2026-04-15 11:46:34 +0530",
       "minecraft:snowy_plains": "2026-04-15 20:16:48 +0530",
@@ -34,6 +39,7 @@
       "minecraft:grove": "2026-04-15 12:39:25 +0530",
       "minecraft:meadow": "2026-04-15 11:41:41 +0530",
       "minecraft:windswept_gravelly_hills": "2026-05-06 09:57:51 +0530",
+      "minecraft:savanna": "2026-05-08 17:33:20 +0530",
       "minecraft:plains": "2026-04-15 10:50:56 +0530"
     },
     "done": false
@@ -536,6 +542,7 @@
       "chicken": "2026-04-24 22:20:52 +0530",
       "bread": "2026-04-15 11:09:52 +0530",
       "honey_bottle": "2026-05-05 19:32:26 +0530",
+      "rotten_flesh": "2026-05-08 16:23:07 +0530",
       "cooked_mutton": "2026-04-15 11:41:17 +0530",
       "glow_berries": "2026-04-24 13:26:10 +0530",
       "salmon": "2026-04-21 02:42:44 +0530",
@@ -762,6 +769,7 @@
       "minecraft:pillager": "2026-04-26 15:02:58 +0530",
       "minecraft:skeleton": "2026-04-15 11:34:31 +0530",
       "minecraft:phantom": "2026-04-29 18:56:35 +0530",
+      "minecraft:parched": "2026-05-08 22:18:36 +0530",
       "minecraft:witch": "2026-05-02 16:25:57 +0530",
       "minecraft:wither_skeleton": "2026-04-21 12:46:44 +0530",
       "minecraft:husk": "2026-05-03 00:51:58 +0530",
@@ -2843,10 +2851,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-04-17 23:38:44 +0530",
       "minecraft:nether_wastes": "2026-04-18 11:34:09 +0530",
+      "minecraft:soul_sand_valley": "2026-05-08 17:09:55 +0530",
       "minecraft:basalt_deltas": "2026-04-29 10:00:55 +0530",
       "minecraft:warped_forest": "2026-04-29 10:04:20 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
@@ -4598,6 +4607,36 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2026-05-07 22:33:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2026-05-08 16:27:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-05-08 17:47:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2026-05-08 18:12:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-08 18:12:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-08 18:12:32 +0530"
     },
     "done": true
   },

@@ -13,10 +13,12 @@
       "minecraft:taiga": "2026-04-16 23:37:02 +0530",
       "minecraft:frozen_ocean": "2026-04-28 11:34:58 +0530",
       "minecraft:frozen_river": "2026-04-17 00:37:14 +0530",
+      "minecraft:jungle": "2026-05-08 18:14:40 +0530",
       "minecraft:cherry_grove": "2026-04-16 19:50:39 +0530",
       "minecraft:birch_forest": "2026-04-25 11:01:42 +0530",
       "minecraft:old_growth_spruce_taiga": "2026-04-29 15:01:30 +0530",
       "minecraft:snowy_beach": "2026-04-28 11:33:31 +0530",
+      "minecraft:bamboo_jungle": "2026-05-08 18:22:57 +0530",
       "minecraft:savanna_plateau": "2026-05-08 15:32:42 +0530",
       "minecraft:beach": "2026-04-16 23:44:38 +0530",
       "minecraft:dark_forest": "2026-04-29 14:55:49 +0530",
@@ -190,14 +192,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-04-16 23:49:08 +0530",
+      "mutton": "2026-05-08 18:20:35 +0530",
       "chicken": "2026-04-25 17:19:58 +0530",
       "bread": "2026-04-16 21:14:30 +0530",
-      "cooked_chicken": "2026-04-17 01:13:08 +0530",
       "cooked_mutton": "2026-04-17 01:44:44 +0530",
-      "potato": "2026-04-16 19:59:20 +0530",
+      "salmon": "2026-05-08 18:21:25 +0530",
       "cooked_beef": "2026-04-16 21:33:20 +0530",
       "beef": "2026-05-01 09:07:43 +0530",
       "baked_potato": "2026-05-05 19:23:10 +0530",
+      "melon_slice": "2026-05-08 18:21:42 +0530",
+      "porkchop": "2026-05-08 18:18:56 +0530",
+      "cooked_chicken": "2026-04-17 01:13:08 +0530",
+      "potato": "2026-04-16 19:59:20 +0530",
       "carrot": "2026-04-16 20:01:31 +0530"
     },
     "done": false
@@ -4063,6 +4069,78 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2026-05-08 15:57:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2026-05-08 18:14:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2026-05-08 18:14:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-05-08 18:14:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-05-08 18:15:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-05-08 18:15:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 18:20:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 18:20:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2026-05-08 18:20:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-05-08 18:21:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-05-08 18:21:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-05-08 18:21:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-05-09 02:16:06 +0530"
     },
     "done": true
   },
