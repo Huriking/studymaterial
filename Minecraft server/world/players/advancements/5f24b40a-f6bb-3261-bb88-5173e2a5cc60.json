@@ -7,15 +7,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-05-08 13:17:17 +0530",
       "minecraft:snowy_slopes": "2026-05-06 12:58:22 +0530",
+      "minecraft:beach": "2026-05-08 13:18:56 +0530",
+      "minecraft:dark_forest": "2026-05-08 13:11:44 +0530",
+      "minecraft:mushroom_fields": "2026-05-08 13:56:25 +0530",
       "minecraft:forest": "2026-05-06 13:42:28 +0530",
-      "minecraft:deep_dark": "2026-05-06 13:15:51 +0530",
-      "minecraft:cherry_grove": "2026-05-06 12:59:20 +0530",
+      "minecraft:taiga": "2026-05-08 13:17:02 +0530",
       "minecraft:river": "2026-05-06 13:39:13 +0530",
-      "minecraft:meadow": "2026-05-06 13:00:38 +0530",
       "minecraft:dripstone_caves": "2026-05-06 13:15:12 +0530",
       "minecraft:frozen_peaks": "2026-05-06 13:36:06 +0530",
-      "minecraft:plains": "2026-05-06 13:00:23 +0530"
+      "minecraft:old_growth_birch_forest": "2026-05-08 13:08:31 +0530",
+      "minecraft:deep_dark": "2026-05-06 13:15:51 +0530",
+      "minecraft:cherry_grove": "2026-05-06 12:59:20 +0530",
+      "minecraft:grove": "2026-05-08 14:07:53 +0530",
+      "minecraft:meadow": "2026-05-06 13:00:38 +0530",
+      "minecraft:birch_forest": "2026-05-08 13:08:14 +0530",
+      "minecraft:plains": "2026-05-06 13:00:23 +0530",
+      "minecraft:pale_garden": "2026-05-08 13:12:30 +0530"
     },
     "done": false
   },
@@ -178,11 +187,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-05-07 12:47:50 +0530",
+      "apple": "2026-05-08 12:01:05 +0530",
       "bread": "2026-05-07 13:03:51 +0530",
       "cooked_chicken": "2026-05-06 13:03:08 +0530",
       "honey_bottle": "2026-05-06 13:17:53 +0530",
       "cooked_mutton": "2026-05-07 17:00:00 +0530",
       "cooked_beef": "2026-05-06 13:09:10 +0530",
+      "cooked_salmon": "2026-05-08 10:51:40 +0530",
       "golden_carrot": "2026-05-07 23:19:35 +0530"
     },
     "done": false
@@ -219,7 +230,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2026-05-06 13:05:44 +0530"
+      "minecraft:crimson_forest": "2026-05-06 13:05:44 +0530",
+      "minecraft:nether_wastes": "2026-05-08 13:49:34 +0530",
+      "minecraft:basalt_deltas": "2026-05-08 13:52:52 +0530",
+      "minecraft:warped_forest": "2026-05-08 13:53:42 +0530"
     },
     "done": false
   },
@@ -771,16 +785,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2026-05-07 22:56:00 +0530",
       "minecraft:skeleton": "2026-05-07 11:44:54 +0530",
       "minecraft:phantom": "2026-05-06 17:08:56 +0530",
+      "minecraft:husk": "2026-05-07 23:01:42 +0530",
+      "minecraft:bogged": "2026-05-07 22:55:40 +0530",
+      "minecraft:hoglin": "2026-05-08 14:04:33 +0530",
+      "minecraft:cave_spider": "2026-05-07 22:56:00 +0530",
+      "minecraft:piglin": "2026-05-08 14:16:03 +0530",
       "minecraft:zombie_horse": "2026-05-07 12:10:02 +0530",
       "minecraft:breeze": "2026-05-07 23:06:54 +0530",
+      "minecraft:enderman": "2026-05-08 11:22:02 +0530",
       "minecraft:spider": "2026-05-07 11:42:14 +0530",
       "minecraft:zombie": "2026-05-06 13:37:46 +0530",
       "minecraft:creeper": "2026-05-07 12:12:12 +0530",
-      "minecraft:husk": "2026-05-07 23:01:42 +0530",
-      "minecraft:bogged": "2026-05-07 22:55:40 +0530"
+      "minecraft:zombie_villager": "2026-05-08 12:36:25 +0530"
     },
     "done": false
   },
@@ -2410,21 +2428,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2026-05-07 23:02:40 +0530"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2026-05-07 22:56:36 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/under_lock_and_key": {
-    "criteria": {
-      "under_lock_and_key": "2026-05-07 23:06:01 +0530"
     },
     "done": true
   },
@@ -2434,19 +2440,37 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2026-05-07 23:00:05 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/mace": {
     "criteria": {
       "has_heavy_core": "2026-05-07 23:00:04 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-05-07 23:00:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-05-07 23:02:40 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-05-07 23:02:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-05-07 23:02:40 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2026-05-07 23:02:40 +0530"
     },
@@ -2458,27 +2482,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wind_charge": {
-    "criteria": {
-      "has_breeze_rod": "2026-05-07 23:06:56 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2026-05-07 23:02:40 +0530"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-05-07 23:04:06 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:adventure/under_lock_and_key": {
     "criteria": {
-      "has_brick": "2026-05-07 23:02:40 +0530"
+      "under_lock_and_key": "2026-05-07 23:06:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2026-05-07 23:06:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-08 13:17:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-08 13:17:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2026-05-08 14:16:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2026-05-08 13:21:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2026-05-08 14:16:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-05-08 14:18:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2026-05-08 13:21:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-05-08 14:18:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-05-08 14:18:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-05-08 13:11:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-08 13:17:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2026-05-08 13:21:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2026-05-08 13:08:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-05-08 13:11:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-05-08 11:26:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-05-08 14:18:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-05-08 11:48:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-05-08 14:05:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-05-08 13:57:56 +0530"
     },
     "done": true
   },

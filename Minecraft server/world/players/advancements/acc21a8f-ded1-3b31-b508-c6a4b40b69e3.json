@@ -24,11 +24,13 @@
       "minecraft:birch_forest": "2026-05-06 00:33:06 +0530",
       "minecraft:snowy_beach": "2026-04-29 13:39:14 +0530",
       "minecraft:bamboo_jungle": "2026-05-06 09:58:42 +0530",
+      "minecraft:windswept_savanna": "2026-05-08 13:37:00 +0530",
       "minecraft:deep_lukewarm_ocean": "2026-05-07 10:24:26 +0530",
       "minecraft:beach": "2026-04-29 13:36:17 +0530",
       "minecraft:dark_forest": "2026-05-06 10:03:35 +0530",
       "minecraft:sparse_jungle": "2026-05-06 09:37:10 +0530",
       "minecraft:river": "2026-04-29 11:32:28 +0530",
+      "minecraft:lukewarm_ocean": "2026-05-08 13:21:09 +0530",
       "minecraft:stony_shore": "2026-04-29 13:36:11 +0530",
       "minecraft:snowy_plains": "2026-04-29 13:37:17 +0530",
       "minecraft:dripstone_caves": "2026-04-29 10:52:56 +0530",
@@ -2845,6 +2847,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-05-07 10:18:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-05-07 10:57:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-05-07 10:57:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-07 10:57:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2026-05-07 10:59:58 +0530"
@@ -2863,21 +2889,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2026-05-07 10:57:49 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2026-05-07 10:59:58 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map_cloning": {
-    "criteria": {
-      "has_filled_map": "2026-05-07 10:18:16 +0530"
     },
     "done": true
   },
@@ -2899,21 +2913,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2026-05-07 10:57:32 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2026-05-07 10:59:58 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_log": "2026-05-07 10:57:32 +0530"
+      "has_planks": "2026-05-07 10:59:58 +0530"
     },
     "done": true
   },
@@ -2935,9 +2943,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_planks": "2026-05-07 10:59:58 +0530"
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-08 13:24:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-08 13:24:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-08 13:24:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-05-08 13:24:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-05-08 13:47:02 +0530"
     },
     "done": true
   },
