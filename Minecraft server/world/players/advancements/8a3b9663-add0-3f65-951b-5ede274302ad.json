@@ -43,6 +43,7 @@
       "cooked_mutton": "2026-05-07 16:21:26 +0530",
       "potato": "2026-05-08 12:24:31 +0530",
       "cooked_beef": "2026-05-06 13:03:13 +0530",
+      "baked_potato": "2026-05-09 16:41:29 +0530",
       "cooked_salmon": "2026-05-06 17:20:23 +0530",
       "carrot": "2026-05-06 15:38:27 +0530"
     },
@@ -741,15 +742,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2026-05-09 18:18:48 +0530",
       "minecraft:skeleton": "2026-05-06 16:36:58 +0530",
       "minecraft:phantom": "2026-05-07 19:55:44 +0530",
-      "minecraft:enderman": "2026-05-06 14:01:39 +0530",
       "minecraft:witch": "2026-05-09 15:48:24 +0530",
+      "minecraft:husk": "2026-05-09 16:31:55 +0530",
+      "minecraft:bogged": "2026-05-09 16:17:20 +0530",
+      "minecraft:hoglin": "2026-05-07 17:26:20 +0530",
+      "minecraft:cave_spider": "2026-05-09 16:16:24 +0530",
+      "minecraft:piglin": "2026-05-09 18:20:07 +0530",
+      "minecraft:enderman": "2026-05-06 14:01:39 +0530",
       "minecraft:spider": "2026-05-07 16:04:21 +0530",
       "minecraft:zombie": "2026-05-06 13:59:14 +0530",
       "minecraft:creeper": "2026-05-06 14:09:43 +0530",
-      "minecraft:zombie_villager": "2026-05-06 13:38:22 +0530",
-      "minecraft:hoglin": "2026-05-07 17:26:20 +0530"
+      "minecraft:zombie_villager": "2026-05-06 13:38:22 +0530"
     },
     "done": false
   },
@@ -2712,6 +2718,132 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2026-05-09 15:08:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-05-09 16:15:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-09 16:28:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-05-09 18:37:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-05-09 18:18:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-05-09 16:23:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tipped_arrow": {
+    "criteria": {
+      "has_lingering_potion": "2026-05-09 16:21:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-05-09 16:25:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-05-09 16:25:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-05-09 18:16:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-05-09 18:16:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-05-09 18:16:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-05-09 18:16:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-05-09 18:16:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-05-09 18:16:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-05-09 16:16:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2026-05-09 16:39:00 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-09 18:18:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-09 16:28:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-05-09 18:18:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-09 18:18:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-05-09 18:37:15 +0530"
     },
     "done": true
   },

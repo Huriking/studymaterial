@@ -1,0 +1,18 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-09 23:02:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2026-05-09 23:02:08 +0530",
+      "minecraft:cherry_grove": "2026-05-09 23:02:44 +0530",
+      "minecraft:meadow": "2026-05-09 23:02:39 +0530",
+      "minecraft:plains": "2026-05-09 23:03:04 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 4790
+}
