@@ -3029,12 +3029,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2026-05-09 23:07:37 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2026-05-09 22:46:20 +0530"
@@ -3053,21 +3047,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2026-05-09 22:49:49 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2026-05-09 22:46:20 +0530"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2026-05-09 23:06:17 +0530"
     },
     "done": true
   },
@@ -3083,9 +3065,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-05-09 22:49:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-05-09 23:06:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2026-05-09 23:06:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-05-09 23:07:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-05-09 23:59:26 +0530"
     },
     "done": true
   },
