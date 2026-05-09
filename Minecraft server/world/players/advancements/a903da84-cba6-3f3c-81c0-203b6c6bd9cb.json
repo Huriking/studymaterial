@@ -8,26 +8,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-05-06 09:35:59 +0530",
-      "minecraft:savanna_plateau": "2026-05-08 15:24:37 +0530",
       "minecraft:snowy_slopes": "2026-04-15 17:46:22 +0530",
-      "minecraft:beach": "2026-05-06 09:27:37 +0530",
       "minecraft:mushroom_fields": "2026-05-06 10:27:36 +0530",
       "minecraft:forest": "2026-04-15 18:54:46 +0530",
       "minecraft:taiga": "2026-05-06 08:51:58 +0530",
-      "minecraft:sparse_jungle": "2026-05-08 17:09:23 +0530",
       "minecraft:deep_ocean": "2026-05-06 10:21:20 +0530",
+      "minecraft:deep_cold_ocean": "2026-05-06 14:58:37 +0530",
+      "minecraft:frozen_ocean": "2026-05-09 09:13:22 +0530",
+      "minecraft:deep_frozen_ocean": "2026-05-09 09:13:39 +0530",
+      "minecraft:ocean": "2026-05-06 09:28:11 +0530",
+      "minecraft:jungle": "2026-05-09 10:13:03 +0530",
+      "minecraft:cherry_grove": "2026-04-15 17:48:17 +0530",
+      "minecraft:birch_forest": "2026-05-06 09:27:24 +0530",
+      "minecraft:windswept_hills": "2026-05-09 09:39:48 +0530",
+      "minecraft:windswept_savanna": "2026-05-09 09:38:13 +0530",
+      "minecraft:savanna_plateau": "2026-05-08 15:24:37 +0530",
+      "minecraft:beach": "2026-05-06 09:27:37 +0530",
+      "minecraft:sparse_jungle": "2026-05-08 17:09:23 +0530",
       "minecraft:river": "2026-05-06 08:50:58 +0530",
       "minecraft:lukewarm_ocean": "2026-05-08 15:22:33 +0530",
       "minecraft:dripstone_caves": "2026-04-18 11:53:46 +0530",
       "minecraft:frozen_peaks": "2026-04-16 00:42:04 +0530",
-      "minecraft:deep_cold_ocean": "2026-05-06 14:58:37 +0530",
       "minecraft:old_growth_birch_forest": "2026-05-06 15:20:28 +0530",
       "minecraft:deep_dark": "2026-04-18 12:07:39 +0530",
-      "minecraft:ocean": "2026-05-06 09:28:11 +0530",
-      "minecraft:cherry_grove": "2026-04-15 17:48:17 +0530",
       "minecraft:grove": "2026-04-15 18:37:19 +0530",
       "minecraft:meadow": "2026-04-15 18:54:36 +0530",
-      "minecraft:birch_forest": "2026-05-06 09:27:24 +0530",
       "minecraft:windswept_gravelly_hills": "2026-05-06 09:57:51 +0530",
       "minecraft:savanna": "2026-05-08 15:22:54 +0530",
       "minecraft:plains": "2026-04-15 17:48:31 +0530"
@@ -2847,6 +2852,168 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2026-05-08 19:20:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-05-09 09:23:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2026-05-09 10:15:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2026-05-09 10:15:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2026-05-09 10:15:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-05-09 10:42:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-05-09 10:42:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-05-09 10:42:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-05-09 10:45:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-05-09 10:45:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-05-09 10:45:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-05-09 10:45:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-05-09 10:45:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-05-09 10:45:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-05-09 10:45:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-05-09 11:14:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-09 15:46:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-05-09 15:46:35 +0530"
     },
     "done": true
   },

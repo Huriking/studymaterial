@@ -744,6 +744,7 @@
       "minecraft:skeleton": "2026-05-06 16:36:58 +0530",
       "minecraft:phantom": "2026-05-07 19:55:44 +0530",
       "minecraft:enderman": "2026-05-06 14:01:39 +0530",
+      "minecraft:witch": "2026-05-09 15:48:24 +0530",
       "minecraft:spider": "2026-05-07 16:04:21 +0530",
       "minecraft:zombie": "2026-05-06 13:59:14 +0530",
       "minecraft:creeper": "2026-05-06 14:09:43 +0530",
@@ -2666,9 +2667,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_brick": "2026-05-08 17:11:47 +0530"
+      "has_kelp": "2026-05-08 16:53:41 +0530"
     },
     "done": true
   },
@@ -2684,21 +2685,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-05-08 17:11:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2026-05-08 17:11:47 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2026-05-08 16:53:41 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2026-05-08 17:11:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-05-09 15:08:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-05-09 15:08:20 +0530"
     },
     "done": true
   },

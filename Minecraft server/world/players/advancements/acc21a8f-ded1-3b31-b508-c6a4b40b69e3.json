@@ -204,6 +204,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-05-09 12:57:57 +0530",
       "mutton": "2026-04-27 20:01:53 +0530",
       "chicken": "2026-04-28 17:51:24 +0530",
       "bread": "2026-04-28 17:51:28 +0530",
@@ -212,6 +213,7 @@
       "cooked_mutton": "2026-05-01 09:47:54 +0530",
       "salmon": "2026-04-29 12:15:05 +0530",
       "beef": "2026-04-29 14:23:27 +0530",
+      "baked_potato": "2026-05-09 12:46:20 +0530",
       "porkchop": "2026-04-28 19:10:22 +0530",
       "tropical_fish": "2026-04-30 00:05:19 +0530",
       "golden_carrot": "2026-05-07 11:37:19 +0530",
@@ -3283,6 +3285,30 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2026-05-08 17:53:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-05-09 12:35:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-05-09 12:40:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-05-09 12:40:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-05-09 12:40:48 +0530"
     },
     "done": true
   },
