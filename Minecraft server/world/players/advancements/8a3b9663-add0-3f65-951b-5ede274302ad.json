@@ -2727,33 +2727,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_red_mushroom": "2026-05-09 16:28:06 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2026-05-09 18:37:15 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2026-05-09 18:18:49 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/under_lock_and_key": {
-    "criteria": {
-      "under_lock_and_key": "2026-05-09 16:23:27 +0530"
+      "has_spider_eye": "2026-05-09 16:16:24 +0530"
     },
     "done": true
   },
   "minecraft:recipes/misc/tipped_arrow": {
     "criteria": {
       "has_lingering_potion": "2026-05-09 16:21:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-05-09 16:23:27 +0530"
     },
     "done": true
   },
@@ -2766,6 +2754,24 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2026-05-09 16:25:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-09 16:28:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-05-09 16:28:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+    "criteria": {
+      "has_waxed_cut_copper_slab": "2026-05-09 16:39:00 +0530"
     },
     "done": true
   },
@@ -2805,15 +2811,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_spider_eye": "2026-05-09 16:16:24 +0530"
+      "fortress": "2026-05-09 18:18:29 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_waxed_cut_copper_slab": "2026-05-09 16:39:00 +0530"
+      "blaze_rod": "2026-05-09 18:18:49 +0530"
     },
     "done": true
   },
@@ -2823,27 +2829,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2026-05-09 16:28:06 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2026-05-09 18:18:29 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2026-05-09 18:18:49 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-05-09 18:37:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2026-05-09 18:37:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-05-10 10:56:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-10 11:55:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-10 11:57:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-10 11:57:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-05-10 11:57:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-05-10 11:57:09 +0530"
     },
     "done": true
   },
