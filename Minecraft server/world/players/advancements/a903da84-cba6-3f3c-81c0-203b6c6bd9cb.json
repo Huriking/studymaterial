@@ -15,6 +15,7 @@
       "minecraft:deep_ocean": "2026-05-06 10:21:20 +0530",
       "minecraft:deep_cold_ocean": "2026-05-06 14:58:37 +0530",
       "minecraft:frozen_ocean": "2026-05-09 09:13:22 +0530",
+      "minecraft:desert": "2026-05-11 00:33:45 +0530",
       "minecraft:deep_frozen_ocean": "2026-05-09 09:13:39 +0530",
       "minecraft:ocean": "2026-05-06 09:28:11 +0530",
       "minecraft:jungle": "2026-05-09 10:13:03 +0530",
@@ -22,11 +23,13 @@
       "minecraft:birch_forest": "2026-05-06 09:27:24 +0530",
       "minecraft:windswept_hills": "2026-05-09 09:39:48 +0530",
       "minecraft:windswept_savanna": "2026-05-09 09:38:13 +0530",
+      "minecraft:warm_ocean": "2026-05-11 00:34:29 +0530",
       "minecraft:savanna_plateau": "2026-05-08 15:24:37 +0530",
       "minecraft:beach": "2026-05-06 09:27:37 +0530",
       "minecraft:sparse_jungle": "2026-05-08 17:09:23 +0530",
       "minecraft:river": "2026-05-06 08:50:58 +0530",
       "minecraft:lukewarm_ocean": "2026-05-08 15:22:33 +0530",
+      "minecraft:stony_shore": "2026-05-10 19:12:07 +0530",
       "minecraft:dripstone_caves": "2026-04-18 11:53:46 +0530",
       "minecraft:frozen_peaks": "2026-04-16 00:42:04 +0530",
       "minecraft:old_growth_birch_forest": "2026-05-06 15:20:28 +0530",
@@ -60,16 +63,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-04-18 00:22:54 +0530",
-      "apple": "2026-04-15 19:10:26 +0530",
       "chicken": "2026-05-06 23:22:20 +0530",
       "bread": "2026-04-16 21:03:58 +0530",
-      "cooked_chicken": "2026-04-17 16:09:32 +0530",
       "rotten_flesh": "2026-05-06 23:22:29 +0530",
       "cooked_mutton": "2026-04-15 18:32:12 +0530",
-      "potato": "2026-04-16 23:28:16 +0530",
       "cooked_beef": "2026-04-16 23:57:53 +0530",
+      "baked_potato": "2026-05-11 01:40:37 +0530",
       "melon_slice": "2026-04-22 22:51:01 +0530",
       "beetroot": "2026-04-16 23:35:10 +0530",
+      "apple": "2026-04-15 19:10:26 +0530",
+      "cooked_chicken": "2026-04-17 16:09:32 +0530",
+      "potato": "2026-04-16 23:28:16 +0530",
       "carrot": "2026-04-15 17:53:10 +0530"
     },
     "done": false
@@ -575,10 +579,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-04-19 18:46:13 +0530",
+      "minecraft:witch": "2026-05-11 01:43:00 +0530",
       "minecraft:spider": "2026-04-17 16:33:29 +0530",
       "minecraft:zombie": "2026-04-15 19:27:33 +0530",
       "minecraft:creeper": "2026-05-08 15:09:56 +0530",
-      "minecraft:drowned": "2026-04-19 23:44:02 +0530"
+      "minecraft:drowned": "2026-04-19 23:44:02 +0530",
+      "minecraft:zombie_villager": "2026-05-11 01:27:27 +0530",
+      "minecraft:hoglin": "2026-05-11 00:45:09 +0530"
     },
     "done": false
   },
@@ -2010,10 +2017,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-05-05 23:45:05 +0530",
       "minecraft:nether_wastes": "2026-05-06 10:53:06 +0530",
+      "minecraft:soul_sand_valley": "2026-05-11 00:32:42 +0530",
       "minecraft:basalt_deltas": "2026-05-06 10:53:14 +0530",
       "minecraft:warped_forest": "2026-05-06 10:39:05 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -3092,6 +3100,60 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2026-05-09 23:59:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-05-10 19:17:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-05-10 19:17:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-05-10 19:17:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2026-05-10 19:21:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2026-05-10 19:59:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_shelf": {
+    "criteria": {
+      "has_stripped_cherry_log": "2026-05-10 19:59:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-05-10 19:59:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-05-11 01:30:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-05-11 00:33:45 +0530"
     },
     "done": true
   },

@@ -16,6 +16,7 @@
       "minecraft:lush_caves": "2026-04-29 14:52:33 +0530",
       "minecraft:deep_cold_ocean": "2026-04-30 07:08:32 +0530",
       "minecraft:frozen_ocean": "2026-04-29 13:37:22 +0530",
+      "minecraft:desert": "2026-05-10 20:25:51 +0530",
       "minecraft:frozen_river": "2026-04-29 13:39:24 +0530",
       "minecraft:deep_frozen_ocean": "2026-04-30 07:09:09 +0530",
       "minecraft:jungle": "2026-05-06 09:47:30 +0530",
@@ -25,6 +26,7 @@
       "minecraft:snowy_beach": "2026-04-29 13:39:14 +0530",
       "minecraft:bamboo_jungle": "2026-05-06 09:58:42 +0530",
       "minecraft:windswept_savanna": "2026-05-08 13:37:00 +0530",
+      "minecraft:warm_ocean": "2026-05-10 20:26:18 +0530",
       "minecraft:deep_lukewarm_ocean": "2026-05-07 10:24:26 +0530",
       "minecraft:beach": "2026-04-29 13:36:17 +0530",
       "minecraft:dark_forest": "2026-05-06 10:03:35 +0530",
@@ -1394,7 +1396,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2026-04-29 12:13:01 +0530",
-      "minecraft:nether_wastes": "2026-05-06 10:26:15 +0530"
+      "minecraft:nether_wastes": "2026-05-06 10:26:15 +0530",
+      "minecraft:soul_sand_valley": "2026-05-10 20:24:31 +0530",
+      "minecraft:basalt_deltas": "2026-05-10 20:25:28 +0530"
     },
     "done": false
   },
@@ -3335,6 +3339,156 @@
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2026-05-10 10:13:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-05-10 18:45:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2026-05-10 19:12:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-05-10 19:18:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2026-05-10 19:18:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-05-10 20:45:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-05-10 20:45:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-05-10 20:48:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-05-10 20:54:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2026-05-11 03:49:21 +0530"
     },
     "done": true
   },

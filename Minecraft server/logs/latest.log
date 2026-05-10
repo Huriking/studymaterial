@@ -1,464 +1,439 @@
-[04:01:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[04:01:12] [ServerMain/INFO]: Loaded 1515 recipes
-[04:01:12] [ServerMain/INFO]: Loaded 1617 advancements
-[04:01:12] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[04:01:12] [Server thread/INFO]: Loading properties
-[04:01:12] [Server thread/INFO]: Default game type: SURVIVAL
-[04:01:12] [Server thread/INFO]: Generating keypair
-[04:01:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:01:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:01:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:01:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:01:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:01:13] [Server thread/INFO]: Preparing level "world"
-[04:01:13] [Server thread/INFO]: Loading 0 persistent chunks...
-[04:01:13] [Server thread/INFO]: Preparing spawn area: 100%
-[04:01:13] [Server thread/INFO]: Time elapsed: 15 ms
-[04:01:13] [Server thread/INFO]: Done (0.527s)! For help, type "help"
-[04:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:02:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:14:05] [Netty Epoll IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:488)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:324)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:298)
-	at net.minecraft.network.Connection.send(Connection.java:292)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:143)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:725)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:820)
-	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.handle(AbstractEpollChannel.java:482)
-	at io.netty.channel.epoll.EpollIoHandler$DefaultEpollIoRegistration.handle(EpollIoHandler.java:317)
-	at io.netty.channel.epoll.EpollIoHandler.processReady(EpollIoHandler.java:515)
-	at io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:460)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[04:33:16] [Server thread/INFO]: Copper[/45.251.238.165:6364] logged in with entity id 143 at (-119.95404089505287, 132.0, 74.1327135014247)
-[04:33:16] [Server thread/INFO]: Copper joined the game
-[04:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[04:34:07] [Server thread/INFO]: Copper lost connection: Disconnected
-[04:34:07] [Server thread/INFO]: Copper left the game
-[04:35:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[05:47:37] [Netty Epoll IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:488)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:324)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:298)
-	at net.minecraft.network.Connection.send(Connection.java:292)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:143)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:725)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:820)
-	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.handle(AbstractEpollChannel.java:482)
-	at io.netty.channel.epoll.EpollIoHandler$DefaultEpollIoRegistration.handle(EpollIoHandler.java:317)
-	at io.netty.channel.epoll.EpollIoHandler.processReady(EpollIoHandler.java:515)
-	at io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:460)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[07:40:18] [Server thread/INFO]: beast_07[/103.170.215.10:57690] logged in with entity id 726 at (-120.68038834528085, 99.0, 49.601988422787144)
-[07:40:18] [Server thread/INFO]: beast_07 joined the game
-[08:19:06] [Server thread/WARN]: beast_07 moved too quickly! -9.3360908155978,0.0,3.9813371408201306
-[08:22:22] [Server thread/INFO]: beast_07 lost connection: Timed out
-[08:22:22] [Server thread/INFO]: beast_07 left the game
-[08:22:22] [Server thread/WARN]: handleDisconnection() called twice
-[08:23:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:28:01] [Server thread/INFO]: beast_07[/106.192.48.251:41800] logged in with entity id 7262 at (-164.85166367358167, 132.0, -10.495553408057752)
-[08:28:01] [Server thread/INFO]: beast_07 joined the game
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -10.332963134685087,0.0,0.23265991599691915
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -10.732130345860924,0.0,0.23104587027228263
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -11.131312216836704,0.0,0.2272514134224366
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -11.530489910603592,0.0,0.22121517493837928
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -11.929646738349447,0.0,0.21291264965327628
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -12.328767911111754,0.0,0.2023448340826235
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -12.727840752124166,0.0,0.18953565553340468
-[08:49:43] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -13.126854828323076,0.0,0.1745296552758191
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -8.606885254569534,0.0,-5.764798404915261
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -8.933098861466533,0.0,-5.995741807276971
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -9.259167696430723,0.0,-6.226941896183277
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -9.585103997759234,0.0,-6.458376117316284
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -9.91091877991903,0.0,-6.690024168065136
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -10.236621952205496,0.0,-6.921867779805844
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -10.562625144315462,0.0,-7.1533204538172654
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -10.88963416242359,0.0,-7.383321777488568
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -11.218535894056004,0.0,-7.6104048279790035
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -11.550283312601096,0.0,-7.83275031811467
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -11.88550780132664,0.0,-8.048881367537923
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -12.224596760940585,0.0,-8.257619629348177
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -12.567749512634236,0.0,-8.458056816969133
-[08:57:24] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! -12.91502442941919,0.0,-8.649521068955842
-[08:58:53] [Server thread/INFO]: Huriking[/139.5.44.133:1786] logged in with entity id 21766 at (171.89996210230348, 111.0, 230.68593422242446)
-[08:58:53] [Server thread/INFO]: Huriking joined the game
-[09:01:22] [Server thread/INFO]: [Not Secure] <beast_07> sahil bhai subha subha aa gaye game khelne
-[09:02:52] [Server thread/INFO]: [Not Secure] <Huriking> phir
-[09:03:05] [Server thread/INFO]: [Not Secure] <Huriking> aap raat se abb taak?
-[09:03:22] [Server thread/INFO]: [Not Secure] <beast_07> are nhi mai bhi subha subha
-[09:03:31] [Server thread/INFO]: [Not Secure] <Huriking> nicee
-[09:03:38] [Server thread/INFO]: [Not Secure] <beast_07> berojgaro ke paas koi kam nhi
-[09:03:46] [Server thread/INFO]: Huriking lost connection: Disconnected
-[09:03:46] [Server thread/INFO]: Huriking left the game
-[09:04:16] [Server thread/INFO]: [Not Secure] <beast_07> pata abhi khujli hoti hai agar kuch karne ko nhi hota hai tho bht bekar aadat lag gai hai majdoori ki
-[09:11:00] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! 2.430676957022115,0.0,-10.045622232235814
-[09:11:00] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! 2.5880139236787727,0.0,-10.40834633167168
-[09:11:00] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! 2.7526306997287975,0.0,-10.767514648130572
-[09:11:00] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved too quickly! 2.924286033725366,0.0,-11.123134918463933
-[09:13:44] [Server thread/INFO]: Huriking[/139.5.44.133:2336] logged in with entity id 30306 at (164.89501937501035, 113.0, 232.4292678270426)
-[09:13:44] [Server thread/INFO]: Huriking joined the game
-[09:13:44] [Server thread/WARN]: Birch Boat (vehicle of beast_07) moved wrongly! 0.28836049845267553
-[09:28:29] [Server thread/INFO]: beast_07 fell from a high place
-[09:28:56] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[09:28:56] [Server thread/INFO]: beast_07 left the game
-[09:50:28] [Server thread/INFO]: Huriking was slain by Spider
-[09:54:42] [Server thread/INFO]: beast_07[/106.192.48.251:51544] logged in with entity id 46051 at (-3.5, 134.0, -9.5)
-[09:54:42] [Server thread/INFO]: beast_07 joined the game
-[09:55:40] [Server thread/INFO]: Eclipse[/110.226.177.118:12896] logged in with entity id 46663 at (186.5, 109.0, 568.5)
-[09:55:40] [Server thread/INFO]: Eclipse joined the game
-[10:08:14] [Server thread/WARN]: beast_07 moved too quickly! -7.0852826256891035,-4.766367993957516,5.675132621577745
-[10:13:41] [Server thread/INFO]: beast_07 has made the advancement [Wax Off]
-[10:16:37] [Server thread/INFO]: beast_07 was shot by Bogged
-[10:17:53] [Server thread/INFO]: beast_07 was shot by Bogged
-[10:25:55] [Server thread/INFO]: [Not Secure] <Huriking> Happy birthday harshit !!!!!!!!!!!!!!!!!
-[10:26:06] [Server thread/INFO]: [Not Secure] <beast_07> thanks bro
-[10:26:16] [Server thread/INFO]: [Not Secure] <Huriking> chal party kidr de raha
-[10:26:45] [Server thread/INFO]: [Not Secure] <beast_07> aaja farm pe tujhe bread khilata hoon
-[10:26:53] [Server thread/INFO]: [Not Secure] <beast_07> golden carrot bhi hai
-[10:27:09] [Server thread/INFO]: [Not Secure] <Huriking> aaaaa ingame toh ek stack diamonds ka party dena hai tujhe sabko
-[10:27:20] [Server thread/INFO]: [Not Secure] <Huriking> but abhi ke liye offline ki baat kar
-[10:27:24] [Server thread/INFO]: [Not Secure] <Eclipse> happy birthday harshit!
-[10:27:52] [Server thread/INFO]: [Not Secure] <beast_07> diamond stack mai ?
-[10:28:00] [Server thread/INFO]: [Not Secure] <Huriking> phir
-[10:28:03] [Server thread/INFO]: [Not Secure] <beast_07> ek do milte hai muskil se
-[10:28:13] [Server thread/INFO]: [Not Secure] <Huriking> birthday luck
-[10:28:17] [Server thread/INFO]: [Not Secure] <Huriking> kar mine pura din
-[10:38:01] [Server thread/INFO]: Varun311004[/223.236.96.147:19355] logged in with entity id 67098 at (185.74497382835062, 109.5625, 568.5418691051657)
-[10:38:01] [Server thread/INFO]: Varun311004 joined the game
-[10:39:00] [Server thread/INFO]: Villager Villager['Librarian'/63148, l='ServerLevel[world]', x=-192.05, y=108.13, z=22.75] was struck by lightning LightningBolt['Lightning Bolt'/67527, l='ServerLevel[world]', x=-194.50, y=112.00, z=19.50].
-[10:39:00] [Server thread/INFO]: Villager Villager['Librarian'/63149, l='ServerLevel[world]', x=-192.91, y=107.56, z=22.39] was struck by lightning LightningBolt['Lightning Bolt'/67527, l='ServerLevel[world]', x=-194.50, y=112.00, z=19.50].
-[10:40:25] [Server thread/INFO]: Villager Villager['Librarian'/63150, l='ServerLevel[world]', x=-192.62, y=107.56, z=22.59] died, message: 'Librarian was killed by Witch using magic'
-[10:40:37] [Server thread/INFO]: Villager Villager['Librarian'/63145, l='ServerLevel[world]', x=-192.49, y=107.56, z=26.85] died, message: 'Librarian was killed by Witch using magic'
-[10:40:37] [Server thread/INFO]: Villager Villager['Librarian'/63147, l='ServerLevel[world]', x=-192.90, y=107.56, z=23.94] died, message: 'Librarian was killed by Witch using magic'
-[10:40:37] [Server thread/INFO]: Huriking was killed by Witch using magic
-[10:42:13] [Server thread/INFO]: Villager Villager['Librarian'/63146, l='ServerLevel[world]', x=-193.21, y=107.56, z=31.46] died, message: 'Librarian was slain by Huriking'
-[10:51:15] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[10:51:15] [Server thread/INFO]: beast_07 left the game
-[10:52:50] [Server thread/INFO]: Huriking lost connection: Disconnected
-[10:52:50] [Server thread/INFO]: Huriking left the game
-[11:01:53] [Server thread/INFO]: beast_07[/106.192.48.251:34209] logged in with entity id 75345 at (-121.39678624551016, 99.0, 49.631647847362295)
-[11:01:53] [Server thread/INFO]: beast_07 joined the game
-[11:03:56] [Server thread/INFO]: [Not Secure] <Eclipse> beast got any books?
-[11:04:31] [Server thread/INFO]: [Not Secure] <Eclipse> thenks
-[11:04:45] [Server thread/INFO]: [Not Secure] <beast_07> infinity chahiye ?
-[11:04:53] [Server thread/INFO]: [Not Secure] <Eclipse> extra rhega toh de
-[11:05:04] [Server thread/INFO]: [Not Secure] <Eclipse> normal books he?
-[11:05:17] [Server thread/INFO]: [Not Secure] <beast_07> nahi woh nhij
-[11:05:19] [Server thread/INFO]: [Not Secure] <Eclipse> merko woh villager ko denay
-[11:05:20] [Server thread/INFO]: [Not Secure] <Eclipse> okokk
-[11:05:26] [Server thread/INFO]: [Not Secure] <Eclipse> thenks
-[11:14:16] [Server thread/INFO]: Huriking[/139.5.44.133:11747] logged in with entity id 81378 at (-184.48111157539586, 102.0, 39.76249998807907)
-[11:14:16] [Server thread/INFO]: Huriking joined the game
-[11:20:45] [Netty Epoll IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26)
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at net.minecraft.network.Connection$2.write(Connection.java:488)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at net.minecraft.network.Connection.doSendPacket(Connection.java:324)
-	at net.minecraft.network.Connection.sendPacket(Connection.java:316)
-	at net.minecraft.network.Connection.send(Connection.java:298)
-	at net.minecraft.network.Connection.send(Connection.java:292)
-	at net.minecraft.network.Connection.exceptionCaught(Connection.java:143)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:725)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:820)
-	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.handle(AbstractEpollChannel.java:482)
-	at io.netty.channel.epoll.EpollIoHandler$DefaultEpollIoRegistration.handle(EpollIoHandler.java:317)
-	at io.netty.channel.epoll.EpollIoHandler.processReady(EpollIoHandler.java:515)
-	at io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:460)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
-[11:21:45] [Server thread/INFO]: Huriking lost connection: Disconnected
-[11:21:45] [Server thread/INFO]: Huriking left the game
-[11:21:46] [Server thread/INFO]: Huriking[/139.5.44.133:12310] logged in with entity id 84523 at (138.30000001192093, 96.0, 167.92500001192093)
-[11:21:46] [Server thread/INFO]: Huriking joined the game
-[11:28:57] [Server thread/INFO]: Huriking lost connection: Disconnected
-[11:28:57] [Server thread/INFO]: Huriking left the game
-[11:35:40] [Server thread/INFO]: Varun311004 lost connection: Disconnected
-[11:35:40] [Server thread/INFO]: Varun311004 left the game
-[11:36:23] [Server thread/INFO]: Varun311004[/223.236.96.147:6140] logged in with entity id 91694 at (195.94605198798163, 77.0, 929.147507364729)
-[11:36:23] [Server thread/INFO]: Varun311004 joined the game
-[11:36:33] [Server thread/INFO]: Varun311004 lost connection: Disconnected
-[11:36:33] [Server thread/INFO]: Varun311004 left the game
-[11:39:10] [Server thread/INFO]: Varun311004[/223.236.96.147:10650] logged in with entity id 92504 at (202.41826724593975, 73.0, 914.9368719821114)
-[11:39:10] [Server thread/INFO]: Varun311004 joined the game
-[11:57:33] [Server thread/INFO]: Eclipse has made the advancement [Who Needs Rockets?]
-[12:05:10] [Server thread/INFO]: Huriking[/139.5.44.133:15739] logged in with entity id 103990 at (-187.985538149829, 102.0, 38.15269232669059)
-[12:05:10] [Server thread/INFO]: Huriking joined the game
-[12:11:41] [Server thread/INFO]: [Not Secure] <Eclipse> yo
-[12:11:43] [Server thread/INFO]: [Not Secure] <Huriking> mob farm use karraha hu
-[12:11:46] [Server thread/INFO]: [Not Secure] <Eclipse> okk
-[12:11:47] [Server thread/INFO]: [Not Secure] <Huriking> yoo
-[12:11:53] [Server thread/INFO]: [Not Secure] <Huriking> great builds btw
-[12:12:00] [Server thread/INFO]: [Not Secure] <Eclipse> yos
-[12:15:26] [Server thread/INFO]: beast_07 lost connection: You logged in from another location
-[12:15:26] [Server thread/INFO]: beast_07 left the game
-[12:15:27] [Server thread/WARN]: handleDisconnection() called twice
-[12:15:27] [Server thread/INFO]: beast_07[/106.192.49.194:58596] logged in with entity id 107770 at (-106.64084837593815, 127.0, 58.321315327138606)
-[12:15:27] [Server thread/INFO]: beast_07 joined the game
-[12:15:53] [Server thread/INFO]: [Not Secure] <Huriking> nothing is spawning
-[12:16:06] [Server thread/INFO]: [Not Secure] <Eclipse> thoda der wait karke dekh
-[12:16:11] [Server thread/INFO]: [Not Secure] <Eclipse> kabhi kabhi bugged hojatay
-[12:16:13] [Server thread/INFO]: [Not Secure] <Huriking> okk
-[12:18:07] [Server thread/INFO]: Huriking lost connection: Disconnected
-[12:18:07] [Server thread/INFO]: Huriking left the game
-[12:18:08] [Server thread/INFO]: Huriking[/139.5.44.133:17139] logged in with entity id 108845 at (190.83554967784832, 182.0, 756.5041600235551)
-[12:18:08] [Server thread/INFO]: Huriking joined the game
-[12:33:06] [Server thread/INFO]: beast_07 lost connection: Disconnected
-[12:33:06] [Server thread/INFO]: beast_07 left the game
-[12:38:37] [Server thread/INFO]: Varun311004 lost connection: Disconnected
-[12:38:37] [Server thread/INFO]: Varun311004 left the game
-[12:43:56] [Server thread/INFO]: Varun311004[/223.236.96.147:31330] logged in with entity id 122543 at (165.7676453871693, 86.0, 630.2370371332419)
-[12:43:56] [Server thread/INFO]: Varun311004 joined the game
-[12:56:36] [Server thread/INFO]: Varun311004 lost connection: Disconnected
-[12:56:36] [Server thread/INFO]: Varun311004 left the game
-[13:05:52] [Server thread/INFO]: Huriking lost connection: Disconnected
-[13:05:52] [Server thread/INFO]: Huriking left the game
-[14:07:31] [Server thread/INFO]: Eclipse lost connection: Disconnected
-[14:07:31] [Server thread/INFO]: Eclipse left the game
-[14:08:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:48:59] [Server thread/INFO]: SamWise[/45.127.45.31:5383] logged in with entity id 136453 at (-184.6011652537689, 111.0, 7.4965202131816255)
-[14:48:59] [Server thread/INFO]: SamWise joined the game
-[15:11:49] [Server thread/INFO]: Huriking[/139.5.44.133:23131] logged in with entity id 140674 at (183.59130776583635, 118.0, 254.60210035811167)
-[15:11:49] [Server thread/INFO]: Huriking joined the game
-[15:47:19] [Server thread/INFO]: XFighter009[/103.145.18.150:5961] logged in with entity id 152723 at (-80.94498395630534, 119.0, 31.675867797135503)
-[15:47:19] [Server thread/INFO]: XFighter009 joined the game
-[15:48:06] [Server thread/INFO]: [Not Secure] <XFighter009> love u
-[15:48:14] [Server thread/INFO]: [Not Secure] <Huriking> mere books liye?
-[15:48:21] [Server thread/INFO]: [Not Secure] <XFighter009> kon me ?
-[15:48:24] [Server thread/INFO]: [Not Secure] <Huriking> ha
-[15:48:29] [Server thread/INFO]: [Not Secure] <XFighter009> nhi
-[15:48:32] [Server thread/INFO]: [Not Secure] <XFighter009> aya he nhi udr
-[15:49:10] [Server thread/INFO]: SamWise lost connection: Disconnected
-[15:49:10] [Server thread/INFO]: SamWise left the game
-[15:49:21] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:55860): You are not white-listed on this server!
-[15:49:21] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:55860) lost connection: You are not white-listed on this server!
-[15:49:21] [Server thread/WARN]: handleDisconnection() called twice
-[15:49:27] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:52096): You are not white-listed on this server!
-[15:49:27] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:52096) lost connection: You are not white-listed on this server!
-[15:49:27] [Server thread/WARN]: handleDisconnection() called twice
-[15:49:35] [Server thread/INFO]: SamWise[/45.127.45.31:5290] logged in with entity id 153198 at (-193.35105496409312, 104.0, 46.30000001192093)
-[15:49:35] [Server thread/INFO]: SamWise joined the game
-[15:49:49] [Server thread/INFO]: XFighter009 lost connection: Disconnected
-[15:49:49] [Server thread/INFO]: XFighter009 left the game
-[15:49:51] [Server thread/INFO]: [Not Secure] <SamWise> that might be me
-[15:50:04] [Server thread/INFO]: [Not Secure] <Huriking> Kyu lodu garibo ko aur garib karna hai?
-[15:50:05] [Server thread/INFO]: [Not Secure] <SamWise> i took a mending and smite
-[15:50:09] [Server thread/INFO]: [Not Secure] <SamWise> terko detay mai
-[15:50:13] [Server thread/INFO]: [Not Secure] <Huriking> and a fire aspect
-[15:50:17] [Server thread/INFO]: [Not Secure] <SamWise> ya detau
-[15:50:19] [Server thread/INFO]: [Not Secure] <Huriking> aalsi
-[15:50:29] [Server thread/INFO]: [Not Secure] <SamWise> bhai tu itna khareedke rakha
-[15:50:37] [Server thread/INFO]: [Not Secure] <SamWise> ithought joel ka hain
-[15:50:44] [Server thread/INFO]: [Not Secure] <Huriking> phir likha bhi toh hai maat le
-[15:50:46] [Server thread/INFO]: [Not Secure] <SamWise> usne bhi itne bows leke rakhe for exp
-[15:50:48] [Server thread/INFO]: [Not Secure] <Huriking> padne sikhau
-[15:50:55] [Server thread/INFO]: [Not Secure] <SamWise> i thought ye bhi books surplus hai
-[15:50:56] [Server thread/INFO]: [Not Secure] <SamWise> uske
-[15:51:03] [Server thread/INFO]: [Not Secure] <Huriking> LIKHA HAI MAAT LO
-[15:51:12] [Server thread/INFO]: [Not Secure] <SamWise> i didnt read eh
-[15:51:24] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:64477): You are not white-listed on this server!
-[15:51:24] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:64477) lost connection: You are not white-listed on this server!
-[15:51:24] [Server thread/WARN]: handleDisconnection() called twice
-[15:51:25] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57503): You are not white-listed on this server!
-[15:51:25] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57503) lost connection: You are not white-listed on this server!
-[15:51:25] [Server thread/INFO]: [Not Secure] <SamWise> nahi toh nahi leta obv
-[15:51:25] [Server thread/WARN]: handleDisconnection() called twice
-[15:51:27] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57507): You are not white-listed on this server!
-[15:51:27] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57507) lost connection: You are not white-listed on this server!
-[15:51:27] [Server thread/WARN]: handleDisconnection() called twice
-[15:51:29] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57511): You are not white-listed on this server!
-[15:51:29] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57511) lost connection: You are not white-listed on this server!
-[15:51:29] [Server thread/WARN]: handleDisconnection() called twice
-[15:51:33] [Server thread/INFO]: [Not Secure] <Huriking> tu kyu aaya vapas
-[15:51:36] [Server thread/INFO]: [Not Secure] <Huriking> nikal na
-[15:51:43] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57550): You are not white-listed on this server!
-[15:51:43] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57550) lost connection: You are not white-listed on this server!
-[15:51:43] [Server thread/WARN]: handleDisconnection() called twice
-[15:51:45] [Server thread/INFO]: [Not Secure] <SamWise> mera sugar cane farm hai idr
-[15:51:49] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57564): You are not white-listed on this server!
-[15:51:49] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57564) lost connection: You are not white-listed on this server!
-[15:51:49] [Server thread/WARN]: handleDisconnection() called twice
-[15:51:51] [Server thread/INFO]: [Not Secure] <SamWise> aur do keemti villagers hai
-[15:51:57] [Server thread/INFO]: [Not Secure] <SamWise> aur meko enchant karnay
-[15:52:05] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57619): You are not white-listed on this server!
-[15:52:05] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57619) lost connection: You are not white-listed on this server!
-[15:52:05] [Server thread/WARN]: handleDisconnection() called twice
-[15:52:24] [Server thread/INFO]: [Not Secure] <Huriking> kar na enchant tere keemti villagers se
-[15:52:28] [Server thread/INFO]: [Not Secure] <Huriking> books churata hai
-[15:52:33] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57675): You are not white-listed on this server!
-[15:52:33] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57675) lost connection: You are not white-listed on this server!
-[15:52:33] [Server thread/WARN]: handleDisconnection() called twice
-[15:52:37] [Server thread/INFO]: [Not Secure] <SamWise> terko detay bola na chill kar
-[15:52:47] [Server thread/INFO]: [Not Secure] <SamWise> fire aspect mending and smite v
-[15:53:13] [Server thread/INFO]: [Not Secure] <SamWise> also u do know if u have smite 4 on sword, putting another smite 4 on it gives smite v
-[15:53:14] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:57948): You are not white-listed on this server!
-[15:53:14] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:57948) lost connection: You are not white-listed on this server!
-[15:53:14] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:17] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56463): You are not white-listed on this server!
-[15:53:17] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56463) lost connection: You are not white-listed on this server!
-[15:53:17] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:21] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56499): You are not white-listed on this server!
-[15:53:21] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56499) lost connection: You are not white-listed on this server!
-[15:53:21] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:23] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56508): You are not white-listed on this server!
-[15:53:23] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56508) lost connection: You are not white-listed on this server!
-[15:53:23] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:26] [Server thread/INFO]: [Not Secure] <Huriking> phir?
-[15:53:36] [Server thread/INFO]: [Not Secure] <Huriking> smite 4 sword kidr hai?
-[15:53:40] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56568): You are not white-listed on this server!
-[15:53:40] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56568) lost connection: You are not white-listed on this server!
-[15:53:40] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:43] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56577): You are not white-listed on this server!
-[15:53:43] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56577) lost connection: You are not white-listed on this server!
-[15:53:43] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:44] [Server thread/INFO]: [Not Secure] <SamWise> idk its like super ez to get smite 4 on sword
-[15:53:45] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56582): You are not white-listed on this server!
-[15:53:45] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56582) lost connection: You are not white-listed on this server!
-[15:53:45] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:47] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56586): You are not white-listed on this server!
-[15:53:47] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56586) lost connection: You are not white-listed on this server!
-[15:53:47] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:48] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56589): You are not white-listed on this server!
-[15:53:48] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56589) lost connection: You are not white-listed on this server!
-[15:53:48] [Server thread/WARN]: handleDisconnection() called twice
-[15:53:55] [Server thread/INFO]: [Not Secure] <SamWise> u just be burning through 15 lvl of xp
-[15:54:02] [Server thread/INFO]: [Not Secure] <Huriking> sabka aalag method
-[15:54:05] [Server thread/INFO]: [Not Secure] <SamWise> if you make smite v and then put on sword
-[15:54:10] [Server thread/INFO]: [Not Secure] <Huriking> tu enchant ke rng karte bait
-[15:54:11] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56653): You are not white-listed on this server!
-[15:54:11] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56653) lost connection: You are not white-listed on this server!
-[15:54:11] [Server thread/WARN]: handleDisconnection() called twice
-[15:54:14] [Server thread/INFO]: [Not Secure] <SamWise> cost effective mera hai na
-[15:54:29] [Server thread/INFO]: [Not Secure] <Huriking> KITNE BAAAAR BOLU NAHI KHELNA EFFICIENTLY
-[15:54:34] [Server thread/INFO]: [Not Secure] <SamWise> bruh i could give you a smite 4 sword right now
-[15:54:42] [Server thread/INFO]: [Not Secure] <SamWise> mai dekha bhi nahi hai what im getting on sword
-[15:54:48] [Server thread/INFO]: [Not Secure] <Huriking> NIKAL NA
-[15:54:49] [Server thread/INFO]: [Not Secure] <SamWise> then too i have full confidence
-[15:54:53] [Server thread/INFO]: [Not Secure] <Huriking> BOOKS MAAT DE
-[15:54:54] [Server thread/INFO]: [Not Secure] <SamWise> its like the easiest shit
-[15:54:56] [Server thread/INFO]: [Not Secure] <Huriking> BUT NIKAL
-[15:55:01] [Server thread/INFO]: [Not Secure] <SamWise> fuk off
-[15:55:04] [Server thread/INFO]: [Not Secure] <Huriking> My character my life
-[15:55:04] [Server thread/INFO]: [Not Secure] <SamWise> this my town
-[15:55:13] [Server thread/INFO]: [Not Secure] <SamWise> tera ghar hai dur wahan jaa
-[15:56:10] [Server thread/INFO]: [Not Secure] <Huriking> My ToWn
-[15:56:13] [Server thread/INFO]: [Not Secure] <Huriking> GANDU
-[15:56:18] [Server thread/INFO]: [Not Secure] <SamWise> uk what fuck it
-[15:56:26] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56894): You are not white-listed on this server!
-[15:56:26] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56894) lost connection: You are not white-listed on this server!
-[15:56:26] [Server thread/WARN]: handleDisconnection() called twice
-[15:56:30] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56904): You are not white-listed on this server!
-[15:56:30] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56904) lost connection: You are not white-listed on this server!
-[15:56:30] [Server thread/WARN]: handleDisconnection() called twice
-[15:56:34] [Server thread/INFO]: [Not Secure] <SamWise> jaltay saala
-[15:56:39] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56932): You are not white-listed on this server!
-[15:56:39] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56932) lost connection: You are not white-listed on this server!
-[15:56:39] [Server thread/WARN]: handleDisconnection() called twice
-[15:56:41] [Server thread/INFO]: Disconnecting RougeFlareYT (/103.60.209.10:56937): You are not white-listed on this server!
-[15:56:41] [Server thread/INFO]: RougeFlareYT (/103.60.209.10:56937) lost connection: You are not white-listed on this server!
-[15:56:41] [Server thread/WARN]: handleDisconnection() called twice
-[15:57:12] [Server thread/INFO]: [Not Secure] <Huriking> mere chizo ko maat haat laga
-[15:57:16] [Server thread/INFO]: [Not Secure] <Huriking> consent le leta
-[15:57:24] [Server thread/INFO]: [Not Secure] <SamWise> merko legit nahi pata tha
-[15:57:26] [Server thread/INFO]: [Not Secure] <Huriking> mujhe laga vagare me kyu rehta
-[15:57:33] [Server thread/INFO]: [Not Secure] <Huriking> whatsapp grp hai
-[15:57:36] [Server thread/INFO]: [Not Secure] <Huriking> puch leta
-[15:57:54] [Server thread/INFO]: [Not Secure] <Huriking> phir gali diya toh bhi me bura
-[15:58:22] [Server thread/INFO]: [Not Secure] <Huriking> subhe 8 se abhi taak books collect kar raha hu
-[15:58:32] [Server thread/INFO]: [Not Secure] <Huriking> me tujhe judge nahi karra, tu mujhe maat kar
-[15:58:43] [Server thread/INFO]: [Not Secure] <Huriking> mujhe aisa hi khelna hai
-[15:58:59] [Server thread/INFO]: [Not Secure] <Huriking> mera iron farm abuse kiya itne din kuch toh bhi bola
-[15:59:07] [Server thread/INFO]: [Not Secure] <Huriking> rooj bhav khata hai tere villagers ka
-[15:59:22] [Server thread/INFO]: [Not Secure] <Huriking> abhi bhi iron liya
-[15:59:26] [Server thread/INFO]: [Not Secure] <SamWise> lmao
-[15:59:32] [Server thread/INFO]: [Not Secure] <SamWise> try
-[15:59:35] [Server thread/INFO]: [Not Secure] <SamWise> tru
-[15:59:36] [Server thread/INFO]: [Not Secure] <SamWise> ..
-[15:59:38] [Server thread/INFO]: [Not Secure] <Huriking> isliye tu nasdik nahi chahiye
-[15:59:48] [Server thread/INFO]: [Not Secure] <Huriking> bhag tere desert me ffs
-[16:00:01] [Server thread/INFO]: [Not Secure] [Server] Server restarting for backup in 10 seconds...
-[16:00:11] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:00:11] [Server thread/INFO]: Saved the game
-[16:00:16] [Server thread/INFO]: Stopping the server
-[16:00:16] [Server thread/INFO]: Stopping server
-[16:00:16] [Server thread/INFO]: Saving players
-[16:00:16] [Server thread/INFO]: SamWise lost connection: Server closed
-[16:00:16] [Server thread/INFO]: SamWise left the game
-[16:00:16] [Server thread/INFO]: Saving worlds
-[16:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:00:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:13:30] [Server thread/INFO]: XFighter009[/103.145.18.150:8963] logged in with entity id 190667 at (-116.19075456516616, 100.0, 59.66668166783368)
+[00:13:30] [Server thread/INFO]: XFighter009 joined the game
+[00:22:32] [Server thread/INFO]: SamWise[/45.127.45.31:5321] logged in with entity id 192089 at (-179.7625513803506, 101.9375, 24.002853330035794)
+[00:22:32] [Server thread/INFO]: SamWise joined the game
+[00:22:37] [Server thread/INFO]: [Not Secure] <SamWise> see benzil come here
+[00:23:26] [Server thread/INFO]: [Not Secure] <XFighter009> kmaoo
+[00:23:28] [Server thread/INFO]: [Not Secure] <SamWise> keep this guy
+[00:23:41] [Server thread/INFO]: [Not Secure] <SamWise> we can cure him
+[00:23:43] [Server thread/INFO]: [Not Secure] <SamWise> come here
+[00:23:45] [Server thread/INFO]: [Not Secure] <XFighter009> oh]
+[00:23:53] [Server thread/INFO]: [Not Secure] <SamWise> so joel treated villagers like slaves
+[00:24:03] [Server thread/INFO]: [Not Secure] <SamWise> so i named them after books of the bible so he would stop
+[00:24:03] [Server thread/INFO]: [Not Secure] <XFighter009> ohfri
+[00:24:09] [Server thread/INFO]: [Not Secure] <XFighter009> ddaammmm
+[00:24:19] [Server thread/INFO]: [Not Secure] <SamWise> see the survivors
+[00:24:29] [Server thread/INFO]: [Not Secure] <XFighter009> yooo
+[00:24:36] [Server thread/INFO]: [Not Secure] <XFighter009> bss 2?
+[00:24:38] [Server thread/INFO]: [Not Secure] <SamWise> see the only surviovors dont go close they attack
+[00:24:40] [Server thread/INFO]: [Not Secure] <SamWise> yup
+[00:24:42] [Server thread/INFO]: [Not Secure] <SamWise> thats it
+[00:24:52] [Server thread/INFO]: [Not Secure] <SamWise> oh the targeted to me
+[00:24:53] [Server thread/INFO]: [Not Secure] <XFighter009> tho mare kaise
+[00:24:54] [Server thread/INFO]: [Not Secure] <SamWise> see
+[00:25:01] [Server thread/INFO]: [Not Secure] <SamWise> dekh merko maara
+[00:25:15] [Server thread/INFO]: [Not Secure] <XFighter009> kyu
+[00:25:22] [Server thread/INFO]: [Not Secure] <SamWise> mere pe target lock kiya
+[00:25:28] [Server thread/INFO]: [Not Secure] <SamWise> minecraft code things
+[00:25:28] [Server thread/INFO]: [Not Secure] <XFighter009> saleee tu mara kya sabko
+[00:25:35] [Server thread/INFO]: [Not Secure] <SamWise> abbe pagal hai kya
+[00:25:38] [Server thread/INFO]: [Not Secure] <SamWise> idhar dekh
+[00:25:46] [Server thread/INFO]: [Not Secure] <XFighter009> fir ye log kyu kare asia
+[00:25:53] [Server thread/INFO]: [Not Secure] <SamWise> merko frame kiya jaaray
+[00:25:55] [Server thread/INFO]: [Not Secure] <SamWise> idhar aa
+[00:26:00] [Server thread/INFO]: [Not Secure] <SamWise> terko bata kya hua
+[00:26:13] [Server thread/INFO]: [Not Secure] <SamWise> bolte ki humeshe mai rehtay har kaand mein
+[00:26:16] [Server thread/INFO]: [Not Secure] <SamWise> toh mai hi kuya
+[00:26:37] [Server thread/INFO]: [Not Secure] <SamWise> see this
+[00:26:46] [Server thread/INFO]: [Not Secure] <SamWise> koi toh nubda yaha creeper explode kiya
+[00:26:55] [Server thread/INFO]: [Not Secure] <XFighter009> bc
+[00:26:57] [Server thread/INFO]: [Not Secure] <SamWise> that made a whole here for monster to come in
+[00:27:11] [Server thread/INFO]: [Not Secure] <XFighter009> aloni?
+[00:27:16] [Server thread/INFO]: [Not Secure] <SamWise> mostly
+[00:28:00] [Server thread/INFO]: [Not Secure] <SamWise> chal mai jaa rha ocean temple lootne
+[00:28:08] [Server thread/INFO]: [Not Secure] <SamWise> oi sun ek mast chiz dekhni terko
+[00:28:09] [Server thread/INFO]: [Not Secure] <XFighter009> me sone jara bhai
+[00:28:12] [Server thread/INFO]: [Not Secure] <XFighter009> soya ni me
+[00:28:17] [Server thread/INFO]: [Not Secure] <SamWise> wanna see what im doing on the server soo long
+[00:28:24] [Server thread/INFO]: [Not Secure] <SamWise> come
+[00:31:00] [Server thread/INFO]: [Not Secure] <SamWise> someone said my bridges are unsafe so ......
+[00:31:11] [Server thread/INFO]: [Not Secure] <XFighter009> itnaacha tho banayu
+[00:31:17] [Server thread/INFO]: [Not Secure] <SamWise> isliye toh banaya
+[00:31:29] [Server thread/INFO]: [Not Secure] <SamWise> run thorigh here hyper active mobs
+[00:32:20] [Server thread/INFO]: shikamaru2o[/49.36.104.183:59469] logged in with entity id 194124 at (-139.87079913708584, 98.0, 51.36418820696122)
+[00:32:20] [Server thread/INFO]: shikamaru2o joined the game
+[00:32:42] [Server thread/INFO]: XFighter009 has completed the challenge [Hot Tourist Destinations]
+[00:33:38] [Server thread/INFO]: Copper[/45.251.238.165:5476] logged in with entity id 195025 at (-132.5, 132.0, 72.5)
+[00:33:38] [Server thread/INFO]: Copper joined the game
+[00:33:45] [Server thread/INFO]: XFighter009 has completed the challenge [Subspace Bubble]
+[00:33:55] [Server thread/INFO]: [Not Secure] <XFighter009> bccc
+[00:33:57] [Server thread/INFO]: [Not Secure] <SamWise> im making house here
+[00:34:13] [Server thread/INFO]: [Not Secure] <SamWise> i love coral reefs i looks beautiful
+[00:34:21] [Server thread/INFO]: [Not Secure] <SamWise> see come here
+[00:35:07] [Server thread/INFO]: [Not Secure] <XFighter009> fuckkk soo goood
+[00:35:15] [Server thread/INFO]: [Not Secure] <SamWise> yeh kuch nahi
+[00:35:22] [Server thread/INFO]: [Not Secure] <SamWise> with my shaders pura clear dikhtay
+[00:35:31] [Server thread/INFO]: [Not Secure] <XFighter009> haa mere isme jal jayega
+[00:36:20] [Server thread/INFO]: [Not Secure] <SamWise> i wanted to do ocean monument for sponges
+[00:36:25] [Server thread/INFO]: [Not Secure] <SamWise> need to drain al this water
+[00:36:44] [Server thread/INFO]: [Not Secure] <SamWise> chal kets go home
+[00:37:28] [Server thread/INFO]: [Not Secure] <XFighter009> itnaa bada biome hai
+[00:37:32] [Server thread/INFO]: [Not Secure] <SamWise> ikr
+[00:37:47] [Server thread/INFO]: [Not Secure] <SamWise> uk desert biome hai
+[00:37:54] [Server thread/INFO]: [Not Secure] <SamWise> oh bas sand hai no trees
+[00:38:02] [Server thread/INFO]: [Not Secure] <XFighter009> yaa
+[00:38:06] [Server thread/INFO]: [Not Secure] <XFighter009> ccol
+[00:38:07] [Server thread/INFO]: [Not Secure] <SamWise> joahs mere happy ghast ko maar diya bhadwa
+[00:38:12] [Server thread/INFO]: [Not Secure] <XFighter009> ttfff
+[00:38:14] [Server thread/INFO]: [Not Secure] <SamWise> sorry
+[00:38:16] [Server thread/INFO]: [Not Secure] <XFighter009> y?
+[00:38:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> kyu
+[00:38:23] [Server thread/INFO]: [Not Secure] <SamWise> chutiya hai isliye
+[00:38:33] [Server thread/INFO]: [Not Secure] <SamWise> usko zara bithake udane diya
+[00:38:35] [Server thread/INFO]: [Not Secure] <shikamaru2o> this is a criminal offense
+[00:38:42] [Server thread/INFO]: [Not Secure] <SamWise> drowned my only friend here
+[00:38:54] [Server thread/INFO]: [Not Secure] <SamWise> in the water
+[00:39:00] [Server thread/INFO]: [Not Secure] <SamWise> u gotta jump
+[00:39:01] [Server thread/INFO]: [Not Secure] <XFighter009> brooooooo bichara
+[00:39:10] [Server thread/INFO]: [Not Secure] <SamWise> from here
+[00:39:41] [Server thread/INFO]: RougeFlareYT[/103.60.209.10:63961] logged in with entity id 198549 at (-189.39165736730743, 103.0, 69.72958183500695)
+[00:39:41] [Server thread/INFO]: RougeFlareYT joined the game
+[00:39:53] [Server thread/INFO]: [Not Secure] <SamWise> aaramse
+[00:39:57] [Server thread/INFO]: [Not Secure] <SamWise> cahl
+[00:39:59] [Server thread/INFO]: [Not Secure] <SamWise> chal
+[00:40:15] [Server thread/INFO]: [Not Secure] <SamWise> these are chill dont hit
+[00:40:20] [Server thread/INFO]: [Not Secure] <SamWise> they get mad if u hit
+[00:40:51] [Server thread/INFO]: [Not Secure] <SamWise> also when u mash space bar u jump sprint its faster
+[00:40:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya bey saale
+[00:40:53] [Server thread/INFO]: [Not Secure] <SamWise> see
+[00:40:57] [Server thread/INFO]: Copper was blown up by Creeper
+[00:40:57] [Server thread/INFO]: [Not Secure] <SamWise> normal sprint
+[00:41:04] [Server thread/INFO]: [Not Secure] <SamWise> jump sprint
+[00:41:05] [Server thread/INFO]: [Not Secure] <Copper> wtf is this game
+[00:41:12] [Server thread/INFO]: [Not Secure] <XFighter009> chod
+[00:41:13] [Server thread/INFO]: [Not Secure] <SamWise> we have our culprit
+[00:41:29] [Server thread/INFO]: [Not Secure] <Copper> nigga i died on edge of water
+[00:41:35] [Server thread/INFO]: [Not Secure] <SamWise> just mash it
+[00:41:54] [Server thread/INFO]: [Not Secure] <SamWise> u have torches
+[00:41:57] [Server thread/INFO]: [Not Secure] <SamWise> yahan laga na
+[00:41:59] [Server thread/INFO]: [Not Secure] <SamWise> hai toh
+[00:42:02] [Server thread/INFO]: [Not Secure] <XFighter009> nhi hai
+[00:42:06] [Server thread/INFO]: [Not Secure] <RougeFlareYT> under aa
+[00:42:43] [Server thread/INFO]: [Not Secure] <SamWise> here
+[00:42:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> mar inko vinod
+[00:43:08] [Server thread/INFO]: [Not Secure] <Copper> sleep
+[00:43:32] [Server thread/INFO]: [Not Secure] <Copper> pls
+[00:45:34] [Server thread/INFO]: [Not Secure] <RougeFlareYT> niche kya hai
+[00:45:41] [Server thread/INFO]: [Not Secure] <RougeFlareYT> yaha
+[00:45:42] [Server thread/INFO]: [Not Secure] <SamWise> kahan neeche
+[00:45:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> jaa aur find out kar
+[00:45:49] [Server thread/INFO]: [Not Secure] <SamWise> mine hai
+[00:46:16] [Server thread/INFO]: [Not Secure] <RougeFlareYT> ittna deep
+[00:46:28] [Server thread/INFO]: [Not Secure] <SamWise> his guy went till bedrock bruh
+[00:46:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> vinod girja water hai
+[00:46:41] [Server thread/INFO]: [Not Secure] <XFighter009> broo who made this
+[00:46:55] [Server thread/INFO]: [Not Secure] <SamWise> harshit
+[00:46:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> ancient city bhi jata yeh
+[00:48:11] [Server thread/INFO]: [Not Secure] <SamWise> bhai sahab
+[00:48:15] [Server thread/INFO]: [Not Secure] <SamWise> hat took a min
+[00:48:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep ek magma block hai toh daal de neeche
+[00:48:58] [Server thread/INFO]: [Not Secure] <SamWise> nahi hai on hand
+[00:48:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> bsdk sameep mera sign kyu toda
+[00:49:13] [Server thread/INFO]: [Not Secure] <SamWise> chalo off i go
+[00:49:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> chutiya hai kya
+[00:49:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> madarchod
+[00:50:55] [Server thread/INFO]: [Not Secure] <XFighter009> arya kidr
+[00:50:56] [Server thread/INFO]: [Not Secure] <SamWise> imma do an ocean temple anyone wanna join
+[00:51:03] [Server thread/INFO]: [Not Secure] <SamWise> tom tho not now
+[00:51:08] [Server thread/INFO]: [Not Secure] <SamWise> just setting up rn
+[00:51:24] [Server thread/INFO]: [Not Secure] <XFighter009> in
+[00:51:46] [Server thread/INFO]: [Not Secure] <XFighter009> wowo i have 24 exp
+[00:54:00] [Server thread/INFO]: [Not Secure] <XFighter009> bas
+[00:54:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> ok
+[00:54:12] [Server thread/INFO]: [Not Secure] <XFighter009> copper abh
+[00:54:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> kidhar hai woh
+[00:54:42] [Server thread/INFO]: [Not Secure] <SamWise> kya hua
+[00:54:48] [Server thread/INFO]: [Not Secure] <RougeFlareYT> joel come here
+[00:54:56] [Server thread/INFO]: [Not Secure] <RougeFlareYT> yeh kiska hai
+[00:55:07] [Server thread/INFO]: [Not Secure] <shikamaru2o> yeh uss bande ne banaya
+[00:55:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> yeh samne
+[00:55:14] [Server thread/INFO]: [Not Secure] <XFighter009> kya
+[00:55:21] [Server thread/INFO]: [Not Secure] <shikamaru2o> usne banaya
+[00:55:31] [Server thread/INFO]: [Not Secure] <XFighter009> kyaa banaya
+[00:55:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> grave
+[00:55:39] [Server thread/INFO]: [Not Secure] <XFighter009> ohh
+[00:55:41] [Server thread/INFO]: [Not Secure] <XFighter009> eys
+[00:55:44] [Server thread/INFO]: [Not Secure] <XFighter009> mene
+[00:55:57] [Server thread/INFO]: [Not Secure] <XFighter009> ye sab mar gaye kisine tho mara
+[00:56:03] [Server thread/INFO]: [Not Secure] <XFighter009> villagers
+[00:56:05] [Server thread/INFO]: [Not Secure] <RougeFlareYT> bible verse
+[00:56:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> kyu toda lodu
+[00:57:02] [Server thread/INFO]: SamWise lost connection: Disconnected
+[00:57:02] [Server thread/INFO]: SamWise left the game
+[00:57:26] [Server thread/INFO]: [Not Secure] <RougeFlareYT> xp farm kaha hai
+[00:57:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> aaja
+[00:58:18] [Server thread/INFO]: [Not Secure] <shikamaru2o> kidhar gaya
+[00:58:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> abey ana lodu
+[00:59:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> ?
+[00:59:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> abey chutiye
+[00:59:32] [Server thread/INFO]: [Not Secure] <RougeFlareYT> kaha hai
+[00:59:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> itna time lagta hai kya
+[01:00:05] [Server thread/INFO]: [Not Secure] <XFighter009> joel ye tera dst?
+[01:00:08] [Server thread/INFO]: [Not Secure] <shikamaru2o> upar dekh
+[01:00:10] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
+[01:00:18] [Server thread/INFO]: [Not Secure] <XFighter009> wo3ww
+[01:00:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> jao upar
+[01:00:20] [Server thread/INFO]: [Not Secure] <Copper> bhai sand hai kya
+[01:00:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> ride him
+[01:00:54] [Server thread/INFO]: [Not Secure] <XFighter009> how
+[01:01:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> uhh woh thoda upar hai
+[01:01:03] [Server thread/INFO]: [Not Secure] <RougeFlareYT> yeh baby hai kya
+[01:01:31] [Server thread/INFO]: [Not Secure] <shikamaru2o> bohot upar pata nhi kaise gaya
+[01:01:53] [Server thread/INFO]: shikamaru2o lost connection: Timed out
+[01:01:53] [Server thread/INFO]: shikamaru2o left the game
+[01:02:28] [Server thread/INFO]: shikamaru2o[/49.36.104.183:49671] logged in with entity id 209434 at (210.67304811334765, 119.875, 589.1819098235419)
+[01:02:28] [Server thread/INFO]: shikamaru2o joined the game
+[01:02:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> niceee
+[01:02:41] [Server thread/INFO]: [Not Secure] <XFighter009> this shit diffculty
+[01:02:46] [Server thread/INFO]: [Not Secure] <shikamaru2o> yea
+[01:03:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> come guys
+[01:03:25] [Server thread/INFO]: [Not Secure] <Copper> kaha ho tumlog
+[01:03:32] [Server thread/INFO]: [Not Secure] <XFighter009> joel ke xp farm
+[01:03:39] [Server thread/INFO]: [Not Secure] <shikamaru2o> not miner
+[01:03:45] [Server thread/INFO]: [Not Secure] <shikamaru2o> sameep ke friend
+[01:03:48] [Server thread/INFO]: [Not Secure] <Copper> kaise aau
+[01:03:59] [Server thread/INFO]: [Not Secure] <XFighter009> nether se
+[01:04:08] [Server thread/INFO]: [Not Secure] <Copper> harshit ke ghr wala?
+[01:04:13] [Server thread/INFO]: [Not Secure] <XFighter009> yes
+[01:04:19] [Server thread/INFO]: [Not Secure] <Copper> aya
+[01:04:23] [Server thread/INFO]: [Not Secure] <shikamaru2o> upar aao
+[01:04:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa ab wait for 2 mins
+[01:04:49] [Server thread/INFO]: [Not Secure] <Copper> straight aau kya
+[01:04:58] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu 5 min afk jayega yeh pura bhar jayega
+[01:05:03] [Server thread/INFO]: [Not Secure] <shikamaru2o> start killing
+[01:05:11] [Server thread/INFO]: RougeFlareYT has made the advancement [Take Aim]
+[01:05:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> yep aise karte karte exp
+[01:05:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> dekhre kitne aare
+[01:05:29] [Server thread/INFO]: [Not Secure] <Copper> bhai kaha ana hai
+[01:05:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> 10 second pe itnw
+[01:05:53] [Server thread/INFO]: [Not Secure] <XFighter009> kya sahi hai
+[01:06:07] [Server thread/INFO]: [Not Secure] <Copper> 2 raste ai
+[01:06:09] [Server thread/INFO]: [Not Secure] <XFighter009> aloni ruk abhi
+[01:06:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> then just fall down back to go home
+[01:06:12] [Server thread/INFO]: [Not Secure] <XFighter009> akele nhi
+[01:06:15] [Server thread/INFO]: [Not Secure] <Copper> straight and right
+[01:06:34] [Server thread/INFO]: [Not Secure] <XFighter009> upar swpanerhau
+[01:06:37] [Server thread/INFO]: [Not Secure] <XFighter009> ?
+[01:06:43] [Server thread/INFO]: shikamaru2o was shot by Skeleton
+[01:06:57] [Server thread/INFO]: [Not Secure] <RougeFlareYT> use chicken hai
+[01:07:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> sala neeche bohot mobs hai
+[01:07:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> mat kar yeh
+[01:08:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> woh nautilus shell de vinod
+[01:08:31] [Server thread/INFO]: [Not Secure] <RougeFlareYT> kya keya
+[01:08:45] [Server thread/INFO]: [Not Secure] <XFighter009> lmo
+[01:09:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> chal
+[01:09:36] [Server thread/INFO]: [Not Secure] <Copper> abe harshit ka ghar kaha gya
+[01:09:59] [Server thread/INFO]: [Not Secure] <shikamaru2o> iska ghhar explore karlo
+[01:10:03] [Server thread/INFO]: [Not Secure] <XFighter009> kaha gayua mtb
+[01:10:08] [Server thread/INFO]: [Not Secure] <Copper> joel sand hai kya
+[01:10:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> im going home
+[01:10:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> nhi hai
+[01:10:37] [Server thread/INFO]: shikamaru2o was slain by Piglin
+[01:10:42] [Server thread/INFO]: [Not Secure] <XFighter009> lmaooooooo
+[01:11:10] [Server thread/INFO]: [Not Secure] <XFighter009> ruk uska saman pada rhega
+[01:12:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> mila samanw
+[01:12:11] [Server thread/INFO]: [Not Secure] <XFighter009> dost>
+[01:12:54] [Server thread/INFO]: [Not Secure] <Copper> ae mc
+[01:12:58] [Server thread/INFO]: [Not Secure] <Copper> sar gya mai
+[01:13:14] [Server thread/INFO]: [Not Secure] <Copper> half hp pr hu
+[01:13:25] [Server thread/INFO]: [Not Secure] <shikamaru2o> thanks
+[01:14:05] [Server thread/INFO]: [Not Secure] <XFighter009> hoe pe loayalty nhi lagta na
+[01:14:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> yes lmao
+[01:15:20] [Server thread/INFO]: [Not Secure] <XFighter009> lapez hai.?
+[01:15:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> ha
+[01:15:45] [Server thread/INFO]: [Not Secure] <XFighter009> mera gayab hoagay bc
+[01:15:53] [Server thread/INFO]: [Not Secure] <shikamaru2o> vinod eggs mat phek randomly
+[01:16:11] [Server thread/INFO]: [Not Secure] <RougeFlareYT> giving him egg
+[01:16:16] [Server thread/INFO]: [Not Secure] <shikamaru2o> phele se hi bohot eggs aaye
+[01:16:36] [Server thread/INFO]: [Not Secure] <XFighter009> 30 kiya tgho kya milega?
+[01:16:42] [Server thread/INFO]: [Not Secure] <XFighter009> sowrd pe
+[01:16:47] [Server thread/INFO]: [Not Secure] <XFighter009> xp
+[01:16:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya bata raha hai table
+[01:17:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya kar raha hai tu
+[01:17:19] [Server thread/INFO]: [Not Secure] <RougeFlareYT> joel feature falling hai kya
+[01:17:26] [Server thread/INFO]: [Not Secure] <XFighter009> sharpness 2 at 17 exp
+[01:17:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> level 3 pe?
+[01:17:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> 30
+[01:17:42] [Server thread/INFO]: [Not Secure] <XFighter009> mere pass 25 he hai soo pata nhi 30 pe kya hai
+[01:17:50] [Server thread/INFO]: [Not Secure] <XFighter009> ? baat ra
+[01:17:56] [Server thread/INFO]: [Not Secure] <shikamaru2o> dikhta hai bhai
+[01:18:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> mujhe bata sword
+[01:18:12] [Server thread/INFO]: [Not Secure] <XFighter009> sory unbreaking 3
+[01:18:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa
+[01:18:16] [Server thread/INFO]: [Not Secure] <XFighter009> bata ra
+[01:18:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> unbreaking 3 is very very good
+[01:18:34] [Server thread/INFO]: [Not Secure] <XFighter009> oh?
+[01:18:43] [Server thread/INFO]: [Not Secure] <XFighter009> ruk karta fir 30 xp
+[01:18:48] [Server thread/INFO]: [Not Secure] <shikamaru2o> now go to that farm yes
+[01:18:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> vinod tu idhar aa
+[01:19:09] [Server thread/INFO]: shikamaru2o was slain by Galatians
+[01:19:27] [Server thread/INFO]: [Not Secure] <shikamaru2o> mera khana le
+[01:19:41] [Server thread/INFO]: [Not Secure] <shikamaru2o> abey inke paas se
+[01:19:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> shield de mujhe
+[01:20:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> shield bata
+[01:20:27] [Server thread/INFO]: shikamaru2o was slain by Acts
+[01:20:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> mkccccc
+[01:20:36] [Server thread/INFO]: RougeFlareYT was slain by Acts
+[01:20:41] [Server thread/INFO]: [Not Secure] <XFighter009> ky kara
+[01:21:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> saman lee
+[01:21:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> saman mila?
+[01:22:03] [Server thread/INFO]: [Not Secure] <RougeFlareYT> ha
+[01:22:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> idhar hai feather falling
+[01:22:30] [Server thread/INFO]: [Not Secure] <XFighter009> wowow
+[01:22:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> kal mere dost ko puchke lele
+[01:23:11] [Server thread/INFO]: [Not Secure] <RougeFlareYT> slow aa side se
+[01:23:20] [Server thread/INFO]: [Not Secure] <XFighter009> suppose ek chnachnament ka book hai usse use kaise karte
+[01:23:33] [Server thread/INFO]: [Not Secure] <shikamaru2o> dekh
+[01:23:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> tu agar ek baar book anvil enchant kiya na tu table se enchant nhi kar sakta
+[01:24:17] [Server thread/INFO]: [Not Secure] <XFighter009> oh
+[01:24:27] [Server thread/INFO]: RougeFlareYT was slain by Acts
+[01:24:34] [Server thread/INFO]: [Not Secure] <shikamaru2o> and tu jab lvl30 wala enchant karega na table se tab tujhe ek extra enchant bhi milega
+[01:24:37] [Server thread/INFO]: RougeFlareYT was slain by Acts
+[01:25:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> woh hone ke baad tu continue kar sakta anvil aur books se enchant karne ka
+[01:25:10] [Server thread/INFO]: [Not Secure] <XFighter009> yho abhi me abhi sowrd he karu ki kuch aur karu enchant
+[01:25:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> sab kar enchant ek ek karke
+[01:25:24] [Server thread/INFO]: RougeFlareYT was slain by Acts
+[01:25:28] [Server thread/INFO]: RougeFlareYT was slain by Galatians
+[01:25:49] [Server thread/INFO]: [Not Secure] <XFighter009> ye cheeper fatega nhi na xfarm wala
+[01:26:01] [Server thread/INFO]: [Not Secure] <shikamaru2o> vinod bsdk
+[01:26:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> mat le bola na book
+[01:26:11] [Server thread/INFO]: [Not Secure] <shikamaru2o> wapis rakh
+[01:26:18] [Server thread/INFO]: [Not Secure] <XFighter009> tere school ka?
+[01:26:22] [Server thread/INFO]: [Not Secure] <shikamaru2o> church
+[01:26:23] [Server thread/INFO]: [Not Secure] <RougeFlareYT> thanks
+[01:26:40] [Server thread/INFO]: [Not Secure] <shikamaru2o> woh book kal tu puchke le
+[01:26:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> abhi wapis rakh
+[01:27:02] [Server thread/INFO]: [Not Secure] <shikamaru2o> iss chest mein rakh'
+[01:27:10] [Server thread/INFO]: [Not Secure] <RougeFlareYT> mar denge\
+[01:27:14] [Server thread/INFO]: [Not Secure] <shikamaru2o> iss
+[01:27:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> bande ne mehnat se liya woh book
+[01:27:37] [Server thread/INFO]: [Not Secure] <RougeFlareYT> sunn legings mila kya mera
+[01:27:40] [Server thread/INFO]: [Not Secure] <XFighter009> broo aaj elclassico na
+[01:27:49] [Server thread/INFO]: [Not Secure] <shikamaru2o> nhi mila
+[01:27:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> yesss
+[01:28:09] [Server thread/INFO]: [Not Secure] <XFighter009> chod diya madrid ko
+[01:28:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> damn
+[01:29:09] [Server thread/INFO]: [Not Secure] <RougeFlareYT> iron fam jaraha hu
+[01:29:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> okk
+[01:29:19] [Server thread/INFO]: [Not Secure] <shikamaru2o> pata hai kidhar hai?
+[01:29:25] [Server thread/INFO]: [Not Secure] <RougeFlareYT> yes
+[01:29:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> thike
+[01:29:36] [Server thread/INFO]: [Not Secure] <RougeFlareYT> food
+[01:30:36] [Server thread/INFO]: XFighter009 has made the advancement [Enchanter]
+[01:30:58] [Server thread/INFO]: [Not Secure] <XFighter009> praise the lord
+[01:31:14] [Server thread/INFO]: [Not Secure] <XFighter009> first enchanment
+[01:31:15] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya kya mila
+[01:31:18] [Server thread/INFO]: [Not Secure] <RougeFlareYT> praise the lord
+[01:31:24] [Server thread/INFO]: [Not Secure] <shikamaru2o> niceee
+[01:31:32] [Server thread/INFO]: [Not Secure] <XFighter009> iska use kya hai
+[01:31:36] [Server thread/INFO]: [Not Secure] <shikamaru2o> notice tera level 27 hai
+[01:31:46] [Server thread/INFO]: [Not Secure] <XFighter009> wowoowowwo
+[01:31:47] [Server thread/INFO]: [Not Secure] <XFighter009> yes
+[01:32:00] [Server thread/INFO]: [Not Secure] <shikamaru2o> ab aur teen level karke tera saara armor bhi enchant kar
+[01:32:10] [Server thread/INFO]: [Not Secure] <RougeFlareYT> guys iron farm mai iron nahe hai slow hai kaya
+[01:32:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> enchant karne ke phele bata kya milra hai
+[01:32:28] [Server thread/INFO]: [Not Secure] <shikamaru2o> har ek chest check kar
+[01:32:36] [Server thread/INFO]: [Not Secure] <RougeFlareYT> keya
+[01:32:47] [Server thread/INFO]: [Not Secure] <shikamaru2o> koi le liya hoga phir
+[01:34:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> tere pe diamond armor hai>?
+[01:35:02] [Server thread/INFO]: [Not Secure] <XFighter009> aloni kidr
+[01:35:42] [Server thread/INFO]: [Not Secure] <XFighter009> wwowo
+[01:35:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-188, y=127, z=125} BlockPos{x=-189, y=126, z=124}
+[01:35:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-188, y=127, z=125} BlockPos{x=-189, y=126, z=124}
+[01:35:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-188, y=127, z=126} BlockPos{x=-189, y=126, z=124}
+[01:35:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-188, y=127, z=126} BlockPos{x=-189, y=126, z=124}
+[01:35:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-188, y=127, z=126} BlockPos{x=-189, y=126, z=124}
+[01:36:24] [Server thread/INFO]: [Not Secure] <Copper> ashu ko apna creativity ke liye dekhne ka man hua tho
+[01:36:39] [Server thread/INFO]: [Not Secure] <XFighter009> aachaaa
+[01:36:48] [Server thread/INFO]: [Not Secure] <XFighter009> ohh idr mera name likhatu
+[01:36:51] [Server thread/INFO]: [Not Secure] <XFighter009> ussdin
+[01:36:52] [Server thread/INFO]: [Not Secure] <XFighter009> hmm
+[01:37:14] [Server thread/INFO]: [Not Secure] <XFighter009> giega sale
+[01:37:19] [Server thread/INFO]: [Not Secure] <XFighter009> girega
+[01:37:25] [Server thread/INFO]: [Not Secure] <Copper> nhi shift dabaya tha
+[01:38:57] [Server thread/INFO]: [Not Secure] <shikamaru2o> ohhh
+[01:39:52] [Server thread/INFO]: [Not Secure] <shikamaru2o> dena arrows
+[01:40:38] [Server thread/INFO]: [Not Secure] <shikamaru2o> darr gaya
+[01:40:42] [Server thread/INFO]: [Not Secure] <XFighter009> girgaya bc
+[01:41:35] [Server thread/INFO]: [Not Secure] <XFighter009> sry
+[01:41:39] [Server thread/INFO]: [Not Secure] <XFighter009> surrendeer
+[01:42:01] [Server thread/INFO]: XFighter009 was shot by shikamaru2o using [Arjun]
+[01:42:04] [Server thread/INFO]: [Not Secure] <shikamaru2o> yoooooo
+[01:42:07] [Server thread/INFO]: [Not Secure] <XFighter009> lavdee
+[01:42:09] [Server thread/INFO]: [Not Secure] <shikamaru2o> what a snipwwww
+[01:42:26] [Server thread/INFO]: [Not Secure] <XFighter009> abheeeeeee me xp spawer pe hua spawm
+[01:42:29] [Server thread/INFO]: [Not Secure] <shikamaru2o> kya mast aim
+[01:42:56] [Server thread/INFO]: [Not Secure] <Copper> shikanaru mc
+[01:43:03] [Server thread/INFO]: [Not Secure] <XFighter009> ha na
+[01:43:07] [Server thread/INFO]: [Not Secure] <Copper> poisnous arrow kya marta hai
+[01:43:13] [Server thread/INFO]: [Not Secure] <RougeFlareYT> isko repair karo
+[01:43:15] [Server thread/INFO]: [Not Secure] <XFighter009> shit mera xp4
+[01:43:26] [Server thread/INFO]: [Not Secure] <Copper> idhar aa joel
+[01:43:30] [Server thread/INFO]: [Not Secure] <shikamaru2o> i got your stuff
+[01:43:35] [Server thread/INFO]: [Not Secure] <XFighter009> abyeee xp?
+[01:43:43] [Server thread/INFO]: [Not Secure] <shikamaru2o> woh toh aa sakta na
+[01:43:51] [Server thread/INFO]: [Not Secure] <shikamaru2o> marte rey udhar
+[01:43:52] [Server thread/INFO]: [Not Secure] <XFighter009> hai udr?
+[01:44:06] [Server thread/INFO]: [Not Secure] <shikamaru2o> xp nhi rehta
+[01:44:15] [Server thread/INFO]: [Not Secure] <XFighter009> kaisa mc ha
+[01:44:37] [Server thread/INFO]: [Not Secure] <shikamaru2o> areyyy wapis kar sakta na 27 mtak
+[01:44:55] [Server thread/INFO]: [Not Secure] <Copper> arre wo wrong place hogaya sry
+[01:45:16] [Server thread/INFO]: [Not Secure] <XFighter009> kidr mara ta
+[01:45:20] [Server thread/INFO]: [Not Secure] <shikamaru2o> bensil ka saman rakh ra mein idhar
+[01:45:30] [Server thread/INFO]: [Not Secure] <RougeFlareYT> kon zhak raha hai
+[01:45:34] [Server thread/INFO]: [Not Secure] <RougeFlareYT> tha
+[01:46:17] [Server thread/INFO]: [Not Secure] <shikamaru2o> i put your stuff in a chest
+[01:46:22] [Server thread/INFO]: [Not Secure] <Copper> thanks
+[01:46:24] [Server thread/INFO]: [Not Secure] <XFighter009> abyeee mera xp orbs gira hota bna
+[01:46:37] [Server thread/INFO]: [Not Secure] <Copper> chal byeee
+[01:46:40] [Server thread/INFO]: [Not Secure] <Copper> gn guys
+[01:46:43] [Server thread/INFO]: Copper lost connection: Disconnected
+[01:46:43] [Server thread/INFO]: Copper left the game
+[01:46:44] [Server thread/INFO]: [Not Secure] <shikamaru2o> arey use tujhe one level bhi nhi milta
+[01:46:50] [Server thread/INFO]: [Not Secure] <shikamaru2o> xp nhi rehta
+[01:46:52] [Server thread/INFO]: [Not Secure] <XFighter009> where i die
+[01:47:01] [Server thread/INFO]: [Not Secure] <XFighter009> saman kidr
+[01:47:13] [Server thread/INFO]: [Not Secure] <shikamaru2o> haa equal amount xp drop nhi hota
+[01:48:06] [Server thread/INFO]: [Not Secure] <XFighter009> gold shoes?
+[01:48:12] [Server thread/INFO]: [Not Secure] <shikamaru2o> hai udhar
+[01:48:20] [Server thread/INFO]: [Not Secure] <XFighter009> nhi h ai chest me
+[01:48:32] [Server thread/INFO]: [Not Secure] <shikamaru2o> arya leke gaya hoga
+[01:48:36] [Server thread/INFO]: [Not Secure] <XFighter009> bsdk
+[01:48:42] [Server thread/INFO]: [Not Secure] <shikamaru2o> merese le
+[01:48:44] [Server thread/INFO]: [Not Secure] <XFighter009> chal jara sone
+[01:48:49] [Server thread/INFO]: [Not Secure] <XFighter009> byeee
+[01:48:54] [Server thread/INFO]: [Not Secure] <shikamaru2o> okaa bye
+[01:49:07] [Server thread/INFO]: XFighter009 lost connection: Disconnected
+[01:49:07] [Server thread/INFO]: XFighter009 left the game
+[01:49:13] [Server thread/INFO]: shikamaru2o lost connection: Disconnected
+[01:49:13] [Server thread/INFO]: shikamaru2o left the game
+[02:19:45] [Server thread/INFO]: RougeFlareYT lost connection: Disconnected
+[02:19:45] [Server thread/INFO]: RougeFlareYT left the game
+[02:20:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:32:27] [Server thread/INFO]: beast_07[/103.170.215.10:59518] logged in with entity id 233207 at (1802.699999988079, 72.0, 7930.953708133189)
+[03:32:27] [Server thread/INFO]: beast_07 joined the game
+[03:33:36] [Server thread/INFO]: beast_07 fell from a high place
+[03:55:56] [Server thread/INFO]: Copper[/45.251.238.165:5699] logged in with entity id 239436 at (-134.69999998807907, 132.5625, 85.96230456108533)
+[03:55:56] [Server thread/INFO]: Copper joined the game
+[03:58:16] [Server thread/WARN]: Acacia Boat (vehicle of beast_07) moved too quickly! -8.33445150475427,0.0,6.10619461296119
+[03:58:16] [Server thread/WARN]: Acacia Boat (vehicle of beast_07) moved too quickly! -8.640526280574704,0.0,6.362680793594336
+[03:58:16] [Server thread/WARN]: Acacia Boat (vehicle of beast_07) moved too quickly! -8.946108427132913,0.0,6.619845056680788
+[03:58:16] [Server thread/WARN]: Acacia Boat (vehicle of beast_07) moved too quickly! -9.251237108104988,0.0,6.877631140498124
+[03:59:55] [Server thread/WARN]: Acacia Boat (vehicle of beast_07) moved wrongly! 0.33570223024798906
+[03:59:56] [Server thread/WARN]: Acacia Boat (vehicle of beast_07) moved wrongly! 0.6897872529734741
+[04:00:01] [Server thread/INFO]: [Not Secure] [Server] Server restarting for backup in 10 seconds...
+[04:00:11] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:00:11] [Server thread/INFO]: Saved the game
+[04:00:16] [Server thread/INFO]: Stopping the server
+[04:00:16] [Server thread/INFO]: Stopping server
+[04:00:16] [Server thread/INFO]: Saving players
+[04:00:16] [Server thread/INFO]: Copper lost connection: Server closed
+[04:00:16] [Server thread/INFO]: Copper left the game
+[04:00:16] [Server thread/INFO]: Saving worlds
+[04:00:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

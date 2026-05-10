@@ -14,6 +14,7 @@
       "minecraft:frozen_ocean": "2026-04-28 11:34:58 +0530",
       "minecraft:frozen_river": "2026-04-17 00:37:14 +0530",
       "minecraft:jungle": "2026-05-08 18:14:40 +0530",
+      "minecraft:ocean": "2026-05-10 18:33:28 +0530",
       "minecraft:cherry_grove": "2026-04-16 19:50:39 +0530",
       "minecraft:birch_forest": "2026-04-25 11:01:42 +0530",
       "minecraft:old_growth_spruce_taiga": "2026-04-29 15:01:30 +0530",
@@ -24,6 +25,7 @@
       "minecraft:dark_forest": "2026-04-29 14:55:49 +0530",
       "minecraft:sparse_jungle": "2026-05-08 15:32:06 +0530",
       "minecraft:river": "2026-04-16 23:38:42 +0530",
+      "minecraft:lukewarm_ocean": "2026-05-10 18:34:15 +0530",
       "minecraft:stony_shore": "2026-04-16 23:44:36 +0530",
       "minecraft:snowy_plains": "2026-04-17 00:37:08 +0530",
       "minecraft:snowy_taiga": "2026-04-17 00:37:42 +0530",
@@ -567,6 +569,7 @@
       "minecraft:pillager": "2026-04-17 22:08:42 +0530",
       "minecraft:blaze": "2026-04-25 14:32:26 +0530",
       "minecraft:skeleton": "2026-04-17 00:02:32 +0530",
+      "minecraft:phantom": "2026-05-10 19:17:15 +0530",
       "minecraft:zombified_piglin": "2026-05-05 19:14:44 +0530",
       "minecraft:witch": "2026-04-17 15:53:59 +0530",
       "minecraft:husk": "2026-05-03 00:53:26 +0530",
@@ -4141,6 +4144,126 @@
   "minecraft:recipes/misc/leather_leggings_dyed": {
     "criteria": {
       "has_leather_leggings": "2026-05-09 02:16:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-05-10 18:41:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-05-10 18:41:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-05-10 18:41:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-05-10 18:53:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-05-10 18:53:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-05-10 18:53:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-05-10 18:58:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-05-10 19:12:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-05-10 19:12:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-05-10 19:12:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-05-11 01:35:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-05-11 01:35:31 +0530"
     },
     "done": true
   },

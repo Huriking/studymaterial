@@ -3603,9 +3603,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_chestplate_dyed": {
+  "minecraft:adventure/who_needs_rockets": {
     "criteria": {
-      "has_leather_chestplate": "2026-05-10 13:02:26 +0530"
+      "who_needs_rockets": "2026-05-10 11:57:33 +0530"
     },
     "done": true
   },
@@ -3621,9 +3621,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:recipes/misc/leather_chestplate_dyed": {
     "criteria": {
-      "who_needs_rockets": "2026-05-10 11:57:33 +0530"
+      "has_leather_chestplate": "2026-05-10 13:02:26 +0530"
     },
     "done": true
   },
