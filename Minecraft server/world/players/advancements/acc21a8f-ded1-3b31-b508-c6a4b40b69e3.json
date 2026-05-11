@@ -1435,7 +1435,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:black": "2026-04-29 13:02:10 +0530"
+      "minecraft:black": "2026-04-29 13:02:10 +0530",
+      "minecraft:red": "2026-05-11 18:20:48 +0530"
     },
     "done": false
   },
@@ -1465,8 +1466,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2026-05-11 18:23:52 +0530",
       "minecraft:cow": "2026-04-30 08:17:48 +0530",
       "minecraft:chicken": "2026-04-29 13:09:16 +0530",
+      "minecraft:turtle": "2026-05-11 18:10:02 +0530",
       "minecraft:sheep": "2026-04-30 08:26:28 +0530"
     },
     "done": false
@@ -3490,6 +3493,60 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2026-05-11 03:49:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-05-11 19:29:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-05-11 18:49:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-05-11 19:24:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-11 21:00:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-05-11 19:29:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2026-05-11 19:23:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-05-11 21:00:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-05-11 18:31:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-05-11 21:00:33 +0530"
     },
     "done": true
   },
