@@ -1,47 +1,26 @@
 {
   "stats": {
-    "minecraft:killed": {
-      "minecraft:spider": 1
-    },
-    "minecraft:killed_by": {
-      "minecraft:player": 2,
-      "minecraft:creeper": 1
-    },
-    "minecraft:custom": {
-      "minecraft:interact_with_crafting_table": 12,
-      "minecraft:time_since_rest": 4691,
-      "minecraft:walk_one_cm": 107548,
-      "minecraft:leave_game": 3,
-      "minecraft:walk_under_water_one_cm": 2952,
-      "minecraft:mob_kills": 1,
-      "minecraft:damage_taken": 819,
-      "minecraft:play_time": 35177,
-      "minecraft:damage_dealt": 304,
-      "minecraft:jump": 279,
-      "minecraft:time_since_death": 4601,
-      "minecraft:sprint_one_cm": 78835,
-      "minecraft:open_chest": 5,
-      "minecraft:sleep_in_bed": 2,
-      "minecraft:fall_one_cm": 5824,
-      "minecraft:total_world_time": 35177,
-      "minecraft:fly_one_cm": 16235,
-      "minecraft:walk_on_water_one_cm": 5014,
-      "minecraft:crouch_one_cm": 2476,
-      "minecraft:sneak_time": 747,
-      "minecraft:deaths": 3,
-      "minecraft:player_kills": 1
-    },
-    "minecraft:picked_up": {
-      "minecraft:dirt": 121,
-      "minecraft:wooden_axe": 1,
+    "minecraft:used": {
       "minecraft:oak_fence": 1,
-      "minecraft:wooden_sword": 1,
-      "minecraft:cherry_sapling": 1,
+      "minecraft:diamond_hoe": 24,
+      "minecraft:apple": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:diamond_sword": 69,
+      "minecraft:melon_slice": 12,
+      "minecraft:cooked_chicken": 8,
+      "minecraft:wooden_axe": 27,
+      "minecraft:cooked_mutton": 3,
+      "minecraft:crafting_table": 3,
+      "minecraft:chest": 1,
       "minecraft:cherry_slab": 3,
-      "minecraft:crafting_table": 2,
-      "minecraft:cornflower": 1,
-      "minecraft:cherry_log": 25,
-      "minecraft:beef": 2
+      "minecraft:wooden_sword": 16,
+      "minecraft:beef": 2,
+      "minecraft:egg": 10,
+      "minecraft:dirt": 14
+    },
+    "minecraft:killed": {
+      "minecraft:chicken": 1,
+      "minecraft:spider": 1
     },
     "minecraft:crafted": {
       "minecraft:stick": 8,
@@ -55,23 +34,70 @@
     },
     "minecraft:mined": {
       "minecraft:short_grass": 5,
+      "minecraft:torch": 1,
       "minecraft:cherry_log": 29,
       "minecraft:cherry_leaves": 2,
       "minecraft:cherry_slab": 2,
       "minecraft:crafting_table": 2,
       "minecraft:grass_block": 1,
-      "minecraft:oak_fence": 1
-    },
-    "minecraft:used": {
       "minecraft:oak_fence": 1,
-      "minecraft:wooden_axe": 27,
-      "minecraft:crafting_table": 3,
-      "minecraft:chest": 1,
-      "minecraft:cherry_slab": 3,
-      "minecraft:wooden_sword": 16,
+      "minecraft:pink_petals": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 6,
+      "minecraft:creeper": 1,
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_axe": 1,
+      "minecraft:dirt": 175,
+      "minecraft:torch": 1,
+      "minecraft:cherry_log": 25,
+      "minecraft:cooked_mutton": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:oak_fence": 1,
+      "minecraft:melon_slice": 12,
+      "minecraft:egg": 11,
+      "minecraft:diamond_sword": 1,
+      "minecraft:wooden_hoe": 1,
+      "minecraft:stick": 52,
+      "minecraft:wooden_sword": 1,
+      "minecraft:cherry_sapling": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:arrow": 31,
+      "minecraft:cooked_chicken": 12,
       "minecraft:beef": 2,
-      "minecraft:wooden_pickaxe": 1,
-      "minecraft:dirt": 8
+      "minecraft:diamond_hoe": 1,
+      "minecraft:crossbow": 1,
+      "minecraft:apple": 1,
+      "minecraft:wheat": 32,
+      "minecraft:cherry_slab": 3,
+      "minecraft:cornflower": 1,
+      "minecraft:pink_petals": 4
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 12,
+      "minecraft:time_since_rest": 644,
+      "minecraft:walk_one_cm": 256992,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 2952,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 3106,
+      "minecraft:play_time": 73019,
+      "minecraft:damage_dealt": 2437,
+      "minecraft:jump": 642,
+      "minecraft:time_since_death": 614,
+      "minecraft:sprint_one_cm": 268348,
+      "minecraft:open_chest": 9,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:fall_one_cm": 12264,
+      "minecraft:total_world_time": 73019,
+      "minecraft:fly_one_cm": 50531,
+      "minecraft:walk_on_water_one_cm": 5014,
+      "minecraft:crouch_one_cm": 5695,
+      "minecraft:sneak_time": 1424,
+      "minecraft:deaths": 8,
+      "minecraft:player_kills": 8
     }
   },
   "DataVersion": 4790

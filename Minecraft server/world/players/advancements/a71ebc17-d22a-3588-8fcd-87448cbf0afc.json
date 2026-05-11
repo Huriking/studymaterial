@@ -7,10 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-05-11 12:17:24 +0530",
       "minecraft:snowy_slopes": "2026-04-15 12:09:09 +0530",
-      "minecraft:beach": "2026-05-08 20:56:31 +0530",
+      "minecraft:mushroom_fields": "2026-05-11 12:09:31 +0530",
       "minecraft:forest": "2026-04-15 13:06:45 +0530",
       "minecraft:taiga": "2026-04-15 20:02:49 +0530",
+      "minecraft:deep_cold_ocean": "2026-05-11 12:13:07 +0530",
+      "minecraft:desert": "2026-05-10 20:25:53 +0530",
+      "minecraft:ocean": "2026-05-08 21:02:25 +0530",
+      "minecraft:jungle": "2026-05-09 11:06:36 +0530",
+      "minecraft:cherry_grove": "2026-04-15 12:21:36 +0530",
+      "minecraft:birch_forest": "2026-04-15 20:04:01 +0530",
+      "minecraft:windswept_savanna": "2026-05-10 20:45:09 +0530",
+      "minecraft:warm_ocean": "2026-05-10 20:26:23 +0530",
+      "minecraft:beach": "2026-05-08 20:56:31 +0530",
       "minecraft:mangrove_swamp": "2026-05-10 20:57:02 +0530",
       "minecraft:sparse_jungle": "2026-05-09 10:23:33 +0530",
       "minecraft:river": "2026-04-17 01:49:46 +0530",
@@ -19,17 +29,10 @@
       "minecraft:dripstone_caves": "2026-04-15 23:00:02 +0530",
       "minecraft:frozen_peaks": "2026-04-15 23:44:48 +0530",
       "minecraft:old_growth_birch_forest": "2026-04-15 20:03:38 +0530",
-      "minecraft:desert": "2026-05-10 20:25:53 +0530",
       "minecraft:deep_dark": "2026-04-16 20:11:02 +0530",
-      "minecraft:ocean": "2026-05-08 21:02:25 +0530",
-      "minecraft:jungle": "2026-05-09 11:06:36 +0530",
-      "minecraft:cherry_grove": "2026-04-15 12:21:36 +0530",
       "minecraft:grove": "2026-04-15 13:37:01 +0530",
       "minecraft:meadow": "2026-04-15 12:19:59 +0530",
-      "minecraft:birch_forest": "2026-04-15 20:04:01 +0530",
-      "minecraft:windswept_savanna": "2026-05-10 20:45:09 +0530",
-      "minecraft:plains": "2026-04-15 12:22:56 +0530",
-      "minecraft:warm_ocean": "2026-05-10 20:26:23 +0530"
+      "minecraft:plains": "2026-04-15 12:22:56 +0530"
     },
     "done": false
   },
@@ -129,7 +132,8 @@
       "cooked_mutton": "2026-04-17 13:10:35 +0530",
       "potato": "2026-04-17 12:05:35 +0530",
       "cooked_beef": "2026-04-16 20:40:05 +0530",
-      "baked_potato": "2026-04-15 14:04:28 +0530"
+      "baked_potato": "2026-04-15 14:04:28 +0530",
+      "melon_slice": "2026-05-11 13:23:38 +0530"
     },
     "done": false
   },
@@ -3043,15 +3047,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2026-05-10 21:15:52 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2026-05-10 19:49:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-05-10 19:49:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-05-10 19:49:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-05-10 20:25:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-05-10 20:39:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2026-05-10 20:40:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-05-10 20:45:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-05-10 20:45:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-05-10 20:57:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2026-05-10 20:57:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-05-10 21:15:52 +0530"
     },
     "done": true
   },
@@ -3073,27 +3131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2026-05-10 20:57:38 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2026-05-10 21:15:52 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2026-05-10 20:39:51 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
-    "criteria": {
-      "has_cactus_flower": "2026-05-10 20:40:17 +0530"
     },
     "done": true
   },
@@ -3109,27 +3149,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2026-05-10 19:49:33 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2026-05-10 21:15:52 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2026-05-10 20:57:58 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2026-05-10 19:49:33 +0530"
     },
     "done": true
   },
@@ -3139,21 +3161,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_log": "2026-05-10 20:45:37 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2026-05-10 20:25:52 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2026-05-10 20:45:37 +0530"
+      "fortress": "2026-05-11 12:07:26 +0530"
     },
     "done": true
   },

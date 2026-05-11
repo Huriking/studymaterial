@@ -69,6 +69,7 @@
       "cooked_mutton": "2026-04-15 18:32:12 +0530",
       "cooked_beef": "2026-04-16 23:57:53 +0530",
       "baked_potato": "2026-05-11 01:40:37 +0530",
+      "beef": "2026-05-11 10:47:04 +0530",
       "melon_slice": "2026-04-22 22:51:01 +0530",
       "beetroot": "2026-04-16 23:35:10 +0530",
       "apple": "2026-04-15 19:10:26 +0530",
@@ -3145,15 +3146,45 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-05-11 00:33:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-05-11 01:30:36 +0530"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "travelled": "2026-05-11 00:33:45 +0530"
+      "has_glowstone_dust": "2026-05-11 09:52:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-05-11 09:52:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-11 10:25:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-11 10:25:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-05-11 10:25:50 +0530"
     },
     "done": true
   },

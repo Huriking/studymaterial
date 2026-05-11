@@ -130,7 +130,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2026-04-16 20:17:11 +0530"
+      "apple": "2026-05-11 13:03:25 +0530",
+      "cooked_chicken": "2026-05-11 13:10:27 +0530",
+      "cooked_mutton": "2026-05-11 13:03:11 +0530",
+      "beef": "2026-04-16 20:17:11 +0530",
+      "melon_slice": "2026-05-11 13:22:54 +0530"
     },
     "done": false
   },
@@ -320,12 +324,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2026-04-16 20:30:58 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2026-04-16 20:28:19 +0530"
@@ -337,6 +335,12 @@
       "minecraft:spider": "2026-04-16 20:29:16 +0530"
     },
     "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2026-04-16 20:29:16 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
@@ -350,9 +354,51 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "minecraft:spider": "2026-04-16 20:29:16 +0530"
+      "has_wood_slab": "2026-04-16 20:30:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2026-05-11 13:13:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-05-11 13:22:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-05-11 13:02:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-05-11 13:12:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-05-11 13:12:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-05-11 13:22:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-05-11 13:22:51 +0530"
     },
     "done": true
   },
