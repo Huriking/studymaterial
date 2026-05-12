@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-12 19:07:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2026-05-12 19:07:48 +0530",
+      "minecraft:cherry_grove": "2026-05-12 19:08:20 +0530",
+      "minecraft:meadow": "2026-05-12 19:08:00 +0530",
+      "minecraft:plains": "2026-05-12 19:08:27 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-12 19:09:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-12 19:09:31 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 4790
+}

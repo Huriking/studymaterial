@@ -1,0 +1,24 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-12 18:49:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2026-05-12 18:49:34 +0530",
+      "minecraft:cherry_grove": "2026-05-12 18:51:26 +0530",
+      "minecraft:meadow": "2026-05-12 18:50:17 +0530",
+      "minecraft:plains": "2026-05-12 18:50:36 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-05-12 18:56:22 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 4790
+}

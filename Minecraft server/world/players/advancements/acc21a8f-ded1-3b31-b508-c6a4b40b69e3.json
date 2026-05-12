@@ -215,6 +215,7 @@
       "rotten_flesh": "2026-04-30 01:13:26 +0530",
       "cooked_mutton": "2026-05-01 09:47:54 +0530",
       "salmon": "2026-04-29 12:15:05 +0530",
+      "dried_kelp": "2026-05-12 23:34:45 +0530",
       "beef": "2026-04-29 14:23:27 +0530",
       "baked_potato": "2026-05-09 12:46:20 +0530",
       "porkchop": "2026-04-28 19:10:22 +0530",
@@ -3608,6 +3609,18 @@
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-05-12 20:37:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2026-05-12 23:34:43 +0530"
     },
     "done": true
   },

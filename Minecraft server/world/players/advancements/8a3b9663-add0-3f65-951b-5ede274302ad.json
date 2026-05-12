@@ -7,17 +7,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2026-05-07 18:25:30 +0530",
+      "minecraft:cold_ocean": "2026-05-12 19:30:18 +0530",
       "minecraft:snowy_slopes": "2026-05-06 12:58:31 +0530",
+      "minecraft:beach": "2026-05-12 18:48:58 +0530",
       "minecraft:dark_forest": "2026-05-07 18:26:42 +0530",
+      "minecraft:mushroom_fields": "2026-05-12 19:58:43 +0530",
       "minecraft:forest": "2026-05-06 13:42:42 +0530",
-      "minecraft:deep_dark": "2026-05-06 13:15:33 +0530",
-      "minecraft:cherry_grove": "2026-05-06 12:59:06 +0530",
+      "minecraft:taiga": "2026-05-12 18:51:29 +0530",
       "minecraft:river": "2026-05-06 15:57:49 +0530",
-      "minecraft:meadow": "2026-05-06 13:00:46 +0530",
       "minecraft:dripstone_caves": "2026-05-06 13:14:50 +0530",
       "minecraft:frozen_peaks": "2026-05-06 13:35:56 +0530",
-      "minecraft:plains": "2026-05-06 12:59:14 +0530"
+      "minecraft:deep_cold_ocean": "2026-05-12 19:59:11 +0530",
+      "minecraft:old_growth_birch_forest": "2026-05-07 18:25:30 +0530",
+      "minecraft:desert": "2026-05-12 20:04:43 +0530",
+      "minecraft:deep_dark": "2026-05-06 13:15:33 +0530",
+      "minecraft:cherry_grove": "2026-05-06 12:59:06 +0530",
+      "minecraft:meadow": "2026-05-06 13:00:46 +0530",
+      "minecraft:plains": "2026-05-06 12:59:14 +0530",
+      "minecraft:warm_ocean": "2026-05-12 20:05:00 +0530"
     },
     "done": false
   },
@@ -125,9 +132,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2026-05-06 13:05:42 +0530",
-      "minecraft:nether_wastes": "2026-05-07 17:32:28 +0530"
+      "minecraft:nether_wastes": "2026-05-07 17:32:28 +0530",
+      "minecraft:soul_sand_valley": "2026-05-12 20:00:02 +0530",
+      "minecraft:basalt_deltas": "2026-05-12 20:03:20 +0530",
+      "minecraft:warped_forest": "2026-05-12 20:50:56 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
@@ -753,11 +763,13 @@
       "minecraft:hoglin": "2026-05-07 17:26:20 +0530",
       "minecraft:cave_spider": "2026-05-09 16:16:24 +0530",
       "minecraft:piglin": "2026-05-09 18:20:07 +0530",
+      "minecraft:breeze": "2026-05-12 19:14:52 +0530",
       "minecraft:enderman": "2026-05-06 14:01:39 +0530",
       "minecraft:spider": "2026-05-07 16:04:21 +0530",
       "minecraft:zombie": "2026-05-06 13:59:14 +0530",
       "minecraft:creeper": "2026-05-06 14:09:43 +0530",
-      "minecraft:zombie_villager": "2026-05-06 13:38:22 +0530"
+      "minecraft:zombie_villager": "2026-05-06 13:38:22 +0530",
+      "minecraft:slime": "2026-05-12 19:06:06 +0530"
     },
     "done": false
   },
@@ -2906,6 +2918,312 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2026-05-11 15:46:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-05-12 20:53:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-05-12 17:44:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-05-12 19:18:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-05-12 18:54:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-05-12 20:53:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-05-12 20:53:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2026-05-12 18:58:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2026-05-12 19:03:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-12 19:03:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2026-05-12 18:58:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-05-12 18:44:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-05-12 18:17:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-05-12 19:01:45 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-05-12 17:44:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-12 17:44:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-05-12 18:17:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2026-05-12 19:03:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2026-05-12 17:04:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-05-12 19:03:23 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2026-05-12 18:54:37 +0530"
     },
     "done": true
   },

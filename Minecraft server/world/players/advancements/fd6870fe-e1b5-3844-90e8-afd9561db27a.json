@@ -16,12 +16,14 @@
       "minecraft:dripstone_caves": "2026-05-05 19:51:06 +0530",
       "minecraft:frozen_peaks": "2026-04-24 17:19:04 +0530",
       "minecraft:old_growth_birch_forest": "2026-05-06 15:12:52 +0530",
+      "minecraft:desert": "2026-05-12 16:24:38 +0530",
       "minecraft:deep_dark": "2026-05-05 19:47:20 +0530",
       "minecraft:cherry_grove": "2026-04-24 15:22:11 +0530",
       "minecraft:grove": "2026-04-24 22:33:14 +0530",
       "minecraft:meadow": "2026-04-24 15:21:42 +0530",
       "minecraft:birch_forest": "2026-05-06 15:12:53 +0530",
-      "minecraft:plains": "2026-04-24 15:23:07 +0530"
+      "minecraft:plains": "2026-04-24 15:23:07 +0530",
+      "minecraft:warm_ocean": "2026-05-12 16:24:47 +0530"
     },
     "done": false
   },
@@ -2251,10 +2253,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-05-07 17:17:02 +0530",
       "minecraft:nether_wastes": "2026-05-07 17:19:42 +0530",
+      "minecraft:soul_sand_valley": "2026-05-12 16:23:22 +0530",
       "minecraft:basalt_deltas": "2026-05-07 17:20:09 +0530",
       "minecraft:warped_forest": "2026-05-07 17:20:51 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -2847,6 +2850,24 @@
   "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2026-05-12 12:48:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2026-05-12 16:27:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-05-12 16:24:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-05-12 16:20:39 +0530"
     },
     "done": true
   },
