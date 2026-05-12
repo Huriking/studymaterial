@@ -1244,6 +1244,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2026-04-16 20:41:09 +0530",
+      "minecraft:skeleton": "2026-05-12 15:48:56 +0530",
       "minecraft:spider": "2026-04-16 01:02:52 +0530",
       "minecraft:zombie": "2026-04-16 00:32:13 +0530"
     },
@@ -3164,6 +3165,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2026-05-11 12:07:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-05-12 15:03:02 +0530"
     },
     "done": true
   },

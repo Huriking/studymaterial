@@ -474,6 +474,7 @@
       "minecraft:piglin": "2026-05-05 20:50:19 +0530",
       "minecraft:zombie_horse": "2026-04-29 13:16:08 +0530",
       "minecraft:enderman": "2026-04-30 08:50:12 +0530",
+      "minecraft:magma_cube": "2026-05-12 09:37:16 +0530",
       "minecraft:spider": "2026-04-29 10:43:08 +0530",
       "minecraft:zombie": "2026-04-28 18:02:21 +0530",
       "minecraft:creeper": "2026-04-29 12:35:29 +0530",
@@ -3496,9 +3497,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:nether/fast_travel": {
     "criteria": {
-      "has_log": "2026-05-11 19:29:36 +0530"
+      "travelled": "2026-05-11 18:31:52 +0530"
     },
     "done": true
   },
@@ -3508,15 +3509,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2026-05-11 19:23:41 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2026-05-11 19:24:03 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_basalt": "2026-05-11 21:00:33 +0530"
+      "has_log": "2026-05-11 19:29:36 +0530"
     },
     "done": true
   },
@@ -3526,9 +3533,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "has_mangrove_roots": "2026-05-11 19:23:41 +0530"
+      "has_basalt": "2026-05-11 21:00:33 +0530"
     },
     "done": true
   },
@@ -3538,15 +3545,69 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2026-05-11 18:31:52 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2026-05-11 21:00:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-05-12 09:37:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-12 15:34:25 +0530"
     },
     "done": true
   },

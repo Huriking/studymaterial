@@ -56,6 +56,7 @@
     "criteria": {
       "cooked_chicken": "2026-05-09 20:43:42 +0530",
       "cooked_mutton": "2026-05-11 02:19:34 +0530",
+      "baked_potato": "2026-05-12 13:28:21 +0530",
       "melon_slice": "2026-05-11 11:33:04 +0530"
     },
     "done": false
@@ -74,7 +75,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2026-05-09 20:44:13 +0530"
+      "minecraft:crimson_forest": "2026-05-09 20:44:13 +0530",
+      "minecraft:nether_wastes": "2026-05-12 15:13:40 +0530",
+      "minecraft:basalt_deltas": "2026-05-12 15:14:13 +0530",
+      "minecraft:warped_forest": "2026-05-12 15:14:58 +0530"
     },
     "done": false
   },
@@ -695,6 +699,7 @@
       "minecraft:zombie": "2026-05-09 22:17:26 +0530",
       "minecraft:creeper": "2026-05-11 01:05:36 +0530",
       "minecraft:zombie_villager": "2026-05-11 22:05:47 +0530",
+      "minecraft:ghast": "2026-05-12 15:21:27 +0530",
       "minecraft:hoglin": "2026-05-11 21:40:40 +0530"
     },
     "done": false
@@ -2508,6 +2513,72 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2026-05-12 00:09:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2026-05-12 11:49:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-12 12:47:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-05-12 12:47:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-05-12 14:56:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_copper_chest": "2026-05-12 14:57:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2026-05-12 14:57:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-05-12 14:51:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-05-12 14:51:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-05-12 14:56:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-05-12 14:56:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2026-05-12 15:17:37 +0530"
     },
     "done": true
   },
