@@ -801,17 +801,21 @@
       "minecraft:blaze": "2026-05-12 23:21:19 +0530",
       "minecraft:skeleton": "2026-05-07 11:44:54 +0530",
       "minecraft:phantom": "2026-05-06 17:08:56 +0530",
+      "minecraft:zombified_piglin": "2026-05-13 13:11:46 +0530",
       "minecraft:witch": "2026-05-08 17:53:29 +0530",
       "minecraft:wither_skeleton": "2026-05-09 17:20:12 +0530",
       "minecraft:husk": "2026-05-07 23:01:42 +0530",
       "minecraft:bogged": "2026-05-07 22:55:40 +0530",
+      "minecraft:ghast": "2026-05-13 11:48:27 +0530",
       "minecraft:hoglin": "2026-05-08 14:04:33 +0530",
       "minecraft:cave_spider": "2026-05-07 22:56:00 +0530",
       "minecraft:piglin": "2026-05-08 14:16:03 +0530",
       "minecraft:zombie_horse": "2026-05-07 12:10:02 +0530",
       "minecraft:breeze": "2026-05-07 23:06:54 +0530",
       "minecraft:enderman": "2026-05-08 11:22:02 +0530",
+      "minecraft:magma_cube": "2026-05-13 12:34:57 +0530",
       "minecraft:spider": "2026-05-07 11:42:14 +0530",
+      "minecraft:piglin_brute": "2026-05-13 12:19:27 +0530",
       "minecraft:zombie": "2026-05-06 13:37:46 +0530",
       "minecraft:creeper": "2026-05-07 12:12:12 +0530",
       "minecraft:zombie_villager": "2026-05-08 12:36:25 +0530",
@@ -3907,6 +3911,48 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2026-05-12 22:43:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2026-05-13 12:25:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2026-05-13 11:49:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-05-13 12:18:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-05-13 12:18:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2026-05-13 11:49:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-05-13 12:18:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-05-13 12:18:54 +0530"
     },
     "done": true
   },

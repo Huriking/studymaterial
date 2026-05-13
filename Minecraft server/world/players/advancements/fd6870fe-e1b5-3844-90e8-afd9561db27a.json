@@ -2853,9 +2853,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_sea_pickle": "2026-05-12 16:27:27 +0530"
+      "fortress": "2026-05-12 16:20:39 +0530"
     },
     "done": true
   },
@@ -2865,9 +2865,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "fortress": "2026-05-12 16:20:39 +0530"
+      "has_sea_pickle": "2026-05-12 16:27:27 +0530"
     },
     "done": true
   },

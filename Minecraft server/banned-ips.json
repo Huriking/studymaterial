@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "ip": "103.44.174.155",
+    "created": "2026-05-13 09:46:24 +0530",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Griefing"
+  }
+]
